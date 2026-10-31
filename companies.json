@@ -1,0 +1,728 @@
+[
+  {
+    "id": "nvidia",
+    "cn": "英伟达",
+    "en": "NVIDIA",
+    "ticker": "NVDA",
+    "section": "权重科技",
+    "tier": "A",
+    "keywords": [
+      "NVIDIA",
+      "NVDA"
+    ]
+  },
+  {
+    "id": "apple",
+    "cn": "苹果",
+    "en": "Apple",
+    "ticker": "AAPL",
+    "section": "权重科技",
+    "tier": "A",
+    "keywords": [
+      "Apple",
+      "AAPL"
+    ]
+  },
+  {
+    "id": "microsoft",
+    "cn": "微软",
+    "en": "Microsoft",
+    "ticker": "MSFT",
+    "section": "权重科技",
+    "tier": "A",
+    "keywords": [
+      "Microsoft",
+      "MSFT"
+    ]
+  },
+  {
+    "id": "alphabet",
+    "cn": "Alphabet",
+    "en": "Alphabet",
+    "ticker": "GOOGL",
+    "section": "权重科技",
+    "tier": "A",
+    "keywords": [
+      "Alphabet",
+      "GOOGL"
+    ]
+  },
+  {
+    "id": "broadcom",
+    "cn": "博通",
+    "en": "Broadcom",
+    "ticker": "AVGO",
+    "section": "权重科技",
+    "tier": "A",
+    "keywords": [
+      "Broadcom",
+      "AVGO"
+    ]
+  },
+  {
+    "id": "micron",
+    "cn": "美光",
+    "en": "Micron Technology",
+    "ticker": "MU",
+    "section": "权重科技",
+    "tier": "A",
+    "keywords": [
+      "Micron Technology",
+      "MU"
+    ]
+  },
+  {
+    "id": "amd",
+    "cn": "超威半导体",
+    "en": "Advanced Micro Devices",
+    "ticker": "AMD",
+    "section": "权重科技",
+    "tier": "A",
+    "keywords": [
+      "Advanced Micro Devices",
+      "AMD"
+    ]
+  },
+  {
+    "id": "asml",
+    "cn": "阿斯麦",
+    "en": "ASML Holding",
+    "ticker": "ASML",
+    "section": "权重科技",
+    "tier": "A",
+    "keywords": [
+      "ASML Holding",
+      "ASML"
+    ]
+  },
+  {
+    "id": "meta",
+    "cn": "Meta Platforms",
+    "en": "Meta Platforms",
+    "ticker": "META",
+    "section": "权重科技",
+    "tier": "A",
+    "keywords": [
+      "Meta Platforms",
+      "META"
+    ]
+  },
+  {
+    "id": "amazon",
+    "cn": "亚马逊",
+    "en": "Amazon",
+    "ticker": "AMZN",
+    "section": "权重科技",
+    "tier": "A",
+    "keywords": [
+      "Amazon",
+      "AMZN"
+    ]
+  },
+  {
+    "id": "tesla",
+    "cn": "特斯拉",
+    "en": "Tesla",
+    "ticker": "TSLA",
+    "section": "权重科技",
+    "tier": "A",
+    "keywords": [
+      "Tesla",
+      "TSLA"
+    ]
+  },
+  {
+    "id": "netflix",
+    "cn": "奈飞",
+    "en": "Netflix",
+    "ticker": "NFLX",
+    "section": "权重科技",
+    "tier": "A",
+    "keywords": [
+      "Netflix",
+      "NFLX"
+    ]
+  },
+  {
+    "id": "texas-instruments",
+    "cn": "德州仪器",
+    "en": "Texas Instruments",
+    "ticker": "TXN",
+    "section": "芯片半导体",
+    "tier": "B",
+    "keywords": [
+      "Texas Instruments",
+      "TXN"
+    ],
+    "batch": "b1"
+  },
+  {
+    "id": "qualcomm",
+    "cn": "高通",
+    "en": "Qualcomm",
+    "ticker": "QCOM",
+    "section": "芯片半导体",
+    "tier": "B",
+    "keywords": [
+      "Qualcomm",
+      "QCOM"
+    ],
+    "batch": "b2"
+  },
+  {
+    "id": "analog-devices",
+    "cn": "亚德诺",
+    "en": "Analog Devices",
+    "ticker": "ADI",
+    "section": "芯片半导体",
+    "tier": "B",
+    "keywords": [
+      "Analog Devices",
+      "ADI"
+    ],
+    "batch": "b3"
+  },
+  {
+    "id": "applied-materials",
+    "cn": "应用材料",
+    "en": "Applied Materials",
+    "ticker": "AMAT",
+    "section": "芯片半导体",
+    "tier": "B",
+    "keywords": [
+      "Applied Materials",
+      "AMAT"
+    ],
+    "batch": "b1"
+  },
+  {
+    "id": "lam-research",
+    "cn": "泛林",
+    "en": "Lam Research",
+    "ticker": "LRCX",
+    "section": "芯片半导体",
+    "tier": "B",
+    "keywords": [
+      "Lam Research",
+      "LRCX"
+    ],
+    "batch": "b2"
+  },
+  {
+    "id": "kla",
+    "cn": "科磊",
+    "en": "KLA Corporation",
+    "ticker": "KLAC",
+    "section": "芯片半导体",
+    "tier": "B",
+    "keywords": [
+      "KLA Corporation",
+      "KLAC"
+    ],
+    "batch": "b3"
+  },
+  {
+    "id": "marvell",
+    "cn": "美满电子",
+    "en": "Marvell Technology",
+    "ticker": "MRVL",
+    "section": "芯片半导体",
+    "tier": "B",
+    "keywords": [
+      "Marvell Technology",
+      "MRVL"
+    ],
+    "batch": "b1"
+  },
+  {
+    "id": "nxp",
+    "cn": "恩智浦",
+    "en": "NXP Semiconductors",
+    "ticker": "NXPI",
+    "section": "芯片半导体",
+    "tier": "B",
+    "keywords": [
+      "NXP Semiconductors",
+      "NXPI"
+    ],
+    "batch": "b2"
+  },
+  {
+    "id": "microchip",
+    "cn": "微芯科技",
+    "en": "Microchip Technology",
+    "ticker": "MCHP",
+    "section": "芯片半导体",
+    "tier": "B",
+    "keywords": [
+      "Microchip Technology",
+      "MCHP"
+    ],
+    "batch": "b3"
+  },
+  {
+    "id": "monolithic-power",
+    "cn": "芯源系统",
+    "en": "Monolithic Power Systems",
+    "ticker": "MPWR",
+    "section": "芯片半导体",
+    "tier": "B",
+    "keywords": [
+      "Monolithic Power Systems",
+      "MPWR"
+    ],
+    "batch": "b1"
+  },
+  {
+    "id": "astera-labs",
+    "cn": "阿斯特拉",
+    "en": "Astera Labs",
+    "ticker": "ALAB",
+    "section": "芯片半导体",
+    "tier": "B",
+    "keywords": [
+      "Astera Labs",
+      "ALAB"
+    ],
+    "batch": "b2"
+  },
+  {
+    "id": "intel",
+    "cn": "英特尔",
+    "en": "Intel",
+    "ticker": "INTC",
+    "section": "芯片半导体",
+    "tier": "B",
+    "keywords": [
+      "Intel",
+      "INTC"
+    ],
+    "batch": "b3"
+  },
+  {
+    "id": "teradyne",
+    "cn": "泰瑞达",
+    "en": "Teradyne",
+    "ticker": "TER",
+    "section": "芯片半导体",
+    "tier": "B",
+    "keywords": [
+      "Teradyne",
+      "TER"
+    ],
+    "batch": "b1"
+  },
+  {
+    "id": "arm",
+    "cn": "安谋",
+    "en": "Arm Holdings",
+    "ticker": "ARM",
+    "section": "芯片半导体",
+    "tier": "B",
+    "keywords": [
+      "Arm Holdings",
+      "ARM"
+    ],
+    "batch": "b2"
+  },
+  {
+    "id": "adobe",
+    "cn": "奥多比",
+    "en": "Adobe",
+    "ticker": "ADBE",
+    "section": "软件云AI",
+    "tier": "B",
+    "keywords": [
+      "Adobe",
+      "ADBE"
+    ],
+    "batch": "b3"
+  },
+  {
+    "id": "intuit",
+    "cn": "财捷",
+    "en": "Intuit",
+    "ticker": "INTU",
+    "section": "软件云AI",
+    "tier": "B",
+    "keywords": [
+      "Intuit",
+      "INTU"
+    ],
+    "batch": "b1"
+  },
+  {
+    "id": "autodesk",
+    "cn": "欧特克",
+    "en": "Autodesk",
+    "ticker": "ADSK",
+    "section": "软件云AI",
+    "tier": "B",
+    "keywords": [
+      "Autodesk",
+      "ADSK"
+    ],
+    "batch": "b2"
+  },
+  {
+    "id": "cadence",
+    "cn": "楷登电子",
+    "en": "Cadence Design Systems",
+    "ticker": "CDNS",
+    "section": "软件云AI",
+    "tier": "B",
+    "keywords": [
+      "Cadence Design Systems",
+      "CDNS"
+    ],
+    "batch": "b3"
+  },
+  {
+    "id": "synopsys",
+    "cn": "新思科技",
+    "en": "Synopsys",
+    "ticker": "SNPS",
+    "section": "软件云AI",
+    "tier": "B",
+    "keywords": [
+      "Synopsys",
+      "SNPS"
+    ],
+    "batch": "b1"
+  },
+  {
+    "id": "palantir",
+    "cn": "帕兰提尔",
+    "en": "Palantir Technologies",
+    "ticker": "PLTR",
+    "section": "软件云AI",
+    "tier": "B",
+    "keywords": [
+      "Palantir Technologies",
+      "PLTR"
+    ],
+    "batch": "b2"
+  },
+  {
+    "id": "applovin",
+    "cn": "AppLovin",
+    "en": "AppLovin",
+    "ticker": "APP",
+    "section": "软件云AI",
+    "tier": "B",
+    "keywords": [
+      "AppLovin",
+      "APP"
+    ],
+    "batch": "b3"
+  },
+  {
+    "id": "datadog",
+    "cn": "Datadog",
+    "en": "Datadog",
+    "ticker": "DDOG",
+    "section": "软件云AI",
+    "tier": "B",
+    "keywords": [
+      "Datadog",
+      "DDOG"
+    ],
+    "batch": "b1"
+  },
+  {
+    "id": "doordash",
+    "cn": "门达",
+    "en": "DoorDash",
+    "ticker": "DASH",
+    "section": "软件云AI",
+    "tier": "B",
+    "keywords": [
+      "DoorDash",
+      "DASH"
+    ],
+    "batch": "b2"
+  },
+  {
+    "id": "workday",
+    "cn": "Workday",
+    "en": "Workday",
+    "ticker": "WDAY",
+    "section": "软件云AI",
+    "tier": "B",
+    "keywords": [
+      "Workday",
+      "WDAY"
+    ],
+    "batch": "b3"
+  },
+  {
+    "id": "shopify",
+    "cn": "Shopify",
+    "en": "Shopify",
+    "ticker": "SHOP",
+    "section": "软件云AI",
+    "tier": "B",
+    "keywords": [
+      "Shopify",
+      "SHOP"
+    ],
+    "batch": "b1"
+  },
+  {
+    "id": "coreweave",
+    "cn": "CoreWeave",
+    "en": "CoreWeave",
+    "ticker": "CRWV",
+    "section": "软件云AI",
+    "tier": "B",
+    "keywords": [
+      "CoreWeave",
+      "CRWV"
+    ],
+    "batch": "b2"
+  },
+  {
+    "id": "nebius",
+    "cn": "Nebius Group",
+    "en": "Nebius Group",
+    "ticker": "NBIS",
+    "section": "软件云AI",
+    "tier": "B",
+    "keywords": [
+      "Nebius Group",
+      "NBIS"
+    ],
+    "batch": "b3"
+  },
+  {
+    "id": "strategy",
+    "cn": "微策略",
+    "en": "Strategy",
+    "ticker": "MSTR",
+    "section": "软件云AI",
+    "tier": "B",
+    "keywords": [
+      "Strategy",
+      "MSTR"
+    ],
+    "batch": "b1"
+  },
+  {
+    "id": "roper",
+    "cn": "罗珀科技",
+    "en": "Roper Technologies",
+    "ticker": "ROP",
+    "section": "软件云AI",
+    "tier": "B",
+    "keywords": [
+      "Roper Technologies",
+      "ROP"
+    ],
+    "batch": "b2"
+  },
+  {
+    "id": "thomson-reuters",
+    "cn": "汤森路透",
+    "en": "Thomson Reuters",
+    "ticker": "TRI",
+    "section": "软件云AI",
+    "tier": "B",
+    "keywords": [
+      "Thomson Reuters",
+      "TRI"
+    ],
+    "batch": "b3"
+  },
+  {
+    "id": "lumentum",
+    "cn": "鲁门特姆",
+    "en": "Lumentum",
+    "ticker": "LITE",
+    "section": "硬件存储",
+    "tier": "B",
+    "keywords": [
+      "Lumentum",
+      "LITE"
+    ],
+    "batch": "b1"
+  },
+  {
+    "id": "sandisk",
+    "cn": "闪迪",
+    "en": "SanDisk",
+    "ticker": "SNDK",
+    "section": "硬件存储",
+    "tier": "B",
+    "keywords": [
+      "SanDisk",
+      "SNDK"
+    ],
+    "batch": "b2"
+  },
+  {
+    "id": "seagate",
+    "cn": "希捷",
+    "en": "Seagate Technology",
+    "ticker": "STX",
+    "section": "硬件存储",
+    "tier": "B",
+    "keywords": [
+      "Seagate Technology",
+      "STX"
+    ],
+    "batch": "b3"
+  },
+  {
+    "id": "western-digital",
+    "cn": "西部数据",
+    "en": "Western Digital",
+    "ticker": "WDC",
+    "section": "硬件存储",
+    "tier": "B",
+    "keywords": [
+      "Western Digital",
+      "WDC"
+    ],
+    "batch": "b1"
+  },
+  {
+    "id": "crowdstrike",
+    "cn": "CrowdStrike",
+    "en": "CrowdStrike",
+    "ticker": "CRWD",
+    "section": "网络安全",
+    "tier": "B",
+    "keywords": [
+      "CrowdStrike",
+      "CRWD"
+    ],
+    "batch": "b2"
+  },
+  {
+    "id": "palo-alto",
+    "cn": "Palo Alto Networks",
+    "en": "Palo Alto Networks",
+    "ticker": "PANW",
+    "section": "网络安全",
+    "tier": "B",
+    "keywords": [
+      "Palo Alto Networks",
+      "PANW"
+    ],
+    "batch": "b3"
+  },
+  {
+    "id": "fortinet",
+    "cn": "飞塔",
+    "en": "Fortinet",
+    "ticker": "FTNT",
+    "section": "网络安全",
+    "tier": "B",
+    "keywords": [
+      "Fortinet",
+      "FTNT"
+    ],
+    "batch": "b1"
+  },
+  {
+    "id": "openai",
+    "cn": "OpenAI",
+    "en": "OpenAI",
+    "ticker": null,
+    "section": "AI前沿",
+    "tier": "B",
+    "keywords": [
+      "OpenAI"
+    ],
+    "batch": "b2"
+  },
+  {
+    "id": "anthropic",
+    "cn": "Anthropic",
+    "en": "Anthropic",
+    "ticker": null,
+    "section": "AI前沿",
+    "tier": "B",
+    "keywords": [
+      "Anthropic"
+    ],
+    "batch": "b3"
+  },
+  {
+    "id": "xai",
+    "cn": "xAI",
+    "en": "xAI",
+    "ticker": null,
+    "section": "AI前沿",
+    "tier": "B",
+    "keywords": [
+      "xAI"
+    ],
+    "batch": "b1"
+  },
+  {
+    "id": "deepseek",
+    "cn": "DeepSeek",
+    "en": "DeepSeek",
+    "ticker": null,
+    "section": "AI前沿",
+    "tier": "B",
+    "keywords": [
+      "DeepSeek",
+      "深度求索"
+    ],
+    "batch": "b2"
+  },
+  {
+    "id": "bytedance",
+    "cn": "字节跳动",
+    "en": "ByteDance",
+    "ticker": null,
+    "section": "AI前沿",
+    "tier": "B",
+    "keywords": [
+      "ByteDance",
+      "字节跳动"
+    ],
+    "batch": "b3"
+  },
+  {
+    "id": "alibaba",
+    "cn": "阿里巴巴",
+    "en": "Alibaba",
+    "ticker": null,
+    "section": "AI前沿",
+    "tier": "B",
+    "keywords": [
+      "Alibaba",
+      "阿里巴巴"
+    ],
+    "batch": "b1"
+  },
+  {
+    "id": "tencent",
+    "cn": "腾讯",
+    "en": "Tencent",
+    "ticker": null,
+    "section": "AI前沿",
+    "tier": "B",
+    "keywords": [
+      "Tencent",
+      "腾讯"
+    ],
+    "batch": "b2"
+  },
+  {
+    "id": "baidu",
+    "cn": "百度",
+    "en": "Baidu",
+    "ticker": null,
+    "section": "AI前沿",
+    "tier": "B",
+    "keywords": [
+      "Baidu",
+      "百度"
+    ],
+    "batch": "b3"
+  }
+]
