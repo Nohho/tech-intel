@@ -1,0 +1,812 @@
+{
+ "breaking": [],
+ "company_news": [
+  {
+   "company": "微软",
+   "company_en": "Microsoft",
+   "date": "2026-10-12",
+   "first_party": true,
+   "id": "tech-20261031-011",
+   "outlet": "微软官方博客",
+   "section": "权重科技",
+   "summary": "微软计划将自研 Azure Maia 系统的部署规模扩展到多吉瓦级别，加码 AI 算力自建。",
+   "tags": [
+    "新品发布"
+   ],
+   "ticker": "MSFT",
+   "title": "微软将把 Azure 自研 Maia 系统扩展至多吉瓦级部署",
+   "url": "https://blogs.microsoft.com/blog/2026/10/12/microsoft-to-expand-azure-maia-system-to-multi-gigawatt-deployments/"
+  },
+  {
+   "company": "苹果",
+   "company_en": "Apple",
+   "date": "2026-10-23",
+   "first_party": true,
+   "id": "tech-20261031-012",
+   "outlet": "苹果官方博客",
+   "section": "权重科技",
+   "summary": "苹果宣布 iPhone Duo 在全球 Apple Store 门店同步上架销售。",
+   "tags": [
+    "新品发布"
+   ],
+   "ticker": "AAPL",
+   "title": "iPhone Duo 全球 Apple Store 同步开售",
+   "url": "https://www.apple.com/newsroom/2026/10/iphone-duo-arrives-at-apple-store-locations-worldwide/"
+  },
+  {
+   "company": "微软",
+   "company_en": "Microsoft",
+   "date": "2026-10-29",
+   "first_party": true,
+   "id": "tech-20261031-013",
+   "outlet": "微软官方博客",
+   "section": "权重科技",
+   "summary": "微软发布 Copilot harness，支持多模型协同的智能体工作流，意在释放真正的多模型智能体潜力。",
+   "tags": [
+    "新品发布"
+   ],
+   "ticker": "MSFT",
+   "title": "微软推出 Copilot harness，解锁多模型智能体协作",
+   "url": "https://blogs.microsoft.com/blog/2026/10/29/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work/"
+  },
+  {
+   "company": "特斯拉",
+   "company_en": "Tesla",
+   "date": "2026-10-27",
+   "first_party": false,
+   "id": "tech-20261031-014",
+   "outlet": "TIKR.com",
+   "section": "权重科技",
+   "summary": "巴克莱以 SpaceX 合并潜力与 Robotaxi 业务增长为由，上调特斯拉股票评级。",
+   "tags": [
+    "股价异动"
+   ],
+   "ticker": "TSLA",
+   "title": "巴克莱上调特斯拉评级，看好 SpaceX 合并潜力与 Robotaxi 增长",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOHk4TVZnRHh3VlY3Q3l2UTNMU0RNUVFEVUpzMlc1Ri0tczRjenF0MGF3czExajhhQlBiYTM2MnZYcnpsalppbWE2blM2TjBlVWRaTWs4Z1hyaXc0b2ZIREJ5ajZBTzJZWk80UDBQTzNHZW1ybW9paHhCM2tCQXhVSzAyWV9OZw?oc=5"
+  },
+  {
+   "company": "Alphabet",
+   "company_en": "Alphabet",
+   "date": "2026-10-29",
+   "first_party": true,
+   "id": "tech-20261031-015",
+   "outlet": "谷歌官方博客",
+   "section": "权重科技",
+   "summary": "谷歌官方博客刊出 2026 年第三季度财报电话会 CEO 发言全文。",
+   "tags": [
+    "财报"
+   ],
+   "ticker": "GOOGL",
+   "title": "谷歌 CEO 在 2026 年第三季度财报电话会上发表讲话",
+   "url": "https://blog.google/company-news/inside-google/message-ceo/alphabet-earnings-q3-2026/"
+  },
+  {
+   "company": "Meta Platforms",
+   "company_en": "Meta Platforms",
+   "date": "2026-10-31",
+   "first_party": false,
+   "id": "tech-20261031-016",
+   "outlet": "Reuters",
+   "section": "权重科技",
+   "summary": "英国 CMA 宣布对 Meta 面向出版商和广告商的条款展开调查，平台广告政策面临新的监管审查。",
+   "tags": [
+    "监管政策"
+   ],
+   "ticker": "META",
+   "title": "英国竞争监管机构就 Meta 对出版商与广告商条款展开调查",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQmdZSUNubThrN1F0Z25oYTlqNWdPVzdQUlN4YWRIOW16UWhQbXdTTDA3RXJHWFlVZUF1ZElXQ0FPYUxSVXdGcDFqdDQtdUQxSnJvbk4xaU9sSzFqUTdGWlQyZjJOUUdaRDJOOUZIVllPQ3VqelNyMXVRTzVQVG1oVXBmRUJIMHpHYV9kbzUxYTN4d1dvUnJEUEVGbElwVG9HdUZ3TDNQQ1hOcW91SGpZYm01TlVsRHM?oc=5"
+  },
+  {
+   "company": "苹果",
+   "company_en": "Apple",
+   "date": "2026-10-27",
+   "first_party": true,
+   "id": "tech-20261031-017",
+   "outlet": "苹果官方博客",
+   "section": "权重科技",
+   "summary": "苹果推出新一代 iMac，搭载 M6 芯片。",
+   "tags": [
+    "新品发布"
+   ],
+   "ticker": "AAPL",
+   "title": "苹果发布搭载 M6 芯片的新款 iMac",
+   "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/"
+  },
+  {
+   "company": "亚马逊",
+   "company_en": "Amazon",
+   "date": "2026-10-31",
+   "first_party": false,
+   "id": "tech-20261031-018",
+   "outlet": "Reuters",
+   "section": "权重科技",
+   "summary": "因市场担忧 AI 资本开支过度消耗现金，华尔街主要股指大幅收低，科技股领跌。",
+   "tags": [
+    "股价异动"
+   ],
+   "ticker": "AMZN",
+   "title": "华尔街收盘大跌，AI 烧钱担忧引发科技股抛售",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPblVtZktXRjdPbHJBWDM4WWJsV2RyMlhnOVFYRTZPc01udjZNZTVjeHdIN1dVY0w1M1NHbHpxNjV6Vm9jQ3FOUjBIaElyZEdSWWxycmNZdnJwNnBfdTJDc1FBMWVJZ19vR0s3Y1h2Uml2LThWc2NzQ2sxN3NnVzFEeGhvNnpPSElHSFRIQnJreHpCR2c3dnRQbEVYTDlJVjhzVVk3b1gxaFczMFhkb2NDSw?oc=5"
+  },
+  {
+   "company": "OpenAI",
+   "company_en": "OpenAI",
+   "date": "2026-10-28",
+   "first_party": true,
+   "id": "tech-20261031-019",
+   "outlet": "OpenAI官方博客",
+   "section": "AI前沿",
+   "summary": "OpenAI 与 ServiceNow 宣布扩大合作，将 AI 能力更深地嵌入企业工作流。",
+   "tags": [
+    "战略合作"
+   ],
+   "ticker": "",
+   "title": "OpenAI 与 ServiceNow 扩大企业工作流合作",
+   "url": "https://openai.com/index/openai-servicenow-partnership-expansion"
+  },
+  {
+   "company": "OpenAI",
+   "company_en": "OpenAI",
+   "date": "2026-10-27",
+   "first_party": true,
+   "id": "tech-20261031-020",
+   "outlet": "OpenAI官方博客",
+   "section": "AI前沿",
+   "summary": "OpenAI 宣布扩大与甲骨文的合作，把甲骨文应用带进 ChatGPT 生态。",
+   "tags": [
+    "战略合作"
+   ],
+   "ticker": "",
+   "title": "OpenAI 与甲骨文扩大合作，将其应用引入 ChatGPT",
+   "url": "https://openai.com/index/oracle-apps-in-chatgpt"
+  },
+  {
+   "company": "英伟达",
+   "company_en": "NVIDIA",
+   "date": "2026-10-22",
+   "first_party": true,
+   "id": "tech-20261031-021",
+   "outlet": "英伟达官方博客",
+   "section": "权重科技",
+   "summary": "英伟达宣布开放 Cosmos 新工具，用于训练、评估和部署世界模型。",
+   "tags": [
+    "新品发布"
+   ],
+   "ticker": "NVDA",
+   "title": "英伟达开放 Cosmos 工具链，支持世界模型训练与部署",
+   "url": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/"
+  },
+  {
+   "company": "英伟达",
+   "company_en": "NVIDIA",
+   "date": "2026-10-21",
+   "first_party": true,
+   "id": "tech-20261031-022",
+   "outlet": "英伟达官方博客",
+   "section": "权重科技",
+   "summary": "英伟达宣布其云合作伙伴在欧洲持续扩大布局，主打主权、安全与开放的 AI 智能体基础设施。",
+   "tags": [
+    "战略合作"
+   ],
+   "ticker": "NVDA",
+   "title": "英伟达云合作伙伴在欧洲规模化，主打主权与开放 AI",
+   "url": "https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents/"
+  },
+  {
+   "company": "Alphabet",
+   "company_en": "Alphabet",
+   "date": "2026-10-30",
+   "first_party": true,
+   "id": "tech-20261031-023",
+   "outlet": "谷歌官方博客",
+   "section": "权重科技",
+   "summary": "用户现可在 Gemini 中直接生成、预览和编辑文档、PDF、演示文稿与电子表格。",
+   "tags": [
+    "新品发布"
+   ],
+   "ticker": "GOOGL",
+   "title": "Gemini 支持直接生成与编辑文档、PDF 和表格",
+   "url": "https://blog.google/innovation-and-ai/products/gemini-app/edit-files-directly/"
+  },
+  {
+   "company": "苹果",
+   "company_en": "Apple",
+   "date": "2026-10-26",
+   "first_party": true,
+   "id": "tech-20261031-024",
+   "outlet": "苹果官方博客",
+   "section": "权重科技",
+   "summary": "苹果为 iPad mini 带来史上最大的一次更新。",
+   "tags": [
+    "新品发布"
+   ],
+   "ticker": "AAPL",
+   "title": "苹果发布史上最大更新的 iPad mini",
+   "url": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/"
+  },
+  {
+   "company": "Meta Platforms",
+   "company_en": "Meta Platforms",
+   "date": "2026-10-28",
+   "first_party": true,
+   "id": "tech-20261031-025",
+   "outlet": "Meta官方博客",
+   "section": "权重科技",
+   "summary": "Meta 宣布个人 AI 智能体 Muse 在新加坡上线，定位为面向所有人的个人 AI 助手。",
+   "tags": [
+    "新品发布"
+   ],
+   "ticker": "META",
+   "title": "个人 AI 智能体 Muse 在新加坡上线",
+   "url": "https://about.fb.com/news/2026/10/muse-is-now-available-in-singapore/"
+  },
+  {
+   "company": "Meta Platforms",
+   "company_en": "Meta Platforms",
+   "date": "2026-10-29",
+   "first_party": true,
+   "id": "tech-20261031-026",
+   "outlet": "Meta官方博客",
+   "section": "权重科技",
+   "summary": "Meta 宣布与美国五所大学合作，借助 AI 加速医疗与科学研究突破。",
+   "tags": [
+    "战略合作"
+   ],
+   "ticker": "META",
+   "title": "Meta 与美国五所大学合作加速医疗与科学突破",
+   "url": "https://about.fb.com/news/2026/10/meta-partners-with-five-us-universities/"
+  },
+  {
+   "company": "Alphabet",
+   "company_en": "Alphabet",
+   "date": "2026-10-29",
+   "first_party": true,
+   "id": "tech-20261031-027",
+   "outlet": "谷歌官方博客",
+   "section": "权重科技",
+   "summary": "谷歌宣布与新加坡合作，把前沿 AI 能力应用于公共卫生领域。",
+   "tags": [
+    "战略合作"
+   ],
+   "ticker": "GOOGL",
+   "title": "谷歌与新加坡合作，将前沿 AI 引入公共卫生",
+   "url": "https://blog.google/around-the-globe/google-asia/partnering-with-singapore-frontier-ai-public-health/"
+  },
+  {
+   "company": "微软",
+   "company_en": "Microsoft",
+   "date": "2026-10-26",
+   "first_party": true,
+   "id": "tech-20261031-028",
+   "outlet": "微软官方博客",
+   "section": "权重科技",
+   "summary": "微软宣布推出自愿离职计划，组织结构调整信号明显。",
+   "tags": [
+    "突发"
+   ],
+   "ticker": "MSFT",
+   "title": "微软推出自愿离职计划",
+   "url": "https://blogs.microsoft.com/blog/2026/10/26/introducing-a-voluntary-exit-offer/"
+  },
+  {
+   "company": "微软",
+   "company_en": "Microsoft",
+   "date": "2026-10-01",
+   "first_party": true,
+   "id": "tech-20261031-029",
+   "outlet": "微软官方博客",
+   "section": "权重科技",
+   "summary": "微软公布 Microsoft 365 与 LinkedIn 业务的领导层更新。",
+   "tags": [
+    "高管变动"
+   ],
+   "ticker": "MSFT",
+   "title": "微软 365 与 LinkedIn 领导层调整",
+   "url": "https://blogs.microsoft.com/blog/2026/10/01/microsoft-365-and-linkedin-leadership-update/"
+  },
+  {
+   "company": "OpenAI",
+   "company_en": "OpenAI",
+   "date": "2026-10-29",
+   "first_party": true,
+   "id": "tech-20261031-030",
+   "outlet": "OpenAI官方博客",
+   "section": "AI前沿",
+   "summary": "日本金融公司 Credit Saison 在 ChatGPT 企业版试点项目中录得 954% 的投资回报率。",
+   "tags": [
+    "战略合作"
+   ],
+   "ticker": "",
+   "title": "Credit Saison 在 ChatGPT 企业版试点中实现 954% 投资回报",
+   "url": "https://openai.com/index/credit-saison"
+  },
+  {
+   "company": "OpenAI",
+   "company_en": "OpenAI",
+   "date": "2026-10-30",
+   "first_party": true,
+   "id": "tech-20261031-031",
+   "outlet": "OpenAI官方博客",
+   "section": "AI前沿",
+   "summary": "OpenAI 发布更新版 Model Spec，为更强大的 AI 设定行为规范。",
+   "tags": [
+    "AI 模型"
+   ],
+   "ticker": "",
+   "title": "OpenAI 更新模型行为规范 Model Spec",
+   "url": "https://openai.com/index/updated-model-spec"
+  },
+  {
+   "company": "OpenAI",
+   "company_en": "OpenAI",
+   "date": "2026-10-22",
+   "first_party": true,
+   "id": "tech-20261031-032",
+   "outlet": "OpenAI官方博客",
+   "section": "AI前沿",
+   "summary": "Uber 与 OpenAI 合作，将 ChatGPT Work 推广至公司全体员工。",
+   "tags": [
+    "战略合作"
+   ],
+   "ticker": "",
+   "title": "Uber 全员接入 ChatGPT Work",
+   "url": "https://openai.com/index/uber-chatgpt-work-rollout"
+  },
+  {
+   "company": "OpenAI",
+   "company_en": "OpenAI",
+   "date": "2026-10-23",
+   "first_party": true,
+   "id": "tech-20261031-033",
+   "outlet": "OpenAI官方博客",
+   "section": "AI前沿",
+   "summary": "OpenAI 宣布与波兰国家研究机构 NASK 合作，共同推进 AI 安全与保障工作。",
+   "tags": [
+    "战略合作"
+   ],
+   "ticker": "",
+   "title": "OpenAI 与波兰 NASK 合作推进 AI 安全",
+   "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership"
+  },
+  {
+   "company": "英伟达",
+   "company_en": "NVIDIA",
+   "date": "2026-10-28",
+   "first_party": true,
+   "id": "tech-20261031-034",
+   "outlet": "英伟达官方博客",
+   "section": "权重科技",
+   "summary": "英伟达宣布 RTX Spark Windows 笔记本新增机型，同步带来智能体工具与游戏支持。",
+   "tags": [
+    "新品发布"
+   ],
+   "ticker": "NVDA",
+   "title": "英伟达 RTX Spark Windows 笔记本上新",
+   "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/"
+  },
+  {
+   "company": "英伟达",
+   "company_en": "NVIDIA",
+   "date": "2026-10-23",
+   "first_party": true,
+   "id": "tech-20261031-035",
+   "outlet": "英伟达官方博客",
+   "section": "权重科技",
+   "summary": "英伟达披露哈萨克斯坦正在扩大其计算基础设施，为 AI 未来布局。",
+   "tags": [
+    "战略合作"
+   ],
+   "ticker": "NVDA",
+   "title": "哈萨克斯坦扩建算力，押注 AI 未来",
+   "url": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/"
+  },
+  {
+   "company": "Alphabet",
+   "company_en": "Alphabet",
+   "date": "2026-10-29",
+   "first_party": true,
+   "id": "tech-20261031-036",
+   "outlet": "谷歌官方博客",
+   "section": "权重科技",
+   "summary": "谷歌宣布 AI Mode 中的广告投放扩展到更多市场。",
+   "tags": [
+    "新品发布"
+   ],
+   "ticker": "GOOGL",
+   "title": "谷歌 AI 模式广告扩展至新市场",
+   "url": "https://blog.google/products/ads-commerce/ads-in-ai-mode-global/"
+  },
+  {
+   "company": "Alphabet",
+   "company_en": "Alphabet",
+   "date": "2026-10-31",
+   "first_party": true,
+   "id": "tech-20261031-037",
+   "outlet": "谷歌官方博客",
+   "section": "权重科技",
+   "summary": "谷歌宣布 Fitbit Edge 现已上架开售。",
+   "tags": [
+    "新品发布"
+   ],
+   "ticker": "GOOGL",
+   "title": "谷歌 Fitbit Edge 正式开售",
+   "url": "https://blog.google/products-and-platforms/devices/fitbit/google-fitbit-edge-on-shelves-now/"
+  },
+  {
+   "company": "苹果",
+   "company_en": "Apple",
+   "date": "2026-10-13",
+   "first_party": true,
+   "id": "tech-20261031-038",
+   "outlet": "苹果官方博客",
+   "section": "权重科技",
+   "summary": "苹果推出新一代 Apple TV 4K，由 Siri AI 驱动。",
+   "tags": [
+    "新品发布"
+   ],
+   "ticker": "AAPL",
+   "title": "苹果发布搭载 Siri AI 的新款 Apple TV 4K",
+   "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/"
+  },
+  {
+   "company": "苹果",
+   "company_en": "Apple",
+   "date": "2026-10-20",
+   "first_party": true,
+   "id": "tech-20261031-039",
+   "outlet": "苹果官方博客",
+   "section": "权重科技",
+   "summary": "苹果宣布最新 iPhone 产品线的美国制造计划合作伙伴名单。",
+   "tags": [
+    "战略合作"
+   ],
+   "ticker": "AAPL",
+   "title": "苹果公布新 iPhone 产线美国制造计划合作伙伴",
+   "url": "https://www.apple.com/newsroom/2026/10/apple-announces-american-manufacturing-program-partners-for-latest-iphone-lineup/"
+  },
+  {
+   "company": "苹果",
+   "company_en": "Apple",
+   "date": "2026-10-27",
+   "first_party": true,
+   "id": "tech-20261031-040",
+   "outlet": "苹果官方博客",
+   "section": "权重科技",
+   "summary": "苹果宣布 Siri AI 从今日起支持更多语言。",
+   "tags": [
+    "新品发布"
+   ],
+   "ticker": "AAPL",
+   "title": "Siri AI 今日起支持更多语言",
+   "url": "https://www.apple.com/newsroom/2026/10/siri-ai-is-available-in-more-languages/"
+  },
+  {
+   "company": "Meta Platforms",
+   "company_en": "Meta Platforms",
+   "date": "2026-10-14",
+   "first_party": true,
+   "id": "tech-20261031-041",
+   "outlet": "Meta官方博客",
+   "section": "权重科技",
+   "summary": "Meta 宣布 WhatsApp 通话新增功能，可邀请任何人加入通话。",
+   "tags": [
+    "新品发布"
+   ],
+   "ticker": "META",
+   "title": "WhatsApp 通话现可邀请任何人加入",
+   "url": "https://about.fb.com/news/2026/10/introducing-whatsapp-guest-calling/"
+  },
+  {
+   "company": "Meta Platforms",
+   "company_en": "Meta Platforms",
+   "date": "2026-10-15",
+   "first_party": true,
+   "id": "tech-20261031-042",
+   "outlet": "Meta官方博客",
+   "section": "权重科技",
+   "summary": "Meta 与米兰布雷拉美术馆、EssilorLuxottica 合作，通过 AI 眼镜让更多人亲近艺术。",
+   "tags": [
+    "战略合作"
+   ],
+   "ticker": "META",
+   "title": "Meta 联手米兰布雷拉美术馆与 EssilorLuxottica，以 AI 眼镜拓展艺术可及性",
+   "url": "https://about.fb.com/news/2026/10/meta-milans-pinacoteca-di-brera-and-essilorluxottica-expand-access-to-art-through-ai-glasses/"
+  },
+  {
+   "company": "OpenAI",
+   "company_en": "OpenAI",
+   "date": "2026-10-28",
+   "first_party": true,
+   "id": "tech-20261031-043",
+   "outlet": "OpenAI官方博客",
+   "section": "AI前沿",
+   "summary": "法律科技公司 Legora 正基于 OpenAI 模型构建面向法律工作的智能体操作系统。",
+   "tags": [
+    "战略合作"
+   ],
+   "ticker": "",
+   "title": "Legora 以 OpenAI 模型打造法律工作智能体系统",
+   "url": "https://openai.com/index/legora-is-building-the-agentic-operating-system-for-legal-work/"
+  },
+  {
+   "company": "OpenAI",
+   "company_en": "OpenAI",
+   "date": "2026-10-27",
+   "first_party": true,
+   "id": "tech-20261031-044",
+   "outlet": "OpenAI官方博客",
+   "section": "AI前沿",
+   "summary": "Check Point 采用 OpenAI 的 Daybreak 加速漏洞研究工作。",
+   "tags": [
+    "战略合作"
+   ],
+   "ticker": "",
+   "title": "Check Point 借助 Daybreak 加速漏洞研究",
+   "url": "https://openai.com/index/how-check-point-accelerates-vulnerability-research-with-daybreak/"
+  },
+  {
+   "company": "Alphabet",
+   "company_en": "Alphabet",
+   "date": "2026-10-29",
+   "first_party": true,
+   "id": "tech-20261031-045",
+   "outlet": "谷歌官方博客",
+   "section": "权重科技",
+   "summary": "谷歌宣布与 XREAL 合作推出有线 XR 眼镜 AURA，覆盖观影、办公与娱乐场景。",
+   "tags": [
+    "战略合作"
+   ],
+   "ticker": "GOOGL",
+   "title": "谷歌与 XREAL 合作推出有线 XR 眼镜 AURA",
+   "url": "https://blog.google/products-and-platforms/platforms/android/xreal-aura/"
+  },
+  {
+   "company": "Alphabet",
+   "company_en": "Alphabet",
+   "date": "2026-10-29",
+   "first_party": true,
+   "id": "tech-20261031-046",
+   "outlet": "谷歌官方博客",
+   "section": "权重科技",
+   "summary": "Chrome 推出增强自动填充功能，可从 Gmail 中提取建议信息帮助填写表单。",
+   "tags": [
+    "新品发布"
+   ],
+   "ticker": "GOOGL",
+   "title": "Chrome 增强自动填充，可调用 Gmail 信息填表",
+   "url": "https://blog.google/products-and-platforms/products/chrome/enhanced-autofill-gmail/"
+  },
+  {
+   "company": "英伟达",
+   "company_en": "NVIDIA",
+   "date": "2026-10-30",
+   "first_party": true,
+   "id": "tech-20261031-047",
+   "outlet": "英伟达官方博客",
+   "section": "权重科技",
+   "summary": "英伟达介绍开发者如何借助 Omniverse 与前沿 AI 智能体，把创意转化为仿真应用。",
+   "tags": [
+    "新品发布"
+   ],
+   "ticker": "NVDA",
+   "title": "英伟达 Omniverse：前沿 AI 智能体把创意变为仿真",
+   "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/"
+  },
+  {
+   "company": "英伟达",
+   "company_en": "NVIDIA",
+   "date": "2026-10-22",
+   "first_party": true,
+   "id": "tech-20261031-048",
+   "outlet": "英伟达官方博客",
+   "section": "权重科技",
+   "summary": "英伟达称欧洲多家领先金融机构正采用开放模型构建专有智能。",
+   "tags": [
+    "战略合作"
+   ],
+   "ticker": "NVDA",
+   "title": "欧洲多家金融巨头采用开放模型构建专有智能",
+   "url": "https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/"
+  },
+  {
+   "company": "微软",
+   "company_en": "Microsoft",
+   "date": "2026-10-20",
+   "first_party": true,
+   "id": "tech-20261031-049",
+   "outlet": "微软官方博客",
+   "section": "权重科技",
+   "summary": "微软宣布在数字主权方向上推进，为客户提供更大的控制力与选择空间。",
+   "tags": [
+    "新品发布"
+   ],
+   "ticker": "MSFT",
+   "title": "微软推进数字主权，给予客户更大控制与选择权",
+   "url": "https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/"
+  },
+  {
+   "company": "OpenAI",
+   "company_en": "OpenAI",
+   "date": "2026-10-23",
+   "first_party": true,
+   "id": "tech-20261031-050",
+   "outlet": "OpenAI官方博客",
+   "section": "AI前沿",
+   "summary": "OpenAI 发布 Decisions API，帮助开发者构建响应更灵敏的应用。",
+   "tags": [
+    "新品发布"
+   ],
+   "ticker": "",
+   "title": "OpenAI 推出 Decisions API，助力构建更灵敏的应用",
+   "url": "https://openai.com/index/decisions-api"
+  }
+ ],
+ "date": "2026-10-31",
+ "generated_at": "2026-10-31T08:27:28+08:00",
+ "top10": [
+  {
+   "company": "特斯拉",
+   "company_en": "Tesla",
+   "date": "2026-10-31",
+   "first_party": false,
+   "id": "tech-20261031-001",
+   "outlet": "Stocktwits",
+   "section": "权重科技",
+   "summary": "美国银行分析师指出，特斯拉与 SpaceX 潜在合并案最大的监管不确定性来自中国，合并能否落地关键看中方审批。",
+   "tags": [
+    "并购",
+    "监管政策"
+   ],
+   "ticker": "TSLA",
+   "title": "美银警告：特斯拉若与 SpaceX 合并，在华审批或成最大风险",
+   "url": "https://stocktwits.com/news-articles/markets/equity/tesla-spacex-merger-could-face-the-biggest-regulatory-risk-in-china-bof-a-warns/cZULbGrR9cb?.tsrc=rss"
+  },
+  {
+   "company": "Meta Platforms",
+   "company_en": "Meta Platforms",
+   "date": "2026-10-31",
+   "first_party": false,
+   "id": "tech-20261031-002",
+   "outlet": "Reuters",
+   "section": "权重科技",
+   "summary": "标普全球以 AI 资本开支与现金流担忧为由，将 Meta 的评级展望调为负面，拖累科技股承压。",
+   "tags": [
+    "股价异动"
+   ],
+   "ticker": "META",
+   "title": "标普将 Meta 评级展望下调至负面，担忧 AI 支出侵蚀现金流",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOY2JMY29zcEM2TFRURW5TbmY4MTNoWVM1NDhiVG44UTF1YWladnh0aDNSRUhxLXZpclBPZmFySDR3dXE2XzBsQ3NpcE5SRWZiNkF0RVI3NkQyQWhrS1RvdDlwamRJWmxSa2E4ckc0SlBBdFdnOHFZem1UOHVScElQZ2hzUkU0N0Z1ajdMNnNYYzB2djU5dFNnM1FHMUpzczdsbzUxSA?oc=5"
+  },
+  {
+   "company": "苹果",
+   "company_en": "Apple",
+   "date": "2026-10-28",
+   "first_party": false,
+   "id": "tech-20261031-003",
+   "outlet": "TradingView",
+   "section": "权重科技",
+   "summary": "市场评论认为苹果近期走势明显脱离其他大型科技股，其独立行情之强在华尔街近年少见。",
+   "tags": [
+    "股价异动"
+   ],
+   "ticker": "AAPL",
+   "title": "华尔街称苹果正以罕见方式拉开与大厂距离",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOc0RuWkswaE5lM1FHaE9CZUxFNkU5QVNocjk2dXNGWmk4TUR5Z21kN2ZwZGZHV1ZuTWJOWlR2QUpVaW1sMDg4czktMk1JNzk4dXVHNndsODNnY042RVdxRGpwREJUNmpvOVBOckdvUk9HMzRMMmpEOWhjMzllems2eUVNNUphNFhucUZyNkZKUFdxSFc1MXh5NU10TWF3RUZnRFFIeHRsdUJUb2tfZE54MHZrbnhtd0FoREhVNGwzRDlMZ0l1UmFoSG92cVlUUVdfanMwcmluSG5LZHZKcUZz?oc=5"
+  },
+  {
+   "company": "Alphabet",
+   "company_en": "Alphabet",
+   "date": "2026-10-29",
+   "first_party": true,
+   "id": "tech-20261031-004",
+   "outlet": "谷歌官方博客",
+   "section": "权重科技",
+   "summary": "谷歌官方博客宣布下一代前沿模型 Gemini 4 Carbon，定位为公司最新的旗舰级 AI 模型。",
+   "tags": [
+    "AI 模型"
+   ],
+   "ticker": "GOOGL",
+   "title": "谷歌发布下一代旗舰模型 Gemini 4 Carbon",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
+  },
+  {
+   "company": "英伟达",
+   "company_en": "NVIDIA",
+   "date": "2026-10-21",
+   "first_party": true,
+   "id": "tech-20261031-005",
+   "outlet": "英伟达官方博客",
+   "section": "权重科技",
+   "summary": "英伟达与谷歌云联合宣布 Vera Rubin 基础设施在 Google Cloud 上进入正式商用，面向 AI 工厂部署。",
+   "tags": [
+    "战略合作",
+    "新品发布"
+   ],
+   "ticker": "NVDA",
+   "title": "谷歌云与英伟达宣布 Vera Rubin 基础设施正式可用",
+   "url": "https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure/"
+  },
+  {
+   "company": "OpenAI",
+   "company_en": "OpenAI",
+   "date": "2026-10-21",
+   "first_party": true,
+   "id": "tech-20261031-006",
+   "outlet": "OpenAI官方博客",
+   "section": "AI前沿",
+   "summary": "OpenAI 宣布其模型将上架 Google Cloud，企业客户可直接在谷歌云平台上调用 OpenAI 模型。",
+   "tags": [
+    "战略合作"
+   ],
+   "ticker": "",
+   "title": "OpenAI 模型正式登陆谷歌云",
+   "url": "https://openai.com/index/openai-models-google-cloud"
+  },
+  {
+   "company": "苹果",
+   "company_en": "Apple",
+   "date": "2026-10-29",
+   "first_party": true,
+   "id": "tech-20261031-007",
+   "outlet": "苹果官方博客",
+   "section": "权重科技",
+   "summary": "苹果推出全新 MacBook Pro，首发 PROLED XDR 显示屏，定位为一次重大显示技术升级。",
+   "tags": [
+    "新品发布"
+   ],
+   "ticker": "AAPL",
+   "title": "苹果发布搭载 PROLED XDR 屏的突破性 MacBook Pro",
+   "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/"
+  },
+  {
+   "company": "OpenAI",
+   "company_en": "OpenAI",
+   "date": "2026-10-26",
+   "first_party": true,
+   "id": "tech-20261031-008",
+   "outlet": "OpenAI官方博客",
+   "section": "AI前沿",
+   "summary": "OpenAI 推出新模型 GPT-6.1 Terra，进一步扩充 GPT-6 系列矩阵。",
+   "tags": [
+    "AI 模型"
+   ],
+   "ticker": "",
+   "title": "OpenAI 发布 GPT-6.1 Terra",
+   "url": "https://openai.com/index/introducing-gpt-6-1-terra"
+  },
+  {
+   "company": "英伟达",
+   "company_en": "NVIDIA",
+   "date": "2026-10-22",
+   "first_party": true,
+   "id": "tech-20261031-009",
+   "outlet": "英伟达官方博客",
+   "section": "权重科技",
+   "summary": "英伟达推出 Minerva 方案，为 AI 工厂提供端到端的可观测性工具链。",
+   "tags": [
+    "新品发布"
+   ],
+   "ticker": "NVDA",
+   "title": "英伟达发布 Minerva，为 AI 工厂提供端到端可观测性",
+   "url": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/"
+  },
+  {
+   "company": "Meta Platforms",
+   "company_en": "Meta Platforms",
+   "date": "2026-10-31",
+   "first_party": false,
+   "id": "tech-20261031-010",
+   "outlet": "Reuters",
+   "section": "权重科技",
+   "summary": "三家平台就英国监管机构的数据调取要求提起的法律挑战被驳回，在线安全合规压力上升。",
+   "tags": [
+    "监管政策",
+    "诉讼"
+   ],
+   "ticker": "META",
+   "title": "Meta、TikTok、X 挑战英国在线安全数据要求败诉",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZG8teFQwNFU4cXJzMjdVS2wtOGZKaFAwdDlBZjczR3lJSWYxYW8xdlYwZ2hoYW5mb3FvejVrQ2s1QUpOWGJYbGFKRjRBOWRLM3hZU1FoTHdOa1Q2N0xLSjV0RmlKdjBxa1lKRlduVXkwbE1SbWhETzJDV3B5NXNKc21NT1VhaFd6azhDVnRieHM5eURVSmVIcUNBNnNUUlZxM2h6VjhDUEw1OHVOc2htWlN3b01ranhVT0hTbg?oc=5"
+  }
+ ]
+}
