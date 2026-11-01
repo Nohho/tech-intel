@@ -1,0 +1,400 @@
+{
+  "date": "2026-11-02",
+  "generated_at": "2026-11-02T06:34:35+08:00",
+  "top10": [
+    {
+      "id": "tech-20261102-001",
+      "date": "2026-11-02",
+      "title": "巴克莱：SpaceX 合并已成特斯拉看涨逻辑核心",
+      "summary": "巴克莱认为，特斯拉与 SpaceX 的潜在合并如今是其看涨逻辑的“关键部分”，并详细拆解了合并之后谁受益、谁买单。Robotaxi 进展叠加合并预期，特斯拉的多空分歧进一步加剧。",
+      "time": "05:05",
+      "outlet": "Yahoo Finance",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQWg4YTdLSnk3d1p2cDZpaWFVcFVzbWZfbkdfeVVWejRjZjM5OGVTY0RoQXB0UklxdTVkejE3SzExYm13dWRVOVVDcWZGRjRDNXdJVEtpMEFCU3hKc1RyQ3RvakNEbXo3OE5Gb0E0UjBpczNlMC12blFBRWV5YjYzaXBIU3h6RzVZOWVYaDRMajdHWFFnUm5aLUhFcVk?oc=5",
+      "company": "特斯拉",
+      "company_en": "Tesla",
+      "ticker": "TSLA",
+      "section": "权重科技",
+      "tags": [
+        "并购"
+      ]
+    },
+    {
+      "id": "tech-20261102-002",
+      "date": "2026-11-02",
+      "title": "超大规模厂商债务违约保险成本创 2021 年以来新高",
+      "summary": "亚马逊、Alphabet、微软、Meta、甲骨文五家超大规模厂商的债务违约保险成本升至 2021 年以来最高水平。华尔街开始为 AI 资本开支推高的杠杆定价，“AI 债务”担忧升温。",
+      "time": "19:00",
+      "outlet": "Techmeme",
+      "first_party": false,
+      "url": "https://www.techmeme.com/261101/p8#a261101p8",
+      "company": "微软",
+      "company_en": "Microsoft",
+      "ticker": "MSFT",
+      "section": "权重科技",
+      "tags": [
+        "突发"
+      ]
+    },
+    {
+      "id": "tech-20261102-003",
+      "date": "2026-11-02",
+      "title": "苹果周一发布 Q4 财报，iPhone 18 销售成焦点",
+      "summary": "苹果将于周一发布第四季度财报，iPhone 18 的销售表现是最大看点，市场将检验其 AI 功能对换机需求的拉动。本周还叠加就业数据与中期选举，科技股波动或加剧。",
+      "time": "03:01",
+      "outlet": "Yahoo Finance",
+      "first_party": false,
+      "url": "https://finance.yahoo.com/technology/article/apple-to-report-q4-earnings-monday-with-iphone-18-sales-in-the-spotlight-190138409.html?.tsrc=rss",
+      "company": "苹果",
+      "company_en": "Apple",
+      "ticker": "AAPL",
+      "section": "权重科技",
+      "tags": [
+        "财报"
+      ]
+    },
+    {
+      "id": "tech-20261102-004",
+      "date": "2026-11-02",
+      "title": "DeepSeek 开源编程智能体，正面对标 Anthropic",
+      "summary": "DeepSeek 推出增强版编程智能体 Super-Agent，目标直指 Anthropic。据彭博报道，该工具可主动监测开发者群聊中的代码问题并给出解决方案，开源策略再下一城。",
+      "time": "11:48",
+      "outlet": "Bloomberg",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSGJoZUdrNzFHTjRVcm9OOVZ5a1Z4dVB4ME1aNjlmYmdjX1ZOTXNWTFJTNFFFUkQ2UUxxTGV4UDlOS0RjMnRlWlFUZ04yemVtQU9zU3FZbHlWY1YxMi1YSVBGb3k5cGszYnptNnZVZk1mR1NmS0RvLUhOeS1QUmxZamtoNGgzR21CR2tmY0JUd1c3YXBBMlc0SDhkZm9kOFRtZ3NvQ2RLNVZOYnFaV2x5Vy1ra3ZNUQ?oc=5",
+      "company": "DeepSeek",
+      "company_en": "DeepSeek",
+      "ticker": null,
+      "section": "AI前沿",
+      "tags": [
+        "AI 模型"
+      ]
+    },
+    {
+      "id": "tech-20261102-005",
+      "date": "2026-11-02",
+      "title": "被曝用 OpenAI GPT-6 Astra 训练新模型，DeepSeek 与月之暗面卷入争议",
+      "summary": "The Information 爆料称，DeepSeek 与月之暗面使用了 OpenAI 的 GPT-6 Astra 来训练最新模型。若属实，中美大模型之间的模型蒸馏与技术流转争议将再度升温。",
+      "time": "10:11",
+      "outlet": "Reuters",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZWxreXdWZGhvNFRiam1WcVA1WGMtNnl3NVpEWjIyVV9IR0xReTYwTFU2Ulhnek5QbVlzc1prUlBwYlVYNmpFaXJLdTNRU3NnbkhWSFlzZllyN1lma0RydHM5bEFab2xIRW5aOUllWGtiMzRaOG1HT1M3Z3ZIN1NwVmFFZ2NlUFo5WUNYaTRZSm9waDl6cE03bE1NMEtIM2VORTVVUDN3Y01ER3drXzFwNkMyNFZ0N3F5MC1idTVR?oc=5",
+      "company": "DeepSeek",
+      "company_en": "DeepSeek",
+      "ticker": null,
+      "section": "AI前沿",
+      "tags": [
+        "AI 模型"
+      ]
+    },
+    {
+      "id": "tech-20261102-006",
+      "date": "2026-11-02",
+      "title": "台积电 2650 亿美元凤凰城园区带旺周边房地产",
+      "summary": "彭博报道，台积电 2650 亿美元的凤凰城园区正在带动周边郊区房地产热。这座超级晶圆厂已成为当地土地与就业的核心变量，半导体制造回流美国的溢出效应持续显现，配套供应链也在加速聚集。",
+      "time": "05:00",
+      "outlet": "Bloomberg",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOY0xKT1VTbGxlN1BoelAtSGxFRVZEWEVpWUt6YlZTZ1V4d3k3NDg2R1RqazJid0FyMFNfcjQ2RWg1Mk5obEdvTDdvQTdudmdwWmJCLXBhYWVHMkZpWFVMWHRnUEthNWJaMDBSa1Z0UVoyYU4wSnAxeEY2WE1zSWZMa1AySGdGeDV0MjNoVENVWVpDZldRNy00N01wRThKREFzNVBoZV9FY0VaTDktRWFNRU5WQ1VPaHdjUXBrX3E1elA2WHhrUXFv?oc=5",
+      "company": "台积电",
+      "company_en": "TSMC",
+      "ticker": "TSM",
+      "section": "芯片半导体",
+      "tags": [
+        "突发"
+      ]
+    },
+    {
+      "id": "tech-20261102-007",
+      "date": "2026-11-02",
+      "title": "Alphabet 市值蒸发约 5000 亿美元后继续承压",
+      "summary": "Alphabet 在市值蒸发约 5000 亿美元后股价继续走弱。有分析指出，谷歌搜索收入占 Alphabet 总营收比重已跌破 50%，云与 AI 业务能否接棒增长，成为市场重新评估的关键。",
+      "time": "01:08",
+      "outlet": "Yahoo Finance",
+      "first_party": false,
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-alphabet-googl-shares-170811904.html?.tsrc=rss",
+      "company": "Alphabet",
+      "company_en": "Alphabet",
+      "ticker": "GOOGL",
+      "section": "权重科技",
+      "tags": [
+        "股价异动"
+      ]
+    },
+    {
+      "id": "tech-20261102-008",
+      "date": "2026-11-02",
+      "title": "OpenAI 拟在中期选举后发起政策与公关攻势",
+      "summary": "Axios 报道，OpenAI 计划在中期选举后发起政策与公关闪电战，推动对强大 AI 的强制“限速”监管，并把数据中心改称为“AI 算力园区”。监管博弈进入主动出击阶段。",
+      "time": "05:30",
+      "outlet": "Techmeme",
+      "first_party": false,
+      "url": "https://www.techmeme.com/261101/p16#a261101p16",
+      "company": "OpenAI",
+      "company_en": "OpenAI",
+      "ticker": null,
+      "section": "AI前沿",
+      "tags": [
+        "监管政策"
+      ]
+    },
+    {
+      "id": "tech-20261102-009",
+      "date": "2026-11-02",
+      "title": "法官裁定 xAI 必须应诉 NAACP 数据中心污染诉讼",
+      "summary": "法官裁定 xAI 必须面对 NAACP 就其数据中心污染提起的诉讼，案件获准继续推进。xAI 数据中心的环境合规与社区关系压力进一步加大，AI 基建扩张的环评门槛面临考验。",
+      "time": "03:19",
+      "outlet": "Engadget",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYnRGYUdGOHdGM2FHSmtKdkZjNGM4eWNqY3pRdlczQmlrcUFVYjgzNExTRjlibW1YWXdveFZCdHpxdE5kSDhUYml5MHBDWHQ0RDdJVV9VQzhpN3RMdTVMaFhfVUUtb2pFMHg0dmM4MFRNTlVkWW1fWTF2TExMWVJ1eHRubGhrM2IwM1J3WEtNUklnX0ZBd0R1UlVnTFh3UQ?oc=5",
+      "company": "xAI",
+      "company_en": "xAI",
+      "ticker": null,
+      "section": "AI前沿",
+      "tags": [
+        "诉讼"
+      ]
+    },
+    {
+      "id": "tech-20261102-010",
+      "date": "2026-11-02",
+      "title": "富士康洽谈与 OpenAI 新合作，称不存在 AI 泡沫",
+      "summary": "富士康透露正与 OpenAI 洽谈新的合作，并公开表示不存在 AI 泡沫。代工巨头加速绑定 AI 算力产业链，服务器与硬件制造环节继续向 AI 订单倾斜，电子制造服务商的 AI 收入占比有望继续提升。",
+      "time": "17:48",
+      "outlet": "Reuters",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONzVucjcwZFNveGxHdm5KS1M5UEotQXQyVDJNNmNCY211QXpxNTJFc0ZQcXhkbzlXNTAySlZlQWFvRzl2bnBrd2d1UXZ2eXZCU0Q4WW1ZQVdWWXBaWkxvOV9zY0lYdkxaSU1kRWEtMHdEMXFpZ2ZSQ0xDYm5RUEg3cEhfT3NnTllHcU1ZRUtaNFZ5N042elFCYkoxNHk4NXJzVmRBOFloajNWd0Z4RjUzcnpvRQ?oc=5",
+      "company": "OpenAI",
+      "company_en": "OpenAI",
+      "ticker": null,
+      "section": "AI前沿",
+      "tags": [
+        "战略合作"
+      ]
+    }
+  ],
+  "company_news": [
+    {
+      "id": "tech-20261102-011",
+      "date": "2026-11-02",
+      "title": "OpenAI 计划采购谷歌 TPU 芯片",
+      "summary": "OpenAI 计划采购谷歌 TPU 芯片，以应对激增的 AI 算力需求。AI 巨头开始在英伟达之外寻求芯片供给多元化，谷歌云成为直接受益者，自研芯片的外部订单逻辑被验证。",
+      "time": "02:20",
+      "outlet": "Yahoo Finance",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOd3pabzZDR0Nzei1xRUxjZzI4bDBZV0o5Vzk1UXVHdkQ0QTdBb3BBaUI4eFRhMHFTSXl1Q1dmM1VpTWI2TlJ0V2plZktyX01oNjk1RHppcUpDMjJHWk5jUzZ1YTk3MXRScmc4NE4wbjZMZkJobGpfUnUybF9ocWJSN1ZveHF2WGpldzYxVl9uWjU0TzhncE9aSzZBMjQ?oc=5",
+      "company": "OpenAI",
+      "company_en": "OpenAI",
+      "ticker": null,
+      "section": "AI前沿",
+      "tags": [
+        "战略合作"
+      ]
+    },
+    {
+      "id": "tech-20261102-012",
+      "date": "2026-11-02",
+      "title": "英国 CMA 对 Meta 出版商与广告商条款启动调查",
+      "summary": "英国竞争与市场管理局对 Meta 面向出版商和广告商的新条款启动调查。此前 Meta 已在出版商反对后推迟相关条款上线，平台与内容方的分成博弈持续发酵，英国数字市场监管趋严的信号明确。",
+      "time": "00:53",
+      "outlet": "Reuters",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQmdZSUNubThrN1F0Z25oYTlqNWdPVzdQUlN4YWRIOW16UWhQbXdTTDA3RXJHWFlVZUF1ZElXQ0FPYUxSVXdGcDFqdDQtdUQxSnJvbk4xaU9sSzFqUTdGWlQyZjJOUUdaRDJOOUZIVllPQ3VqelNyMXVRTzVQVG1oVXBmRUJIMHpHYV9kbzUxYTN4d1dvUnJEUEVGbElwVG9HdUZ3TDNQQ1hOcW91SGpZYm01TlVsRHM?oc=5",
+      "company": "Meta Platforms",
+      "company_en": "Meta Platforms",
+      "ticker": "META",
+      "section": "权重科技",
+      "tags": [
+        "监管政策"
+      ]
+    },
+    {
+      "id": "tech-20261102-013",
+      "date": "2026-11-02",
+      "title": "购物智能体逼近亚马逊，亚马逊力推自家方案",
+      "summary": "WSJ 称购物智能体正在逼近亚马逊，亚马逊则淡化外部智能体的威胁并力推自家方案。AI 购物入口之争白热化，谁掌握智能体入口，谁就可能改写电商流量分配规则，亚马逊的护城河正面临 AI 时代的首次正面冲击。",
+      "time": "18:30",
+      "outlet": "WSJ",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8xNVJ6alNGTS00b0R3MVc5TzZnd0hKckZwam5RcnNwMFIweEE5c0FmcDVhZGQ1Q01TRk12dzFyQS1OdlFxSFVodlZ6aGZFSzNpVGtlelZNdG1LNmFmeGUzN3F5NFhUcmRCdWdtRW5FRkJkbGl2SlN1T29GQVFNQQ?oc=5",
+      "company": "亚马逊",
+      "company_en": "Amazon",
+      "ticker": "AMZN",
+      "section": "权重科技",
+      "tags": [
+        "新品发布"
+      ]
+    },
+    {
+      "id": "tech-20261102-014",
+      "date": "2026-11-02",
+      "title": "比亚迪、小米、小鹏 10 月在华销量强劲",
+      "summary": "比亚迪、小米、小鹏 10 月在华销量表现强劲，年终冲刺已经开始。中国电动车市场的份额与价格争夺加剧，本土品牌攻势凌厉，将直接影响特斯拉四季度在华表现，特斯拉的价格与智驾策略面临更大考验。",
+      "time": "21:25",
+      "outlet": "Yahoo Finance",
+      "first_party": false,
+      "url": "https://finance.yahoo.com/m/baa62bb5-87b3-3c69-aa80-c1e67491d7bf/tesla-china-ev-rivals-byd%2C.html?.tsrc=rss",
+      "company": "特斯拉",
+      "company_en": "Tesla",
+      "ticker": "TSLA",
+      "section": "权重科技",
+      "tags": [
+        "突发"
+      ]
+    },
+    {
+      "id": "tech-20261102-015",
+      "date": "2026-11-02",
+      "title": "闪迪 Q1 财报后股价大跌，盈利争论升温",
+      "summary": "闪迪第一财季财报发布后股价大跌，市场对其盈利持续性产生分歧。存储涨价周期能否真正转化为可持续利润，成为多空双方争论的焦点，NAND 行情的分歧正在加大，存储板块波动或延续。",
+      "time": "02:08",
+      "outlet": "Yahoo Finance",
+      "first_party": false,
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sandisk-sndk-stock-price-sinks-180823694.html?.tsrc=rss",
+      "company": "闪迪",
+      "company_en": "SanDisk",
+      "ticker": "SNDK",
+      "section": "硬件存储",
+      "tags": [
+        "股价异动"
+      ]
+    },
+    {
+      "id": "tech-20261102-016",
+      "date": "2026-11-02",
+      "title": "ServiceNow 收购以色列初创公司 Sweep",
+      "summary": "ServiceNow 确认收购以色列初创公司 Sweep，以加速客户向其 CRM 平台迁移，交易价格未披露、估计达数亿美元。企业软件并购继续围绕 AI 工作流展开。",
+      "time": "03:50",
+      "outlet": "Techmeme",
+      "first_party": false,
+      "url": "https://www.techmeme.com/261101/p14#a261101p14",
+      "company": "ServiceNow",
+      "company_en": "ServiceNow",
+      "ticker": "NOW",
+      "section": "软件云AI",
+      "tags": [
+        "并购"
+      ]
+    },
+    {
+      "id": "tech-20261102-017",
+      "date": "2026-11-02",
+      "title": "英国女政客因 Grok deepfake 起诉马斯克的 xAI",
+      "summary": "一名英国女政客因 Grok 生成其 deepfake 内容，正起诉马斯克的 xAI。AI 生成内容的肖像权与平台责任争议在英国进入司法程序，此案或成标志性判例。",
+      "time": "03:04",
+      "outlet": "WIRED",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16dzVnc1RPU2NaNXhIcHFJRGRTcmR1bzUxNFFXNUk1aFNKWkVBSXB0VUtsLWlTalJUbUhGSmtsaHVGVzh5bHRKWHB3TFVJeW9taW9PS2NNVWhCb3pPdHdLcUpnU050YVVfeXc?oc=5",
+      "company": "xAI",
+      "company_en": "xAI",
+      "ticker": null,
+      "section": "AI前沿",
+      "tags": [
+        "诉讼"
+      ]
+    },
+    {
+      "id": "tech-20261102-018",
+      "date": "2026-11-02",
+      "title": "马斯克暗示将建设更多数据中心",
+      "summary": "马斯克在谈及 SpaceXAI 孟菲斯设施时暗示将建设更多数据中心。xAI 的算力扩张提速，但其数据中心的环境与社区争议也在同步升温，扩张速度与合规成本的平衡成为看点。",
+      "time": "03:19",
+      "outlet": "Yahoo Finance",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYkM5ODZFUGs0ZUhHelJQYnlNXzNwNGE0U3JZcnhDMEtVdXhfUjFqRjNhVWtydDM0dy1WcGdNRzRxRFNCbmVYcURJdEVvbmlsVFdNU29UN1hxNUdjcWJYNkFsa0hybnFaWHhpTm9PYmY2SnN4ckp6NkQ0MVpiYmJzM0lUZ1FrOG9RWHoyQzBYTHpTc0E?oc=5",
+      "company": "xAI",
+      "company_en": "xAI",
+      "ticker": null,
+      "section": "AI前沿",
+      "tags": [
+        "突发"
+      ]
+    },
+    {
+      "id": "tech-20261102-019",
+      "date": "2026-11-02",
+      "title": "腾讯云掌门人：AI 需求足以支撑资本开支",
+      "summary": "腾讯云掌门人表示，AI 需求足以支撑当前的资本开支强度，并称将打“长期战”修补短板。中国云厂商同样在为 AI 算力重注，资本开支竞赛延续，长期主义成为行业共识。",
+      "time": "08:00",
+      "outlet": "Bloomberg",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVnBodTluRDhGdjBPRDczSUo5Rzd6N0pfa0ZlRWh3SHhDOV9yQWUwNEtiWGVzYl9rMnROZ29acWtCVGxocGh6VFdITWttV05DZ0Z3bjF1ZXlfWlpQNVo3RFF5YzJoTlVTb25RN3hYTWpObGdraWFPSnA5dFVlTi03LXp4MnVIaXZTWXRodldnZDJNQy1KUC1oWEtfYjJ5dmVyai1HS1AtZFM?oc=5",
+      "company": "腾讯",
+      "company_en": "Tencent",
+      "ticker": null,
+      "section": "AI前沿",
+      "tags": [
+        "突发"
+      ]
+    },
+    {
+      "id": "tech-20261102-020",
+      "date": "2026-11-02",
+      "title": "CrowdStrike 等网络安全股年内股价翻倍",
+      "summary": "CrowdStrike、Palo Alto Networks、Okta 年内股价均已翻倍，网络安全成为今年表现最强的板块之一。AI 驱动的安全支出增长，是支撑估值的核心逻辑。",
+      "time": "22:44",
+      "outlet": "Stocktwits",
+      "first_party": false,
+      "url": "https://stocktwits.com/news-articles/markets/equity/crwd-panw-okta-stocks-doubled-this-year-whats-driving-cybersecurity-rally/cNGetEDR92I?.tsrc=rss",
+      "company": "CrowdStrike",
+      "company_en": "CrowdStrike",
+      "ticker": "CRWD",
+      "section": "网络安全",
+      "tags": [
+        "股价异动"
+      ]
+    },
+    {
+      "id": "tech-20261102-021",
+      "date": "2026-11-02",
+      "title": "谷歌能源主管：太空数据中心成本可达地面 100 倍",
+      "summary": "谷歌数据中心能源负责人称，太空数据中心的成本可达地面的 100 倍；美国电力供应充足，但审批缓慢才是瓶颈。这番表态给“上天建数据中心”的炒作泼了冷水，地面数据中心的能效与审批优化才是现实路径。",
+      "time": "01:05",
+      "outlet": "Techmeme",
+      "first_party": false,
+      "url": "https://www.techmeme.com/261101/p10#a261101p10",
+      "company": "Alphabet",
+      "company_en": "Alphabet",
+      "ticker": null,
+      "section": "权重科技",
+      "tags": [
+        "突发"
+      ]
+    },
+    {
+      "id": "tech-20261102-022",
+      "date": "2026-11-02",
+      "title": "AI 大厂支持新的反爬虫退出机制",
+      "summary": "包括 OpenAI 在内的 AI 大厂正支持一种新的退出机制，让内容方更方便地拒绝被抓取训练。AI 训练数据的版权博弈出现新工具，出版商的话语权正在上升，授权合作模式或加速。",
+      "time": "04:26",
+      "outlet": "The Verge",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOU5qeERzcFEybnR3WlpRcnlNaUZvLWJMQlYxVnp1VmdaYWxYcmxRRm5WX2Y2a3oxRmMyVC1JenBOb0tkUkhrM3dFWmFfZDBLcWppSmtxczR4T0pGd05tS09tVlN1aERUZURtWU9iV3AxdW9fMU9RdEc5ZDhrb3FWZU8yT2g4V0FRUEl2aUNCaURUX1Nt?oc=5",
+      "company": "OpenAI",
+      "company_en": "OpenAI",
+      "ticker": null,
+      "section": "AI前沿",
+      "tags": [
+        "监管政策"
+      ]
+    },
+    {
+      "id": "tech-20261102-023",
+      "date": "2026-11-02",
+      "title": "亚马逊仓库机器人已超 100 万台",
+      "summary": "安迪·贾西称机器人将取代大量仓库重复性岗位，亚马逊仓库机器人数量已超 100 万台。电商物流自动化进入规模化阶段，仓储机器人需求持续放量，就业结构影响值得关注。",
+      "time": "19:44",
+      "outlet": "Stocktwits",
+      "first_party": false,
+      "url": "https://stocktwits.com/news-articles/markets/equity/googl-market-cap-500b-google-search-share-50-david-sacks-good-thing/cNGe8XsR92b?.tsrc=rss",
+      "company": "亚马逊",
+      "company_en": "Amazon",
+      "ticker": "GOOGL",
+      "section": "机器人",
+      "tags": [
+        "突发"
+      ]
+    }
+  ],
+  "breaking": []
+}
