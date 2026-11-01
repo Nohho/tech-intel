@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>科技情报站 Tech Intel（紧凑流草稿）</title>
+<style>
+:root{
+  --acc:#007256; --accB:#007d62; --accD:#005841;
+  --ink:#1c2733; --ink2:#26423a; --mut:#64748b; --line:#e2eae7;
+  --bg:#f2f5f4; --card:#fff;
+  --tagbg:#e0f1fd; --tagtx:#0369a1;   /* 天蓝标签（现版同款） */
+  --red:#e0654f;                       /* 头条徽章红 */
+}
+*{box-sizing:border-box;margin:0;padding:0;-webkit-tap-highlight-color:transparent}
+body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;background:var(--bg);color:var(--ink);font-size:15px;line-height:1.7;text-wrap:pretty}
+header.top{background:linear-gradient(120deg,var(--accB) 0%,var(--acc) 55%,var(--accD) 100%);color:#fff;padding:20px 16px 12px}
+header.top h1{font-size:20px;letter-spacing:.5px}
+.draftpill{display:inline-block;font-size:11px;font-weight:800;color:#1c2b4a;background:#ffe9a8;border-radius:10px;padding:2px 10px;margin-left:8px;vertical-align:3px}
+header.top .sub{font-size:12.5px;color:#d7ebe3;margin-top:6px}
+header.top .sub b{color:#ffe9a8}
+.fbar{margin-top:10px;display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.fbar input{flex:1 1 180px;border:1px solid rgba(255,255,255,.35);background:rgba(255,255,255,.12);border-radius:12px;padding:8px 12px;font-size:13px;color:#fff;font-family:inherit;outline:none}
+.fbar input::placeholder{color:#bcd8cd}
+.fchips{display:flex;gap:6px;overflow-x:auto;padding-bottom:2px}
+.fchip{flex:none;font-size:12.5px;color:#dcefe8;border:1px solid rgba(255,255,255,.35);background:rgba(255,255,255,.08);border-radius:14px;padding:5px 12px;cursor:pointer;font-family:inherit;font-weight:600}
+.fchip.on{background:#fff;color:var(--ink2);font-weight:700;border-color:#fff}
+.rsmeta{font-size:12px;color:#bcd8cd;margin-top:6px;min-height:16px}
+main{max-width:780px;margin:0 auto;padding:6px 14px 30px}
+.dayhead{display:flex;align-items:baseline;gap:8px;margin:16px 2px 2px}
+.dayhead h2{font-size:17px;color:var(--ink2)}
+.dayhead .cnt{font-size:12px;color:var(--mut);font-weight:600}
+.stream{background:var(--card);border-radius:14px;padding:4px 16px;margin-top:8px;border:1px solid #eef2f7}
+/* 紧凑行：aihot 式单列时间流 */
+.srow{padding:11px 0;border-bottom:1px solid #eef2f7}
+.srow:last-child{border-bottom:none}
+.smeta{display:flex;align-items:center;gap:7px;flex-wrap:wrap;font-size:12px;color:var(--mut);margin-bottom:4px}
+.stime{font-weight:800;color:var(--ink2);font-size:13px;font-variant-numeric:tabular-nums}
+.stop{font-size:11px;font-weight:800;color:#fff;background:var(--red);border-radius:9px;padding:1px 8px}
+.sout{font-weight:700;color:var(--ink2);text-decoration:none}
+a.sout:hover{text-decoration:underline;text-underline-offset:2px}
+.fh{display:inline-block;font-size:11px;font-weight:700;color:#0a6b3a;background:#e6f4ec;border:1px solid #bfe3cd;border-radius:6px;padding:0 6px}
+.fr{display:inline-block;font-size:11px;font-weight:700;color:#5b6b82;background:#eef2f7;border:1px solid #dfe5ee;border-radius:6px;padding:0 6px}
+.srow h3{font-size:15.5px;margin:0 0 4px;line-height:1.5}
+.srow h3 a{color:var(--ink);text-decoration:none;font-weight:700}
+.srow h3 a:hover{text-decoration:underline;text-underline-offset:3px}
+.ssum{font-size:13.5px;color:#33475c;margin:0 0 6px}
+.stagrow{display:flex;align-items:center;gap:6px;flex-wrap:wrap;font-size:12px;color:var(--mut)}
+.tag{font-size:12px;background:var(--tagbg);color:var(--tagtx);padding:2px 9px;border-radius:11px;font-weight:600}
+.empty{padding:26px 0;text-align:center;color:var(--mut);font-size:14px}
+footer.site{font-size:12px;color:var(--mut);text-align:center;padding:18px 16px 34px;line-height:1.9}
+mark.hl{background:#fff3b0;border-radius:3px;padding:0 1px}
+</style>
+</head>
+<body>
+<header class="top">
+  <h1>科技情报站 Tech Intel<span class="draftpill">紧凑流草稿 · 不上线</span></h1>
+  <div class="sub" id="subline"></div>
+  <div class="fbar">
+    <input id="q" placeholder="搜索本页内容…" autocomplete="off" spellcheck="false" oninput="__setQ(this.value)">
+    <div class="fchips" id="chips"></div>
+  </div>
+  <div class="rsmeta" id="rsmeta"></div>
+</header>
+<main>
+  <div class="dayhead"><h2 id="daytitle"></h2><span class="cnt" id="daycnt"></span></div>
+  <div class="stream" id="stream"></div>
+</main>
+<footer class="site">
+  <b>科技情报站 Tech Intel</b> · 草稿（aihot 紧凑流风格）<br>
+  数据来自每日公开信息核实汇总，仅作科技行业研究参考 · 不涉及证券买卖建议
+</footer>
+<script>
+"use strict";
+const DATA=[{"id": "tech-20261101-001", "title": "Meta 与傅利叶合作开发人形机器人样机，三个月建成", "summary": "Meta 与中国具身智能公司傅利叶合作，仅用三个月就造出人形机器人样机，Meta 还在组建第二支团队。这是 Meta 首次披露人形机器人硬件进展，意味着其 AI 战略从软件向具身智能延伸。", "tags": ["战略合作"], "outlet": "Reuters", "first_party": false, "date": "2026-11-01", "time": "00:14", "company": "Meta Platforms", "ticker": "META", "section": "权重科技", "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdTFWdC1PaTBpUG1YSmt0aW9XWTNEdzJsdjRYeUtCd1FfUGVXNlBuYUpGemJVUXZTM2IxTkExZ3BOSy1MblBvdjhrYUY0VDY2LS1BVnhJTU5YYVR1RzFDMzk2SUtKTjR2QmNSZkx0VDlkcm55ZEthSGp3Nms0WlBPaFN2MzJ0SWhsbFhVV1dTZEdwdF8tSTNCUU5hVHV0N0dkZGlmNF9oQnh0dkcwQ3J6NWVPVVVBeV9vWFNYcA?oc=5", "isTop": true}, {"id": "tech-20261101-002", "title": "OpenAI 最新一轮融资仅获约 110 亿美元承诺，不到原目标一半", "summary": "OpenAI 本轮融资目前只拿到约 110 亿美元承诺，远低于最初 300 亿美元的目标，公司预计未来几周继续募资。AI 融资热潮出现降温信号，资本市场对大模型烧钱模式的耐心正在被考验。", "tags": ["融资"], "outlet": "Techmeme", "first_party": false, "date": "2026-11-01", "time": "10:30", "company": "OpenAI", "ticker": null, "section": "AI前沿", "url": "https://www.techmeme.com/261030/p31#a261030p31", "isTop": true}, {"id": "tech-20261101-003", "title": "Anthropic 警告：Cursor 插件市场出现篡改版 Claude Code", "summary": "Anthropic 披露，有恶意行为者利用 Cursor 插件市场的访问权限，发布了被篡改的 Claude Code 扩展副本，而该扩展并非官方发布。开发者需警惕供应链投毒风险。", "tags": ["突发"], "outlet": "Techmeme", "first_party": false, "date": "2026-11-01", "time": "13:00", "company": "Anthropic", "ticker": null, "section": "AI前沿", "url": "https://www.techmeme.com/261031/p2#a261031p2", "isTop": true}, {"id": "tech-20261101-004", "title": "标普将 Meta 展望下调至负面，10 月股价跌 15% 创四年最差单月", "summary": "标普以高资本开支和负自由现金流为由，将 Meta 评级展望从稳定下调至负面。Meta 10 月股价下跌 15%，为四年来最差单月，市场对 AI 基建投入回报的担忧正在定价。", "tags": ["股价异动"], "outlet": "Techmeme", "first_party": false, "date": "2026-11-01", "time": "13:10", "company": "Meta Platforms", "ticker": "META", "section": "权重科技", "url": "https://www.techmeme.com/261031/p3#a261031p3", "isTop": true}, {"id": "tech-20261101-005", "title": "亚马逊大跌：AI 开支盖过五年最快云增长", "summary": "亚马逊云业务创下五年来最快增速，但 AI 资本开支的规模盖过了增长故事，股价大跌。投资者对科技巨头 AI 投入回报的耐心正在耗尽，这个财报季成了 AI 资本开支的审判场。", "tags": ["财报", "股价异动"], "outlet": "Reuters", "first_party": false, "date": "2026-11-01", "time": "04:06", "company": "亚马逊", "ticker": "AMZN", "section": "权重科技", "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQXhDSjU4RmlrZmUyT0E5dzJNbmJNaXBBdGhndktXeGUtZVItTWlpNDBZcXR5LTZDMjFOdzdXenRpTnhNd01pZXBXX0V0OTVlYkMtVlJnN2l4YS1QeENxeWlzUUN6bDZkeThpc1VBMUZDQjFYcGxrQWFrVzBVOXdueV9Tb0drZjZ4T3JYWmRXS2MwWnMwMGpoT05FU1lUVWhRbXlPZEpYUjZQbnlrQWh3SGdsTQ?oc=5", "isTop": true}, {"id": "tech-20261101-006", "title": "微软云销售增长，显现 AI 投入回报", "summary": "微软财报显示云业务销售加速，AI 相关投入开始兑现为收入。与亚马逊、Meta 的遭遇不同，市场暂时认可了微软的 AI 资本开支节奏，Azure 成为财报季为数不多的亮点。", "tags": ["财报"], "outlet": "Bloomberg", "first_party": false, "date": "2026-11-01", "time": "21:32", "company": "微软", "ticker": "MSFT", "section": "权重科技", "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMFplZTkxUEdqUExRU0N0UHdSdGNtNWZzWVAxd1hrTXZNa3NCQVFXUXJxcW9icjhXZ0x3ZTVNS2NmRVhlT1lEYnQ0a2VPNG5zem1fQWRpTnZNdkNuRkZtdHJkVDUzSlA5MmNZOEF2ZUlCaERpLTdzUFdqUGtqaEMtZFlWRlU5aU5ZMEN3NTU4bjZsMHE2WHFBemx2cEFCcXlpeHRfendMa1Y1b2lFWWQ0?oc=5", "isTop": true}, {"id": "tech-20261101-007", "title": "传 Marvell 洽购光学资产，已进入深入谈判", "summary": "Marvell 据报正在就收购一家光学资产进行深入谈判。交易若落地，将强化其在 AI 光互联领域的布局，光模块赛道整合正在加速，数据中心对高速光互联的需求是直接推手。", "tags": ["并购"], "outlet": "Yahoo Finance", "first_party": false, "date": "2026-11-01", "time": "09:10", "company": "美满电子", "ticker": "MRVL", "section": "芯片半导体", "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLTZ5VzVmcVR6LUZFQzZrRHY2cHhBTzFsUnN0UHR3cWZDeVdMNTBYRHRoR0VxeGFfNGhZSE00dVo2bXBCVWxfOFZBWi01dFhsTUpXWnRpWk1SMGl4YXVyN3pvTExjVnM4QnE4RF9OS3gyckMzQl9wU21YcVl5aExfb1AxZ1o0SDNqbFlhZXRSOURvbThCRkdVV21yZlZZemNwZjdJRWVPTnhPTHhS?oc=5", "isTop": true}, {"id": "tech-20261101-008", "title": "CoreWeave、Nebius 等 neocloud 近几周被债券市场拒之门外", "summary": "CoreWeave、Nebius、Nscale 近几周实际上被债券市场拒之门外，贷方要求更苛刻的条款。AI 算力租赁商的高杠杆扩张模式正遭遇融资端考验，钱荒可能先于算力荒到来。", "tags": ["融资"], "outlet": "Techmeme", "first_party": false, "date": "2026-11-01", "time": "13:15", "company": "CoreWeave", "ticker": "CRWV", "section": "软件云AI", "url": "https://www.techmeme.com/261031/p4#a261031p4", "isTop": true}, {"id": "tech-20261101-009", "title": "高通联手 Anduril 打造美国本土供应链笔记本", "summary": "高通与防务科技公司 Anduril 合作，推出基于美国本土供应链的新款笔记本产品线。这是芯片厂商切入 AI PC 与供应链安全叙事的重要一步，本土制造正成为新的政治正确。", "tags": ["战略合作"], "outlet": "Reuters", "first_party": false, "date": "2026-11-01", "time": "03:47", "company": "高通", "ticker": "QCOM", "section": "芯片半导体", "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNajY3REVkVWNuQ0FsZmlDYnh3aVVMYTBHRlp0NVhXTEJqa0cwYktaelNHeG1lLWppTjdaV0g4eHhfV3dxNHFqOEJ1UEI3RXl5VWMxMEtnUXM2eGxfdi1fQ0RVdUR5TzhUeW5pZEJqbTZiVEtqbjBGQWxjRjltbkNEb0pXdTltZFVoVDA1dHpMTWFTcGJPaUlRWFNGckd0TnRTZ1hGTnZqMkJTdU9pQWtNcFhn?oc=5", "isTop": true}, {"id": "tech-20261101-010", "title": "苹果 John Ternus：不想为 AI 而做 AI", "summary": "苹果硬件负责人 John Ternus 表示，苹果不想为了 AI 而做 AI；库克在政策事务上随叫随到。这番表态延续了苹果对生成式 AI 的一贯谨慎姿态，与对手的高举高打形成鲜明对比。", "tags": ["AI 模型"], "outlet": "Techmeme", "first_party": false, "date": "2026-11-01", "time": "12:30", "company": "苹果", "ticker": "AAPL", "section": "权重科技", "url": "https://www.techmeme.com/261031/p1#a261031p1", "isTop": true}, {"id": "tech-20261101-011", "title": "谷歌正与美国防部洽谈，为金穹导弹防御计划提供数据安全保障", "summary": "谷歌正与美国国防部洽谈一项新合作，为金穹导弹防御计划所用软件的数据安全提供保障。科技巨头与国防订单的绑定正在继续加深，Alphabet 的政企生意越做越大。谈判若落地，谷歌云的政府订单基本盘将进一步夯实。", "tags": ["战略合作"], "outlet": "Techmeme", "first_party": false, "date": "2026-11-01", "time": "06:50", "company": "Alphabet", "ticker": "GOOGL", "section": "权重科技", "url": "https://www.techmeme.com/261030/p28#a261030p28", "isTop": false}, {"id": "tech-20261101-012", "title": "Meta 在出版商反对后无限期推迟新商业条款上线", "summary": "Meta 在出版商表达担忧后，无限期推迟了新商业条款的推出。此前条款被指对内容方不利，平台与出版商之间的博弈还在继续，监管的影子若隐若现。这是 Meta 今年第二次在商业条款上让步，姿态明显放软。", "tags": ["监管政策"], "outlet": "Reuters", "first_party": false, "date": "2026-11-01", "time": "02:39", "company": "Meta Platforms", "ticker": "META", "section": "权重科技", "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYmxxX0JFWUowUGY3OXdUSDhwZkkyampiYmZUbnNVOF8tVXNMdExmTWp1TVBFTmQxQkluZUp5UHg2QTZTS1JkSlMxV0VWRURtSlZZai1COUFOYUF6RHo3aDZfMUJ1Y2NWSFI1QXQ5cExYUlgyQ1VUWkFYSkZmNlJjWFZYR01sYjVhOFFUb1RMc0hVUXBDSDh3QkN2OUk2U2FoUnFLVjhxOGFzaWNWZHYzZVFKR2Z3eC1xMWRSX1QxTzZoR2NGaWNJR1laMHBuZw?oc=5", "isTop": false}, {"id": "tech-20261101-013", "title": "Meta 与青少年就社交媒体致抑郁指控达成和解", "summary": "Meta 在庭审期间与一名青少年就社交媒体导致抑郁和进食障碍的指控达成和解。这起案件曾被视为社交平台责任认定的指标性试金石，和解让判例的形成按下了暂停键。案件和解后，同类诉讼的走向仍不明朗，行业都在盯着下一案。", "tags": ["诉讼"], "outlet": "Reuters", "first_party": false, "date": "2026-11-01", "time": "03:03", "company": "Meta Platforms", "ticker": "META", "section": "权重科技", "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZEsxYWRtSE5MdDd1Ujk5R3N2M1FFeVJ2T2d6bGh5NXg5dEdEV3ZmRDhOMXNVeWxOeUk3aFRwU2pnV19mVHo1RmNJNmZpU0xZWGpPSDdXOEpRcEFfSXMwdjVWeER1eGF6SDNZQWlzSGhFUGZZZFQzWmZfUE1oT3JWd1MtZ0VkYXFGbGkxVDFZNFZDTElhNVh1NDk2eVFMM3ZoREtqRUR4b1oyV0pmUDZCbnZRS1NJQQ?oc=5", "isTop": false}, {"id": "tech-20261101-014", "title": "亚马逊 Q3 财报后股价走低，市场解读为利润重置", "summary": "亚马逊三季报后股价下滑，市场将之解读为利润重置。云增长虽快，但 AI 开支正在压缩利润空间，投资者用脚投票，华尔街的算盘一向打得很精。接下来要看 AWS 的资本开支指引能否稳住市场情绪。", "tags": ["财报"], "outlet": "Yahoo Finance", "first_party": false, "date": "2026-11-01", "time": "23:13", "company": "亚马逊", "ticker": "AMZN", "section": "权重科技", "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-amzn-stock-slips-q3-151326000.html?.tsrc=rss", "isTop": false}, {"id": "tech-20261101-015", "title": "英特尔 Q3：数据中心强劲增长抵消 PC 疲软", "summary": "英特尔三季度数据中心业务增长强劲，抵消了 PC 端的疲软。但供应链约束给未来展望带来压力，复苏成色仍待观察，转型故事恐怕还得再讲几个季度。分析师关注的焦点，已从市场份额转向供应链的交付能力。", "tags": ["财报"], "outlet": "Yahoo Finance", "first_party": false, "date": "2026-11-01", "time": "01:55", "company": "英特尔", "ticker": "INTC", "section": "芯片半导体", "url": "https://finance.yahoo.com/markets/stocks/articles/intc-q3-deep-dive-strong-175529416.html?.tsrc=rss", "isTop": false}, {"id": "tech-20261101-016", "title": "传 Marvell 收购消息刺激 Lumentum 股价跳涨", "summary": "受 Marvell 可能发起收购的消息刺激，Lumentum 股价大幅跳涨。市场把这笔潜在交易视为光模块行业整合加速的信号，卖方股东自然乐见其成。接下来就看 Marvell 是否会正式发出要约，靴子何时落地。", "tags": ["并购", "股价异动"], "outlet": "Yahoo Finance", "first_party": false, "date": "2026-11-01", "time": "20:08", "company": "鲁门特姆", "ticker": "LITE", "section": "硬件存储", "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMXRVVmV5MHpoNEI5eVR6amlJVVNLMUZOUEpoR2lVTUhveG9vOG5EaUFFWFpwMmlNYzUwRWp4Y21fUFZuUE5EaTBHbXVfbkFiSEY3N0V5TGxreGhMX0pxYXJsQ3Vfd0E4cVI0MXhKcmFablNENnRvVVpLcGZ5OXREUlhLbFBCLUZjaHlJU0JuMHdfZlBMMUo5MG1xTDY3OW1idy1tTE9oVkxDRW13d0ZFdkdOZTlkX1RWVzVqVDR1dW5oOFZn?oc=5", "isTop": false}, {"id": "tech-20261101-017", "title": "TikTok 从餐厅指南做到支付，超级应用版图扩张", "summary": "TikTok 正从餐厅指南一路做到支付，超级应用的拼图越来越完整。字节跳动在本地生活与金融领域的野心已经藏不住了，现有巨头们恐怕要打起精神。下一步就看支付牌照与合规这道坎要怎么过。", "tags": ["战略合作"], "outlet": "Yahoo Finance", "first_party": false, "date": "2026-11-01", "time": "23:41", "company": "字节跳动", "ticker": null, "section": "AI前沿", "url": "https://finance.yahoo.com/sectors/technology/articles/tiktok-road-becoming-super-app-130000920.html?.tsrc=rss", "isTop": false}, {"id": "tech-20261101-018", "title": "OpenAI 悬赏 5000 美元：上报可致登录会话执行代码的漏洞", "summary": "研究人员上报了一个漏洞：攻击者可借此在打开了黑客 ChatGPT 分享链接的登录会话中执行代码。OpenAI 为此支付了 5000 美元赏金，分享链接的安全边界值得注意。", "tags": ["突发"], "outlet": "Techmeme", "first_party": false, "date": "2026-11-01", "time": "03:01", "company": "OpenAI", "ticker": null, "section": "AI前沿", "url": "https://www.techmeme.com/261031/p11#a261031p11", "isTop": false}];
+const esc=s=>String(s==null?"":s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const SECTIONS=["权重科技","芯片半导体","软件云AI","硬件存储","网络安全","AI前沿"];
+const TOTAL_COS=57;
+let _Q="",_SEC="all";
+function sortRows(a){return a.slice().sort((x,y)=>String(y.date+" "+(y.time||"")).localeCompare(String(x.date+" "+(x.time||""))));}
+function fpBadge(it){return it.first_party?'<span class="fh">一手</span>':'<span class="fr">转载</span>';}
+function topBadge(it){return it.isTop?'<span class="stop">头条</span>':'';}
+function coLabel(it){return it.company?it.company+(it.ticker?" "+it.ticker:""):"";}
+function rowHTML(it){
+  const src=it.url?`<a class="sout" href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.outlet||"")}</a>`:`<span class="sout">${esc(it.outlet||"")}</span>`;
+  const ttl=it.url?`<a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a>`:esc(it.title);
+  const tags=(it.tags||[]).map(x=>`<span class="tag">${esc(x)}</span>`).join("");
+  return `<div class="srow" data-sec="${esc(it.section||"")}">`
+    +`<div class="smeta"><span class="stime">${esc(it.time||"--:--")}</span>${topBadge(it)}<span>·</span>${src}${fpBadge(it)}</div>`
+    +`<h3>${ttl}</h3>`
+    +(it.summary?`<p class="ssum">${esc(it.summary)}</p>`:"")
+    +`<div class="stagrow"><span>${esc(coLabel(it))}</span><span>·</span><span>${esc(it.section||"")}</span>${tags}</div>`
+    +`</div>`;
+}
+function filtered(){
+  const q=_Q.trim().toLowerCase();
+  return sortRows(DATA).filter(it=>
+    (_SEC==="all"||it.section===_SEC)&&
+    (!q||((it.title||"")+" "+(it.summary||"")+" "+(it.company||"")+" "+(it.outlet||"")+" "+(it.tags||[]).join(" ")).toLowerCase().includes(q)));
+}
+function hl(q,html){
+  if(!q)return html;
+  const re=new RegExp("("+q.replace(/[.*+?^${}()|[\]\\]/g,"\\$&")+")","gi");
+  return html.replace(re,"<mark class=\"hl\">$1</mark>");
+}
+function render(){
+  const list=filtered();
+  const q=_Q.trim();
+  document.getElementById("stream").innerHTML=list.length?list.map(it=>hl(q,rowHTML(it))).join(""):'<div class="empty">无匹配内容</div>';
+  const m=document.getElementById("rsmeta");
+  if(m)m.textContent=q?`${list.length} 条匹配`:`共 ${list.length} 条`;
+}
+function renderChips(){
+  const secs=SECTIONS.filter(s=>DATA.some(d=>d.section===s));
+  document.getElementById("chips").innerHTML=[["all","全部"]].concat(secs.map(s=>[s,s]))
+    .map(([v,lb])=>`<button class="fchip${_SEC===v?" on":""}" data-v="${esc(v)}" onclick="__setSEC('${esc(v)}')">${esc(lb)}</button>`).join("");
+}
+function __setQ(v){_Q=v;render();}
+function __setSEC(v){_SEC=v;renderChips();render();}
+function init(){
+  if(typeof document==="undefined"||!document.getElementById)return;
+  const cov=new Set(DATA.map(d=>d.company).filter(Boolean)).size;
+  document.getElementById("subline").innerHTML=
+    `今日覆盖 <b>${cov}</b>/${TOTAL_COS} 家 · 今日 <b>${DATA.length}</b> 条 · 数据截至今日 07:30（CST），覆盖近 5 天`;
+  const d0=DATA.length?DATA[0].date:"";
+  const wk={"0":"星期日","1":"星期一","2":"星期二","3":"星期三","4":"星期四","5":"星期五","6":"星期六"};
+  let w="";
+  try{w=wk[String(new Date(d0+"T12:00:00").getDay())]||"";}catch(e){}
+  document.getElementById("daytitle").textContent=d0?`${d0.slice(5)} ${w}`:"";
+  document.getElementById("daycnt").textContent=`${DATA.length} 条`;
+  renderChips();
+  render();
+}
+init();
+</script>
+</body>
+</html>
