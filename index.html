@@ -4,16 +4,16 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>科技情报站 Tech Intel</title>
-<meta name="description" content="科技情报站 Tech Intel：57 家科技公司每日科技头条（领袖头条 + 公司动态，含 AI 前沿）。每天 07:30 前更新。">
+<meta name="description" content="科技情报站 Tech Intel：81 家科技公司每日科技头条（领袖头条 + 公司动态，含 AI 前沿）。每天 07:30 前更新。">
 <link rel="canonical" href="https://nohho.github.io/tech-intel/">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="科技情报站 Tech Intel">
 <meta property="og:url" content="https://nohho.github.io/tech-intel/">
 <meta property="og:title" content="科技情报站 Tech Intel">
-<meta property="og:description" content="57 家科技公司每日科技头条：领袖头条 + 公司动态">
+<meta property="og:description" content="81 家科技公司每日科技头条：领袖头条 + 公司动态">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="科技情报站 Tech Intel">
-<meta name="twitter:description" content="57 家科技公司每日科技头条">
+<meta name="twitter:description" content="81 家科技公司每日科技头条">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%230284c7'/%3E%3Ctext x='32' y='42' font-size='30' text-anchor='middle' fill='white' font-family='sans-serif' font-weight='bold'%3ET%3C/text%3E%3C/svg%3E">
 <style>
 :root{
@@ -89,8 +89,8 @@ mark.hl{background:#fff3b0;border-radius:3px;padding:0 1px}
 let DATA=[];
 let CURDATE="";
 const esc=s=>String(s==null?"":s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
-const SECTIONS=["权重科技","芯片半导体","软件云AI","硬件存储","网络安全","AI前沿"];
-const TOTAL_COS=57;
+const SECTIONS=["权重科技","芯片半导体","软件云AI","硬件存储","网络安全","AI前沿","机器人"];
+const TOTAL_COS=81;
 let _Q="",_SEC="all";
 function sortRows(a){return a.slice().sort((x,y)=>String(y.date+" "+(y.time||"")).localeCompare(String(x.date+" "+(x.time||""))));}
 function fpBadge(it){return it.first_party?'<span class="fh">一手</span>':'<span class="fr">转载</span>';}
