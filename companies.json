@@ -144,6 +144,18 @@
     ]
   },
   {
+    "id": "cisco",
+    "cn": "思科",
+    "en": "Cisco Systems",
+    "ticker": "CSCO",
+    "section": "权重科技",
+    "tier": "A",
+    "keywords": [
+      "Cisco Systems",
+      "CSCO"
+    ]
+  },
+  {
     "id": "texas-instruments",
     "cn": "德州仪器",
     "en": "Texas Instruments",
@@ -167,7 +179,7 @@
       "Qualcomm",
       "QCOM"
     ],
-    "batch": "b2"
+    "batch": "b1"
   },
   {
     "id": "analog-devices",
@@ -180,7 +192,7 @@
       "Analog Devices",
       "ADI"
     ],
-    "batch": "b3"
+    "batch": "b1"
   },
   {
     "id": "applied-materials",
@@ -206,7 +218,7 @@
       "Lam Research",
       "LRCX"
     ],
-    "batch": "b2"
+    "batch": "b1"
   },
   {
     "id": "kla",
@@ -219,7 +231,7 @@
       "KLA Corporation",
       "KLAC"
     ],
-    "batch": "b3"
+    "batch": "b1"
   },
   {
     "id": "marvell",
@@ -245,7 +257,7 @@
       "NXP Semiconductors",
       "NXPI"
     ],
-    "batch": "b2"
+    "batch": "b1"
   },
   {
     "id": "microchip",
@@ -258,7 +270,7 @@
       "Microchip Technology",
       "MCHP"
     ],
-    "batch": "b3"
+    "batch": "b1"
   },
   {
     "id": "monolithic-power",
@@ -284,7 +296,7 @@
       "Astera Labs",
       "ALAB"
     ],
-    "batch": "b2"
+    "batch": "b1"
   },
   {
     "id": "intel",
@@ -297,7 +309,7 @@
       "Intel",
       "INTC"
     ],
-    "batch": "b3"
+    "batch": "b1"
   },
   {
     "id": "teradyne",
@@ -323,7 +335,7 @@
       "Arm Holdings",
       "ARM"
     ],
-    "batch": "b2"
+    "batch": "b1"
   },
   {
     "id": "adobe",
@@ -336,7 +348,7 @@
       "Adobe",
       "ADBE"
     ],
-    "batch": "b3"
+    "batch": "b1"
   },
   {
     "id": "intuit",
@@ -362,7 +374,7 @@
       "Autodesk",
       "ADSK"
     ],
-    "batch": "b2"
+    "batch": "b1"
   },
   {
     "id": "cadence",
@@ -375,7 +387,7 @@
       "Cadence Design Systems",
       "CDNS"
     ],
-    "batch": "b3"
+    "batch": "b1"
   },
   {
     "id": "synopsys",
@@ -401,7 +413,7 @@
       "Palantir Technologies",
       "PLTR"
     ],
-    "batch": "b2"
+    "batch": "b1"
   },
   {
     "id": "applovin",
@@ -414,7 +426,7 @@
       "AppLovin",
       "APP"
     ],
-    "batch": "b3"
+    "batch": "b1"
   },
   {
     "id": "datadog",
@@ -440,7 +452,7 @@
       "DoorDash",
       "DASH"
     ],
-    "batch": "b2"
+    "batch": "b1"
   },
   {
     "id": "workday",
@@ -453,7 +465,7 @@
       "Workday",
       "WDAY"
     ],
-    "batch": "b3"
+    "batch": "b2"
   },
   {
     "id": "shopify",
@@ -466,7 +478,7 @@
       "Shopify",
       "SHOP"
     ],
-    "batch": "b1"
+    "batch": "b2"
   },
   {
     "id": "coreweave",
@@ -492,7 +504,7 @@
       "Nebius Group",
       "NBIS"
     ],
-    "batch": "b3"
+    "batch": "b2"
   },
   {
     "id": "strategy",
@@ -505,7 +517,7 @@
       "Strategy",
       "MSTR"
     ],
-    "batch": "b1"
+    "batch": "b2"
   },
   {
     "id": "roper",
@@ -531,7 +543,7 @@
       "Thomson Reuters",
       "TRI"
     ],
-    "batch": "b3"
+    "batch": "b2"
   },
   {
     "id": "lumentum",
@@ -544,7 +556,7 @@
       "Lumentum",
       "LITE"
     ],
-    "batch": "b1"
+    "batch": "b2"
   },
   {
     "id": "sandisk",
@@ -570,7 +582,7 @@
       "Seagate Technology",
       "STX"
     ],
-    "batch": "b3"
+    "batch": "b2"
   },
   {
     "id": "western-digital",
@@ -583,7 +595,7 @@
       "Western Digital",
       "WDC"
     ],
-    "batch": "b1"
+    "batch": "b2"
   },
   {
     "id": "crowdstrike",
@@ -609,7 +621,7 @@
       "Palo Alto Networks",
       "PANW"
     ],
-    "batch": "b3"
+    "batch": "b2"
   },
   {
     "id": "fortinet",
@@ -622,7 +634,7 @@
       "Fortinet",
       "FTNT"
     ],
-    "batch": "b1"
+    "batch": "b2"
   },
   {
     "id": "openai",
@@ -646,7 +658,7 @@
     "keywords": [
       "Anthropic"
     ],
-    "batch": "b3"
+    "batch": "b2"
   },
   {
     "id": "xai",
@@ -658,7 +670,7 @@
     "keywords": [
       "xAI"
     ],
-    "batch": "b1"
+    "batch": "b2"
   },
   {
     "id": "deepseek",
@@ -684,7 +696,7 @@
       "ByteDance",
       "字节跳动"
     ],
-    "batch": "b3"
+    "batch": "b2"
   },
   {
     "id": "alibaba",
@@ -697,7 +709,7 @@
       "Alibaba",
       "阿里巴巴"
     ],
-    "batch": "b1"
+    "batch": "b2"
   },
   {
     "id": "tencent",
@@ -722,6 +734,308 @@
     "keywords": [
       "Baidu",
       "百度"
+    ],
+    "batch": "b2"
+  },
+  {
+    "id": "tsmc",
+    "cn": "台积电",
+    "en": "TSMC",
+    "ticker": "TSM",
+    "section": "芯片半导体",
+    "tier": "B",
+    "keywords": [
+      "TSMC",
+      "TSM"
+    ],
+    "batch": "b2"
+  },
+  {
+    "id": "oracle",
+    "cn": "甲骨文",
+    "en": "Oracle Corporation",
+    "ticker": "ORCL",
+    "section": "软件云AI",
+    "tier": "B",
+    "keywords": [
+      "Oracle Corporation",
+      "ORCL"
+    ],
+    "batch": "b3"
+  },
+  {
+    "id": "salesforce",
+    "cn": "Salesforce",
+    "en": "Salesforce",
+    "ticker": "CRM",
+    "section": "软件云AI",
+    "tier": "B",
+    "keywords": [
+      "Salesforce",
+      "CRM"
+    ],
+    "batch": "b3"
+  },
+  {
+    "id": "servicenow",
+    "cn": "ServiceNow",
+    "en": "ServiceNow",
+    "ticker": "NOW",
+    "section": "软件云AI",
+    "tier": "B",
+    "keywords": [
+      "ServiceNow",
+      "NOW"
+    ],
+    "batch": "b3"
+  },
+  {
+    "id": "figure-ai",
+    "cn": "Figure AI",
+    "en": "Figure AI",
+    "ticker": null,
+    "section": "机器人",
+    "tier": "B",
+    "keywords": [
+      "Figure AI"
+    ],
+    "batch": "b3"
+  },
+  {
+    "id": "agility-robotics",
+    "cn": "Agility Robotics",
+    "en": "Agility Robotics",
+    "ticker": null,
+    "section": "机器人",
+    "tier": "B",
+    "keywords": [
+      "Agility Robotics"
+    ],
+    "batch": "b3"
+  },
+  {
+    "id": "apptronik",
+    "cn": "Apptronik",
+    "en": "Apptronik",
+    "ticker": null,
+    "section": "机器人",
+    "tier": "B",
+    "keywords": [
+      "Apptronik"
+    ],
+    "batch": "b3"
+  },
+  {
+    "id": "1x",
+    "cn": "1X",
+    "en": "1X Technologies",
+    "ticker": null,
+    "section": "机器人",
+    "tier": "B",
+    "keywords": [
+      "1X Technologies",
+      "1X"
+    ],
+    "batch": "b3"
+  },
+  {
+    "id": "ubtech",
+    "cn": "优必选",
+    "en": "UBTECH Robotics",
+    "ticker": "9880",
+    "section": "机器人",
+    "tier": "B",
+    "keywords": [
+      "UBTECH Robotics",
+      "9880",
+      "优必选"
+    ],
+    "batch": "b3"
+  },
+  {
+    "id": "unitree",
+    "cn": "宇树科技",
+    "en": "Unitree Robotics",
+    "ticker": null,
+    "section": "机器人",
+    "tier": "B",
+    "keywords": [
+      "Unitree Robotics",
+      "宇树科技"
+    ],
+    "batch": "b3"
+  },
+  {
+    "id": "fourier",
+    "cn": "傅利叶",
+    "en": "Fourier Intelligence",
+    "ticker": null,
+    "section": "机器人",
+    "tier": "B",
+    "keywords": [
+      "Fourier Intelligence",
+      "傅利叶"
+    ],
+    "batch": "b3"
+  },
+  {
+    "id": "agibot",
+    "cn": "智元机器人",
+    "en": "AgiBot",
+    "ticker": null,
+    "section": "机器人",
+    "tier": "B",
+    "keywords": [
+      "AgiBot",
+      "智元机器人"
+    ],
+    "batch": "b3"
+  },
+  {
+    "id": "galbot",
+    "cn": "银河通用",
+    "en": "Galbot",
+    "ticker": null,
+    "section": "机器人",
+    "tier": "B",
+    "keywords": [
+      "Galbot",
+      "银河通用"
+    ],
+    "batch": "b3"
+  },
+  {
+    "id": "symbotic",
+    "cn": "Symbotic",
+    "en": "Symbotic Inc",
+    "ticker": "SYM",
+    "section": "机器人",
+    "tier": "B",
+    "keywords": [
+      "Symbotic Inc",
+      "SYM"
+    ],
+    "batch": "b3"
+  },
+  {
+    "id": "serve-robotics",
+    "cn": "Serve Robotics",
+    "en": "Serve Robotics Inc",
+    "ticker": "SERV",
+    "section": "机器人",
+    "tier": "B",
+    "keywords": [
+      "Serve Robotics Inc",
+      "SERV"
+    ],
+    "batch": "b3"
+  },
+  {
+    "id": "uipath",
+    "cn": "UiPath",
+    "en": "UiPath Inc",
+    "ticker": "PATH",
+    "section": "机器人",
+    "tier": "B",
+    "keywords": [
+      "UiPath Inc",
+      "PATH"
+    ],
+    "batch": "b3"
+  },
+  {
+    "id": "rockwell",
+    "cn": "罗克韦尔",
+    "en": "Rockwell Automation",
+    "ticker": "ROK",
+    "section": "机器人",
+    "tier": "B",
+    "keywords": [
+      "Rockwell Automation",
+      "ROK",
+      "罗克韦尔"
+    ],
+    "batch": "b3"
+  },
+  {
+    "id": "irobot",
+    "cn": "iRobot",
+    "en": "iRobot Corporation",
+    "ticker": "IRBT",
+    "section": "机器人",
+    "tier": "B",
+    "keywords": [
+      "iRobot Corporation",
+      "IRBT"
+    ],
+    "batch": "b3"
+  },
+  {
+    "id": "fanuc",
+    "cn": "发那科",
+    "en": "FANUC Corporation",
+    "ticker": "6954",
+    "section": "机器人",
+    "tier": "B",
+    "keywords": [
+      "FANUC Corporation",
+      "6954",
+      "发那科"
+    ],
+    "batch": "b3"
+  },
+  {
+    "id": "abb",
+    "cn": "ABB",
+    "en": "ABB Ltd",
+    "ticker": "ABB",
+    "section": "机器人",
+    "tier": "B",
+    "keywords": [
+      "ABB Ltd",
+      "ABB"
+    ],
+    "batch": "b3"
+  },
+  {
+    "id": "yaskawa",
+    "cn": "安川电机",
+    "en": "Yaskawa Electric",
+    "ticker": "6506",
+    "section": "机器人",
+    "tier": "B",
+    "keywords": [
+      "Yaskawa Electric",
+      "6506",
+      "安川电机"
+    ],
+    "batch": "b3"
+  },
+  {
+    "id": "estun",
+    "cn": "埃斯顿",
+    "en": "Estun Automation",
+    "ticker": "002747",
+    "section": "机器人",
+    "tier": "B",
+    "keywords": [
+      "Estun Automation",
+      "002747",
+      "埃斯顿"
+    ],
+    "batch": "b3"
+  },
+  {
+    "id": "inovance",
+    "cn": "汇川技术",
+    "en": "Inovance Technology",
+    "ticker": "300124",
+    "section": "机器人",
+    "tier": "B",
+    "keywords": [
+      "Inovance Technology",
+      "300124",
+      "汇川技术"
     ],
     "batch": "b3"
   }
