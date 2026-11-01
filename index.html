@@ -4,16 +4,16 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>科技情报站 Tech Intel</title>
-<meta name="description" content="科技情报站 Tech Intel：57 家科技公司每日 50 条头条（Top 10 领袖头条 + 40 条公司动态，含 AI 前沿 8 家）。每天 07:30 前更新。">
+<meta name="description" content="科技情报站 Tech Intel：57 家科技公司每日科技头条（领袖头条 + 公司动态，含 AI 前沿）。每天 07:30 前更新。">
 <link rel="canonical" href="https://nohho.github.io/tech-intel/">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="科技情报站 Tech Intel">
 <meta property="og:url" content="https://nohho.github.io/tech-intel/">
 <meta property="og:title" content="科技情报站 Tech Intel">
-<meta property="og:description" content="57 家科技公司每日 50 条头条：Top 10 领袖头条 + 40 条公司动态">
+<meta property="og:description" content="57 家科技公司每日科技头条：领袖头条 + 公司动态">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="科技情报站 Tech Intel">
-<meta name="twitter:description" content="57 家科技公司每日 50 条头条">
+<meta name="twitter:description" content="57 家科技公司每日科技头条">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%23007256'/%3E%3Ctext x='32' y='42' font-size='30' text-anchor='middle' fill='white' font-family='sans-serif' font-weight='bold'%3ET%3C/text%3E%3C/svg%3E">
 <style>
 :root{
@@ -144,11 +144,18 @@ details.sec summary{list-style:none;cursor:pointer;padding:12px 14px;font-weight
 details.sec summary::-webkit-details-marker{display:none}
 details.sec .body{padding:0 14px 12px}
 details.sec .cnt{font-size:12px;color:var(--mut);font-weight:600;white-space:nowrap}
-.citem{padding:11px 0;border-bottom:1px solid #f0f4f8}
+.citem{padding:8px 0;border-bottom:1px solid #f0f4f8}
 .citem:last-child{border-bottom:none;padding-bottom:2px}
-.citem h4{font-size:15px;color:var(--ink);margin:0 0 3px;line-height:1.5;font-weight:700}
+.citem h4{font-size:14.5px;color:var(--ink);margin:0 0 2px;line-height:1.5;font-weight:700}
 .citem h4 a{color:var(--ink);text-decoration:none}
 .citem h4 a:hover{text-decoration:underline;text-underline-offset:3px}
+/* 紧凑列表：时间+来源前置（AIHOT 扫读效率），标签后置 */
+.cmeta{font-size:12px;color:var(--mut);margin-bottom:3px;display:flex;align-items:center;gap:6px;flex-wrap:wrap}
+.ctime{font-weight:700;color:var(--ink2);font-variant-numeric:tabular-nums}
+.cout{font-weight:600;color:var(--ink2)}
+.citem .sum{font-size:13.5px;margin:2px 0 4px}
+.citem .tagrow{margin:2px 0 0}
+.citem .fh,.citem .fr{font-size:11px;padding:0 5px}
 .rubric{background:#fff;border-radius:14px;padding:14px;margin-bottom:12px;border:1px solid #eef2f7;font-size:14px}
 .rubric h4{color:var(--ink2);margin-bottom:8px;font-size:15px}
 footer.site{font-size:12px;color:var(--mut);text-align:center;padding:18px 16px 34px;line-height:1.9}
@@ -166,7 +173,7 @@ nav.secnav a .rn .ic{width:14px;height:14px;margin:0;vertical-align:middle}
 <body>
 <header class="top">
   <h1><span id="t_h1">科技情报站 Tech Intel</span><span class="live" id="t_live">每日更新</span><span class="issuepill" id="issuepill" style="display:none"></span></h1>
-  <div class="sub" id="t_sub">57 家科技公司 · Top 10 领袖头条 + 40 条公司动态 · 每天 07:30 前（CST）更新</div>
+  <div class="sub" id="t_sub">57 家科技公司 · 领袖头条 + 公司动态 · <span id="t_count"></span> · 每天 07:30 前（CST）更新</div>
   <div class="headline" id="headline" style="display:none"></div>
   <div class="dpills" id="dpills"></div>
   <div class="hdlinks"><button id="copylink" onclick="copyIssueLink()"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg>复制本期链接</button></div>
@@ -204,7 +211,7 @@ const ICO={
 const I18N={
 zh:{
  doc_title:"科技情报站 Tech Intel",h1:"科技情报站 Tech Intel",live:"每日更新",
- sub:"57 家科技公司 · Top 10 领袖头条 + 40 条公司动态 · 每天 07:15（CST）更新",
+ sub:"57 家科技公司 · 领袖头条 + 公司动态 · 每天 07:30 前（CST）更新",
 
  nav:["导读","今日头条 Top 10","公司动态"],
  filter_all:"全部",filter_co_all:"全部公司",
@@ -270,10 +277,17 @@ function topCard(e,i){
 /* ---- 公司动态：按 6 大板块分组（固定顺序），组内保持数组顺序（=热度） ---- */
 let _FSEC="all",_FCO="all";   /* 筛选状态：板块 chip / 公司 select */
 let _COSLIST=[];              /* 57 家公司中文名，boot 时从 companies.json 载入 */
+/* 时间+来源前置的紧凑行：meta(时间·来源·徽章·公司) / 标题 / 摘要 / 标签 */
+function cwhen(it){
+  const d=it.date?mmdd(it.date):"";
+  return it.time?`${d} ${it.time}`:d;
+}
 function citem(it){
   const co=it.company?`<span class="cochip">${ICO.bldg}${esc(coLabel(it))}</span>`:"";
   const ttl=it.url?`<a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a>`:esc(it.title);
-  return `<div class="citem">${co?`<div class="toprow" style="margin-bottom:2px">${co}</div>`:""}<h4>${ttl}</h4><div class="tagrow">${tags(it.tags)}<span class="edate">${esc(it.date||"")}</span></div>${it.summary?`<p class="sum">${esc(it.summary)}</p>`:""}${srcRow(it)}</div>`;
+  const badge=it.first_party?`<span class="fh">${esc(t("primary"))}</span>`:`<span class="fr">${esc(t("repost"))}</span>`;
+  const src=it.url?`<a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.outlet||"")}</a>`:esc(it.outlet||"");
+  return `<div class="citem"><div class="cmeta"><span class="ctime">${esc(cwhen(it))}</span><span>·</span><span class="cout">${src}</span>${badge}${co}</div><h4>${ttl}</h4>${it.summary?`<p class="sum">${esc(it.summary)}</p>`:""}<div class="tagrow">${tags(it.tags)}</div></div>`;
 }
 function filteredCN(){
   return (CUR.company_news||[]).filter(it=>
@@ -346,6 +360,9 @@ function renderMain(d){
   _FSEC="all";_FCO="all";   /* 换期时重置筛选 */
   const t10all=d.top10||[],cn=d.company_news||[];
   const t10=filteredT10();
+  /* 副标题动态条数：有一条算一条 */
+  const tc=$("#t_count");
+  if(tc){tc.textContent=`今日 ${t10all.length+cn.length} 条`;}
 
   /* ---- 顶部导读：今日 Top 3（全局，不跟随筛选）+ 覆盖率/截稿口径 ---- */
   const hl=$("#headline");
