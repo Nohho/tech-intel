@@ -14,538 +14,174 @@
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="科技情报站 Tech Intel">
 <meta name="twitter:description" content="57 家科技公司每日科技头条">
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%23007256'/%3E%3Ctext x='32' y='42' font-size='30' text-anchor='middle' fill='white' font-family='sans-serif' font-weight='bold'%3ET%3C/text%3E%3C/svg%3E">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%230284c7'/%3E%3Ctext x='32' y='42' font-size='30' text-anchor='middle' fill='white' font-family='sans-serif' font-weight='bold'%3ET%3C/text%3E%3C/svg%3E">
 <style>
 :root{
-  --acc:#007256;              /* oklch(0.48 0.115 172) 文字强调，对白底 6.16:1 */
-  --accB:#007d62;             /* oklch(0.52 0.11 172) 渐变亮端，白字 5.13:1 */
-  --accD:#005841;             /* oklch(0.40 0.10 172) 渐变暗端，白字 8.48:1 */
-  --ink:#1c2733; --ink2:#26423a;  /* 深青灰标题（oklch 0.36 0.04 195 近似） */
-  --mut:#64748b; --line:#e2eae7; --bg:#f2f5f4; --card:#fff;
-  --tint:#dbf1e9;             /* oklch(0.94 0.025 172) 浅青底 */
-  --tagbg:#e0f1fd;            /* 标签：淡蓝底 */
-  --tagtx:#0369a1;            /* 标签：天蓝字 */
-  --red:#e0654f;              /* 突发条红 */
-  --amber:#b3851f; --green:#1faa53;
+  --acc:#0284c7; --accB:#0ea5e9; --accD:#075985;
+  --ink:#1c2733; --ink2:#26423a; --mut:#64748b; --line:#e2eae7;
+  --bg:#f2f5f4; --card:#fff;
+  --tagbg:#e0f1fd; --tagtx:#0369a1;   /* 天蓝标签 */
+  --red:#e0654f;                       /* 头条徽章红 */
 }
 *{box-sizing:border-box;margin:0;padding:0;-webkit-tap-highlight-color:transparent}
-html{scroll-behavior:smooth}
-body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;background:var(--bg);color:var(--ink);font-size:15px;line-height:1.7;text-wrap:pretty;overflow-x:clip}
-a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible,summary:focus-visible{outline:2px solid var(--acc);outline-offset:2px}
-@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{animation:none!important}}
-header.top{background:linear-gradient(120deg,var(--accB) 0%,var(--acc) 55%,var(--accD) 100%);color:#fff;padding:20px 16px 14px}
+body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;background:var(--bg);color:var(--ink);font-size:15px;line-height:1.7;text-wrap:pretty}
+header.top{background:linear-gradient(120deg,var(--accB) 0%,var(--acc) 55%,var(--accD) 100%);color:#fff;padding:20px 16px 12px}
 header.top h1{font-size:20px;letter-spacing:.5px}
-.live{display:inline-block;font-size:12px;background:var(--green);color:#fff;border-radius:10px;padding:2px 9px;margin-left:8px;vertical-align:middle;font-weight:700}
 header.top .sub{font-size:12.5px;color:#d7ebe3;margin-top:6px}
-.headline{margin-top:10px;background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.25);border-radius:10px;padding:9px 12px;font-size:14px;line-height:1.6}
-.headline b{color:#ffe9a8}
-.dig3{list-style:none;margin-top:6px}
-.dig3 li{display:flex;gap:10px;padding:7px 0;border-top:1px dashed rgba(255,255,255,.25);font-size:14px;align-items:flex-start}
-.dig3 .n{flex:none;width:22px;height:22px;border-radius:50%;background:rgba(255,255,255,.18);color:#ffe9a8;font-size:12px;font-weight:800;display:flex;align-items:center;justify-content:center;margin-top:3px}
-.dig3 a{color:#fff;text-decoration:none}
-.dig3 a:hover{text-decoration:underline;text-underline-offset:3px}
-.dpills{display:flex;gap:8px;margin-top:10px;overflow-x:auto;padding-bottom:2px}
-.dpill{flex:none;font-size:12.5px;color:#dcefe8;border:1px solid rgba(255,255,255,.35);background:rgba(255,255,255,.08);border-radius:14px;padding:5px 12px}
-.dpill.on{background:#fff;color:var(--ink2);font-weight:700;border-color:#fff}
-.hdlinks{display:flex;gap:14px;margin-top:9px;font-size:12px;flex-wrap:wrap}
-.hdlinks button,.hdlinks a{background:none;border:none;color:#d7ebe3;font-size:12px;cursor:pointer;text-decoration:underline;text-underline-offset:3px;padding:0;font-family:inherit}
-.hdlinks button:hover,.hdlinks a:hover{color:#fff}
-/* 板块筛选条：chips + 公司下拉 */
-.fbar{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin:10px 0 12px}
-.fchips{display:flex;gap:6px;overflow-x:auto;padding-bottom:2px;flex:1 1 100%}
-.fchip{flex:none;font-size:12.5px;color:var(--acc);border:1px solid var(--acc);background:#fff;border-radius:14px;padding:5px 12px;cursor:pointer;font-family:inherit;font-weight:600}
-.fchip.on{background:var(--acc);color:#fff}
-.fsel{font-size:13px;border:1px solid var(--line);border-radius:10px;padding:7px 10px;color:var(--ink2);background:#fff;font-family:inherit;max-width:100%}
-/* 时效提示条 */
-.freshbar{display:none;margin:0;padding:9px 14px;background:#fef6e0;color:var(--amber);font-size:14px;font-weight:600;text-align:center;border-bottom:1px solid #f0e2b6}
-.freshbar.show{display:block}
-/* 两段导航 */
-nav.secnav{display:flex;gap:7px;padding:10px 12px;background:#fff;border-bottom:1px solid var(--line);position:sticky;top:0;z-index:19;overflow-x:auto;box-shadow:0 1px 6px rgba(11,42,74,.06)}
-nav.secnav a{flex:none;font-size:13px;color:var(--acc);border:1px solid var(--acc);border-radius:15px;padding:6px 12px;text-decoration:none;font-weight:600;background:#fff}
-nav.secnav a.on{background:var(--acc);color:#fff}
-.railhead{display:none}
-@media(min-width:1024px){
-  body{padding-left:228px;background:#eef3f1}
-  nav.secnav{position:fixed;left:0;top:0;bottom:0;width:228px;flex-direction:column;align-items:stretch;gap:2px;padding:28px 14px;overflow-y:auto;overflow-x:hidden;background:#ffffff;border-bottom:none;border-right:1px solid #e4e9f1;box-shadow:none;z-index:30}
-  .railhead{display:block;color:#9aa9bd;font-size:12px;font-weight:700;letter-spacing:3px;padding:0 14px 14px}
-  nav.secnav a{position:relative;border:none;background:transparent;color:#46586e;border-radius:10px;padding:10px 14px 10px 16px;font-size:13.5px;font-weight:500;margin-bottom:2px;display:flex;align-items:center;gap:10px}
-  nav.secnav a .rn{font-size:12px;font-weight:800;color:#9aa9bd;background:#f0f3f7;border-radius:6px;min-width:22px;height:22px;display:inline-flex;align-items:center;justify-content:center;flex:none}
-  nav.secnav a:not(.on):hover{background:#f3f6fa;color:#1c2b4a}
-  nav.secnav a:not(.on):hover .rn{background:#e2e9f2;color:#5b6b82}
-  nav.secnav a.on{background:var(--tint);color:var(--acc);font-weight:700}
-  nav.secnav a.on .rn{background:var(--acc);color:#fff}
-  nav.secnav a.on::before{content:"";position:absolute;left:2px;top:10px;bottom:10px;width:3px;border-radius:2px;background:var(--acc)}
-  section.blk{scroll-margin-top:14px}
-  main{max-width:800px}
-  header.top{border-bottom-left-radius:0}
-  .railsearch{display:block;padding:0 6px 14px}
-  .railsearch input{width:100%;box-sizing:border-box;border:1px solid #dfe5ee;border-radius:10px;padding:9px 12px 9px 32px;font-size:13px;color:#1c2b4a;background:#f7f9fc url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%2393a3b8' stroke-width='2' stroke-linecap='round'%3E%3Ccircle cx='11' cy='11' r='7'/%3E%3Cline x1='21' y1='21' x2='16.5' y2='16.5'/%3E%3C/svg%3E") no-repeat 10px center/15px 15px;outline:none}
-  .railsearch input:focus{border-color:var(--acc);background-color:#fff;box-shadow:0 0 0 3px rgba(0,114,86,.12)}
-  .rs-meta{font-size:12px;color:#93a3b8;padding:6px 4px 0;min-height:16px}
-  mark.rhl{background:#fff3b0;border-radius:3px;padding:0 1px}
-  mark.rhl.cur{background:#ffb703;box-shadow:0 0 0 2px #ffb703}
-}
-@media(max-width:1023px){nav.secnav .rn{display:none}.railsearch{display:block;flex:none;width:150px;padding:0 2px}.railsearch input{padding:7px 8px 7px 28px;font-size:12px}.rs-meta{display:none}}
-.issuepill{display:inline-block;font-size:12px;font-weight:700;color:#ffe9a8;border:1px solid rgba(255,233,168,.55);border-radius:12px;padding:2px 10px;margin-left:8px;vertical-align:2px}
-.issuestrip{display:flex;gap:20px;align-items:baseline;justify-content:center;flex-wrap:wrap;padding:13px 8px 11px;color:var(--mut);font-size:13px;border-bottom:1px solid var(--line);margin:2px 0 4px}
-.issuestrip b{font-size:20px;color:var(--ink2);margin-right:3px;font-weight:800}
-.fh{display:inline-block;font-size:12px;font-weight:700;color:#0a6b3a;background:#e6f4ec;border:1px solid #bfe3cd;border-radius:6px;padding:1px 6px;margin-right:5px;vertical-align:1px}
-.fr{display:inline-block;font-size:12px;font-weight:700;color:#5b6b7d;background:#eef2f7;border:1px solid #dfe5ee;border-radius:6px;padding:1px 6px;margin-right:5px;vertical-align:1px}
-.sdate{white-space:nowrap}
-@media(max-width:480px){
-  .issuestrip{gap:12px;font-size:12px;padding:10px 4px 8px}
-  .issuestrip b{font-size:17px}
-  .issuepill{margin-left:6px;font-size:12px}
-  nav.secnav{top:0}
-}
-main{padding:4px 12px 24px;max-width:780px;margin:0 auto}
-section.blk{scroll-margin-top:60px}
-.secttl{display:flex;align-items:baseline;gap:8px;margin:22px 2px 4px}
-.secttl .no{font-size:13px;font-weight:800;color:#fff;background:var(--acc);border-radius:8px;padding:2px 9px}
-.secttl h2{font-size:18px;color:var(--ink2);letter-spacing:.5px}
-.secttl .cnt{font-size:12px;color:var(--mut);font-weight:600}
-.guide{font-size:14px;color:#2c4a44;background:var(--tint);border:1px solid var(--line);border-radius:8px;padding:9px 12px;margin:8px 0 12px;line-height:1.65}
-.guide b{color:var(--ink2)}
-.card{background:var(--card);border-radius:14px;padding:14px;margin-bottom:11px;box-shadow:0 1px 5px rgba(11,42,74,.07);border:1px solid #eef2f7}
-.card h3{font-size:16px;color:var(--ink2);margin:7px 0 4px;line-height:1.5}
-.card h3 a.ttl{color:var(--ink2);text-decoration:none}
-.card h3 a.ttl:hover{text-decoration:underline;text-underline-offset:3px}
-.toprow{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
-.rank{font-size:26px;font-weight:800;color:var(--acc);min-width:34px;line-height:1}
-.cochip{font-size:12px;background:var(--tint);color:var(--acc);padding:3px 9px;border-radius:11px;font-weight:700;white-space:nowrap}
-.ticker{font-size:12px;color:var(--mut);border:1px solid var(--line);border-radius:8px;padding:2px 7px;font-weight:700;white-space:nowrap}
-.tagrow{display:flex;flex-wrap:wrap;gap:6px;align-items:center;margin:9px 0 2px}
-.tag{font-size:12px;background:var(--tagbg);color:var(--tagtx);padding:3px 9px;border-radius:11px;font-weight:600}
-.tag-burst{font-size:12px;background:var(--red);color:#fff;padding:3px 9px;border-radius:11px;font-weight:800}
-.edate{font-size:12px;color:var(--mut);margin-left:auto}
-.sum{font-size:14px;color:#33475c}
-.gempty{font-size:13px;color:var(--mut);padding:10px 2px}
-.digmeta{font-size:12px;color:var(--mut);margin-top:8px}
-.src{font-size:12px;color:var(--mut);margin-top:9px;border-top:1px dashed var(--line);padding-top:8px}
-.src a{color:var(--acc);text-decoration:underline;text-underline-offset:2px}
-.skel-sec{background:#fff;border-radius:14px;padding:16px 14px;margin:14px 0;border:1px solid #eef2f7}
-.skel{height:13px;border-radius:7px;margin:9px 0;background:#e9eff6;animation:sk 1.2s ease-in-out infinite}
-.skel.ttl{height:17px;width:42%}
-@keyframes sk{0%,100%{opacity:1}50%{opacity:.45}}
+header.top .sub b{color:#ffe9a8}
+.fbar{margin-top:10px;display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.fbar input{flex:1 1 180px;border:1px solid rgba(255,255,255,.35);background:rgba(255,255,255,.12);border-radius:12px;padding:8px 12px;font-size:13px;color:#fff;font-family:inherit;outline:none}
+.fbar input::placeholder{color:#bcd8cd}
+.fchips{display:flex;gap:6px;overflow-x:auto;padding-bottom:2px}
+.fchip{flex:none;font-size:12.5px;color:#dcefe8;border:1px solid rgba(255,255,255,.35);background:rgba(255,255,255,.08);border-radius:14px;padding:5px 12px;cursor:pointer;font-family:inherit;font-weight:600}
+.fchip.on{background:#fff;color:var(--ink2);font-weight:700;border-color:#fff}
+.rsmeta{font-size:12px;color:#bcd8cd;margin-top:6px;min-height:16px}
+main{max-width:780px;margin:0 auto;padding:6px 14px 30px}
+.dayhead{display:flex;align-items:baseline;gap:8px;margin:16px 2px 2px}
+.dayhead h2{font-size:17px;color:var(--ink2)}
+.dayhead .cnt{font-size:12px;color:var(--mut);font-weight:600}
+.stream{background:var(--card);border-radius:14px;padding:4px 16px;margin-top:8px;border:1px solid #eef2f7}
+/* 紧凑行：aihot 式单列时间流 */
+.srow{padding:11px 0;border-bottom:1px solid #eef2f7}
+.srow:last-child{border-bottom:none}
+.smeta{display:flex;align-items:center;gap:7px;flex-wrap:wrap;font-size:12px;color:var(--mut);margin-bottom:4px}
+.stime{font-weight:800;color:var(--ink2);font-size:13px;font-variant-numeric:tabular-nums}
+.stop{font-size:11px;font-weight:800;color:#fff;background:var(--red);border-radius:9px;padding:1px 8px}
+.sout{font-weight:700;color:var(--ink2);text-decoration:none}
+a.sout:hover{text-decoration:underline;text-underline-offset:2px}
+.fh{display:inline-block;font-size:11px;font-weight:700;color:#0a6b3a;background:#e6f4ec;border:1px solid #bfe3cd;border-radius:6px;padding:0 6px}
+.fr{display:inline-block;font-size:11px;font-weight:700;color:#5b6b82;background:#eef2f7;border:1px solid #dfe5ee;border-radius:6px;padding:0 6px}
+.srow h3{font-size:15.5px;margin:0 0 4px;line-height:1.5}
+.srow h3 a{color:var(--ink);text-decoration:none;font-weight:700}
+.srow h3 a:hover{text-decoration:underline;text-underline-offset:3px}
+.ssum{font-size:13.5px;color:#33475c;margin:0 0 6px}
+.stagrow{display:flex;align-items:center;gap:6px;flex-wrap:wrap;font-size:12px;color:var(--mut)}
+.tag{font-size:12px;background:var(--tagbg);color:var(--tagtx);padding:2px 9px;border-radius:11px;font-weight:600}
+.empty{padding:26px 0;text-align:center;color:var(--mut);font-size:14px}
 .errbar{background:#fdeceb;border:1px solid #f3c1b8;color:#a3271c;border-radius:10px;padding:10px 12px;margin:10px 0;font-size:14px}
 .errbar a{color:#a3271c;font-weight:700}
-.arch{margin-top:2px}
-.arch summary{font-size:12.5px;color:#dcefe8;cursor:pointer;list-style:none;border:1px solid rgba(255,255,255,.35);background:rgba(255,255,255,.08);border-radius:14px;padding:5px 12px;display:inline-block}
-.arch .mrow{margin-top:8px}
-.arch .mlab{font-size:12px;color:#a9c8bc;margin:6px 0 4px}
-@media print{
-  nav.secnav,.freshbar,.dpills,.hdlinks,.fbar,.railsearch,.arch,footer.site,#headline{display:none}
-  body{background:#fff;font-size:12px}
-  .card,.skel-sec{box-shadow:none}
-  header.top{background:var(--accD)}
-}
-details.sec{background:#fff;border-radius:12px;margin-bottom:10px;border:1px solid #eef2f7}
-details.sec summary{list-style:none;cursor:pointer;padding:12px 14px;font-weight:700;color:var(--ink2);display:flex;justify-content:space-between;align-items:center;gap:8px}
-details.sec summary::-webkit-details-marker{display:none}
-details.sec .body{padding:0 14px 12px}
-details.sec .cnt{font-size:12px;color:var(--mut);font-weight:600;white-space:nowrap}
-.citem{padding:8px 0;border-bottom:1px solid #f0f4f8}
-.citem:last-child{border-bottom:none;padding-bottom:2px}
-.citem h4{font-size:14.5px;color:var(--ink);margin:0 0 2px;line-height:1.5;font-weight:700}
-.citem h4 a{color:var(--ink);text-decoration:none}
-.citem h4 a:hover{text-decoration:underline;text-underline-offset:3px}
-/* 紧凑列表：时间+来源前置（AIHOT 扫读效率），标签后置 */
-.cmeta{font-size:12px;color:var(--mut);margin-bottom:3px;display:flex;align-items:center;gap:6px;flex-wrap:wrap}
-.ctime{font-weight:700;color:var(--ink2);font-variant-numeric:tabular-nums}
-.cout{font-weight:600;color:var(--ink2)}
-.citem .sum{font-size:13.5px;margin:2px 0 4px}
-.citem .tagrow{margin:2px 0 0}
-.citem .fh,.citem .fr{font-size:11px;padding:0 5px}
-.rubric{background:#fff;border-radius:14px;padding:14px;margin-bottom:12px;border:1px solid #eef2f7;font-size:14px}
-.rubric h4{color:var(--ink2);margin-bottom:8px;font-size:15px}
-footer.site{font-size:12px;color:var(--mut);text-align:center;padding:18px 16px 34px;line-height:1.9}
 .loading,.errmsg{text-align:center;color:var(--mut);padding:40px 16px;font-size:14px}
-.ic{width:15px;height:15px;flex:none;vertical-align:-2.5px;margin-right:5px}
-.hdlinks .ic{width:13px;height:13px;margin-right:4px;vertical-align:-2px}
-nav.secnav a .rn .ic{width:14px;height:14px;margin:0;vertical-align:middle}
-.guide .ic{color:var(--acc)}
-.tag-burst .ic{width:11px;height:11px;margin-right:3px;vertical-align:-1px}
-.cochip .ic{width:12px;height:12px;margin-right:3px;vertical-align:-1.5px}
-.errbar .ic{width:14px;height:14px}
-.guide,.sum,.headline{text-wrap:pretty}
+footer.site{font-size:12px;color:var(--mut);text-align:center;padding:18px 16px 34px;line-height:1.9}
+mark.hl{background:#fff3b0;border-radius:3px;padding:0 1px}
 </style>
 </head>
 <body>
 <header class="top">
-  <h1><span id="t_h1">科技情报站 Tech Intel</span><span class="live" id="t_live">每日更新</span><span class="issuepill" id="issuepill" style="display:none"></span></h1>
-  <div class="sub" id="t_sub">57 家科技公司 · 领袖头条 + 公司动态 · <span id="t_count"></span> · 每天 07:30 前（CST）更新</div>
-  <div class="headline" id="headline" style="display:none"></div>
-  <div class="dpills" id="dpills"></div>
-  <div class="hdlinks"><button id="copylink" onclick="copyIssueLink()"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg>复制本期链接</button></div>
+  <h1>科技情报站 Tech Intel</h1>
+  <div class="sub" id="subline"></div>
+  <div class="fbar">
+    <input id="q" placeholder="搜索本页内容…" autocomplete="off" spellcheck="false" oninput="__setQ(this.value)">
+    <div class="fchips" id="chips"></div>
+  </div>
+  <div class="rsmeta" id="rsmeta"></div>
 </header>
-<div class="freshbar" id="freshbar"></div>
-<div class="issuestrip" id="issuestrip" style="display:none"></div>
-<nav class="secnav" id="secnav">
-  <div class="railsearch"><input id="railq" placeholder="搜索本页内容…" autocomplete="off" spellcheck="false"><div class="rs-meta" id="rsmeta"></div></div>
-  <a href="#headline"><span class="rn"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 18h6"/><path d="M10 21h4"/><path d="M12 3a6 6 0 0 0-3.6 10.8c.7.5 1.1 1.3 1.2 2.2h4.8c.1-.9.5-1.7 1.2-2.2A6 6 0 0 0 12 3z"/></svg></span><span class="nl">导读</span></a><a href="#s1"><span class="rn"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M13 2 4.5 13.5H11L9.5 22 19 9.5h-6.5L13 2z"/></svg></span><span class="nl">今日头条 Top 10</span></a><a href="#s2"><span class="rn"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="5" y="3" width="14" height="18" rx="1"/><path d="M9 7h2m2 0h2M9 11h2m2 0h2M9 15h2m2 0h2"/></svg></span><span class="nl">公司动态</span></a>
-</nav>
 <main id="main">
-  <div class="skel-sec"><div class="skel ttl"></div><div class="skel"></div><div class="skel" style="width:85%"></div></div>
-  <div class="skel-sec"><div class="skel ttl"></div><div class="skel"></div><div class="skel"></div><div class="skel" style="width:70%"></div></div>
+  <div class="dayhead"><h2 id="daytitle"></h2><span class="cnt" id="daycnt"></span></div>
+  <div class="stream" id="stream"><div class="loading">加载中…</div></div>
 </main>
 <footer class="site">
-  <b id="t_foot1">科技情报站 Tech Intel</b> · <span id="t_foot2">数据来自每日公开信息核实汇总，仅作科技行业研究参考</span><br>
-  <span id="t_foot3">不涉及证券买卖建议 · 请注意甄别信息来源</span><br><span id="footmeta"></span>
+  <b>科技情报站 Tech Intel</b><br>
+  数据来自每日公开信息核实汇总，仅作科技行业研究参考 · 不涉及证券买卖建议
 </footer>
 <script>
 "use strict";
-const $=s=>document.querySelector(s);
+let DATA=[];
+let CURDATE="";
 const esc=s=>String(s==null?"":s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
-const _ic=p=>`<svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${p}</svg>`;
-const ICO={
- link:_ic('<path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/>'),
- rss:_ic('<path d="M4 11a9 9 0 0 1 9 9"/><path d="M4 4a16 16 0 0 1 16 16"/><line x1="4" y1="20" x2="4.01" y2="20"/>'),
- cal:_ic('<rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/>'),
- warn:_ic('<path d="M10.29 3.86 1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/>'),
- check:_ic('<polyline points="4 12.5 9.5 18 20 6.5"/>'),
- bolt:_ic('<path d="M13 2 4.5 13.5H11L9.5 22 19 9.5h-6.5L13 2z"/>'),
- bulb:_ic('<path d="M9 18h6"/><path d="M10 21h4"/><path d="M12 3a6 6 0 0 0-3.6 10.8c.7.5 1.1 1.3 1.2 2.2h4.8c.1-.9.5-1.7 1.2-2.2A6 6 0 0 0 12 3z"/>'),
- bldg:_ic('<rect x="5" y="3" width="14" height="18" rx="1"/><path d="M9 7h2m2 0h2M9 11h2m2 0h2M9 15h2m2 0h2"/>')
-};
-/* ---- 双语层（已单语化：仅中文） ---- */
-const I18N={
-zh:{
- doc_title:"科技情报站 Tech Intel",h1:"科技情报站 Tech Intel",live:"每日更新",
- sub:"57 家科技公司 · 领袖头条 + 公司动态 · 每天 07:30 前（CST）更新",
-
- nav:["导读","今日头条 Top 10","公司动态"],
- filter_all:"全部",filter_co_all:"全部公司",
- railq_ph:"搜索本页内容…",
- foot1:"科技情报站 Tech Intel",foot2:"数据来自每日公开信息核实汇总，仅作科技行业研究参考",
- foot3:"不涉及证券买卖建议 · 请注意甄别信息来源",
- digest:"今日导读 · Top 3",
- fresh_t:"今日情报尚未发布 · 当前为 {m} 月 {d} 日一期",
- tag_burst:"突发",src_label:"来源：",primary:"一手",repost:"转载",
- sec:["今日头条 Top 10","公司动态","方法说明"],
- u_items:"条",
- s1_guide:"今日 Top 10 领袖头条，头名：<b>{title}</b>",s1_empty:"本段暂无内容。",
- s2_guide:"共 <b>{n}</b> 条公司动态 · 覆盖 <b>{m}</b> 家公司",s2_empty:"本段暂无内容。",
- group_cnt:"{n} 条",
- issue:"第 <b>{n}</b> 期",issue_plain:"第 {n} 期",
- strip_t10:"<b>{n}</b> 条领袖头条",strip_cn:"<b>{n}</b> 条公司动态",strip_fp:"<b>{n}</b> 条一手内容 · <b>{m}</b> 个来源",
- group_empty:"今日无重大动态",
- cov_line:"今日覆盖 <b>{x}</b>/{t} 家 · 数据截至今日 07:30（CST），覆盖近 5 天",
- strip_min:"约 {n} 分钟读完",
- older:"更早归档（{n}）",
- boot_err:"情报数据加载失败，请稍后刷新重试。",
- load_err_t:"的数据加载失败（",load_err_b:"）。当前显示的可能是旧日期内容。",retry:"点此重试",
- copied:"已复制",copy_prompt:"复制本期链接：",
- rail_match:"{n} 条匹配 · 回车跳转",rail_nomatch:"无匹配",
- m_cov:"覆盖与更新",
- m_cov_b:"每天 07:30 前（CST）基于公开信息核实汇总更新；数字注明来源日期，无法核实舍去。覆盖 57 家科技公司：权重科技、芯片半导体、软件云 AI、硬件存储、网络安全与 AI 前沿。仅作科技行业研究参考，不涉及证券买卖建议。"
-},
-};
-/* 中文单语：t() 直取中文文案；title_en/text_en 等数据字段壳不渲染 */
-function t(k){return I18N.zh[k];}
-function fmt(s,m){return String(s).replace(/\{(\w+)\}/g,(_,k)=>(m&&m[k]!==undefined)?m[k]:"");}
-const mmdd=d=>String(d||"").slice(5);
-let CUR=null,CURDATE=null;
-
-function tags(tt){return (tt||[]).map(x=>x==="突发"?`<span class="tag-burst">${ICO.bolt}${esc(t("tag_burst"))}</span>`:`<span class="tag">${esc(x)}</span>`).join("");}
-
-/* 公司名显示：中文名 + ticker（无 ticker 则只中文名） */
-function coLabel(it){return it.company?it.company+(it.ticker?" "+it.ticker:""):"";}
-
-/* 6 大板块（固定顺序展示） */
 const SECTIONS=["权重科技","芯片半导体","软件云AI","硬件存储","网络安全","AI前沿"];
-
-function secttl(no,title,cnt){return `<div class="secttl"><span class="no">${no}</span><h2>${title}</h2><span class="cnt">${cnt}</span></div>`;}
-function guide(html){return `<div class="guide">${ICO.bulb}${html}</div>`;}
-function goId(id){const el=document.getElementById(id);if(el)el.scrollIntoView({behavior:"smooth",block:"center"});}
-function srcRow(it){
-  const badge=it.first_party?`<span class="fh">${esc(t("primary"))}</span>`:`<span class="fr">${esc(t("repost"))}</span>`;
-  const body=it.url?`<a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.outlet||"")}</a>`:esc(it.outlet||"");
-  const dt=it.date?` <span class="sdate">· ${esc(mmdd(it.date))}</span>`:"";
-  return `<p class="src">${t("src_label")}${badge}${body}${dt}</p>`;
-}
-
-function topCard(e,i){
-  const co=e.company?`<span class="cochip">${ICO.bldg}${esc(coLabel(e))}</span>`:"";
-  const ttl=e.url?`<a class="ttl" href="${esc(e.url)}" target="_blank" rel="noopener">${esc(e.title)}</a>`:esc(e.title);
-  return `<article class="card" id="${esc(e.id||("t"+i))}">
-    <div class="toprow"><span class="rank">${i+1}</span>${co}</div>
-    <h3>${ttl}</h3>
-    <div class="tagrow">${tags(e.tags)}<span class="edate">${esc(e.date||"")}</span></div>
-    ${e.summary?`<p class="sum">${esc(e.summary)}</p>`:""}
-    ${srcRow(e)}</article>`;
-}
-/* ---- 公司动态：按 6 大板块分组（固定顺序），组内保持数组顺序（=热度） ---- */
-let _FSEC="all",_FCO="all";   /* 筛选状态：板块 chip / 公司 select */
-let _COSLIST=[];              /* 57 家公司中文名，boot 时从 companies.json 载入 */
-/* 时间+来源前置的紧凑行：meta(时间·来源·徽章·公司) / 标题 / 摘要 / 标签 */
-function cwhen(it){
-  const d=it.date?mmdd(it.date):"";
-  return it.time?`${d} ${it.time}`:d;
-}
-function citem(it){
-  const co=it.company?`<span class="cochip">${ICO.bldg}${esc(coLabel(it))}</span>`:"";
+const TOTAL_COS=57;
+let _Q="",_SEC="all";
+function sortRows(a){return a.slice().sort((x,y)=>String(y.date+" "+(y.time||"")).localeCompare(String(x.date+" "+(x.time||""))));}
+function fpBadge(it){return it.first_party?'<span class="fh">一手</span>':'<span class="fr">转载</span>';}
+function topBadge(it){return it.isTop?'<span class="stop">头条</span>':'';}
+function coLabel(it){return it.company?it.company+(it.ticker?" "+it.ticker:""):"";}
+function rowHTML(it){
+  const src=it.url?`<a class="sout" href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.outlet||"")}</a>`:`<span class="sout">${esc(it.outlet||"")}</span>`;
   const ttl=it.url?`<a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a>`:esc(it.title);
-  const badge=it.first_party?`<span class="fh">${esc(t("primary"))}</span>`:`<span class="fr">${esc(t("repost"))}</span>`;
-  const src=it.url?`<a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.outlet||"")}</a>`:esc(it.outlet||"");
-  return `<div class="citem"><div class="cmeta"><span class="ctime">${esc(cwhen(it))}</span><span>·</span><span class="cout">${src}</span>${badge}${co}</div><h4>${ttl}</h4>${it.summary?`<p class="sum">${esc(it.summary)}</p>`:""}<div class="tagrow">${tags(it.tags)}</div></div>`;
+  const tags=(it.tags||[]).map(x=>`<span class="tag">${esc(x)}</span>`).join("");
+  return `<div class="srow" data-sec="${esc(it.section||"")}">`
+    +`<div class="smeta"><span class="stime">${esc(it.time||"--:--")}</span>${topBadge(it)}<span>·</span>${src}${fpBadge(it)}</div>`
+    +`<h3>${ttl}</h3>`
+    +(it.summary?`<p class="ssum">${esc(it.summary)}</p>`:"")
+    +`<div class="stagrow"><span>${esc(coLabel(it))}</span><span>·</span><span>${esc(it.section||"")}</span>${tags}</div>`
+    +`</div>`;
 }
-function filteredCN(){
-  return (CUR.company_news||[]).filter(it=>
-    (_FSEC==="all"||it.section===_FSEC)&&(_FCO==="all"||it.company===_FCO));
+function filtered(){
+  const q=_Q.trim().toLowerCase();
+  return sortRows(DATA).filter(it=>
+    (_SEC==="all"||it.section===_SEC)&&
+    (!q||((it.title||"")+" "+(it.summary||"")+" "+(it.company||"")+" "+(it.outlet||"")+" "+(it.tags||[]).join(" ")).toLowerCase().includes(q)));
 }
-/* Top10 同样受板块/公司筛选联动 */
-function filteredT10(){
-  return (CUR.top10||[]).filter(e=>
-    (_FSEC==="all"||e.section===_FSEC)&&(_FCO==="all"||e.company===_FCO));
+function hl(q,html){
+  if(!q)return html;
+  const re=new RegExp("("+q.replace(/[.*+?^${}()|[\]\\]/g,"\\$&")+")","gi");
+  return html.replace(re,"<mark class=\"hl\">$1</mark>");
 }
-function paintT10(){
-  const s1=$("#s1");if(!s1||!CUR)return;
-  const t10=filteredT10();
-  s1.innerHTML=secttl("一",t("sec")[0],t10.length+" "+t("u_items"))
-    +(t10.length?guide(fmt(t("s1_guide"),{title:esc(t10[0].title)})):guide(t("s1_empty")))
-    +(t10.length?t10.map(topCard).join(""):`<div class="card"><div class="errmsg">${t("s1_empty")}</div></div>`);
+function render(){
+  const list=filtered();
+  const q=_Q.trim();
+  document.getElementById("stream").innerHTML=list.length?list.map(it=>hl(q,rowHTML(it))).join(""):'<div class="empty">无匹配内容</div>';
+  const m=document.getElementById("rsmeta");
+  if(m)m.textContent=q?`${list.length} 条匹配`:`共 ${list.length} 条`;
 }
-function refreshFiltered(){
-  paintT10();
-  const sg=$("#secgroups");if(sg)sg.innerHTML=sectionGroups();
-  railSearch();
+function renderChips(){
+  const secs=SECTIONS.filter(s=>DATA.some(d=>d.section===s));
+  document.getElementById("chips").innerHTML=[["all","全部"]].concat(secs.map(s=>[s,s]))
+    .map(([v,lb])=>`<button class="fchip${_SEC===v?" on":""}" data-v="${esc(v)}" onclick="__setSEC('${esc(v)}')">${esc(lb)}</button>`).join("");
 }
-function sectionGroups(){
-  const list=filteredCN();
-  const bySec={};
-  list.forEach(it=>{const s=it.section||"";(bySec[s]=bySec[s]||[]).push(it);});
-  const filtered=_FSEC!=="all"||_FCO!=="all";
-  let first=true;
-  return SECTIONS.map(s=>{
-    const items=bySec[s]||[];
-    if(filtered&&!items.length)return "";   /* 筛选时空组自动隐藏 */
-    const body=items.length?items.map(citem).join(""):`<div class="gempty">${esc(t("group_empty"))}</div>`;
-    const open=first?" open":"";first=false;
-    return `<details class="sec"${open}><summary><span>${esc(s)}</span><span class="cnt">${fmt(t("group_cnt"),{n:items.length})}</span></summary><div class="body">${body}</div></details>`;
-  }).join("");
-}
-function paintFilterBar(){
-  const fc=$("#fsec");if(!fc)return;
-  fc.innerHTML=[["all",t("filter_all")]].concat(SECTIONS.map(s=>[s,s]))
-    .map(([v,lb])=>`<button class="fchip${_FSEC===v?" on":""}" data-v="${esc(v)}">${esc(lb)}</button>`).join("");
-  fc.querySelectorAll(".fchip").forEach(b=>b.addEventListener("click",()=>{
-    _FSEC=b.dataset.v;paintFilterBar();refreshFiltered();
-  }));
-  const fs=$("#fco");if(!fs)return;
-  const cos=_COSLIST.length?_COSLIST.map(c=>c.cn):Array.from(new Set((CUR.company_news||[]).map(it=>it.company).filter(Boolean)));
-  fs.innerHTML=[["all",t("filter_co_all")]].concat(cos.map(c=>[c,c]))
-    .map(([v,lb])=>`<option value="${esc(v)}"${_FCO===v?" selected":""}>${esc(lb)}</option>`).join("");
-  fs.onchange=()=>{_FCO=fs.value;refreshFiltered();};
-}
-function renderIssuestrip(){
-  const days=window._ISSUE_DAYS||[];
-  const no=days.indexOf(CURDATE)+1;
-  const t10=CUR.top10||[],cn=CUR.company_news||[];
-  let fh=0;const outlets=new Set();
-  t10.concat(cn).forEach(e=>{if(e.first_party){fh++;if(e.outlet)outlets.add(e.outlet);}});
-  let chars=0;
-  t10.concat(cn).forEach(e=>{chars+=(e.title||"").length+(e.summary||"").length;});
-  const mins=Math.max(1,Math.round(chars/400));
-  const el=$("#issuestrip");
-  el.style.display="flex";
-  el.innerHTML=
-    (no>0?`<span>${fmt(t("issue"),{n:no})}</span>`:"")+
-    `<span>${fmt(t("strip_t10"),{n:t10.length})}</span>`+
-    `<span>${fmt(t("strip_cn"),{n:cn.length})}</span>`+
-    (fh?`<span>${fmt(t("strip_fp"),{n:fh,m:outlets.size})}</span>`:"")+
-    `<span>${fmt(t("strip_min"),{n:mins})}</span>`;
-}
-function renderMain(d){
-  CUR=d;
-  _FSEC="all";_FCO="all";   /* 换期时重置筛选 */
-  const t10all=d.top10||[],cn=d.company_news||[];
-  const t10=filteredT10();
-  /* 副标题动态条数：有一条算一条 */
-  const tc=$("#t_count");
-  if(tc){tc.textContent=`今日 ${t10all.length+cn.length} 条`;}
-
-  /* ---- 顶部导读：今日 Top 3（全局，不跟随筛选）+ 覆盖率/截稿口径 ---- */
-  const hl=$("#headline");
-  const top3=t10all.slice(0,3);
-  if(top3.length){
-    hl.style.display="block";
-    const covSet=new Set();
-    t10all.concat(cn).forEach(e=>{if(e.company)covSet.add(e.company);});
-    const covTotal=(_COSLIST.length||57);
-    hl.innerHTML=`<b>${t("digest")}</b><ol class="dig3">`+
-      top3.map((e,i)=>`<li><span class="n">${i+1}</span><div><a href="#${esc(e.id||("t"+i))}">${esc(e.title)}</a></div></li>`).join("")+`</ol>`+
-      `<div class="digmeta">${fmt(t("cov_line"),{x:covSet.size,t:covTotal})}</div>`;
-  }else{hl.style.display="none";}
-
-  /* ---- 一、今日头条 Top 10（跟随板块/公司筛选） ---- */
-  const s1=secttl("一",t("sec")[0],t10.length+" "+t("u_items"))
-    +(t10.length?guide(fmt(t("s1_guide"),{title:esc(t10[0].title)})):guide(t("s1_empty")))
-    +(t10.length?t10.map(topCard).join(""):`<div class="card"><div class="errmsg">${t("s1_empty")}</div></div>`);
-
-  /* ---- 二、公司动态（按 6 板块分组 + 板块 chips / 公司 select 筛选） ---- */
-  const cos=new Set(cn.map(e=>e.company).filter(Boolean));
-  const s2=secttl("二",t("sec")[1],cn.length+" "+t("u_items"))
-    +(cn.length?guide(fmt(t("s2_guide"),{n:cn.length,m:cos.size})):guide(t("s2_empty")))
-    +(cn.length
-      ?`<div class="fbar"><div class="fchips" id="fsec" role="group" aria-label="${esc(t("sec")[1])}"></div><select class="fsel" id="fco" aria-label="${esc(t("filter_co_all"))}"></select></div><div id="secgroups"></div>`
-      :`<div class="card"><div class="errmsg">${t("s2_empty")}</div></div>`);
-
-  $("#main").innerHTML=
-    `<section class="blk" id="s1">${s1}</section>`+
-    `<section class="blk" id="s2">${s2}</section>`+
-    `<section class="blk"><div class="secttl"><span class="no">附</span><h2>${t("sec")[2]}</h2></div>
-     <div class="rubric"><h4>${t("m_cov")}</h4>
-     <div style="font-size:14px">${t("m_cov_b")}</div></div></section>`;
-  if(cn.length){paintFilterBar();$("#secgroups").innerHTML=sectionGroups();}
-  $("#footmeta").textContent=`${d.date||""} · Tech Intel`;
-  renderIssuestrip();
-  initSpy();
-  const rq=document.getElementById("railq");
-  if(rq&&rq.value.trim())railSearch();
-}
-let _SPY=null;
-function escRe(s){return s.replace(/[.*+?^${}()|[\]\\]/g,"\\$&");}
-let _MARKS=[],_MIDX=-1,_RQT=null;
-function clearMarks(){
-  document.querySelectorAll("main mark.rhl").forEach(m=>{
-    m.parentNode.replaceChild(document.createTextNode(m.textContent),m);
-  });
-  _MARKS=[];_MIDX=-1;
-  document.querySelectorAll("main article.card, main div.citem, main details.sec, main section.blk").forEach(el=>{el.style.display="";});
-  const meta=document.getElementById("rsmeta"); if(meta)meta.textContent="";
-}
-function railSearch(){
-  const inp=document.getElementById("railq"); if(!inp)return;
-  const q=inp.value.trim();
-  clearMarks();
-  if(!q)return;
-  const ql=q.toLowerCase(), re=new RegExp("("+escRe(q)+")","gi");
-  let n=0;
-  document.querySelectorAll("main article.card, main div.citem").forEach(card=>{
-    if(card.textContent.toLowerCase().indexOf(ql)<0){card.style.display="none";return;}
-    n++;
-    const walker=document.createTreeWalker(card,NodeFilter.SHOW_TEXT);
-    const nodes=[];let tn;
-    while(tn=walker.nextNode()){if(tn.nodeValue.toLowerCase().indexOf(ql)>=0)nodes.push(tn);}
-    nodes.forEach(tn=>{
-      const frag=document.createDocumentFragment();
-      tn.nodeValue.split(re).forEach((p,i)=>{
-        if(i%2===1){const mk=document.createElement("mark");mk.className="rhl";mk.textContent=p;frag.appendChild(mk);}
-        else if(p)frag.appendChild(document.createTextNode(p));
-      });
-      tn.parentNode.replaceChild(frag,tn);
-    });
-  });
-  document.querySelectorAll("main details.sec").forEach(sec=>{
-    const vis=Array.prototype.filter.call(sec.querySelectorAll("div.citem"),c=>c.style.display!=="none").length;
-    sec.style.display=vis?"":"none";
-  });
-  document.querySelectorAll("main section.blk").forEach(sec=>{
-    const vis=Array.prototype.filter.call(sec.querySelectorAll("article.card, div.citem"),c=>c.style.display!=="none").length;
-    sec.style.display=vis?"":"none";
-  });
-  _MARKS=Array.prototype.slice.call(document.querySelectorAll("main mark.rhl"));
-  const meta=document.getElementById("rsmeta");
-  if(meta)meta.textContent=n?fmt(t("rail_match"),{n:n}):t("rail_nomatch");
-}
-function railJump(dir){
-  if(!_MARKS.length)return;
-  _MIDX=(_MIDX+dir+_MARKS.length)%_MARKS.length;
-  _MARKS.forEach((m,i)=>m.classList.toggle("cur",i===_MIDX));
-  _MARKS[_MIDX].scrollIntoView({behavior:"smooth",block:"center"});
-}
-function initRailSearch(){
-  const inp=document.getElementById("railq"); if(!inp||inp._wired)return;
-  inp._wired=true;
-  inp.addEventListener("input",()=>{clearTimeout(_RQT);_RQT=setTimeout(railSearch,220);});
-  inp.addEventListener("keydown",e=>{
-    if(e.key==="Enter"){e.preventDefault();railJump(e.shiftKey?-1:1);}
-    else if(e.key==="Escape"){inp.value="";clearMarks();inp.blur();}
-  });
-}
-function initSpy(){
-  if(!("IntersectionObserver" in window))return;
-  if(_SPY)_SPY.disconnect();
-  _SPY=new IntersectionObserver(es=>{
-    es.forEach(e=>{if(e.isIntersecting){
-      document.querySelectorAll("nav.secnav a").forEach(a=>
-        a.classList.toggle("on",a.getAttribute("href")==="#"+e.target.id));
-    }});
-  },{rootMargin:"-30% 0px -60% 0px"});
-  ["headline","s1","s2"].forEach(id=>{
-    const s=document.getElementById(id); if(s)_SPY.observe(s);
-  });
-}
-function copyIssueLink(){
-  const u=location.origin+location.pathname+"#date="+(CURDATE||"");
-  const done=()=>{const b=$("#copylink");if(!b)return;const h0=b.innerHTML;b.innerHTML=ICO.check+t("copied");setTimeout(()=>{b.innerHTML=h0;},1500);};
-  if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(u).then(done).catch(()=>prompt(t("copy_prompt"),u));}
-  else prompt(t("copy_prompt"),u);
+function __setQ(v){_Q=v;render();}
+function __setSEC(v){_SEC=v;renderChips();render();}
+function paintHead(){
+  const cov=new Set(DATA.map(d=>d.company).filter(Boolean)).size;
+  document.getElementById("subline").innerHTML=
+    `今日覆盖 <b>${cov}</b>/${TOTAL_COS} 家 · 今日 <b>${DATA.length}</b> 条 · 数据截至今日 07:30（CST），覆盖近 5 天`;
+  const dates=[...new Set(DATA.map(d=>d.date).filter(Boolean))].sort();
+  const wk={"0":"星期日","1":"星期一","2":"星期二","3":"星期三","4":"星期四","5":"星期五","6":"星期六"};
+  const wOf=d=>{try{return wk[String(new Date(d+"T12:00:00").getDay())]||"";}catch(e){return "";}};
+  let title="";
+  if(dates.length===1)title=`${dates[0].slice(5)} ${wOf(dates[0])}`;
+  else if(dates.length>1)title=`${dates[0].slice(5)} ~ ${dates[dates.length-1].slice(5)}`;
+  document.getElementById("daytitle").textContent=title;
+  document.getElementById("daycnt").textContent=`${DATA.length} 条`;
+  renderChips();
 }
 function localToday(){const n=new Date();const p=v=>String(v).padStart(2,"0");return n.getFullYear()+"-"+p(n.getMonth()+1)+"-"+p(n.getDate());}
-function paintFresh(){
-  const fb=$("#freshbar");if(!fb)return;
-  const L=window._LATEST;
-  if(L&&CURDATE===L&&L<localToday()){
-    const mo=+L.slice(5,7),da=+L.slice(8,10);
-    fb.textContent=fmt(t("fresh_t"),{m:mo,d:da});
-    fb.classList.add("show");
-  }else{fb.classList.remove("show");fb.textContent="";}
-}
 async function loadDay(date){
   CURDATE=date;
-  paintFresh();
   document.querySelectorAll(".errbar").forEach(b=>b.remove());
   try{
     const r=await fetch("data/"+date+".json");
     if(!r.ok)throw new Error("HTTP "+r.status);
-    renderMain(await r.json());
-    document.querySelectorAll(".dpill").forEach(p=>p.classList.toggle("on",p.dataset.d===date));
-    const ip2=$("#issuepill");
-    const no2=(window._ISSUE_DAYS||[]).indexOf(date)+1;
-    if(ip2&&no2>0){ip2.textContent=fmt(t("issue_plain"),{n:no2});ip2.style.display="inline-block";}
+    const j=await r.json();
+    const flat=Array.isArray(j)?j:(j.top10||[]).map(x=>Object.assign({},x,{isTop:true})).concat((j.company_news||[]).map(x=>Object.assign({},x,{isTop:false})));
+    DATA=flat;
+    paintHead();
+    render();
     try{history.replaceState(null,"","#date="+date);}catch(e){}
     window.scrollTo({top:0});
   }catch(e){
-    const m=$("#main");
+    const m=document.getElementById("main");
     if(m)m.insertAdjacentHTML("afterbegin",
-      `<div class="errbar">${ICO.warn}${esc(date)}${t("load_err_t")}${esc(e.message)}${t("load_err_b")}<a href="javascript:loadDay(CURDATE)">${t("retry")}</a></div>`);
+      `<div class="errbar">${esc(date)} 的数据加载失败（${esc(e.message)}）。当前显示的可能是旧日期内容。<a href="javascript:loadDay(CURDATE)">点此重试</a></div>`);
   }
 }
 async function boot(){
+  if(typeof document==="undefined"||!document.getElementById)return;
   try{
-    try{const cl=await (await fetch("companies.json")).json();
-      if(Array.isArray(cl))_COSLIST=cl.filter(c=>c&&c.cn).map(c=>({cn:c.cn}));
-    }catch(e){/* 公司下拉回退为当日数据中的公司 */}
     const idx=await (await fetch("data/index.json")).json();
     const days=idx.days||[];
-    const recent=days.slice(-14).reverse();
-    const older=days.slice(0,-14).reverse();
-    const pill=dt=>`<button class="dpill" data-d="${esc(dt)}" onclick="loadDay('${esc(dt)}')">${esc(dt.slice(5))}</button>`;
-    let html=recent.map(pill).join("");
-    if(older.length){
-      const byM={};
-      older.forEach(dt=>{const m=dt.slice(0,7);(byM[m]=byM[m]||[]).push(dt);});
-      html+=`<details class="arch"><summary>${fmt(t("older"),{n:older.length})}</summary>`+
-        Object.keys(byM).sort().reverse().map(m=>
-          `<div class="mrow"><div class="mlab">${m}</div><div class="dpills" style="margin-top:0">${byM[m].map(pill).join("")}</div></div>`).join("")+
-        `</details>`;
-    }
-    $("#dpills").innerHTML=html;
-    const ip=$("#issuepill");
-    const no=days.indexOf(idx.latest||days[days.length-1])+1;
-    if(no>0){ip.textContent=fmt(t("issue_plain"),{n:no});ip.style.display="inline-block";}
-    window._ISSUE_DAYS=days;
-    window._LATEST=idx.latest||days[days.length-1];
-    initRailSearch();
     const hm=(location.hash||"").match(/date=(\d{4}-\d{2}-\d{2})/);
-    const start=(hm&&days.indexOf(hm[1])>=0)?hm[1]:(idx.latest||days[days.length-1]);
+    const today=localToday();
+    const start=(hm&&days.indexOf(hm[1])>=0)?hm[1]
+      :(days.indexOf(today)>=0?today:(idx.latest||days[days.length-1]||today));
     window.addEventListener("hashchange",()=>{
       const m2=(location.hash||"").match(/date=(\d{4}-\d{2}-\d{2})/);
       if(m2&&m2[1]!==CURDATE&&days.indexOf(m2[1])>=0)loadDay(m2[1]);
     });
     await loadDay(start);
-  }catch(e){$("#main").innerHTML=`<div class="errmsg">${t("boot_err")}</div>`;}
+  }catch(e){
+    document.getElementById("stream").innerHTML='<div class="errmsg">情报数据加载失败，请稍后刷新重试。</div>';
+  }
 }
 boot();
 </script>
