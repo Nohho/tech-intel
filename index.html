@@ -29,8 +29,8 @@ header.top{background:linear-gradient(120deg,var(--accB) 0%,var(--acc) 55%,var(-
 header.top h1{font-size:20px;letter-spacing:.5px}
 header.top .sub{font-size:12.5px;color:#d7ebe3;margin-top:6px}
 header.top .sub b{color:#ffe9a8}
-.fbar{margin-top:10px;display:flex;gap:8px;flex-wrap:wrap;align-items:center}
-.fbar input{flex:1 1 180px;border:1px solid rgba(255,255,255,.35);background:rgba(255,255,255,.12);border-radius:12px;padding:8px 12px;font-size:13px;color:#fff;font-family:inherit;outline:none}
+.fbar{margin-top:10px;display:flex;flex-direction:column;gap:8px}
+.fbar input{width:100%;box-sizing:border-box;border:1px solid rgba(255,255,255,.35);background:rgba(255,255,255,.12);border-radius:12px;padding:8px 12px;font-size:13px;color:#fff;font-family:inherit;outline:none}
 .fbar input::placeholder{color:#bcd8cd}
 .fchips{display:flex;gap:6px;overflow-x:auto;padding-bottom:2px}
 .fchip{flex:none;font-size:12.5px;color:#dcefe8;border:1px solid rgba(255,255,255,.35);background:rgba(255,255,255,.08);border-radius:14px;padding:5px 12px;cursor:pointer;font-family:inherit;font-weight:600}
@@ -70,8 +70,8 @@ mark.hl{background:#fff3b0;border-radius:3px;padding:0 1px}
   <h1>科技情报站 Tech Intel</h1>
   <div class="sub" id="subline"></div>
   <div class="fbar">
-    <input id="q" placeholder="搜索本页内容…" autocomplete="off" spellcheck="false" oninput="__setQ(this.value)">
     <div class="fchips" id="chips"></div>
+    <input id="q" placeholder="搜索本页内容…" autocomplete="off" spellcheck="false" oninput="__setQ(this.value)">
   </div>
   <div class="rsmeta" id="rsmeta"></div>
 </header>
