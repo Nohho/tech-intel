@@ -1,0 +1,383 @@
+{
+ "date": "2026-11-03",
+ "generated_at": "2026-11-03T06:34:25+08:00",
+ "top10": [
+  {
+   "id": "tech-20261103-001",
+   "date": "2026-11-03",
+   "title": "苹果Q4超预期：iPhone收入大增17%，中国区反弹21%",
+   "summary": "苹果发布财年第四季度财报，营收同比增长12%至1144.8亿美元，，超预期；iPhone收入同比大增17%至575.8亿美元，中国区增长21%至175亿美元。这是新任CEO特努斯的首份财报，华尔街对下季指引仍有“大担忧”，盘后股价不涨反跌。",
+   "time": "05:40",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261102/p39#a261102p39",
+   "company": "苹果",
+   "company_en": "Apple",
+   "ticker": "AAPL",
+   "section": "权重科技",
+   "tags": [
+    "财报"
+   ]
+  },
+  {
+   "id": "tech-20261103-002",
+   "date": "2026-11-03",
+   "title": "甲骨文启动200亿美元融资计划，股价大跌",
+   "summary": "甲骨文正式启动200亿美元的资本募集计划，市场对融资的速度与规模感到意外，股价应声大跌。另有消息称，甲骨文正领衔17家高评级企业，赶在美国中期选举投票前集中推进发债。AI资本开支潮正把科技巨头们集体推向债市。（彭博为标题级引用）",
+   "time": "03:54",
+   "outlet": "Bloomberg",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcmotTl9qQVNKSnhZdTJlSHNfNS1BZ04yZmxGTHlUemhjWHJRblpiRU5Tb",
+   "company": "甲骨文",
+   "company_en": "Oracle Corporation",
+   "ticker": "ORCL",
+   "section": "软件云AI",
+   "tags": [
+    "融资"
+   ]
+  },
+  {
+   "id": "tech-20261103-003",
+   "date": "2026-11-03",
+   "title": "Meta拟发行至少200亿美元债券，为AI资本开支输血",
+   "summary": "据彭博社报道并经路透转述，Meta正筹备至少200亿美元的债券发行，以支撑激进的AI基础设施资本开支；另有消息称Meta还在同步推进跨境美元与欧元债券发行。与甲骨文同日启动巨额融资，科技巨头为AI算力“烧钱”正集体转向债市。",
+   "time": "03:18",
+   "outlet": "Reuters",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ0YxUHNFS2hBeHVPODkxZXVIMzE3b2xxLVFkOGxHUmJjSHJGUlV4Z01pZ",
+   "company": "Meta Platforms",
+   "company_en": "Meta Platforms",
+   "ticker": "META",
+   "section": "权重科技",
+   "tags": [
+    "融资"
+   ]
+  },
+  {
+   "id": "tech-20261103-004",
+   "date": "2026-11-03",
+   "title": "Palantir Q3营收同比暴增96%，美国商业业务大增148%",
+   "summary": "Palantir公布第三季度财报，营收同比增长96%至23.1亿美元，高于预期的21.8亿美元；美国商业收入同比暴增148%至9.84亿美元。公司同时上调2026财年营收指引至约85.3亿美元，显示企业级AI软件需求依然强劲。",
+   "time": "05:30",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261102/p38#a261102p38",
+   "company": "帕兰提尔",
+   "company_en": "Palantir Technologies",
+   "ticker": "PLTR",
+   "section": "软件云AI",
+   "tags": [
+    "财报"
+   ]
+  },
+  {
+   "id": "tech-20261103-005",
+   "date": "2026-11-03",
+   "title": "阿斯麦股价下跌，中国出口许可证遭撤销",
+   "summary": "路透报道，阿斯麦部分对华出口许可证被撤销，引发市场对其光刻机对华销售前景的担忧，公司股价应声下跌。在出口管制持续收紧的背景下，半导体设备商正成为地缘政策的直接承压点。",
+   "time": "03:17",
+   "outlet": "Reuters",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53UF9QTGhBbm1aaXFFNm9HMGczRTBPbTdnQXl2ZTAwVFctZkM0TWhtQ1BaM",
+   "company": "阿斯麦",
+   "company_en": "ASML Holding",
+   "ticker": "ASML",
+   "section": "芯片半导体",
+   "tags": [
+    "监管政策"
+   ]
+  },
+  {
+   "id": "tech-20261103-006",
+   "date": "2026-11-03",
+   "title": "Salesforce收购国防科技初创Rune，延续收购攻势",
+   "summary": "据The Information报道，Salesforce将收购国防科技初创公司Rune，延续其近期的收购攻势；路透随后证实交易金额约为3.75亿美元。Salesforce正加速向军事与国防软件市场扩张，把AI与云能力带入国防客户场景。",
+   "time": "11:07",
+   "outlet": "The Information",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdXktMDVIVXVCZk5lWFowUzJHRktDQmVFQVhtWFRsM0J4d1YzVFd2ZWhJM",
+   "company": "Salesforce",
+   "company_en": "Salesforce",
+   "ticker": "CRM",
+   "section": "软件云AI",
+   "tags": [
+    "并购"
+   ]
+  },
+  {
+   "id": "tech-20261103-007",
+   "date": "2026-11-03",
+   "title": "Anthropic修正招股书：已签8954亿美元算力采购承诺与租约",
+   "summary": "Anthropic向SEC提交的修正版S-1文件披露，已签署采购承诺与租赁协议总额达8954亿美元，“绝大部分与算力和基础设施相关”。另据纽约时报消息，2026年预期算力超3.5GW，正把芯片来源从英伟达向亚马逊、谷歌、AMD多元化。",
+   "time": "00:35",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261102/p29#a261102p29",
+   "company": "Anthropic",
+   "company_en": "Anthropic",
+   "ticker": null,
+   "section": "AI前沿",
+   "tags": [
+    "融资"
+   ]
+  },
+  {
+   "id": "tech-20261103-008",
+   "date": "2026-11-03",
+   "title": "英特尔股价崩盘加剧，3.7万亿美元芯片板块抛售潮蔓延",
+   "summary": "雅虎财经报道，英特尔股价崩盘持续恶化，并拖累整个半导体板块，一轮涉及约3.7万亿美元市值的芯片股抛售潮正在蔓延。AI叙事退潮叠加业绩不及预期，芯片股成为本轮科技股调整的重灾区，纳指同步大跌。",
+   "time": "04:41",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-",
+   "company": "英特尔",
+   "company_en": "Intel",
+   "ticker": "INTC",
+   "section": "芯片半导体",
+   "tags": [
+    "股价异动"
+   ]
+  },
+  {
+   "id": "tech-20261103-009",
+   "date": "2026-11-03",
+   "title": "特斯拉与SpaceX合并传闻再起，分析师测算全股票合并影响",
+   "summary": "特斯拉与SpaceX合并传闻再起，分析师测算全股票合并的市场反应。知名特斯拉多头Gary Black警告股东注意合并风险，以Marvell-Lumentum交易后的市场反应为鉴。合并传闻叠加Robotaxi扩张，股价延续反弹。",
+   "time": "23:44",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://finance.yahoo.com/markets/stocks/articles/analyst-models-potential-market-reaction-154443093.html?.tsrc=rss",
+   "company": "特斯拉",
+   "company_en": "Tesla",
+   "ticker": "TSLA",
+   "section": "权重科技",
+   "tags": [
+    "并购"
+   ]
+  },
+  {
+   "id": "tech-20261103-010",
+   "date": "2026-11-03",
+   "title": "DeepSeek发布“创作者模式”，允许用户创建自定义插件",
+   "summary": "DeepSeek推出“创作者模式”，DeepSeek Harness用户可创建自定义插件，例如3D模型渲染器和视频剪辑工作台。这一更新把DeepSeek的开放生态从对话能力延伸到工具与插件层，直面OpenAI的GPTs生态竞争。",
+   "time": "01:40",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261102/p32#a261102p32",
+   "company": "DeepSeek",
+   "company_en": "DeepSeek",
+   "ticker": null,
+   "section": "AI前沿",
+   "tags": [
+    "新品发布"
+   ]
+  }
+ ],
+ "company_news": [
+  {
+   "id": "tech-20261103-011",
+   "date": "2026-11-03",
+   "title": "OpenAI启动“电网守护者计划”，缓解数据中心电网压力",
+   "summary": "OpenAI宣布启动“电网守护者计划”，这是一项面向其未来数据中心园区的美国本土合作，目标是在电网承压时降低用电需求。随着AI算力扩张引发各地电网与社区争议，OpenAI正试图以主动的电网合作换取地方支持。",
+   "time": "02:20",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261102/p34#a261102p34",
+   "company": "OpenAI",
+   "company_en": "OpenAI",
+   "ticker": null,
+   "section": "AI前沿",
+   "tags": [
+    "战略合作"
+   ]
+  },
+  {
+   "id": "tech-20261103-012",
+   "date": "2026-11-03",
+   "title": "Anthropic为Claude Code设新限额，防复刻他人游戏代码",
+   "summary": "Anthropic确认对Claude Code设置新的使用限额，目的是“引导其远离复刻他人特定游戏”，并强调侵犯知识产权违反其使用政策。随着AI编程工具被用于复制商业代码，Anthropic开始收紧版权红线。",
+   "time": "01:05",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261102/p31#a261102p31",
+   "company": "Anthropic",
+   "company_en": "Anthropic",
+   "ticker": null,
+   "section": "AI前沿",
+   "tags": [
+    "监管政策"
+   ]
+  },
+  {
+   "id": "tech-20261103-013",
+   "date": "2026-11-03",
+   "title": "微软Azure增长强劲，AI需求已超过供给",
+   "summary": "雅虎财经报道，微软Azure云业务保持强劲增长，AI相关需求已超过供给能力。云业务的超预期表现成为微软财报季的核心亮点，也印证了企业级AI需求仍在加速兑现为订单。",
+   "time": "04:12",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMFplZTkxUEdqUExRU0N0UHdSdGNtNWZzWVAxd1hrTXZNa3NCQVFXUXJxc",
+   "company": "微软",
+   "company_en": "Microsoft",
+   "ticker": "MSFT",
+   "section": "权重科技",
+   "tags": [
+    "财报"
+   ]
+  },
+  {
+   "id": "tech-20261103-014",
+   "date": "2026-11-03",
+   "title": "AMD今晚发布Q3财报，英特尔惨淡业绩后备受关注",
+   "summary": "AMD将于今日盘后公布第三季度财报。在英特尔交出令人失望的业绩、芯片股遭抛售的背景下，AMD的数据中心与AI芯片业务表现，成为市场判断半导体周期走向的关键变量。",
+   "time": "03:03",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdjRzN3FTN1pnM2YybjFUOF9WQmhGR2dJN2lLYnNva2FRVi1uNmt6bUxkd",
+   "company": "超威半导体",
+   "company_en": "Advanced Micro Devices",
+   "ticker": "AMD",
+   "section": "权重科技",
+   "tags": [
+    "财报"
+   ]
+  },
+  {
+   "id": "tech-20261103-015",
+   "date": "2026-11-03",
+   "title": "高通参与Hark 7亿美元融资，押注AI助手赛道",
+   "summary": "高通加入Hark的7亿美元融资轮，把赌注押在AI助手方向。芯片厂商正从硬件向上游应用层延伸，通过投资AI助手公司锁定未来端侧AI的入口与算力需求，卡位下一代交互入口。",
+   "time": "03:09",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-joins-700-million-190916281.html?.tsr",
+   "company": "高通",
+   "company_en": "Qualcomm",
+   "ticker": "QCOM",
+   "section": "芯片半导体",
+   "tags": [
+    "融资"
+   ]
+  },
+  {
+   "id": "tech-20261103-016",
+   "date": "2026-11-03",
+   "title": "美光预计12月启动大规模股票回购",
+   "summary": "雅虎财经报道，美光预计将在12月启动大规模股票回购计划。与此同时，铠侠发布谨慎的业绩展望，拖累存储板块集体走低，美光跌约4%，西部数据跌5%、闪迪跌3%。回购预期与行业需求分歧交织，存储股波动加剧。",
+   "time": "02:53",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTjlYUmFUdGdUUExXR0JlYW15ZGUwRmxMaU9vVnd2VkN6eXNhZldneHp0Y",
+   "company": "美光",
+   "company_en": "Micron Technology",
+   "ticker": "MU",
+   "section": "权重科技",
+   "tags": [
+    "股价异动"
+   ]
+  },
+  {
+   "id": "tech-20261103-017",
+   "date": "2026-11-03",
+   "title": "ServiceNow展望不及预期引AI担忧，软件股普跌",
+   "summary": "路透报道，ServiceNow与Fortinet的财报未能达到投资者的高预期，引发市场对AI冲击传统软件模式的担忧，软件板块普跌。企业软件股正成为AI叙事下的新一轮杀估值对象。（彭博为标题级引用）",
+   "time": "22:15",
+   "outlet": "Reuters",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQXYxUGkybjhZNGUydzJvN0pjTjROMkF2djdManFSLWgxZmtYZW96c0RfR",
+   "company": "ServiceNow",
+   "company_en": "ServiceNow",
+   "ticker": "NOW",
+   "section": "软件云AI",
+   "tags": [
+    "财报"
+   ]
+  },
+  {
+   "id": "tech-20261103-018",
+   "date": "2026-11-03",
+   "title": "Meta将于2027年停止Quest 2系统更新",
+   "summary": "The Verge报道，Meta宣布将于2027年停止对Quest 2头显的操作系统更新。这款曾创下销量纪录的VR设备正式进入退役倒计时，Meta的硬件重心已全面转向新一代设备与AI眼镜。",
+   "time": "05:04",
+   "outlet": "The Verge",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMGV1MmcxQ2tJTnNiL",
+   "company": "Meta Platforms",
+   "company_en": "Meta Platforms",
+   "ticker": "META",
+   "section": "权重科技",
+   "tags": [
+    "突发"
+   ]
+  },
+  {
+   "id": "tech-20261103-019",
+   "date": "2026-11-03",
+   "title": "苹果或需向部分iPhone用户最高赔偿95美元",
+   "summary": "雅虎财经报道，苹果可能需要向部分iPhone用户支付最高95美元的赔偿，并公布了申领方式。这起和解源于围绕iPhone的集体诉讼，符合条件的用户可按流程提交索赔。",
+   "time": "04:28",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://finance.yahoo.com/personal-finance/banking/article/apple-could",
+   "company": "苹果",
+   "company_en": "Apple",
+   "ticker": "AAPL",
+   "section": "权重科技",
+   "tags": [
+    "诉讼"
+   ]
+  },
+  {
+   "id": "tech-20261103-020",
+   "date": "2026-11-03",
+   "title": "特斯拉Robotaxi落地新城市，股价延续反弹",
+   "summary": "雅虎财经报道，特斯拉Robotaxi服务新增一座运营城市，公司股价延续近期的反弹走势。在FSD监管与SpaceX合并传闻之外，Robotaxi的稳步扩张正成为特斯拉股价的短期支撑。",
+   "time": "05:00",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://finance.yahoo.com/markets/article/tesla-robotaxi-adds-this-new-city",
+   "company": "特斯拉",
+   "company_en": "Tesla",
+   "ticker": "TSLA",
+   "section": "权重科技",
+   "tags": [
+    "新品发布"
+   ]
+  },
+  {
+   "id": "tech-20261103-021",
+   "date": "2026-11-03",
+   "title": "债券市场发出CoreWeave信用困境信号",
+   "summary": "雅虎财经报道，债券市场正发出关于CoreWeave的信用困境信号。这家AI算力“新贵”靠举债高速扩张的模式，在利率与AI资本开支争议下开始受到债市质疑，信用利差走阔值得关注。",
+   "time": "03:34",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://finance.yahoo.com/markets/article/bond-market-signals-distress-about-coreweave",
+   "company": "CoreWeave",
+   "company_en": "CoreWeave",
+   "ticker": "CRWV",
+   "section": "软件云AI",
+   "tags": [
+    "股价异动"
+   ]
+  },
+  {
+   "id": "tech-20261103-022",
+   "date": "2026-11-03",
+   "title": "英伟达、微软、摩根大通联手反对OKXICE代币化股票",
+   "summary": "雅虎财经报道，英伟达、微软与摩根大通共同反对OKXICE推出的代币化股票产品。传统金融与科技巨头罕见地站在同一阵线，对“链上美股”的合规性提出质疑，代币化证券的监管博弈升级。",
+   "time": "04:30",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://finance.yahoo.com/markets/article/nvidia-microsoft-and-jpmorgan-object-to-okxice",
+   "company": "英伟达",
+   "company_en": "NVIDIA",
+   "ticker": "NVDA",
+   "section": "权重科技",
+   "tags": [
+    "监管政策"
+   ]
+  }
+ ],
+ "breaking": []
+}
