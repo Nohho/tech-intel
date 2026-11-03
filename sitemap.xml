@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://nohho.github.io/tech-intel/</loc><lastmod>2026-11-03</lastmod><changefreq>daily</changefreq></url>
-  <url><loc>https://nohho.github.io/tech-intel/feed.xml</loc><lastmod>2026-11-03</lastmod><changefreq>daily</changefreq></url>
+  <url><loc>https://nohho.github.io/tech-intel/</loc><lastmod>2026-11-04</lastmod><changefreq>daily</changefreq></url>
+  <url><loc>https://nohho.github.io/tech-intel/feed.xml</loc><lastmod>2026-11-04</lastmod><changefreq>daily</changefreq></url>
   <url><loc>https://nohho.github.io/tech-intel/#date=2026-10-31</loc><lastmod>2026-10-31</lastmod><changefreq>monthly</changefreq></url>
   <url><loc>https://nohho.github.io/tech-intel/#date=2026-11-01</loc><lastmod>2026-11-01</lastmod><changefreq>monthly</changefreq></url>
   <url><loc>https://nohho.github.io/tech-intel/#date=2026-11-02</loc><lastmod>2026-11-02</lastmod><changefreq>monthly</changefreq></url>
-  <url><loc>https://nohho.github.io/tech-intel/#date=2026-11-03</loc><lastmod>2026-11-03</lastmod><changefreq>daily</changefreq></url>
+  <url><loc>https://nohho.github.io/tech-intel/#date=2026-11-03</loc><lastmod>2026-11-03</lastmod><changefreq>monthly</changefreq></url>
+  <url><loc>https://nohho.github.io/tech-intel/#date=2026-11-04</loc><lastmod>2026-11-04</lastmod><changefreq>daily</changefreq></url>
 </urlset>
