@@ -1,0 +1,367 @@
+{
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T06:26:45+08:00",
+  "top10": [
+    {
+      "id": "tech-20261104-001",
+      "title": "AMD三季度财报超预期：数据中心收入翻倍，盘后大涨",
+      "summary": "AMD第三季度营收同比增长45%至133.8亿美元，高于市场预期的130.9亿美元；数据中心业务收入增长97%至85亿美元，创历史纪录。公司给出超预期的第四季度指引，财报发布后盘后股价上涨超7%。",
+      "time": "05:30",
+      "date": "2026-11-04",
+      "outlet": "Techmeme",
+      "first_party": false,
+      "url": "https://www.techmeme.com/261103/p34#a261103p34",
+      "company": "超威半导体",
+      "company_en": "Advanced Micro Devices",
+      "ticker": "AMD",
+      "section": "权重科技",
+      "tags": [
+        "财报"
+      ]
+    },
+    {
+      "id": "tech-20261104-002",
+      "title": "美满收购鲁门特姆再生疑云，两公司市值蒸发910亿美元",
+      "summary": "美满电子以1150亿美元收购光模块厂商鲁门特姆的交易遭遇市场质疑，两公司合计市值已蒸发约910亿美元。投资者担忧交易估值过高及交割风险，分析师对这笔半导体史上最大并购案的前景分歧加大。",
+      "time": "02:12",
+      "date": "2026-11-04",
+      "outlet": "Yahoo Finance",
+      "first_party": false,
+      "url": "https://finance.yahoo.com/m/ffb93c2f-a4c1-32cc-b9d5-05d9e6b15737/marvell-and-lumentum-have.html?.tsrc=rss",
+      "company": "美满电子",
+      "company_en": "Marvell Technology",
+      "ticker": "MRVL",
+      "section": "芯片半导体",
+      "tags": [
+        "并购",
+        "股价异动"
+      ]
+    },
+    {
+      "id": "tech-20261104-003",
+      "title": "特斯拉中国10月销量疲软，全年累计仍增长21%",
+      "summary": "特斯拉中国10月交付数据不及预期，反映出国内电动车市场竞争加剧。不过公司全年累计销量仍保持21%的增长，官方淡化单月波动影响。市场关注其改款车型与降价策略能否提振年底需求。",
+      "time": "05:02",
+      "date": "2026-11-04",
+      "outlet": "Yahoo Finance",
+      "first_party": false,
+      "url": "https://finance.yahoo.com/m/c170891e-a2a9-3a19-9c03-21c31d035761/tesla-china-brushes-off-weak.html?.tsrc=rss",
+      "company": "特斯拉",
+      "company_en": "Tesla",
+      "ticker": "TSLA",
+      "section": "权重科技",
+      "tags": [
+        "股价异动"
+      ]
+    },
+    {
+      "id": "tech-20261104-004",
+      "title": "Meta拟发行至少200亿美元投资级债券，首发欧元债",
+      "summary": "Meta计划发行至少200亿美元的投资级债券，这是公司六个月来首次大规模发债，也是其首次发行欧元计价债券。募资将主要用于AI数据中心等基础设施的资本开支，显示其AI投入继续加码。",
+      "time": "02:55",
+      "date": "2026-11-04",
+      "outlet": "Techmeme",
+      "first_party": false,
+      "url": "https://www.techmeme.com/261103/p25#a261103p25",
+      "company": "Meta Platforms",
+      "company_en": "Meta Platforms",
+      "ticker": "META",
+      "section": "权重科技",
+      "tags": [
+        "融资"
+      ]
+    },
+    {
+      "id": "tech-20261104-005",
+      "title": "OpenAI挖角Uber总裁，出任首席企业事务官",
+      "summary": "OpenAI任命Uber总裁兼首席企业事务官Jill Hazelbaker为公司新的首席企业事务官，直接向联合创始人Greg Brockman汇报。这位资深企业传播与政府事务专家将负责OpenAI的对外沟通与政策游说。",
+      "time": "05:00",
+      "date": "2026-11-04",
+      "outlet": "Techmeme",
+      "first_party": false,
+      "url": "https://www.techmeme.com/261103/p31#a261103p31",
+      "company": "OpenAI",
+      "company_en": "OpenAI",
+      "ticker": null,
+      "section": "AI前沿",
+      "tags": [
+        "高管变动"
+      ]
+    },
+    {
+      "id": "tech-20261104-006",
+      "title": "苹果iOS 27.3测试版在中国上线Apple Intelligence，引入阿里内容过滤",
+      "summary": "苹果发布iOS 27.3测试版，首次在中国大陆引入Apple Intelligence功能，并接入阿里巴巴提供的内容过滤机制。新版本还带来Siri Recap与Live Rewind等功能，标志着苹果AI正式落地中国市场。",
+      "time": "04:50",
+      "date": "2026-11-04",
+      "outlet": "Techmeme",
+      "first_party": false,
+      "url": "https://www.techmeme.com/261103/p30#a261103p30",
+      "company": "阿里巴巴",
+      "company_en": "Alibaba",
+      "ticker": null,
+      "section": "AI前沿",
+      "tags": [
+        "新品发布"
+      ]
+    },
+    {
+      "id": "tech-20261104-007",
+      "title": "Anthropic开源FlashProve：密码学验证AI响应的真实来源",
+      "summary": "Anthropic发布开源代码FlashProve，可用密码学方法验证一条AI响应是否真正来自指定模型，而非被中间路由替换为更便宜的模型。该技术为企业验证API调用的真实性提供了新工具，代码已公开。",
+      "time": "05:10",
+      "date": "2026-11-04",
+      "outlet": "Techmeme",
+      "first_party": false,
+      "url": "https://www.techmeme.com/261103/p32#a261103p32",
+      "company": "Anthropic",
+      "company_en": "Anthropic",
+      "ticker": null,
+      "section": "AI前沿",
+      "tags": [
+        "AI 模型"
+      ]
+    },
+    {
+      "id": "tech-20261104-008",
+      "title": "谷歌DeepMind英国员工呼吁取消“不得贬低”条款",
+      "summary": "英国DeepMind员工联名呼吁管理层取消合同中的不贬低条款，该条款禁止员工在离职后公开警示AI风险。员工认为这限制了对AI安全问题的公开讨论，公司尚未作出回应。",
+      "time": "02:00",
+      "date": "2026-11-04",
+      "outlet": "Techmeme",
+      "first_party": false,
+      "url": "https://www.techmeme.com/261103/p23#a261103p23",
+      "company": "Alphabet",
+      "company_en": "Alphabet",
+      "ticker": "GOOGL",
+      "section": "权重科技",
+      "tags": [
+        "监管政策"
+      ]
+    },
+    {
+      "id": "tech-20261104-009",
+      "title": "分析：美满收购风波给特斯拉-SpaceX合并想象泼冷水",
+      "summary": "美满收购鲁门特姆交易受挫后，分析师开始重新评估特斯拉与SpaceX潜在合并的可行性。文章指出，超大型全股票交易面临监管、估值与整合三重考验，马斯克的合并设想可能过于乐观。",
+      "time": "23:09",
+      "date": "2026-11-03",
+      "outlet": "Yahoo Finance",
+      "first_party": false,
+      "url": "https://finance.yahoo.com/m/4e07bebb-339f-368a-a045-9daa726a5986/what-the-marvell-lumentum.html?.tsrc=rss",
+      "company": "特斯拉",
+      "company_en": "Tesla",
+      "ticker": "TSLA",
+      "section": "权重科技",
+      "tags": [
+        "并购"
+      ]
+    },
+    {
+      "id": "tech-20261104-010",
+      "title": "Barron's：Palantir飙涨财报背后藏着令人不安的信号",
+      "summary": "Palantir最新季度财报依然亮眼，但Barron's指出其高增长背后隐藏着值得警惕的信号。市场对该公司商业化节奏与估值持续性的疑虑未消，财报后股价承压，投资者分歧明显加大。",
+      "time": "05:05",
+      "date": "2026-11-04",
+      "outlet": "Yahoo Finance",
+      "first_party": false,
+      "url": "https://finance.yahoo.com/technology/ai/articles/hiding-inside-palantir-skyrocketing-quarter-210555581.html?.tsrc=rss",
+      "company": "帕兰提尔",
+      "company_en": "Palantir Technologies",
+      "ticker": "PLTR",
+      "section": "软件云AI",
+      "tags": [
+        "财报"
+      ]
+    }
+  ],
+  "company_news": [
+    {
+      "id": "tech-20261104-011",
+      "title": "苹果向全部开发者开放Siri AI",
+      "summary": "苹果在iOS 27.3等系统测试版中向全部开发者开放Siri AI，任何应用可通过App Intents将内容与操作接入Siri。这是苹果AI生态向第三方开放的关键一步，预计将催生一批基于Siri的AI应用。",
+      "time": "04:15",
+      "date": "2026-11-04",
+      "outlet": "Techmeme",
+      "first_party": false,
+      "url": "https://www.techmeme.com/261103/p27#a261103p27",
+      "company": "苹果",
+      "company_en": "Apple",
+      "ticker": "AAPL",
+      "section": "权重科技",
+      "tags": [
+        "新品发布"
+      ]
+    },
+    {
+      "id": "tech-20261104-012",
+      "title": "CrowdStrike推出AI终止开关Falcon Guardian",
+      "summary": "CrowdStrike在安全平台Falcon中推出AI终止开关Guardian，可实时叫停企业内部失控的AI智能体行为。随着AI智能体在企业内大规模部署，AI行为管控正成为网络安全的新增长点。",
+      "time": "04:30",
+      "date": "2026-11-04",
+      "outlet": "Techmeme",
+      "first_party": false,
+      "url": "https://www.techmeme.com/261103/p28#a261103p28",
+      "company": "CrowdStrike",
+      "company_en": "CrowdStrike",
+      "ticker": "CRWD",
+      "section": "网络安全",
+      "tags": [
+        "新品发布"
+      ]
+    },
+    {
+      "id": "tech-20261104-013",
+      "title": "微软优化Windows 11：8GB内存电脑响应速度提升20%",
+      "summary": "微软推送Windows 11更新，针对8GB内存机型做深度优化，官方称系统响应速度最高提升20%。这一改进将惠及大量存量低配电脑用户，也显示微软仍在持续打磨PC体验。",
+      "time": "01:20",
+      "date": "2026-11-04",
+      "outlet": "Techmeme",
+      "first_party": false,
+      "url": "https://www.techmeme.com/261103/p22#a261103p22",
+      "company": "微软",
+      "company_en": "Microsoft",
+      "ticker": "MSFT",
+      "section": "权重科技",
+      "tags": [
+        "新品发布"
+      ]
+    },
+    {
+      "id": "tech-20261104-014",
+      "title": "育碧等三家公司报价收购微软旗下Arkane工作室",
+      "summary": "育碧及另外两家游戏公司已向微软报价，欲收购其旗下法国游戏工作室Arkane Studios。Arkane是微软收购动视暴雪之外的重要游戏资产，出售传闻或反映微软正收缩游戏版图。",
+      "time": "05:20",
+      "date": "2026-11-04",
+      "outlet": "Techmeme",
+      "first_party": false,
+      "url": "https://www.techmeme.com/261103/p33#a261103p33",
+      "company": "微软",
+      "company_en": "Microsoft",
+      "ticker": "MSFT",
+      "section": "权重科技",
+      "tags": [
+        "并购"
+      ]
+    },
+    {
+      "id": "tech-20261104-015",
+      "title": "亚德诺完成对Alif Semiconductor收购",
+      "summary": "亚德诺半导体宣布完成对边缘AI芯片公司Alif Semiconductor的收购，交易增强其在低功耗边缘计算与TinyML领域的布局。分析师认为这有助于亚德诺切入AI边缘推理的增量市场。",
+      "time": "05:05",
+      "date": "2026-11-04",
+      "outlet": "Yahoo Finance",
+      "first_party": false,
+      "url": "https://finance.yahoo.com/technology/articles/analog-devices-completes-acquisition-alif-210500626.html?.tsrc=rss",
+      "company": "亚德诺",
+      "company_en": "Analog Devices",
+      "ticker": "ADI",
+      "section": "芯片半导体",
+      "tags": [
+        "并购"
+      ]
+    },
+    {
+      "id": "tech-20261104-016",
+      "title": "特斯拉、亚马逊拒绝代币化股票",
+      "summary": "特斯拉、亚马逊与SpaceX等公司明确拒绝发行代币化股票，与部分交易平台推动的股票代币化潮流划清界限。公司方担忧代币化带来的监管与股东结构风险，华尔街对此分歧明显。",
+      "time": "05:00",
+      "date": "2026-11-04",
+      "outlet": "Yahoo Finance",
+      "first_party": false,
+      "url": "https://finance.yahoo.com/video/tesla-amazon-spacex-among-companies-210000505.html?.tsrc=rss",
+      "company": "特斯拉",
+      "company_en": "Tesla",
+      "ticker": "TSLA",
+      "section": "权重科技",
+      "tags": [
+        "监管政策"
+      ]
+    },
+    {
+      "id": "tech-20261104-017",
+      "title": "微芯科技扩展工业级FPGA功能",
+      "summary": "微芯科技扩展其工业级FPGA产品线功能，强化在工厂自动化与边缘控制场景的竞争力。机构认为工业芯片需求正在复苏，公司股价较近期低点仍有约28%的折价空间，估值具备吸引力。",
+      "time": "05:11",
+      "date": "2026-11-04",
+      "outlet": "Yahoo Finance",
+      "first_party": false,
+      "url": "https://finance.yahoo.com/markets/stocks/articles/microchip-technology-mchp-expands-industrial-211142222.html?.tsrc=rss",
+      "company": "微芯科技",
+      "company_en": "Microchip Technology",
+      "ticker": "MCHP",
+      "section": "芯片半导体",
+      "tags": [
+        "新品发布"
+      ]
+    },
+    {
+      "id": "tech-20261104-018",
+      "title": "思科公布2027财年一季度财报电话会时间",
+      "summary": "思科宣布将于近期举行2027财年第一季度财报电话会，市场将关注其网络设备订单复苏与AI数据中心交换机业务进展。公司此前指引显示企业IT支出正在企稳，渠道库存已回归健康水平。",
+      "time": "05:05",
+      "date": "2026-11-04",
+      "outlet": "Yahoo Finance",
+      "first_party": false,
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-schedules-conference-call-q1-210500831.html?.tsrc=rss",
+      "company": "思科",
+      "company_en": "Cisco Systems",
+      "ticker": "CSCO",
+      "section": "权重科技",
+      "tags": [
+        "财报"
+      ]
+    },
+    {
+      "id": "tech-20261104-019",
+      "title": "阿斯特拉公布2026年第三季度财报",
+      "summary": "AI基础设施互连芯片公司阿斯特拉发布2026年第三季度财报。作为AI服务器PCIe与CXL互连的关键供应商，其业绩被视为AI硬件链景气度的风向标之一，投资者关注其大客户订单动向。",
+      "time": "05:05",
+      "date": "2026-11-04",
+      "outlet": "Yahoo Finance",
+      "first_party": false,
+      "url": "https://finance.yahoo.com/technology/articles/astera-labs-reports-third-quarter-210500020.html?.tsrc=rss",
+      "company": "阿斯特拉",
+      "company_en": "Astera Labs",
+      "ticker": "ALAB",
+      "section": "芯片半导体",
+      "tags": [
+        "财报"
+      ]
+    },
+    {
+      "id": "tech-20261104-020",
+      "title": "UBS：苹果增长与利润率2027年将承压",
+      "summary": "瑞银发布报告称，苹果的增长与利润率在2027年可能面临压力，iPhone换机周期延长与AI投入加大是主要拖累。尽管如此，机构仍维持其买入评级，认为估值已部分消化悲观预期。",
+      "time": "04:00",
+      "date": "2026-11-04",
+      "outlet": "Yahoo Finance",
+      "first_party": false,
+      "url": "https://finance.yahoo.com/markets/stocks/articles/apple-growth-margins-likely-face-200013801.html?.tsrc=rss",
+      "company": "苹果",
+      "company_en": "Apple",
+      "ticker": "AAPL",
+      "section": "权重科技",
+      "tags": [
+        "股价异动"
+      ]
+    },
+    {
+      "id": "tech-20261104-021",
+      "title": "门达面临竞争格局变化，分析师审视增长可持续性",
+      "summary": "DoorDash正面临外卖与即时零售竞争格局的变化，分析师开始审视其增长能否持续。公司在高基数下维持两位数增长的难度加大，市场关注其新业务的盈利贡献与用户留存表现。",
+      "time": "03:55",
+      "date": "2026-11-04",
+      "outlet": "Yahoo Finance",
+      "first_party": false,
+      "url": "https://finance.yahoo.com/markets/stocks/articles/doordash-inc-dash-facing-changing-195543388.html?.tsrc=rss",
+      "company": "门达",
+      "company_en": "DoorDash",
+      "ticker": "DASH",
+      "section": "软件云AI",
+      "tags": [
+        "股价异动"
+      ]
+    }
+  ],
+  "breaking": []
+}
