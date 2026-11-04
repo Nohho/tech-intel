@@ -1,0 +1,620 @@
+{
+  "date": "2026-11-05",
+  "top10": [
+    {
+      "id": "tech-20261105-001",
+      "title": "AMD 拟约 29 亿美元现金加股票收购 AI 芯片初创 Taalas",
+      "summary": "监管文件披露，AMD 将以现金加股票方式收购 AI 芯片初创公司 Taalas，总对价约 29 亿美元，其中约 14 亿美元取决于未披露的附加条件。这笔交易最早于今年 8 月宣布，是 AMD 在 AI 芯片领域补强布局的又一动作。",
+      "time": "03:45",
+      "date": "2026-11-05",
+      "outlet": "Techmeme",
+      "first_party": false,
+      "url": "https://www.techmeme.com/261104/p48#a261104p48",
+      "company": "超威半导体",
+      "company_en": "Advanced Micro Devices",
+      "ticker": "AMD",
+      "section": "权重科技",
+      "tags": [
+        "并购"
+      ]
+    },
+    {
+      "id": "tech-20261105-002",
+      "title": "Meta 欧元债首秀募资 90 亿欧元，获创纪录 530 亿欧元认购",
+      "summary": "Meta 首次发行欧元计价债券，募资 90 亿欧元，获得创纪录的 530 亿欧元订单，认购极为踊跃。公司正通过债券市场为 AI 基础设施扩张大规模输血，强劲需求也帮助其压低了融资成本。",
+      "time": "04:50",
+      "date": "2026-11-05",
+      "outlet": "Techmeme",
+      "first_party": false,
+      "url": "https://www.techmeme.com/261104/p50#a261104p50",
+      "company": "Meta Platforms",
+      "company_en": "Meta Platforms",
+      "ticker": "META",
+      "section": "权重科技",
+      "tags": [
+        "融资"
+      ]
+    },
+    {
+      "id": "tech-20261105-003",
+      "title": "Anthropic 承诺 8950 亿美元支出，巨型 IPO 临近",
+      "summary": "Anthropic 已承诺高达 8950 亿美元的支出计划，为临近的巨型 IPO 造势。这一数字凸显了 AI 实验室对算力基础设施的激进投入，也将市场对 AI 资本开支的预期推向新的高度。",
+      "time": "00:11",
+      "date": "2026-11-05",
+      "outlet": "Bloomberg",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNY1J3NXRpRXlFZHZiUUotRlNhandEU19SQVVyM3c1SW0teWRrMGxhUnpzbjJYN0hyTUlOMGd2a3dqSDl3ZG9tMFIyVEhkN1BnVDdTcmNzUF94dExOZEMwN0VUMTBKbE52U2hma3BLOVp3T0VCRVh0ZE1mVWdvU0RiNjFIOWhRTHdfeElXZUJHMkppd0hHbFRuVzNiODBURVJLNzJyLXpRSkx1TTlsaVJvUDJnSUo?oc=5",
+      "company": "Anthropic",
+      "company_en": "Anthropic",
+      "ticker": null,
+      "section": "AI前沿",
+      "tags": [
+        "融资"
+      ]
+    },
+    {
+      "id": "tech-20261105-004",
+      "title": "OpenAI 收购 Pierre Computer 代码存储资产，加码 Codex",
+      "summary": "OpenAI 将通过收购 Pierre Computer 的代码存储资产来补强其 AI 编程工具 Codex。这是 OpenAI 围绕代码智能体持续加码基础设施的又一布局，旨在提升 Codex 的代码理解与存储能力。",
+      "time": "02:34",
+      "date": "2026-11-05",
+      "outlet": "WSJ",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMHB3WDNrSi01NF8zXzUyZWdSb0U0ZUZyVlZWUF9jeVBfeHVTNkpESjFRSk1FWTk1aFZNcVl2LTRXdlpnR2N5eTRURXJMZkVRM0o5dlVSZWRuY0dVc2ZRTGRLb3M1WVZjRk54Z0doRGt2MVlDTURZaHR6LWpPR3RiT0FmU19vWWd6dE5iY3FLOWozZkNhSHJENktiRGtmc3dJM2xXSDFyOFNlM0N2b2FLWQ?oc=5",
+      "company": "OpenAI",
+      "company_en": "OpenAI",
+      "ticker": null,
+      "section": "AI前沿",
+      "tags": [
+        "并购"
+      ]
+    },
+    {
+      "id": "tech-20261105-005",
+      "title": "甲骨文在特朗普政府压力下放弃 70 亿美元腾讯 AI 交易",
+      "summary": "甲骨文已放弃与腾讯价值 70 亿美元的 AI 交易，原因是特朗普政府方面的压力。这笔交易告吹凸显中美科技合作在地缘政治压力下的脆弱性，也为跨国 AI 合作再添变数。",
+      "time": "13:21",
+      "date": "2026-11-05",
+      "outlet": "Reuters",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZWJQOGRuTGwyaDdhNm9pUkwxSTdndmhaLTI1MTAzYUdpd0EyNE1YT2xGeFNVbGNKRXhOa1Fob3QyOS05RnJReHJ6N3BhWlNBNXJXaU5XN3hzcllGUzRHbGVfTU9sUlNZNlNwd3FvMHA5VE9CcDRoQXJFNGQ3X29ZeDJEbXliRHB5a2FGVVBpUklwLTBfaG05UC1iR1VLd3kxNDFlVnlvV05LZDVvaVN5VUFaNm1PVDBmZVN6V2h3?oc=5",
+      "company": "腾讯",
+      "company_en": "Tencent",
+      "ticker": null,
+      "section": "AI前沿",
+      "tags": [
+        "监管政策"
+      ]
+    },
+    {
+      "id": "tech-20261105-006",
+      "title": "AMD 因 OpenAI、Meta 芯片交易计提 10 亿美元季度费用",
+      "summary": "AMD 预计将因与 OpenAI 和 Meta 的芯片交易计提 10 亿美元季度费用，引发市场对这类定制芯片交易真实盈利能力的讨论。投资者开始重新评估 AMD 数据中心业务的利润质量。",
+      "time": "10:12",
+      "date": "2026-11-05",
+      "outlet": "Reuters",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPY3RKZ3JJTFBHVzJUVXg5b3plRk1ia1FPSFhZNE9FUEtPd3pBQ2ZSa2psVmphTk43UEs2cUxxc1ZfMDRYOUFzMHhROXN5WmoxZURqU29xRDVhS05CRnFJZjZwTHNySkJGbzd1Z0ZadDdlcUdxaV9CSE1xUERDQXZ4S1hWT0dZME1mV1VpTW45dXVMRzNiRmcyZHN0Ql9mbHlpdzBZd216czZCY29ydzdZbGtWSFByRDdvcGc?oc=5",
+      "company": "超威半导体",
+      "company_en": "Advanced Micro Devices",
+      "ticker": "AMD",
+      "section": "权重科技",
+      "tags": [
+        "财报"
+      ]
+    },
+    {
+      "id": "tech-20261105-007",
+      "title": "英伟达 700 亿美元 RTX 芯片订单，中国客户仅分得 1%",
+      "summary": "英伟达价值 700 亿美元的 RTX 芯片订单中，中国客户仅能获得约 1% 的份额。在出口管制背景下，中国市场能拿到的先进算力供给依然极其有限，供需缺口持续扩大。",
+      "time": "11:14",
+      "date": "2026-11-05",
+      "outlet": "Bloomberg",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcDF2WGJ0VTU5c0hYZ3BSLTJzWHd4eHc2N0trQlNwZ2MzcjYwRnpOUXExalczVW9yODBJTXVnUDZ6MGVPQzI3allYS0Q3eG1qblB3Nm1oQlcyQ0xzOU9CTjdqR0dTeURvUzhSYkQ1dnJFbTVieFplUmU3Unh1VjlWNS02SVZWWk1NRVBWQ1hvWGxRczhqVWt4ektFUWRjMW1KMEpYRmpNY2N0X1dySmRuUzNB?oc=5",
+      "company": "英伟达",
+      "company_en": "NVIDIA",
+      "ticker": "NVDA",
+      "section": "权重科技",
+      "tags": [
+        "监管政策"
+      ]
+    },
+    {
+      "id": "tech-20261105-008",
+      "title": "Arm 二季度营收同比增 27% 至 14.4 亿美元，超预期",
+      "summary": "Arm 第二财季营收同比增长 27% 至 14.4 亿美元，高于市场预期的 13.8 亿美元；其中专利授权收入增长 8% 至 6.7 亿美元。AI 浪潮下芯片架构授权需求持续旺盛。",
+      "time": "05:31",
+      "date": "2026-11-05",
+      "outlet": "Techmeme",
+      "first_party": false,
+      "url": "https://www.techmeme.com/261104/p51#a261104p51",
+      "company": "安谋",
+      "company_en": "Arm Holdings",
+      "ticker": "ARM",
+      "section": "芯片半导体",
+      "tags": [
+        "财报"
+      ]
+    },
+    {
+      "id": "tech-20261105-009",
+      "title": "Anthropic 投资者推动 IPO 估值贴近 1.5 万亿美元的谨慎区间",
+      "summary": "Anthropic 的部分投资者正推动其 IPO 采取更谨慎的估值，目标贴近 1.5 万亿美元，而非此前更高的预期。这显示即便是头部 AI 实验室，在上市定价上也面临理性回归的压力。",
+      "time": "05:40",
+      "date": "2026-11-05",
+      "outlet": "WSJ",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTDhmTmZkVWhzazBUYVdXNUx1OTRkRDFidXNnblM1R0lFNVQ2OS1zRFV2aTFtS2drOEhOVEVSSjZzZDN0Z053X3NrMnJEVTRGQm1EOHh6aDJYWC16bTVPdlpxVk10Vkh0ZkNrdkx1YzFodGc1WVQ4NkpPanN3TnZPZjcxYmcwS0xaSk1DelBQUzM4RFpNNVdubXR5WlRZZXA2b3paamIwdkcwVEpUTWFNSDBuWGQ?oc=5",
+      "company": "Anthropic",
+      "company_en": "Anthropic",
+      "ticker": null,
+      "section": "AI前沿",
+      "tags": [
+        "融资"
+      ]
+    },
+    {
+      "id": "tech-20261105-010",
+      "title": "OpenAI 与阿布扎比 ADNOC、G42 签约，Altman 亲访阿联酋",
+      "summary": "OpenAI 已与阿布扎比国家石油公司 ADNOC 及 AI 公司 G42 签署合作协议，CEO Altman 亲自前往阿联酋推动落地。中东资本与算力正成为 AI 实验室扩张的重要支点。",
+      "time": "16:56",
+      "date": "2026-11-05",
+      "outlet": "Reuters",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTWMxZGNac0g1UDJOemxSbHJnU1g4cllCaWZxdzJEWVBIU2R6aG83R2RlMk9HV19ZTmYxSUMzRjBJU19pbXN6QWV6bHJCQXlJYlFRVEdEVFVQRFl3cTREcWlGUU5aOHc1VDRWQTIxZk0wWHo2a1F0MVZhTWp6VXRPUHQ4TjlONXE2LTc1UEVBY1VYYW56V3IyeFJnNWQwUnppaTNYc1ROTTgzZXN3WTg5SXJscm5BOHZD?oc=5",
+      "company": "OpenAI",
+      "company_en": "OpenAI",
+      "ticker": null,
+      "section": "AI前沿",
+      "tags": [
+        "战略合作"
+      ]
+    }
+  ],
+  "company_news": [
+    {
+      "id": "tech-20261105-011",
+      "title": "OpenAI 聘请前陆军部长 Dan Driscoll 负责国家安全事务",
+      "summary": "OpenAI 聘请美国前陆军部长 Dan Driscoll 出任国家安全相关要职，负责网络安全等事务。这是 AI 公司在政府关系与安全合规上持续加码的信号，也呼应了其近期的安全争议。",
+      "time": "08:04",
+      "date": "2026-11-05",
+      "outlet": "Reuters",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUEVhLUlmZFF5b0hXc0tNazB1Z3oyRzNhTmNfUVVBN042WUI0ajBiTWQ1RTF3cGVQeUFjWmVGWnZYYm5CSzJNUXZqT0MzODN1S2pzUGlsWHJtWno1cFZuYUhvUVlHcmVIeTdMenlNdnluQTRuTWp5ejBjX1ZfcklBNmFaRVJoYWVRNnVfREczQy13MUlmTG9EVEdmN1I1RVEteW9adXJrZTZmSUFFcURjNVdzX0dSREdf?oc=5",
+      "company": "OpenAI",
+      "company_en": "OpenAI",
+      "ticker": null,
+      "section": "AI前沿",
+      "tags": [
+        "高管变动"
+      ]
+    },
+    {
+      "id": "tech-20261105-012",
+      "title": "OpenAI 已开始为 2028 年美国大选布局",
+      "summary": "OpenAI 已开始为 2028 年美国总统大选做准备，着手塑造相关政策与舆论环境。AI 公司提前多个选举周期介入政治进程，显示其对监管走向的重视已上升到战略层面。",
+      "time": "05:25",
+      "date": "2026-11-05",
+      "outlet": "TechCrunch",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVElzb3RuOGpILUxZNGYtcXM1bGRTaXVNM1Q1VUJJQ0ZrYnVJYUxxNWkyLXZHUDU1YlNNcjU2Z1dLWGlDaEVhWThiY3JZaXNIWVZ0YVBHbUVzSHV6dGhJdWMwSVpMX2pPeHQ1Qi1TSFRpRlBPWktIMHRJTGJMaFU5cV9KMTNITHpXR3pxVmtCTQ?oc=5",
+      "company": "OpenAI",
+      "company_en": "OpenAI",
+      "ticker": null,
+      "section": "AI前沿",
+      "tags": [
+        "监管政策"
+      ]
+    },
+    {
+      "id": "tech-20261105-013",
+      "title": "OpenAI 称 ChatGPT 在搜索领域正追赶 Google",
+      "summary": "OpenAI 表示，ChatGPT 在搜索使用量上正逐步追赶 Google。随着 AI 聊天机器人成为新的信息入口，传统搜索引擎的护城河面临十年来最直接的挑战。",
+      "time": "02:30",
+      "date": "2026-11-05",
+      "outlet": "The Verge",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNXNJQ0NxOENuN0dfdUhVS0p5NUN3YTc5TkpTQi1LMDJac2hGUWlGOF85RWFHaFU1cE05cmU4YmFUdVRaWlNVT05xVV9ia2JYMFJMUnB2Ti03UlpFNFlpUnM3U05zVGtCMjM0Ti1ZQ3lLdjdfb2VtN0xkX2xRR0hRS05yYUhtdzlFVGxWYTdyRlFiVnE2UjluZjlnTkgyRW42bkh5S25YRU9JZTBZNzVoall6NnU?oc=5",
+      "company": "OpenAI",
+      "company_en": "OpenAI",
+      "ticker": null,
+      "section": "AI前沿",
+      "tags": [
+        "突发"
+      ]
+    },
+    {
+      "id": "tech-20261105-014",
+      "title": "消息人士：OpenAI 员工多年前就警告过运维安全疏漏",
+      "summary": "多名消息人士称，OpenAI 员工早在多年前就对公司的运维安全疏漏发出过警告。这一爆料与其近期聘请前陆军部长负责安全形成呼应，也让外界对其内部安全文化产生疑问。",
+      "time": "02:56",
+      "date": "2026-11-05",
+      "outlet": "Reuters",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPY2NHYWtHR3NKMlg5Rjh4OG5RcGVTY2VoaFRlb2hhaTkzZEpCemRIQkdCUTgwMFJMZjhrdUVpV08wWC1JclZVdXVjb0cwYmE4X1BxcnpNbmhNMG44cVVkTU4wYXhic1dNRW1JWXBNMUJoeUxGdVNYOTdBS3JwMHlQSm8tcEtkVkFycy00YmpoXzdsSW5LZkR2eXE3cUlHX1lNUkNiQjY4a004ZmdPcF9JT2o2cVVvQzJ4cF9BaQ?oc=5",
+      "company": "OpenAI",
+      "company_en": "OpenAI",
+      "ticker": null,
+      "section": "AI前沿",
+      "tags": [
+        "突发"
+      ]
+    },
+    {
+      "id": "tech-20261105-015",
+      "title": "Meta 收购 AI 编程初创 Conductor",
+      "summary": "Meta 收购了 AI 编程初创公司 Conductor，该公司开发的工具可让开发者并行运行多个 AI 编程智能体。这笔收购将补强 Meta 在 AI 编程工具链上的布局。",
+      "time": "05:10",
+      "date": "2026-11-05",
+      "outlet": "TechCrunch",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNN19TcVZuaV9yaGFQME5CT1ZVWnlsa3VYY2xTOGRyNXMtcnUtU1o1ckdaTEI3MHlxemp3YTdMYmxHWTE5Wko0MEpNSThPVnBFWWZRZks0N3E3RzRXYnlIakJTR3BUbG9QT1kyMm9aUUMza19TSC1SU0o4N2RzY1lJdmFn?oc=5",
+      "company": "Meta Platforms",
+      "company_en": "Meta Platforms",
+      "ticker": "META",
+      "section": "权重科技",
+      "tags": [
+        "并购"
+      ]
+    },
+    {
+      "id": "tech-20261105-016",
+      "title": "Meta 在新闻抓取抗议后推迟新的商务条款",
+      "summary": "在新闻机构对其可能抓取新闻网站内容表达强烈抗议后，Meta 决定推迟新的商务条款生效。内容版权与 AI 训练数据的边界争议升温，再次成为平台与出版商博弈的焦点议题。",
+      "time": "00:05",
+      "date": "2026-11-05",
+      "outlet": "ABC News",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVTFiLTdHVlc0TkRXRTBKNHNCVGxySWZMelo0Q2FraW8wZUJqRWFSazRXODhzcjR2VDFHV2c1LUVidTAxT05RN0dCUW1lM3MwNl9oc0hDTF9yblJ4VGhhSDhIeUtUQktKUmJRYmlHeFdhMk1qbm05X1h2Q0JPRkZreEU3QWtBWUdYTzlwZndHRU05X2RRNGFDYkdkMzh3b2VNanR1WGRPY9IBrAFBVV95cUxQM0dUUWNMaUwyM3oxWm13SkgyXzh3THlZQWNDSC00QUY4QUFhQlgzQlpsaW4yRl93dDY0emVETzJrS0Z2RWVEN3ZUZ1RjYmFwVnpyMlhiRDBxRFJoYlUxaDVYeXlBa0NDRWkyUUdIZ1Z4TW00dTdnbktEeEh6Q09IWkwzZGFWM1VEVEMxTnpoeGxmcDE0NnhHeDlYeVY2dnFXZFNSVmNlQV9KSU8y?oc=5",
+      "company": "Meta Platforms",
+      "company_en": "Meta Platforms",
+      "ticker": "META",
+      "section": "权重科技",
+      "tags": [
+        "监管政策"
+      ]
+    },
+    {
+      "id": "tech-20261105-017",
+      "title": "Meta 完成 150 亿美元五年期美元债发行，为 AI 扩张输血",
+      "summary": "Meta 完成 150 亿美元的五年期美元债券发行，为 AI 基础设施扩张筹集资金。加上此前的欧元债首秀，Meta 正通过债券市场为巨额 AI 资本开支持续输血。",
+      "time": "06:50",
+      "date": "2026-11-05",
+      "outlet": "Reuters",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ0dOQjhPM1A5WmJrZFlkRV9MeFZLNHJZakRnUzQwa0ZpY1J2eXVuZmJ6QkQ3TXpZY3Q0VW9tWlJ1S0tQU25YbHZqS3QwUEFnZmlFcjJMZ2t3V19QX2ttXzNMTFNHS3BsWU9qOFFJamd6R2ttQVE3bnM0MGRlNUJpTzY0WXNzMnlMSS1fRDJzWVpoYUhreERlblhKMA?oc=5",
+      "company": "Meta Platforms",
+      "company_en": "Meta Platforms",
+      "ticker": "META",
+      "section": "权重科技",
+      "tags": [
+        "融资"
+      ]
+    },
+    {
+      "id": "tech-20261105-018",
+      "title": "AI 购物智能体或威胁亚马逊与沃尔玛的广告业务",
+      "summary": "AI 购物智能体的兴起可能威胁到亚马逊和沃尔玛的广告业务。当消费者习惯让 AI 代为比价下单，零售商赖以增长的站内广告展示与转化逻辑将被改写，电商平台的商业模式面临重构压力。",
+      "time": "23:37",
+      "date": "2026-11-05",
+      "outlet": "Reuters",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUWZfYmc3VnVieU56OVF4S1RhMlVMMUhXR2JjZzFhVnVvcnBhLTU0aHFEUDVlN044aThuQWZ4UWpOY1c0cm5wT24xTktkRS1FVjI4VndwLU9WbzFSek1ublFKTmQ2UUxPMTVoam9lcmxnYUM2WGgxdUVOMF9EZ0MyVENMRDU3VUlZQk5yUGd0QXdQWWZUbVo0cVZ2azZFSUFERjhVX1pxaDVOQ0trZ1dRNTR4RFpBenh1QUgyWQ?oc=5",
+      "company": "亚马逊",
+      "company_en": "Amazon",
+      "ticker": "AMZN",
+      "section": "权重科技",
+      "tags": [
+        "突发"
+      ]
+    },
+    {
+      "id": "tech-20261105-019",
+      "title": "苹果将部分工程师每日 AI 支出上限从 300 美元砍至 200 美元",
+      "summary": "消息人士称，苹果已将部分工程师的每日 AI 使用支出上限从 300 美元下调至 200 美元，并计划进一步削减。在 AI 投入整体膨胀的背景下，苹果内部也开始收紧成本。",
+      "time": "04:10",
+      "date": "2026-11-05",
+      "outlet": "Techmeme",
+      "first_party": false,
+      "url": "https://www.techmeme.com/261104/p49#a261104p49",
+      "company": "苹果",
+      "company_en": "Apple",
+      "ticker": "AAPL",
+      "section": "权重科技",
+      "tags": [
+        "突发"
+      ]
+    },
+    {
+      "id": "tech-20261105-020",
+      "title": "苹果将对 iCloud 分享链接文件检查有害内容",
+      "summary": "苹果表示，将对通过 iCloud 以“知道链接者可访问”方式分享的文件进行有害内容检查。这一变化涉及用户分享内容的扫描机制，隐私保护与平台安全的平衡再次引发广泛讨论。",
+      "time": "03:35",
+      "date": "2026-11-05",
+      "outlet": "Techmeme",
+      "first_party": false,
+      "url": "https://www.techmeme.com/261104/p47#a261104p47",
+      "company": "苹果",
+      "company_en": "Apple",
+      "ticker": "AAPL",
+      "section": "权重科技",
+      "tags": [
+        "监管政策"
+      ]
+    },
+    {
+      "id": "tech-20261105-021",
+      "title": "Anthropic 警告已非常接近 RSI（自我构建 AI）能力",
+      "summary": "Anthropic 警告称，其 AI 系统已非常接近 RSI（递归自我改进、即自我构建 AI）能力门槛。这一表态将 AI 安全讨论推向更紧迫的层面，也为其 IPO 叙事增添了新的注脚。",
+      "time": "06:14",
+      "date": "2026-11-05",
+      "outlet": "TechCrunch",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa0VUSzBwdmlqRHY0N1duclMzOVBhVk5FbjllcHNiX0ludVpmX25neDhaWlFLUmx4R21mY20wNjVOVE1uZUdDajNzNDNHdGkwY3BvYVpMOFI5cmF4TWRDaUppTmJrTE5NaHJPbmdkWWJEWGJPNmNyVl9ZUE1Lb1U5WV9PckEzd3RMZzhVMW53cHBSMHh2Y2VDU2tnY3BoMFpZczdObkp1VEV4ZXNfWUE?oc=5",
+      "company": "Anthropic",
+      "company_en": "Anthropic",
+      "ticker": null,
+      "section": "AI前沿",
+      "tags": [
+        "AI 模型"
+      ]
+    },
+    {
+      "id": "tech-20261105-022",
+      "title": "Anthropic 营收增速放缓，IPO 前算力融资风险上升",
+      "summary": "Anthropic 营收增长正在放缓，同时为算力扩张进行融资的风险也在上升。在巨型 IPO 临近之际，增长曲线与烧钱速度能否匹配，成为投资者当前最关注的核心问题。",
+      "time": "22:50",
+      "date": "2026-11-05",
+      "outlet": "Reuters",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPalN1b2NwcllWRkRjRUNmOVBjSDMxWDNzdjZIclhDNTdMMFlaVUx2eWN1U19acllfTk0xX0JIbkJma21jVDFhZUR1czFjbVdLbThjMHVQZ0F4MkFvNmc0cURPN05FMkE3VFNyMTktbmNzWVIxN3c1YVFhSXpBTmZSQk1DZ013aDVRcXE5OEplekFkZWFJbmQxUEhDSVJ3RVVrZWJUd2ZRYWRfWUJhMVMycEZRRk8?oc=5",
+      "company": "Anthropic",
+      "company_en": "Anthropic",
+      "ticker": null,
+      "section": "AI前沿",
+      "tags": [
+        "财报"
+      ]
+    },
+    {
+      "id": "tech-20261105-023",
+      "title": "IPO 市场为 Anthropic 敞开，但不对其他人",
+      "summary": "当前的 IPO 市场只为 Anthropic 这样的头部 AI 公司敞开大门，其他公司难以复制。在 AI 叙事分化加剧的背景下，资本正向头部极度集中，腰部公司的融资环境依然严峻。",
+      "time": "01:00",
+      "date": "2026-11-05",
+      "outlet": "WSJ",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUl9Idk9HS21XSzJpc0NwdVlmSXU1X0xlZnZVMWlWY2c4eGVFMGJpNGVMSl81Y1djWUVvZl81RkFpUXh4aFZCRnVxel8yckF1cjhKZmJhc2tvSWlDVmtiZWtsZW1CeHJVX2Z3S0FyMER0TFZxaGFPWS1PNjZnam1SWG1uMzAtOTNyc0RWcUI1d1pxOXN2MGFvVWRPTQ?oc=5",
+      "company": "Anthropic",
+      "company_en": "Anthropic",
+      "ticker": null,
+      "section": "AI前沿",
+      "tags": [
+        "融资"
+      ]
+    },
+    {
+      "id": "tech-20261105-024",
+      "title": "谷歌为 TeraWulf 的 Anthropic 数据中心项目提供信用支持",
+      "summary": "TeraWulf 获得谷歌为其 Anthropic 数据中心项目提供的信用支持。超大规模云厂商以信用背书方式参与第三方数据中心建设，正在成为 AI 算力扩张的新范式。",
+      "time": "22:11",
+      "date": "2026-11-05",
+      "outlet": "Reuters",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdDRnZlVlY01kVjVYczh3YzN1N3ZrLWlLRFVURERNQ0lFcDFURElfOVJ3OXpvR3RodUpvaWZWaGtQMDBaNUFYVUNDZFFicC1DclF1aWl0dERFYkJXMVhFZnAwWE1uV0t2VUhkQmhYajRlWjZjWHpiRUJJR1ZtakdPQjNRWXRBRzFOLTRZZktDSldPcjFNa0ZSQm5yUWdOWGNHTFVvVGduOUQ5SlB3NHhHV2gtSQ?oc=5",
+      "company": "Anthropic",
+      "company_en": "Anthropic",
+      "ticker": null,
+      "section": "AI前沿",
+      "tags": [
+        "融资"
+      ]
+    },
+    {
+      "id": "tech-20261105-025",
+      "title": "腾讯推出用有限网络安全数据训练的 AI 模型",
+      "summary": "腾讯推出了一个用有限网络安全数据训练的 AI 模型，以应对外界对其数据安全的担忧。在数据受限条件下训练专用模型，成为大厂在安全合规与模型能力之间寻找平衡的新尝试。",
+      "time": "20:40",
+      "date": "2026-11-05",
+      "outlet": "Reuters",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSmctOGpnNzF6QjZkU1BvQ3VUSmhmb2I3bXRQQjQyeWRudFp4bHR2WXpIbDFpY0FLR2JTUnp4eTMzN3ozWDk5cGpydzkxZ205MzFWRThkb2ZLVXVjak5LaUNQaFZFeUllQ0YydHFoUWVWNVZ0Z2JNS19YUTR0TWYzNkw3YTVhY3VRRnRoM3NqYzBoWG5wdE94aktTcXp2OGE3czlRQnUtQm1Vd3RBQ1NJNExRLW1ndTlvckpwSFhzTDZ2MkYtbm9OVmNfa2M?oc=5",
+      "company": "腾讯",
+      "company_en": "Tencent",
+      "ticker": null,
+      "section": "AI前沿",
+      "tags": [
+        "AI 模型"
+      ]
+    },
+    {
+      "id": "tech-20261105-026",
+      "title": "腾讯称其最新 AI 模型跻身中国最佳之列",
+      "summary": "腾讯宣称其最新发布的 AI 模型已跻身中国最佳模型之列。国内大模型的能力竞赛仍在持续升温，各家围绕基准测试成绩与实际应用落地的比拼已进入白热化阶段，头部玩家的差距正在缩小。",
+      "time": "14:19",
+      "date": "2026-11-05",
+      "outlet": "Bloomberg",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRDhGOEtSczV1bVRuMGFNX0cyZ20zMVI3ZWc2MnNSUWFWNkJ1Z2NheVZ6MmJ0Z0NJUVFjNXB6bXBvV1lqUzBWZTNFNENOeXhqTXBVQUhYQ05TbHNmcml0TlBjZUw2WUxVSUJPSEc5aFFTY0ZRT2tfUHlnR0dVTzUwQ1c1bHN3aTA1ZmV3YkVqMnh3QVZKaFlPdE8wbGR5TEh3RkVfeXZyWUlQUGhy?oc=5",
+      "company": "腾讯",
+      "company_en": "Tencent",
+      "ticker": null,
+      "section": "AI前沿",
+      "tags": [
+        "AI 模型"
+      ]
+    },
+    {
+      "id": "tech-20261105-027",
+      "title": "百度推出模拟道路环境的 AI 模型，用于自动驾驶",
+      "summary": "百度推出了一款可模拟道路环境的 AI 模型，用于自动驾驶汽车的训练与测试。用生成式仿真替代部分真实路测，有望大幅降低自动驾驶系统的整体开发成本与测试周期，加速 Robotaxi 的商业化落地。",
+      "time": "20:44",
+      "date": "2026-11-05",
+      "outlet": "Reuters",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWlBTNlBkSzVNYUdnYUdqdDdXSUxPbGFmQkhtZXpFdmIxY0ZCN1dBUEhXT05Jd3lvelZOalJkQkJRTkppamVnSndpRzE5SzZZTHZNbE9sdkYwQ1FZakRMQnVXcnlQNTVGQUZCenlic1ZkYkxUMjY2aWo4MDF5X2Rma0w5TjVjcF9ycDl6YTdlUDJfZzE3dEpvMFdnWTZOb3RMaGRyMERRQTFKdklIOXB5TnlYMmwwUQ?oc=5",
+      "company": "百度",
+      "company_en": "Baidu",
+      "ticker": null,
+      "section": "AI前沿",
+      "tags": [
+        "AI 模型"
+      ]
+    },
+    {
+      "id": "tech-20261105-028",
+      "title": "百度 AI 芯片部门香港 IPO 传推迟至明年",
+      "summary": "据悉百度 AI 芯片部门的香港 IPO 计划将推迟至明年。在市场波动与估值考量下，芯片资产分拆上市的节奏正在放缓，资本市场对硬科技资产的定价也日趋谨慎保守，分拆上市的窗口选择更为关键。",
+      "time": "14:39",
+      "date": "2026-11-05",
+      "outlet": "Bloomberg",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNamVoY0xRUVlWWXBNN0swcS1hbmhfRTlaZENyR2pkTXlmRkxmT3lpcWlPS3hub0llT0tzSnpYOERMU0NtOFdveldZU3JwMEpCbzM5bjV3VlM3ejdRM0QteE5QQXAyZllWZVlFVHlDNG5MUVgxNl8tWFVEU0U2OHJ2RzdnYkdDTFl4MjNEeVh5ZThpcXhwRHNESWxfdE9MekU?oc=5",
+      "company": "百度",
+      "company_en": "Baidu",
+      "ticker": null,
+      "section": "AI前沿",
+      "tags": [
+        "融资"
+      ]
+    },
+    {
+      "id": "tech-20261105-029",
+      "title": "双十一：“口红一哥”首次推销 AI token",
+      "summary": "在今年的双十一购物节上，“口红一哥”首次开始推销 AI token。AI 算力与模型调用额度正成为直播带货的新品类，消费级 AI 的商业化形态继续向大众市场下沉。",
+      "time": "16:46",
+      "date": "2026-11-05",
+      "outlet": "Reuters",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVFhBT1lnS0xzTk9POHBCNUlEYmh6d3JkYW9xMnNRQ2gtYWJ3MF8xWDFTVjYwSGhjUjJnTVpRYzlmMFN0RkZtRTFYQkNQRUg0RlVEMDRRTEtOZGRpUFNlQm1IbTZTeDFnRUtoSkgybVBCcXlBLXNxS2U1d0lqNmRoQVBnWDdpdHJsbmwwNkNaV2htRkVlOEJzOWNXYUN3czFQU1VBRVNrQ01mazFULWJjeUdteTBIY3UwMkkxQjlxbXJaQQ?oc=5",
+      "company": "阿里巴巴",
+      "company_en": "Alibaba",
+      "ticker": null,
+      "section": "AI前沿",
+      "tags": [
+        "新品发布"
+      ]
+    },
+    {
+      "id": "tech-20261105-030",
+      "title": "DeepSeek 推出 AI Agent 创作者模式",
+      "summary": "DeepSeek 为其 AI 智能体产品推出了新的创作者模式，进一步丰富 Agent 的使用场景。在 Agent 成为大模型竞争新战场之际，DeepSeek 正加快产品迭代节奏。",
+      "time": "01:16",
+      "date": "2026-11-05",
+      "outlet": "Bloomberg",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWDJicHpmUFp0QkVIcWJGSk14ekpmQkxFU0Fxd2l6MndNc2tSU1lROHo0dHQwUk1YcjJmUUU4R2g5NXM1WTlnaXpUZ1FTQXAtbXFLT1ZnVmJwRklLRUFacmNKTUVIb0Z6eWd2RUVMVVc3ZTVYcXhtTmlhdjE0WkVHT1VvOXlrTmdXaVpoRGVodm1raG5iamlXbnhncDJlRmpRRTU1ZGZ5TFNFQQ?oc=5",
+      "company": "DeepSeek",
+      "company_en": "DeepSeek",
+      "ticker": null,
+      "section": "AI前沿",
+      "tags": [
+        "新品发布"
+      ]
+    },
+    {
+      "id": "tech-20261105-031",
+      "title": "DeepSeek 推出增强版编码 Agent，对标 Anthropic",
+      "summary": "DeepSeek 推出了增强版 AI 编码智能体，目标直指 Anthropic 的同类产品。开源阵营在编码智能体赛道上向闭源头部发起正面挑战，竞争焦点从模型能力转向 Agent 落地。",
+      "time": "11:48",
+      "date": "2026-11-05",
+      "outlet": "Bloomberg.com",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSGJoZUdrNzFHTjRVcm9OOVZ5a1Z4dVB4ME1aNjlmYmdjX1ZOTXNWTFJTNFFFUkQ2UUxxTGV4UDlOS0RjMnRlWlFUZ04yemVtQU9zU3FZbHlWY1YxMi1YSVBGb3k5cGszYnptNnZVZk1mR1NmS0RvLUhOeS1QUmxZamtoNGgzR21CR2tmY0JUd1c3YXBBMlc0SDhkZm9kOFRtZ3NvQ2RLNVZOYnFaV2x5Vy1ra3ZNUQ?oc=5",
+      "company": "DeepSeek",
+      "company_en": "DeepSeek",
+      "ticker": null,
+      "section": "AI前沿",
+      "tags": [
+        "AI 模型"
+      ]
+    },
+    {
+      "id": "tech-20261105-032",
+      "title": "CrowdStrike 将推新工具，应对 AI 智能体的异常行为",
+      "summary": "CrowdStrike 计划在第四季度推出新工具，用于发现“未违反规则但行为异常”的 AI 智能体。随着企业内部 AI 智能体普及，针对机器行为的安全监控成为新的市场需求。",
+      "time": "17:00",
+      "date": "2026-11-05",
+      "outlet": "Stock Titan",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNb0NIQWtONHFGeTFUT3p1bXAtdW8yWm5tMG54WkZyc2lEU2ZIRC1KZDRtOFRIRTliMFJ2TTV0V2dEcGQyN3E1M2JiVGgyVFM5VDJ4T1FjV2o5dU1ibWxvSVZMdFZJWEFVcXQ3QmdHT28yQncydkV6TkZwN2V3Nk56Q0s1S0RYUDQ4aW9KaWQ0LWNxa2NicmVLWTVONWt5UDhWYUlXbFdvWk92Rk94S01kdDlSbTRjSlhGa0toQQ?oc=5",
+      "company": "CrowdStrike",
+      "company_en": "CrowdStrike",
+      "ticker": "CRWD",
+      "section": "网络安全",
+      "tags": [
+        "新品发布"
+      ]
+    },
+    {
+      "id": "tech-20261105-033",
+      "title": "高通四季度营收同比降 8% 至 103 亿美元，略超预期",
+      "summary": "高通第四财季营收同比下降 8% 至 103 亿美元，略高于市场预期的 101 亿美元；其中手机芯片业务收入出现下滑。智能手机市场复苏乏力，仍在持续拖累其整体业绩表现。",
+      "time": "05:31",
+      "date": "2026-11-05",
+      "outlet": "Techmeme",
+      "first_party": false,
+      "url": "https://www.techmeme.com/261104/p52#a261104p52",
+      "company": "高通",
+      "company_en": "Qualcomm",
+      "ticker": "QCOM",
+      "section": "芯片半导体",
+      "tags": [
+        "财报"
+      ]
+    },
+    {
+      "id": "tech-20261105-034",
+      "title": "AMD 股价走强：AI 数据中心增长点燃前景预期",
+      "summary": "AMD 股价走强，市场对其 AI 驱动的数据中心业务增长前景给出积极定价。在财报超预期之后，华尔街对 AMD 数据中心业务增长持续性的信心正在进一步增强，做多情绪明显升温。",
+      "time": "22:49",
+      "date": "2026-11-05",
+      "outlet": "Reuters",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT1otSGFrSy03TGU4SkFJWHJ0SlJER0pMU0FvV3RIZm1udEtsLTlqazJwbzFEX1lNR3NGYWdNRnRBMDc1ZEk0elNtb2xHcXFFOEFqSnVsWkVRSTBpeHBPUEwtNDZtSUxuZUpKSnM1aXFlX2VUczJlNWRFSXM3MGxmRXAyYkt0dUloMlhaYVJZUVhqNmU2cGVpNkJaMXY3Sm5Qck04ZjNtbHdBSC02Q3hxd3BR?oc=5",
+      "company": "超威半导体",
+      "company_en": "Advanced Micro Devices",
+      "ticker": "AMD",
+      "section": "权重科技",
+      "tags": [
+        "股价异动"
+      ]
+    },
+    {
+      "id": "tech-20261105-035",
+      "title": "xAI 未能驳回 NAACP 燃气轮机诉讼，须继续应诉",
+      "summary": "法官裁定马斯克的 xAI 未能驳回 NAACP 就其数据中心燃气轮机提起的诉讼，案件将继续推进。数据中心的环境与社区争议，正成为 AI 基础设施扩张绕不开的议题。",
+      "time": "23:50",
+      "date": "2026-11-05",
+      "outlet": "Bloomberg Law News",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQ1BjN0VpdjhfcEVKampnZFhJQzNUMXNVaFRVbTlpTTc1bHJqMjA0NlZteHk4TUZvQTJ6ZXpMMUg2cGVIcVdYX0JQUnFiaVRBV1Y4anQtRE41OUZHRkpjcUlhRHN3eDVaWkRLV2ZvMW9SYVRIRTAtTGxYRXUyQTg5SW1nd2k1V1dUa3BXUUtUaFlnQ3d6N0tpTm1iV25tU2ZBTUlPOTRpdmlJSlRmd01aQ1RKUWJBU3M?oc=5",
+      "company": "xAI",
+      "company_en": "xAI",
+      "ticker": null,
+      "section": "AI前沿",
+      "tags": [
+        "诉讼"
+      ]
+    },
+    {
+      "id": "tech-20261105-036",
+      "title": "美光股价下跌，存储板块短期波动加大",
+      "summary": "美光（MU）股价今日出现下跌，引发市场广泛关注。在 AI 资本开支预期与宏观消息交织的背景下，存储板块的短期波动有所加大，投资者正在重新评估该板块的配置价值，短期观望情绪有所升温。",
+      "time": "04:19",
+      "date": "2026-11-05",
+      "outlet": "Yahoo Finance",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPU0RwVjVWeDQ2RENzVzNYZXRJT0E4ZWtkWE5VcXdnbm5Fb0VpTksyVG92UXFNNWpybVBoMFJ3WWtZZGQ4ZGoxM2YyRzkxLWI0SnNnQ3UtbnRCQmpsQ0V6WkpQdE1PNDRnWFhEVUZTbndmNktZeVlwdW03bzJLand6Ri1STm9VTHkzU083bHZSM2VJYnFWUWJJeW9EYw?oc=5",
+      "company": "美光",
+      "company_en": "Micron Technology",
+      "ticker": "MU",
+      "section": "权重科技",
+      "tags": [
+        "股价异动"
+      ]
+    }
+  ],
+  "breaking": []
+}
