@@ -77,8 +77,8 @@ mark.hl{background:#fff3b0;border-radius:3px;padding:0 1px}
   <div class="rsmeta" id="rsmeta"></div>
 </header>
 <main id="main">
-  <div class="dayhead"><h2 id="daytitle"></h2><span class="cnt" id="daycnt"></span></div>
-  <div class="stream" id="stream"><div class="loading">加载中…</div></div>
+  <div id="stream"><div class="loading">加载中…</div></div>
+  <div id="loadmore" style="text-align:center;padding:18px 0 8px"></div>
 </main>
 <footer class="site">
   <b>科技情报站 Tech Intel</b><br>
@@ -88,6 +88,9 @@ mark.hl{background:#fff3b0;border-radius:3px;padding:0 1px}
 "use strict";
 let DATA=[];
 let CURDATE="";
+let LOADED=[]; // 已加载的日期（最新在前）
+let ALL_DAYS=[]; // index.json 的全部日期（升序）
+let _LOADING=false;
 const esc=s=>String(s==null?"":s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const SECTIONS=["权重科技","芯片半导体","软件云AI","硬件存储","网络安全","AI前沿","机器人"];
 const TOTAL_COS=81;
@@ -121,9 +124,48 @@ function hl(q,html){
 function render(){
   const list=filtered();
   const q=_Q.trim();
-  document.getElementById("stream").innerHTML=list.length?list.map(it=>hl(q,rowHTML(it))).join(""):'<div class="empty">无匹配内容</div>';
+  const stream=document.getElementById("stream");
+  if(!list.length){
+    stream.innerHTML='<div class="empty">无匹配内容</div>';
+  }else{
+    const byDate={};
+    list.forEach(it=>{ (byDate[it.date]=byDate[it.date]||[]).push(it); });
+    const dates=Object.keys(byDate).sort().reverse();
+    const wk={"0":"星期日","1":"星期一","2":"星期二","3":"星期三","4":"星期四","5":"星期五","6":"星期六"};
+    const wOf=d=>{try{return wk[String(new Date(d+"T12:00:00").getDay())]||"";}catch(e){return "";}};
+    stream.innerHTML=dates.map(d=>{
+      const items=byDate[d];
+      return `<div class="dayhead"><h2>${d.slice(5)} ${wOf(d)}</h2><span class="cnt">${items.length} 条</span></div><div class="stream">${items.map(it=>hl(q,rowHTML(it))).join("")}</div>`;
+    }).join("");
+  }
   const m=document.getElementById("rsmeta");
-  if(m)m.textContent=q?`${list.length} 条匹配`:`共 ${list.length} 条`;
+  if(m)m.textContent=q?`${list.length} 条匹配`:`共 ${list.length} 条 · 已加载 ${LOADED.length} 天`;
+  const lm=document.getElementById("loadmore");
+  if(lm){
+    if(hasOlder()){
+      lm.innerHTML=`<button onclick="loadOlder()" style="font:inherit;font-size:13.5px;font-weight:700;color:#0369a1;background:#fff;border:1px solid #dbe7f3;border-radius:20px;padding:8px 22px;cursor:pointer">加载更早的日期 ↓</button>`;
+    }else if(LOADED.length){
+      lm.innerHTML=`<div style="font-size:12.5px;color:var(--mut)">已显示全部 ${LOADED.length} 天</div>`;
+    }else{
+      lm.innerHTML="";
+    }
+  }
+}
+function hasOlder(){
+  if(!ALL_DAYS.length||!LOADED.length)return false;
+  const oldest=LOADED[LOADED.length-1];
+  return ALL_DAYS.indexOf(oldest)>0;
+}
+async function loadOlder(){
+  if(_LOADING||!hasOlder())return;
+  _LOADING=true;
+  try{
+    const oldest=LOADED[LOADED.length-1];
+    const next=ALL_DAYS[ALL_DAYS.indexOf(oldest)-1];
+    await loadDay(next,true);
+  }finally{
+    _LOADING=false;
+  }
 }
 function renderChips(){
   const secs=SECTIONS.filter(s=>DATA.some(d=>d.section===s));
@@ -135,51 +177,62 @@ function __setSEC(v){_SEC=v;renderChips();render();}
 function paintHead(){
   const cov=new Set(DATA.map(d=>d.company).filter(Boolean)).size;
   document.getElementById("subline").innerHTML=
-    `今日覆盖 <b>${cov}</b>/${TOTAL_COS} 家 · 今日 <b>${DATA.length}</b> 条 · 数据截至今日 07:30（CST），覆盖近 5 天`;
-  const dates=[...new Set(DATA.map(d=>d.date).filter(Boolean))].sort();
-  const wk={"0":"星期日","1":"星期一","2":"星期二","3":"星期三","4":"星期四","5":"星期五","6":"星期六"};
-  const wOf=d=>{try{return wk[String(new Date(d+"T12:00:00").getDay())]||"";}catch(e){return "";}};
-  let title="";
-  if(dates.length===1)title=`${dates[0].slice(5)} ${wOf(dates[0])}`;
-  else if(dates.length>1)title=`${dates[0].slice(5)} ~ ${dates[dates.length-1].slice(5)}`;
-  document.getElementById("daytitle").textContent=title;
-  document.getElementById("daycnt").textContent=`${DATA.length} 条`;
+    `覆盖 <b>${cov}</b>/${TOTAL_COS} 家 · 已加载 <b>${LOADED.length}</b> 天 · 共 <b>${DATA.length}</b> 条 · 每天 07:30 前更新`;
   renderChips();
 }
 function localToday(){const n=new Date();const p=v=>String(v).padStart(2,"0");return n.getFullYear()+"-"+p(n.getMonth()+1)+"-"+p(n.getDate());}
-async function loadDay(date){
-  CURDATE=date;
+async function loadDay(date,append){
+  if(LOADED.indexOf(date)>=0)return;
   document.querySelectorAll(".errbar").forEach(b=>b.remove());
   try{
     const r=await fetch("data/"+date+".json");
     if(!r.ok)throw new Error("HTTP "+r.status);
     const j=await r.json();
-    const flat=Array.isArray(j)?j:(j.top10||[]).map(x=>Object.assign({},x,{isTop:true})).concat((j.company_news||[]).map(x=>Object.assign({},x,{isTop:false})));
-    DATA=flat;
+    const flat=Array.isArray(j)?j.map(x=>Object.assign({},x,{date:date})):(j.top10||[]).map(x=>Object.assign({},x,{isTop:true,date:date})).concat((j.company_news||[]).map(x=>Object.assign({},x,{isTop:false,date:date})));
+    if(append){ DATA=DATA.concat(flat); LOADED.push(date); }
+    else { DATA=flat; LOADED=[date]; CURDATE=date; }
     paintHead();
     render();
-    try{history.replaceState(null,"","#date="+date);}catch(e){}
-    window.scrollTo({top:0});
   }catch(e){
     const m=document.getElementById("main");
     if(m)m.insertAdjacentHTML("afterbegin",
-      `<div class="errbar">${esc(date)} 的数据加载失败（${esc(e.message)}）。当前显示的可能是旧日期内容。<a href="javascript:loadDay(CURDATE)">点此重试</a></div>`);
+      `<div class="errbar">${esc(date)} 的数据加载失败（${esc(e.message)}）。当前显示的可能是旧日期内容。<a href="javascript:location.reload()">点此重试</a></div>`);
   }
 }
 async function boot(){
   if(typeof document==="undefined"||!document.getElementById)return;
   try{
     const idx=await (await fetch("data/index.json")).json();
-    const days=idx.days||[];
+    const days=(idx.days||[]).slice().sort();
+    ALL_DAYS=days;
     const hm=(location.hash||"").match(/date=(\d{4}-\d{2}-\d{2})/);
     const today=localToday();
     const start=(hm&&days.indexOf(hm[1])>=0)?hm[1]
       :(days.indexOf(today)>=0?today:(idx.latest||days[days.length-1]||today));
-    window.addEventListener("hashchange",()=>{
+    const si=days.indexOf(start);
+    // 首屏加载起始日 + 更早 2 天（瀑布流）
+    for(let i=si;i>=Math.max(0,si-2);i--) await loadDay(days[i],true);
+    CURDATE=start;
+    try{history.replaceState(null,"","#date="+start);}catch(e){}
+    window.scrollTo({top:0});
+    window.addEventListener("hashchange",async ()=>{
       const m2=(location.hash||"").match(/date=(\d{4}-\d{2}-\d{2})/);
-      if(m2&&m2[1]!==CURDATE&&days.indexOf(m2[1])>=0)loadDay(m2[1]);
+      if(!m2||days.indexOf(m2[1])<0)return;
+      if(LOADED.indexOf(m2[1])<0){
+        // 跳到未加载的旧日期：重置为该日 + 更早 2 天
+        DATA=[]; LOADED=[];
+        const j=days.indexOf(m2[1]);
+        for(let i=j;i>=Math.max(0,j-2);i--) await loadDay(days[i],true);
+        CURDATE=m2[1];
+        window.scrollTo({top:0});
+      }else{
+        const el=document.querySelector(`.dayhead h2`);
+        window.scrollTo({top:0});
+      }
     });
-    await loadDay(start);
+    window.addEventListener("scroll",()=>{
+      if(window.innerHeight+window.scrollY>=document.body.scrollHeight-800) loadOlder();
+    },{passive:true});
   }catch(e){
     document.getElementById("stream").innerHTML='<div class="errmsg">情报数据加载失败，请稍后刷新重试。</div>';
   }
