@@ -1,0 +1,487 @@
+{
+ "date": "2026-11-06",
+ "top10": [
+  {
+   "id": "tech-20261106-001",
+   "title": "纳斯达克跌入修正区间，英伟达重挫逾9%",
+   "summary": "纳斯达克指数进入修正区间，科技股遭遇全面抛售，英伟达单日重挫逾9%，市值大幅缩水。中期选举后民主党横扫引发市场对AI基建与并购监管的担忧，资金加速撤离前期涨幅巨大的AI龙头，AI交易遭遇疫情以来最糟糕的一天。",
+   "time": "05:38",
+   "date": "2026-11-06",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-enters-correction-territory-amid-213811085.html?.tsrc=rss",
+   "company": "英伟达",
+   "company_en": "NVIDIA",
+   "ticker": "NVDA",
+   "section": "权重科技",
+   "tags": [
+    "股价异动"
+   ]
+  },
+  {
+   "id": "tech-20261106-002",
+   "title": "特斯拉与SpaceX双双重挫，中期选举结果冲击合并前景",
+   "summary": "特斯拉与SpaceX股价双双大幅下挫，市场担忧中期选举民主党横扫后，两家公司的合并前景与AI基建扩张将面临更严格的监管审查。叠加分析师对合并溢价的质疑，投资者加速抛售，马斯克系资产遭遇重挫。",
+   "time": "05:03",
+   "date": "2026-11-06",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQ3FPNFVNS29WSDJ6eFFqa3kwc0p0ZUZUbm5rbUp6M3poX3ZYNjFwMVR3bXJ6Tko4c0Y2ZUpGZ202LU1pQlc0cEVvQS01Z0RUMVVxemNzcGlIcmdaTkdIWjlrYlpaUFRxYXA5aTBPVWRCRkdSR3VsVjkwREJxLUt0elduNmdESVFQbWphX1RTQ3p1YkdsV1pneXAtYmlCcVgzZUFobGhZMmZxTl9CV1FVSEY0Z1k5dEk5M2U3d0hFQXI3RktJS1FKT2pYdjBFei1maGpjTEFNdjRmWTRIUGxLaVRmN2YtTlE?oc=5",
+   "company": "特斯拉",
+   "company_en": "Tesla",
+   "ticker": "TSLA",
+   "section": "权重科技",
+   "tags": [
+    "股价异动"
+   ]
+  },
+  {
+   "id": "tech-20261106-003",
+   "title": "中国叫停软银54亿美元收购ABB机器人业务",
+   "summary": "中国监管机构叫停软银以54亿美元收购ABB机器人业务的交易，凸显北京对AI与机器人核心技术的并购管控收紧。这笔交易原被视为软银加码具身智能的重要落子，交易告吹也给全球机器人产业并购蒙上阴影。",
+   "time": "19:50",
+   "date": "2026-11-06",
+   "outlet": "WSJ",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWU1MYTRpWmVYU2dfWXBkTjR3U3ZERnVWUGtMVkttTjFPT3JPUE43NUdIRE1KcHVzcEpRNHpDaHdHOXEzbHQxcEJEVkNYNGRnY2lhV0ctZFRvb19adzJLcENWLXlINk1DRkNSUl9LQWlrVlRDaFVhb3dSVWF6c1l3Y3NGd3dQdFR5Z2ZLQWlvMFNhV1dtQVIyNVF2SFQycm9iS1Y4dQ?oc=5",
+   "company": "ABB",
+   "company_en": "ABB Ltd",
+   "ticker": "ABB",
+   "section": "机器人",
+   "tags": [
+    "并购",
+    "监管政策"
+   ]
+  },
+  {
+   "id": "tech-20261106-004",
+   "title": "约60万颗英伟达H200芯片滞留香港待运中国",
+   "summary": "约60万颗英伟达H200芯片滞留香港等待运往中国内地，北京方面对芯片进口的管控仍未明朗。这一规模的库存积压凸显中美芯片博弈下高端算力供给的不确定性，也给英伟达的中国业务前景再添变数。",
+   "time": "03:20",
+   "date": "2026-11-06",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261105/p47#a261105p47",
+   "company": "英伟达",
+   "company_en": "NVIDIA",
+   "ticker": "NVDA",
+   "section": "权重科技",
+   "tags": [
+    "监管政策",
+    "突发"
+   ]
+  },
+  {
+   "id": "tech-20261106-005",
+   "title": "谷歌拟斥资170亿美元在怀俄明州建首个数据中心",
+   "summary": "谷歌计划投资170亿美元在怀俄明州建设其首个数据中心，并承诺承担全部用电成本，同时与当地社区达成合作协议。这是谷歌为支撑AI算力需求而推进的大规模基建投资之一，也延续了科技巨头向电力充裕地区扩张的趋势。",
+   "time": "03:40",
+   "date": "2026-11-06",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261105/p49#a261105p49",
+   "company": "Alphabet",
+   "company_en": "Alphabet",
+   "ticker": "GOOGL",
+   "section": "权重科技",
+   "tags": [
+    "战略合作"
+   ]
+  },
+  {
+   "id": "tech-20261106-006",
+   "title": "OpenAI发布GPT-6 Cyber，主打网络安全能力",
+   "summary": "OpenAI推出GPT-6 Cyber，称其在网络安全基准测试中优于GPT-6 Astra，更擅长发现系统漏洞与防御攻击。新模型将首先面向Daybreak Red计划的有限客户开放，已发现81个以上安全问题，显示AI模型正加速切入专业安全场景。",
+   "time": "01:06",
+   "date": "2026-11-06",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261105/p40#a261105p40",
+   "company": "OpenAI",
+   "company_en": "OpenAI",
+   "ticker": null,
+   "section": "AI前沿",
+   "tags": [
+    "AI 模型",
+    "新品发布"
+   ]
+  },
+  {
+   "id": "tech-20261106-007",
+   "title": "人形机器人公司Agility Robotics登陆纳斯达克",
+   "summary": "人形机器人制造商Agility Robotics完成SPAC合并，正式登陆纳斯达克交易。作为特斯拉Optimus的竞争对手，Agility的上市标志着人形机器人赛道进入资本市场新阶段，投资者对其商业化前景的审视也随之升温。",
+   "time": "05:27",
+   "date": "2026-11-06",
+   "outlet": "SiliconANGLE",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQmFiQTZVR24zaU52MkUwME5WaWxQTVZiR2VTMExweVZaUUVvdmtoUmt6d19HSGJJenRGNEVPa0FKeVZaNGR5NE5qYnVrelNweXhxdXo5WUdaN3U5YjJ6a0M3dVlIOWhoeU11Qm44WU1WZldSWWUtanRFMGItX3NnYWk1MWdlS2dfbnI4TmJZSGl4QkFtTGUyQUtFZGtmM1VhZEJXSmZIZEg3LUhiRi1leDdGWQ?oc=5",
+   "company": "Agility Robotics",
+   "company_en": "Agility Robotics",
+   "ticker": null,
+   "section": "机器人",
+   "tags": [
+    "融资"
+   ]
+  },
+  {
+   "id": "tech-20261106-008",
+   "title": "谷歌、Meta与TikTok起诉加州青少年社交媒体法",
+   "summary": "谷歌、Meta与TikTok联合起诉，寻求阻止加州一项旨在保护青少年的社交媒体法律生效。科技巨头认为该法过度干预平台运营，而支持者强调青少年保护的紧迫性，官司结果将影响全美各州类似立法的走向。",
+   "time": "03:55",
+   "date": "2026-11-06",
+   "outlet": "Reuters",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN3ZhN0lzM1RYWDl3eXBsdjZ2NU13NjJRMjB0clhpbW9rRTAwWnJIaFNGdEdhcW1tbHdfYmVQQXhSOEJUZXd6Z2Y2WVlZVDJpN3RuY1VnTE1rOHVUZkVLRGxBbGo1OWxPZkhmMGE4dkR1YWN6WHdFcnBtZDdoOFJTYU1DbnVCM0R0THhVa19xVVhIdWxpa2dRYWx5M25kNXhWTTNQbWNVV3EtQUU?oc=5",
+   "company": "Meta Platforms",
+   "company_en": "Meta Platforms",
+   "ticker": "META",
+   "section": "权重科技",
+   "tags": [
+    "诉讼"
+   ]
+  },
+  {
+   "id": "tech-20261106-009",
+   "title": "众议院三委员会要求黄仁勋闭门说明与Megaspeed高管关联",
+   "summary": "众议院三个委员会的共和党领袖要求英伟达首席执行官黄仁勋参加闭门简报，说明其与Megaspeed高管的关联。这一要求将英伟达卷入国会调查视野，也反映出美国政界对芯片企业海外关联的审查正在收紧。",
+   "time": "05:40",
+   "date": "2026-11-06",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261105/p54#a261105p54",
+   "company": "英伟达",
+   "company_en": "NVIDIA",
+   "ticker": "NVDA",
+   "section": "权重科技",
+   "tags": [
+    "监管政策"
+   ]
+  },
+  {
+   "id": "tech-20261106-010",
+   "title": "AMD创纪录季度：数据中心业务翻倍，游戏业务暴跌",
+   "summary": "AMD交出创纪录季度财报，数据中心业务规模同比翻倍，成为增长引擎；与此同时游戏业务大幅下滑。财报凸显AMD在AI算力市场的份额提升，也显示其业务重心正加速向数据中心倾斜。",
+   "time": "05:29",
+   "date": "2026-11-06",
+   "outlet": "Ars Technica",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR0hmNzVNaXNrdzIwMWRiMXZsQ29JY2Z4eV9jZEx0VHRyZ3F5SU42TTdxNnhtcmJpTHNjaS1zX2pMSk9VR2k5RDBwMzE3MF9nZzRYcUI2SnV0STlXWC13WFdJbDVydGJEV3dLWGlsai0tU190a1FTQ1I2S2I5bHlyVXYycV9ORWxhaVVjeTBQOTZQRUZXWEptcnpCTktfTV82YXRyZVZjNlo4b3NBaTdv?oc=5",
+   "company": "超威半导体",
+   "company_en": "Advanced Micro Devices",
+   "ticker": "AMD",
+   "section": "权重科技",
+   "tags": [
+    "财报"
+   ]
+  }
+ ],
+ "company_news": [
+  {
+   "id": "tech-20261106-011",
+   "title": "存储芯片短缺引发连锁反应，美光股价暴跌",
+   "summary": "美光股价大幅下挫，存储芯片短缺正在产业链上下游引发连锁反应。市场担忧内存供需失衡与价格波动将冲击终端厂商成本，叠加科技股整体抛售，美光成为本轮AI供应链回调的重灾区之一。",
+   "time": "05:35",
+   "date": "2026-11-06",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://finance.yahoo.com/m/22d20c1e-16b9-3302-8560-b385ac404513/micron-stock-plunges-as.html?.tsrc=rss",
+   "company": "美光",
+   "company_en": "Micron Technology",
+   "ticker": "MU",
+   "section": "权重科技",
+   "tags": [
+    "股价异动"
+   ]
+  },
+  {
+   "id": "tech-20261106-012",
+   "title": "亚马逊弃用Grubhub，转投Uber Eats服务Prime会员",
+   "summary": "亚马逊宣布弃用Grubhub，改为与Uber Eats合作，为Prime会员提供外卖服务。这一调整意味着亚马逊外卖合作版图的重新洗牌，也显示其在本地生活服务上更倾向于绑定规模更大的平台伙伴。",
+   "time": "19:00",
+   "date": "2026-11-06",
+   "outlet": "TechCrunch",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOXpMeXJzYS1KTXNRLXNYdlEyQ0J5a2VkTDdtMkNHbkdYY2pPZkJKeTF2SUlDdmZ4N2pXdC0zQVh1a1gxYlB4R2xNTG9LQnlsZ3lxaVNGeEQ0TGhUUHBWRk9lUVRybW1LWGhwU0dMWTlORXZvbzd6MXJ5R2dwMnFPcE9FQ1JHSTBoNlE?oc=5",
+   "company": "亚马逊",
+   "company_en": "Amazon",
+   "ticker": "AMZN",
+   "section": "权重科技",
+   "tags": [
+    "战略合作"
+   ]
+  },
+  {
+   "id": "tech-20261106-013",
+   "title": "标普将Salesforce评级下调至A，收购债务与回购承压",
+   "summary": "标普将Salesforce的信用评级下调至A，理由是收购带来的债务上升与大规模股票回购对财务状况构成压力。评级下调凸显市场对Salesforce激进并购策略的疑虑，也为其后续融资成本带来变数。",
+   "time": "04:44",
+   "date": "2026-11-06",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://finance.yahoo.com/markets/stocks/articles/p-cuts-salesforce-rising-acquisition-204428858.html?.tsrc=rss",
+   "company": "Salesforce",
+   "company_en": "Salesforce",
+   "ticker": "CRM",
+   "section": "软件云AI",
+   "tags": [
+    "股价异动"
+   ]
+  },
+  {
+   "id": "tech-20261106-014",
+   "title": "Anthropic在Claude中推出个人理财功能",
+   "summary": "Anthropic在Claude中上线个人理财功能，用户可通过Plaid以只读方式连接银行与信用卡账户。这一功能将AI助手延伸至个人财务场景，也意味着AI公司正在争夺对用户敏感财务数据的入口，数据安全与隐私安排成为关注点。",
+   "time": "02:15",
+   "date": "2026-11-06",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261105/p44#a261105p44",
+   "company": "Anthropic",
+   "company_en": "Anthropic",
+   "ticker": null,
+   "section": "AI前沿",
+   "tags": [
+    "新品发布"
+   ]
+  },
+  {
+   "id": "tech-20261106-015",
+   "title": "Meta在Muse应用中推出语音模式与表情化身",
+   "summary": "Meta在Muse应用中推出语音模式与富有表现力的虚拟化身，率先面向美国用户开放，用户可与AI化身进行语音对话。此举延续了Meta将社交互动与AI助手融合的路线，也加剧了AI伴侣与助手产品的竞争。",
+   "time": "03:30",
+   "date": "2026-11-06",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261105/p48#a261105p48",
+   "company": "Meta Platforms",
+   "company_en": "Meta Platforms",
+   "ticker": "META",
+   "section": "权重科技",
+   "tags": [
+    "新品发布"
+   ]
+  },
+  {
+   "id": "tech-20261106-016",
+   "title": "Meta总裁：中期选举后在美新建数据中心将更难",
+   "summary": "Meta总裁Dina Powell McCormick表示，中期选举结果过后，在美国新建数据中心将变得更加困难，但建设仍会继续。表态呼应了选后地方对数据中心项目的抵制情绪升温，AI基建扩张正面临越来越大的政治阻力。",
+   "time": "04:40",
+   "date": "2026-11-06",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261105/p51#a261105p51",
+   "company": "Meta Platforms",
+   "company_en": "Meta Platforms",
+   "ticker": "META",
+   "section": "权重科技",
+   "tags": [
+    "监管政策"
+   ]
+  },
+  {
+   "id": "tech-20261106-017",
+   "title": "METR：Anthropic模型改进速度较此前翻倍",
+   "summary": "METR的研究显示，Anthropic模型的改进速度约为2024年3月至2025年10月期间的两倍，内部评估进展显著。这一结论为AI能力曲线的加速提供了新的实证，也加剧了业界对模型迭代节奏与安全评估是否跟得上的讨论。",
+   "time": "03:01",
+   "date": "2026-11-06",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261105/p46#a261105p46",
+   "company": "Anthropic",
+   "company_en": "Anthropic",
+   "ticker": null,
+   "section": "AI前沿",
+   "tags": [
+    "AI 模型"
+   ]
+  },
+  {
+   "id": "tech-20261106-018",
+   "title": "英伟达接洽Apollo，拟改造其陷入困境的电信站点",
+   "summary": "英伟达正与私募巨头Apollo接洽，拟改造后者旗下陷入困境的互联网服务商Brightspeed的130多处电信站点建筑。这一动作被视为英伟达为规避数据中心建设禁令、另辟算力部署路径的尝试。",
+   "time": "04:15",
+   "date": "2026-11-06",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261105/p50#a261105p50",
+   "company": "英伟达",
+   "company_en": "NVIDIA",
+   "ticker": "NVDA",
+   "section": "权重科技",
+   "tags": [
+    "战略合作"
+   ]
+  },
+  {
+   "id": "tech-20261106-019",
+   "title": "罗克韦尔利润上升并发布新财年展望",
+   "summary": "罗克韦尔自动化利润实现增长，并发布了新财年的业绩展望。在工业自动化需求分化的背景下，公司对未来订单与盈利给出指引，财报表现成为观察美国制造业自动化景气度的重要窗口。",
+   "time": "22:02",
+   "date": "2026-11-06",
+   "outlet": "WSJ",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNREplRnQySmdEWDJsRjFpT3FTY0dJeUI0VzVqbGJBQjJydWQ4VS1GWkkxYzhrS2ZIMmtZd0lvcmhpUFBJQUFxSmFyeFRVamFrWWxSRlg1SVFSMDFFVm4wVUEwSnoyYXA4S2NuSlNoeFpiT1NiVkhXdE9heWU1Vnh4STZHY0lKX1BqeEtvaDNaUHk1d2RoVDQ4cEN4RDhGYm9PakNWRzJpQmRPUQ?oc=5",
+   "company": "罗克韦尔",
+   "company_en": "Rockwell Automation",
+   "ticker": "ROK",
+   "section": "机器人",
+   "tags": [
+    "财报"
+   ]
+  },
+  {
+   "id": "tech-20261106-020",
+   "title": "微软放弃扩大与Nscale的德州数据中心交易",
+   "summary": "微软放弃了扩大与Nscale在德州的数据中心交易的期权。这一决定正值科技巨头重新评估数据中心扩张节奏之际，也与选后数据中心项目面临的政治阻力升温相互呼应，算力基建的审批环境正在收紧。",
+   "time": "13:11",
+   "date": "2026-11-06",
+   "outlet": "Reuters",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNb3YxSi01QlpvU2xqQVk1TUZQVTdjQnlqOUZwaFUzZ2txZHBJaHZ5bTVNOXpRZGV0czNzQkRCamNqNXZ2cUFoZ1JsV1l0cGFKazh4SXpjSlJ0Q1pMR0IyVWhfQkZlbTAtWFJ1ZERpbDdfNzZqaVlZUjg2a2RKNlRfS0N4OFMwSmpERG9EWng5MC1XXy1ENURJMUNWTTEyR3Q0UkE3WnRSMVJmVDAwdlJoVDhXa0h1YXpyYjBR?oc=5",
+   "company": "微软",
+   "company_en": "Microsoft",
+   "ticker": "MSFT",
+   "section": "权重科技",
+   "tags": [
+    "战略合作"
+   ]
+  },
+  {
+   "id": "tech-20261106-021",
+   "title": "苹果拟发债75亿美元，市场抛售中逆势融资",
+   "summary": "苹果据报计划通过债券发行融资75亿美元，在市场抛售期间逆势启动融资。发债时点引发关注，显示即便在科技股大幅回调之际，头部公司的融资渠道依然畅通。",
+   "time": "05:03",
+   "date": "2026-11-06",
+   "outlet": "Stocktwits",
+   "first_party": false,
+   "url": "https://stocktwits.com/news-articles/markets/equity/apple-reportedly-set-to-raise-7-5-b-from-bond-offering-amid-market-selloff/cNG1HDrR948?.tsrc=rss",
+   "company": "苹果",
+   "company_en": "Apple",
+   "ticker": "AAPL",
+   "section": "权重科技",
+   "tags": [
+    "融资"
+   ]
+  },
+  {
+   "id": "tech-20261106-022",
+   "title": "Serve Robotics公布2026年第三季度业绩",
+   "summary": "Serve Robotics公布2026年第三季度业绩，披露送货机器人业务的最新运营与财务数据。作为机器人板块中少数已上市的公司，其财报是观察配送机器人商业化进展的重要参考。",
+   "time": "05:05",
+   "date": "2026-11-06",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://finance.yahoo.com/technology/articles/serve-robotics-announces-third-quarter-210500102.html?.tsrc=rss",
+   "company": "Serve Robotics",
+   "company_en": "Serve Robotics Inc",
+   "ticker": "SERV",
+   "section": "机器人",
+   "tags": [
+    "财报"
+   ]
+  },
+  {
+   "id": "tech-20261106-023",
+   "title": "Serve Robotics推出Physical AI服务，对外开放机器人技术",
+   "summary": "Serve Robotics推出Physical AI服务，将其机器人车队背后的技术开放给领先的物理AI公司。这一动作标志着公司从自营配送向技术平台转型，试图把机器人运营能力变成可对外输出的服务。",
+   "time": "05:01",
+   "date": "2026-11-06",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://finance.yahoo.com/technology/ai/articles/serve-robotics-launches-physical-ai-210100046.html?.tsrc=rss",
+   "company": "Serve Robotics",
+   "company_en": "Serve Robotics Inc",
+   "ticker": "SERV",
+   "section": "机器人",
+   "tags": [
+    "新品发布"
+   ]
+  },
+  {
+   "id": "tech-20261106-024",
+   "title": "美光宣布董事会成员退休",
+   "summary": "美光宣布董事会成员退休，启动董事会层面的交接安排。这一人事变动发生在存储芯片短缺与股价大幅波动之际，董事会构成的调整与公司治理动向受到投资者关注。",
+   "time": "05:30",
+   "date": "2026-11-06",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://finance.yahoo.com/markets/stocks/articles/micron-announces-board-directors-retirement-213000203.html?.tsrc=rss",
+   "company": "美光",
+   "company_en": "Micron Technology",
+   "ticker": "MU",
+   "section": "权重科技",
+   "tags": [
+    "高管变动"
+   ]
+  },
+  {
+   "id": "tech-20261106-025",
+   "title": "中国机器人融资放缓至16亿美元，行业洗牌担忧升温",
+   "summary": "中国机器人领域的融资规模放缓至16亿美元，市场对行业洗牌的担忧升温。资金收紧背景下，机器人初创公司的融资难度加大，头部企业与中小厂商的分化可能进一步加剧。",
+   "time": "14:07",
+   "date": "2026-11-06",
+   "outlet": "Bloomberg.com",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdVl5ajFZZi1EeGhzbS1oVklzMVF4STNiTThRRkpPN0loaFdWWVpRTm5MNEJNTm5XZjVPSW9TYktkM3VORUNaUnB4Q3g5ZGZwYmdSOTVVQWg3T3JRVTVfZDlYb290NWdSZWlGMVpVbVlqdEhwWjdET2hCYk1yMmpzMWR4N3hLTk50R1VHdVBxZmQ3cFNyeXNiQlY5blZjYWtvZGdZdERISHVRVnkxYjBKLXJEVDI?oc=5",
+   "company": "宇树科技",
+   "company_en": "Unitree Robotics",
+   "ticker": null,
+   "section": "机器人",
+   "tags": [
+    "融资"
+   ]
+  },
+  {
+   "id": "tech-20261106-026",
+   "title": "微软Xbox PC应用提速60%，界面向云游戏看齐",
+   "summary": "微软向Xbox Insider用户推出新版Xbox PC应用，启动速度提升最高60%，界面设计向Xbox云游戏靠拢。此次更新旨在改善PC端游戏体验，也是微软整合主机、PC与云游戏入口的又一步。",
+   "time": "01:25",
+   "date": "2026-11-06",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261105/p43#a261105p43",
+   "company": "微软",
+   "company_en": "Microsoft",
+   "ticker": "MSFT",
+   "section": "权重科技",
+   "tags": [
+    "新品发布"
+   ]
+  },
+  {
+   "id": "tech-20261106-027",
+   "title": "甲骨文数据中心开发商放弃关键空气许可截止期",
+   "summary": "甲骨文一家数据中心开发商放弃了关键的空气许可截止期，项目推进面临环保审批方面的不确定性。这一动向正值数据中心项目遭遇地方与环保阻力之际，许可问题可能拖慢甲骨文的算力扩张步伐。",
+   "time": "02:50",
+   "date": "2026-11-06",
+   "outlet": "Bloomberg.com",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUV9SN2taamxXRkRRMVhvZUFQbEttZlJvRmxONTBtdk9NZjBhMmdZZ3pEOFdHdTlkcEI2NEYxaEY3X2tRMkxQZExiRkswdERGblN0dS1NOEtzNmE2cnVzZlNaeDBNZXZ4YUVVNGhfZUtTTm9hMlJTTHdUTG16a3BDOGxRaFROSExZWGlOdGl0dDdtUDloU2FobTgwcURHMXl4ZVNiTUxvc2Y0clhvY0Iw?oc=5",
+   "company": "甲骨文",
+   "company_en": "Oracle Corporation",
+   "ticker": "ORCL",
+   "section": "软件云AI",
+   "tags": [
+    "监管政策"
+   ]
+  },
+  {
+   "id": "tech-20261106-028",
+   "title": "METR称Anthropic删减了评估报告中最具信息量的证据",
+   "summary": "METR表示，Anthropic对其100页评估报告中最具信息量的证据进行了大量删减，读者只能依赖有限的公开内容。这一争议加剧了业界对AI安全评估透明度的质疑。",
+   "time": "05:30",
+   "date": "2026-11-06",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261105/p52#a261105p52",
+   "company": "Anthropic",
+   "company_en": "Anthropic",
+   "ticker": null,
+   "section": "AI前沿",
+   "tags": [
+    "突发"
+   ]
+  }
+ ],
+ "breaking": []
+}
