@@ -1,0 +1,518 @@
+{
+  "date": "2026-11-07",
+  "top10": [
+    {
+      "id": "tech-20261107-001",
+      "title": "OpenAI完成约110亿美元新融资，估值达1.25万亿美元",
+      "summary": "消息人士称，OpenAI已完成约110亿美元新一轮融资，估值达到1.25万亿美元，本轮融资总额最高可增至200亿美元。这轮融资将进一步巩固其在全球AI竞赛中的资金优势，也再次刷新了未上市公司估值的纪录。",
+      "time": "05:15",
+      "date": "2026-11-07",
+      "outlet": "Techmeme",
+      "first_party": false,
+      "url": "https://www.techmeme.com/261106/p22#a261106p22",
+      "company": "OpenAI",
+      "company_en": "OpenAI",
+      "ticker": null,
+      "section": "AI前沿",
+      "tags": [
+        "融资"
+      ]
+    },
+    {
+      "id": "tech-20261107-002",
+      "title": "Anthropic计划感恩节前上市，拟募资800亿至1000亿美元",
+      "summary": "消息人士透露，Anthropic仍计划在本月感恩节假期前上市，预计募资800亿至1000亿美元，估值区间为1.25万亿至1.75万亿美元。若如期成行，这将成为今年全球规模最大的科技IPO之一。",
+      "time": "05:12",
+      "date": "2026-11-07",
+      "outlet": "Techmeme",
+      "first_party": false,
+      "url": "https://www.techmeme.com/261106/p21#a261106p21",
+      "company": "Anthropic",
+      "company_en": "Anthropic",
+      "ticker": null,
+      "section": "AI前沿",
+      "tags": [
+        "融资"
+      ]
+    },
+    {
+      "id": "tech-20261107-003",
+      "title": "谷歌斥资约5.48亿美元入股高通，押注AI数据中心",
+      "summary": "监管文件显示，谷歌斥资约5.48亿美元买入约300万股高通股票。高通正加速布局AI数据中心市场，此次入股凸显两家公司在AI算力领域的合作正在加深，也为高通的转型提供了资金背书。",
+      "time": "05:35",
+      "date": "2026-11-07",
+      "outlet": "Techmeme",
+      "first_party": false,
+      "url": "https://www.techmeme.com/261106/p23#a261106p23",
+      "company": "高通",
+      "company_en": "Qualcomm",
+      "ticker": "QCOM",
+      "section": "芯片半导体",
+      "tags": [
+        "战略合作"
+      ]
+    },
+    {
+      "id": "tech-20261107-004",
+      "title": "微软向6万名员工提供买断方案，支出重心转向AI",
+      "summary": "微软决定向约6万名员工提供买断方案，员工正努力适应公司支出重心向AI转移的战略调整。这一举措折射出巨头在AI军备竞赛中对人力与资本配置的再平衡，也引发了外界对科技行业就业结构的关注。",
+      "time": "22:25",
+      "date": "2026-11-07",
+      "outlet": "Techmeme",
+      "first_party": false,
+      "url": "https://www.techmeme.com/261106/p12#a261106p12",
+      "company": "微软",
+      "company_en": "Microsoft",
+      "ticker": "MSFT",
+      "section": "权重科技",
+      "tags": [
+        "突发"
+      ]
+    },
+    {
+      "id": "tech-20261107-005",
+      "title": "台积电考虑为英伟达生产3D DRAM，应对存储短缺",
+      "summary": "消息人士称，台积电正考虑应最大客户英伟达的要求，扩大布局3D DRAM制造。AI热潮引发存储芯片短缺，英伟达希望借此缓解高端内存供应紧张，也为台积电打开新的增长空间。",
+      "time": "23:05",
+      "date": "2026-11-07",
+      "outlet": "Techmeme",
+      "first_party": false,
+      "url": "https://www.techmeme.com/261106/p13#a261106p13",
+      "company": "英伟达",
+      "company_en": "NVIDIA",
+      "ticker": "NVDA",
+      "section": "权重科技",
+      "tags": [
+        "战略合作"
+      ]
+    },
+    {
+      "id": "tech-20261107-006",
+      "title": "民主党拟加强对英伟达的监管审查，聚焦芯片出口与循环融资",
+      "summary": "民主党有望在中期选举后加强对英伟达的监督，重点涉及芯片出口管制与循环融资问题。参议院银行委员会主席的热门人选沃伦预计将推动更严格的审查，AI龙头的政策风险正在上升。",
+      "time": "23:51",
+      "date": "2026-11-07",
+      "outlet": "Techmeme",
+      "first_party": false,
+      "url": "https://www.techmeme.com/261106/p15#a261106p15",
+      "company": "英伟达",
+      "company_en": "NVIDIA",
+      "ticker": "NVDA",
+      "section": "权重科技",
+      "tags": [
+        "监管政策"
+      ]
+    },
+    {
+      "id": "tech-20261107-007",
+      "title": "欧盟初步认定TikTok违反数字服务法，算法致用户陷入有害内容",
+      "summary": "欧盟初步认定，TikTok未能防止其推荐算法将用户困在有害内容的“兔子洞”中，违反了《数字服务法》。这一认定可能使TikTok面临进一步处罚，也为平台算法监管树立了先例。",
+      "time": "20:10",
+      "date": "2026-11-07",
+      "outlet": "Techmeme",
+      "first_party": false,
+      "url": "https://www.techmeme.com/261106/p10#a261106p10",
+      "company": "字节跳动",
+      "company_en": "ByteDance",
+      "ticker": null,
+      "section": "AI前沿",
+      "tags": [
+        "监管政策"
+      ]
+    },
+    {
+      "id": "tech-20261107-008",
+      "title": "马斯克叫停Cybertruck：特斯拉为何必须“射杀大象”",
+      "summary": "马斯克决定叫停Cybertruck，这款电动皮卡的命运就此终结。分析指出，特斯拉不得不为这款争议产品画上句号，以便把资源集中到更具增长潜力的业务上，产品线调整已成定局。",
+      "time": "05:41",
+      "date": "2026-11-07",
+      "outlet": "Yahoo Finance",
+      "first_party": false,
+      "url": "https://finance.yahoo.com/m/06aa7a72-3f3b-3740-ba90-e5a9da6f4d4f/musk-kills-tesla-cybertruck..html?.tsrc=rss",
+      "company": "特斯拉",
+      "company_en": "Tesla",
+      "ticker": "TSLA",
+      "section": "权重科技",
+      "tags": [
+        "突发"
+      ]
+    },
+    {
+      "id": "tech-20261107-009",
+      "title": "亚马逊交出创纪录季度成绩单，但有一项数字值得警惕",
+      "summary": "亚马逊刚刚交出了一份创纪录的季度业绩，但分析指出，其中有一项数字投资者不应忽视。强劲的整体表现背后，个别业务指标的隐忧可能影响市场对后续增长的判断，财报细节值得细读。",
+      "time": "00:33",
+      "date": "2026-11-07",
+      "outlet": "Yahoo Finance",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNczdhN3BoeFotaWVBNEU5T2E0OFNCa0RrdkV4bTlGNURIeTFCMDFHRGhVcDNQeER3Um14aGpTQ2RQdy1lR2tsTG9WT09nQTUtVHJSUmxmRklsSzByYXMxWUhVWVhqQ2luVldTblp0cXVWdF9nZFNQTjVXdzFwUWNUY1VvZmlEVDVzaEkxdFU0X1oxTExOM1BHUG84bnF4RFhhb1ZsXw?oc=5",
+      "company": "亚马逊",
+      "company_en": "Amazon",
+      "ticker": "AMZN",
+      "section": "权重科技",
+      "tags": [
+        "财报"
+      ]
+    },
+    {
+      "id": "tech-20261107-010",
+      "title": "美情报部门称一高管涉嫌为中国机构收集黄仁勋情报",
+      "summary": "消息人士称，美国情报部门认定，Megaspeed公司高管爱丽丝·黄被中国最高情报机构招募，负责收集英伟达首席执行官黄仁勋的情报。这一指控将AI芯片竞争推向更敏感的地缘层面。",
+      "time": "05:46",
+      "date": "2026-11-07",
+      "outlet": "Techmeme",
+      "first_party": false,
+      "url": "https://www.techmeme.com/261106/p24#a261106p24",
+      "company": "英伟达",
+      "company_en": "NVIDIA",
+      "ticker": "NVDA",
+      "section": "权重科技",
+      "tags": [
+        "突发"
+      ]
+    }
+  ],
+  "company_news": [
+    {
+      "id": "tech-20261107-011",
+      "title": "亚德诺完成对Alif半导体的收购，加码边缘AI",
+      "summary": "亚德诺宣布已完成对Alif半导体的收购，以强化其边缘AI产品布局。这笔交易将帮助亚德诺把AI算力推向更多终端设备，补齐其在低功耗智能芯片领域的能力，完善边缘计算版图。",
+      "time": "15:47",
+      "date": "2026-11-07",
+      "outlet": "Yahoo Finance",
+      "first_party": false,
+      "url": "https://finance.yahoo.com/technology/articles/analog-devices-completes-acquisition-alif-074700816.html?.tsrc=rss",
+      "company": "亚德诺",
+      "company_en": "Analog Devices",
+      "ticker": "ADI",
+      "section": "芯片半导体",
+      "tags": [
+        "并购"
+      ]
+    },
+    {
+      "id": "tech-20261107-012",
+      "title": "安谋第三季度销售额大增27%，AI需求超预期",
+      "summary": "安谋第三季度销售额同比大增27%，表现超出市场预期。AI支出热潮持续推高芯片授权与版税收入，安谋成为本轮AI基建周期的重要受益者。随着AI芯片需求持续放量，其授权业务有望继续保持强劲增长。",
+      "time": "05:20",
+      "date": "2026-11-07",
+      "outlet": "WSJ",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRXpoNFE4WG9aNjkwazZlZEM1VWtKWlU2d21jZFRjWm12a0ZjckU0SDAxWWYwSzJhLWY1SmtQaTRSdVFoV1FvOE5KNHJMOXo5bG15amtKdGdMdmpZUFJScF9RNHNyMGFDcFhPT3ZpVDFhSVFTc0xXbnJ2blUwT3VnMHFmYUJtcWxYX0liQUhkUlc?oc=5",
+      "company": "安谋",
+      "company_en": "Arm Holdings",
+      "ticker": "ARM",
+      "section": "芯片半导体",
+      "tags": [
+        "财报"
+      ]
+    },
+    {
+      "id": "tech-20261107-013",
+      "title": "AMD业绩超预期，全面转向“数据中心优先”",
+      "summary": "AMD最新财报超出华尔街预期，公司正全面转向“数据中心优先”战略。数据中心业务已成为增长主引擎，AMD希望借此在AI加速器市场缩小与英伟达的差距，抢占更多市场份额。",
+      "time": "05:37",
+      "date": "2026-11-07",
+      "outlet": "WSJ",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTS1ackJyUFczU0ZLRnVmUkF2M2M2MUtueVFjd3ZpOEVkSlJQRWY3eUFNa2g2MVlHOTJDZTROanJCRkMzN0k0S0s2WWh6c2VMVW84VklCRmNBdW5CcmlMYzFXX2RpNmp2UDNPbjNWOFZRMVJUYWtyQkcxX0NPTE1FZU1TXzQ4d2VmaXZkNEVRNTRsQUVPTlUtcXIxRUg5endOZVZyT29sYmtEbmhCQ2pxUA?oc=5",
+      "company": "超威半导体",
+      "company_en": "Advanced Micro Devices",
+      "ticker": "AMD",
+      "section": "权重科技",
+      "tags": [
+        "财报"
+      ]
+    },
+    {
+      "id": "tech-20261107-014",
+      "title": "AMD参与量子纠错平台发布，布局下一代计算",
+      "summary": "AMD参与了一个量子纠错平台的发布，正式切入量子计算领域。量子纠错被视为量子计算机走向实用的关键一步，AMD此举意在提前卡位下一代计算赛道，布局未来增长点。量子计算的商业化进程正在提速。",
+      "time": "05:18",
+      "date": "2026-11-07",
+      "outlet": "Yahoo Finance",
+      "first_party": false,
+      "url": "https://finance.yahoo.com/technology/articles/advanced-micro-devices-amd-joined-211815190.html?.tsrc=rss",
+      "company": "超威半导体",
+      "company_en": "Advanced Micro Devices",
+      "ticker": "AMD",
+      "section": "权重科技",
+      "tags": [
+        "战略合作"
+      ]
+    },
+    {
+      "id": "tech-20261107-015",
+      "title": "高通与SpaceX达成5G基建大单，服务星链移动网络",
+      "summary": "高通与SpaceX签署一项重大5G基础设施协议，将为星链移动网络提供支持。合作把高通的连接技术带入卫星互联网场景，也为其开辟了新的增长市场，进一步拓展了业务边界。",
+      "time": "21:35",
+      "date": "2026-11-07",
+      "outlet": "Reuters",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVWZCaVBsMkw1X24ydGtHeEN2cVhCZ09DcV9TTG9pQkJYMXlhUDZLOElIS21YbEdyeDdxM2RRY2dCazN1MXRFdUNNeEtHck05SFNUd2lpVkw4N1FiakdlTk1kWDFpZ08ycjlSajV0V29sdkJsZEVDbTZOc21ON2t2dkxtbDRDRmx0OFVIdWMyWXo3RUd0ckswYkRyV3RnekU5bmJyNXlvelR6VTRVeElGM2U2Wll4azlpbmNvbURfWDhDX29CMnRkN3ZWaHF6S3VHTTdPOQ?oc=5",
+      "company": "高通",
+      "company_en": "Qualcomm",
+      "ticker": "QCOM",
+      "section": "芯片半导体",
+      "tags": [
+        "战略合作"
+      ]
+    },
+    {
+      "id": "tech-20261107-016",
+      "title": "Meta推出Spaces，让Muse助手协作更顺手",
+      "summary": "Meta推出名为Spaces的新功能，为Muse助手打造更顺手的协作方式。用户可为不同任务定制专属空间，Meta正把AI助手从聊天工具升级为工作台，提升日常使用体验。",
+      "time": "02:44",
+      "date": "2026-11-07",
+      "outlet": "TechCrunch",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWThXdnB2TE9RM3M4SUQ2NTZhc1Y0SVBveGpsQm9ySU54VFFRTWJmVjdodEJYLWlmemwzeWlfdnlUcUdfU2JmUm1EdGFXRzdVZzNPcUpEV0dmVDhPRDVidzRZVzVkM1NnWi02NTMwekRRN01YLXZ4RmNYekpvSW54cUlPR2VIX2hJTW1kOGd5ZV9pUldRMExwTjE1dE5Ea0hYT0FhdnFR?oc=5",
+      "company": "Meta Platforms",
+      "company_en": "Meta Platforms",
+      "ticker": "META",
+      "section": "权重科技",
+      "tags": [
+        "新品发布"
+      ]
+    },
+    {
+      "id": "tech-20261107-017",
+      "title": "Meta放弃备受争议的商业条款更新",
+      "summary": "Meta放弃了此前备受争议的商业条款更新，现有规则继续有效。此前外界批评新条款措辞含糊、损害用户权益，Meta在舆论压力下选择了让步，相关争议暂告段落。这一决定也为平台规则调整的透明度提出了更高要求。",
+      "time": "01:43",
+      "date": "2026-11-07",
+      "outlet": "Ars Technica",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRHM1R1luZjl3U0N3YTFoVlpGemN0dWI1OXNLOElWaVpkUks0QmpUMGFTczVOSVhPUnVUZ2g1TDNEcGxtLURFcGVYTF9xUk5kVnBzcnNxTUhjM25DMWYtcjJNZ2FyOENFWnlkU25HQ2lGb2JaQ21fZGZLUUlpMVR2Z0VtbXNWc0d5dzBUWTFTaVl5TWZDQk5QeXVuUXVfakQ5eXk4dlpLcFQ0b2NHNzhIUnN5SXpleVBGT2Nz?oc=5",
+      "company": "Meta Platforms",
+      "company_en": "Meta Platforms",
+      "ticker": "META",
+      "section": "权重科技",
+      "tags": [
+        "监管政策"
+      ]
+    },
+    {
+      "id": "tech-20261107-018",
+      "title": "Meta、谷歌与TikTok就青少年社媒法起诉加州总检察长",
+      "summary": "Meta、谷歌与TikTok联合起诉加州总检察长，挑战该州的青少年社交媒体法。三大平台认为相关规定过度干预，案件结果将影响全美未成年人网络保护规则的走向，值得持续关注。",
+      "time": "08:01",
+      "date": "2026-11-07",
+      "outlet": "TechCrunch",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQa01nZmZoREJxd1NWenZCb2gwTE1IUE9XSjVuSllha2NaV1d6eXlyalA3UWxUSWc0OURiTDA2Y1YwTGloei1FbDRBQTlBalZoVHNDa0V4cWk2MWpXZHJNQXREUS1ZNFNhczJGZGwxczhEX3dnVWN3am9GQk1ndWcwVk9uaExXbkdjdG5XSFAyMGdwdlByVFMtVnJOTnlfcldlaGtkWQ?oc=5",
+      "company": "Meta Platforms",
+      "company_en": "Meta Platforms",
+      "ticker": "META",
+      "section": "权重科技",
+      "tags": [
+        "诉讼"
+      ]
+    },
+    {
+      "id": "tech-20261107-019",
+      "title": "亚马逊在Alexa上线文本购物功能",
+      "summary": "亚马逊通过Alexa推出了文本购物功能，用户无需语音即可完成下单。此举拓宽了Alexa的购物场景，也被视为亚马逊把AI助手向日常消费入口推进的一步，强化了生态布局。",
+      "time": "22:03",
+      "date": "2026-11-07",
+      "outlet": "Reuters",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQkJyc3dlTThDcC1Fb05WSGRoS05GZEdfN0FfZjZHaE5kNVVWYm9Nb1dXQ185YzBPVmgxTE9rUHJMTE1iVEdZcDdBVEZxclQxTkhuRkVBd0tkMnBpVTc0WmFjZW9HSVVFeU5kbjBDQUVwcEQydWRLM05nMWZZV3BpTXVUelFHRnZWaWlWZDhUNWh0UGxTYzlQbmc4LVVUWEtJN3ZhbERqelRHTG1NQzZQUw?oc=5",
+      "company": "亚马逊",
+      "company_en": "Amazon",
+      "ticker": "AMZN",
+      "section": "权重科技",
+      "tags": [
+        "新品发布"
+      ]
+    },
+    {
+      "id": "tech-20261107-020",
+      "title": "SovAI加入英伟达Inception计划，共建表后AI工厂",
+      "summary": "SovAI加入英伟达Inception计划，将按英伟达DSX参考架构建设表后AI工厂。合作把AI算力部署到电表之后的新场景，拓展了英伟达生态在能源侧的布局，打开了新的市场空间。",
+      "time": "05:52",
+      "date": "2026-11-07",
+      "outlet": "Yahoo Finance",
+      "first_party": false,
+      "url": "https://finance.yahoo.com/technology/ai/articles/sovai-joins-nvidia-inception-build-215200802.html?.tsrc=rss",
+      "company": "英伟达",
+      "company_en": "NVIDIA",
+      "ticker": "NVDA",
+      "section": "权重科技",
+      "tags": [
+        "战略合作"
+      ]
+    },
+    {
+      "id": "tech-20261107-021",
+      "title": "微软停用甲骨文租用算力，不再续签2023年协议",
+      "summary": "消息人士称，微软正逐步停用从甲骨文租用的计算容量，并拒绝续签2023年签署的协议。原因是相关硬件采用较旧的英伟达芯片，微软希望把算力集中在更新的平台上，提升整体效率。",
+      "time": "02:05",
+      "date": "2026-11-07",
+      "outlet": "Techmeme",
+      "first_party": false,
+      "url": "https://www.techmeme.com/261106/p18#a261106p18",
+      "company": "微软",
+      "company_en": "Microsoft",
+      "ticker": "MSFT",
+      "section": "权重科技",
+      "tags": [
+        "战略合作"
+      ]
+    },
+    {
+      "id": "tech-20261107-022",
+      "title": "市场质疑美满电子与Lumentum合并的逻辑",
+      "summary": "分析人士质疑美满电子与Lumentum合并交易的合理性，认为这笔交易缺乏清晰的协同逻辑。合并传闻引发市场对光通信行业整合方向的讨论，投资者看法出现分化，前景仍不明朗。",
+      "time": "00:49",
+      "date": "2026-11-07",
+      "outlet": "Seeking Alpha",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYnJvd05rb1h0Q1JEYVgxQWIxM0Qwd1FtWWRONlRjQ2FvOXpOaGp0OVpVTTJzOUFXSWxwQnBNQU03M0V0el9oZ3l0RTl5ZGxsbWgzS0pOcDJvMVYxX0k3c1dzU080cmxXV0UwYlVzR0Njc3g5ZFVhNjl3X2VZREdpR3BNNl9YNDJYcGttTWQ2aTV4TlNBbEExWEd6NGM?oc=5",
+      "company": "美满电子",
+      "company_en": "Marvell Technology",
+      "ticker": "MRVL",
+      "section": "芯片半导体",
+      "tags": [
+        "并购"
+      ]
+    },
+    {
+      "id": "tech-20261107-023",
+      "title": "英特尔股价深跌，市场认为抛售或已过度",
+      "summary": "英特尔股价经历深度回调后，分析认为此轮抛售可能已过度。尽管短期情绪仍然谨慎，但部分投资者开始关注英特尔在估值回落后的配置价值。市场正在观察基本面能否支撑股价企稳反弹。",
+      "time": "05:33",
+      "date": "2026-11-07",
+      "outlet": "Yahoo Finance",
+      "first_party": false,
+      "url": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-intc-deep-sell-213300842.html?.tsrc=rss",
+      "company": "英特尔",
+      "company_en": "Intel",
+      "ticker": "INTC",
+      "section": "芯片半导体",
+      "tags": [
+        "股价异动"
+      ]
+    },
+    {
+      "id": "tech-20261107-024",
+      "title": "科技股抛售是“黄金买入机会”，知名分析师称",
+      "summary": "知名分析师Dan Ives称，本轮科技股抛售是“黄金买入机会”。尽管AI龙头遭遇大幅回调，他认为长期需求逻辑未变，回调反而为投资者提供了入场窗口，值得逢低布局。",
+      "time": "05:46",
+      "date": "2026-11-07",
+      "outlet": "Yahoo Finance",
+      "first_party": false,
+      "url": "https://finance.yahoo.com/m/aeb920dc-4bcd-3531-8458-6a642b7135df/tech-stock-sell-off-%27golden.html?.tsrc=rss",
+      "company": "英伟达",
+      "company_en": "NVIDIA",
+      "ticker": "NVDA",
+      "section": "权重科技",
+      "tags": [
+        "股价异动"
+      ]
+    },
+    {
+      "id": "tech-20261107-025",
+      "title": "科磊财报超预期，股价表现受考验",
+      "summary": "科磊最新财报超出预期，但市场正考验其股价能否守住涨势。作为半导体设备龙头，科磊的业绩被视为芯片制造资本开支景气度的重要风向标。半导体设备需求的走向将直接影响科磊下一季度的表现。",
+      "time": "04:15",
+      "date": "2026-11-07",
+      "outlet": "Yahoo Finance",
+      "first_party": false,
+      "url": "https://finance.yahoo.com/markets/stocks/articles/earnings-beat-tests-case-kla-201552566.html?.tsrc=rss",
+      "company": "科磊",
+      "company_en": "KLA Corporation",
+      "ticker": "KLAC",
+      "section": "芯片半导体",
+      "tags": [
+        "财报"
+      ]
+    },
+    {
+      "id": "tech-20261107-026",
+      "title": "Anthropic未公开模型协助证明困扰学界18年的量子猜想",
+      "summary": "AI物理初创公司PSI称，一套运行Anthropic未公开模型的系统证明了Aaronson-Ambainis猜想，这一量子计算问题自2008年以来一直悬而未决。成果展示了AI在前沿科学研究中的突破潜力。",
+      "time": "03:35",
+      "date": "2026-11-07",
+      "outlet": "Techmeme",
+      "first_party": false,
+      "url": "https://www.techmeme.com/261106/p20#a261106p20",
+      "company": "Anthropic",
+      "company_en": "Anthropic",
+      "ticker": null,
+      "section": "AI前沿",
+      "tags": [
+        "AI 模型"
+      ]
+    },
+    {
+      "id": "tech-20261107-027",
+      "title": "谷歌买下怀俄明州数据中心用地，超大规模厂商转向自建AI算力",
+      "summary": "谷歌买下怀俄明州一处数据中心用地，超大规模云厂商正加速从租赁转向自有AI算力。随着AI需求激增，自建数据中心成为巨头保障算力供给的关键选择，相关投入仍在加大。算力自主已成为云巨头的共同选择。",
+      "time": "05:00",
+      "date": "2026-11-07",
+      "outlet": "Yahoo Finance",
+      "first_party": false,
+      "url": "https://finance.yahoo.com/technology/ai/articles/google-buys-wyoming-data-center-210033583.html?.tsrc=rss",
+      "company": "Alphabet",
+      "company_en": "Alphabet",
+      "ticker": "GOOGL",
+      "section": "权重科技",
+      "tags": [
+        "战略合作"
+      ]
+    },
+    {
+      "id": "tech-20261107-028",
+      "title": "SpaceX土地交易与特斯拉合并受选举冲击，太空股反弹",
+      "summary": "SpaceX的土地交易与特斯拉合并计划受到选举结果冲击，相关太空股随后出现反弹。选举格局变化给马斯克旗下公司的资本运作带来新的不确定性，市场仍在消化政策影响，后续进展值得密切关注。",
+      "time": "05:21",
+      "date": "2026-11-07",
+      "outlet": "Yahoo Finance",
+      "first_party": false,
+      "url": "https://finance.yahoo.com/m/78896665-9396-36da-b57e-abaf23a742ac/spacex-land-deal%2C-tesla.html?.tsrc=rss",
+      "company": "特斯拉",
+      "company_en": "Tesla",
+      "ticker": "TSLA",
+      "section": "权重科技",
+      "tags": [
+        "突发"
+      ]
+    },
+    {
+      "id": "tech-20261107-029",
+      "title": "博通过去一个月仍跌22%，复苏之路存疑",
+      "summary": "博通股价过去一个月仍下跌22%，市场质疑其复苏之路是否顺畅。尽管AI相关业务被寄予厚望，估值与需求前景的分歧仍在压制股价表现，投资者等待更明确的拐点信号，短期内股价或继续承压。",
+      "time": "04:03",
+      "date": "2026-11-07",
+      "outlet": "Yahoo Finance",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUUFYTmF4dVF1LWZCME9nNmtPYWRPN2tEQlNVSkR4QVc1ek9YYUIzbmNnM25XTkFyNTJLOXkwQWVpT2NfRWlyS0ZkeXVYSmVRMldhT0hGUUZQSFJkUXltczk1WWd0bWk1ZWFGQVB6MURSWVpDN0E4YmRnSU5uc1c2bFo3U0h0Mk93QjhnT2oxX0p2UllPRUpJ?oc=5",
+      "company": "博通",
+      "company_en": "Broadcom",
+      "ticker": "AVGO",
+      "section": "权重科技",
+      "tags": [
+        "股价异动"
+      ]
+    },
+    {
+      "id": "tech-20261107-030",
+      "title": "亚德诺股价亦难敌芯片板块抛售",
+      "summary": "亚德诺股价同样未能抵挡芯片板块的抛售压力，芯片股整体回调拖累了这家模拟芯片龙头。分析指出，板块情绪转弱之际，即便基本面稳健的个股也难以独善其身，短期波动在所难免。",
+      "time": "05:02",
+      "date": "2026-11-07",
+      "outlet": "Yahoo Finance",
+      "first_party": false,
+      "url": "https://finance.yahoo.com/m/214d9cf4-3c3e-34fb-81c5-22b651095287/adi-stock-couldn%27t-defy.html?.tsrc=rss",
+      "company": "亚德诺",
+      "company_en": "Analog Devices",
+      "ticker": "ADI",
+      "section": "芯片半导体",
+      "tags": [
+        "股价异动"
+      ]
+    }
+  ],
+  "breaking": []
+}
