@@ -1,0 +1,335 @@
+{
+  "date": "2026-11-09",
+  "top10": [
+    {
+      "id": "tech-20261109-001",
+      "title": "英伟达董事会调查黄仁勋，CEO致信员工承认婚外情",
+      "summary": "黄仁勋在致员工信中承认婚外情并承担全部责任；英伟达董事会已启动调查，核查其是否成为外国间谍行动的目标，同时表示目前没有理由相信公司机密已经泄露，事件或冲击管理层公信力。",
+      "time": "05:00",
+      "date": "2026-11-09",
+      "outlet": "Yahoo Finance",
+      "first_party": false,
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-investigate-ceo-jensen-huang-210011206.html?.tsrc=rss",
+      "company": "英伟达",
+      "company_en": "NVIDIA",
+      "ticker": "NVDA",
+      "section": "权重科技",
+      "tags": [
+        "高管变动",
+        "突发"
+      ]
+    },
+    {
+      "id": "tech-20261109-002",
+      "title": "DeepSeek智能体应用Harness日活达154万",
+      "summary": "DeepSeek称其开源智能体应用Harness在11月4日的日活达到154万，上线不到三个月；该应用日均消耗约92万亿个tokens，相当于每用户约6000万个tokens。",
+      "time": "04:10",
+      "date": "2026-11-09",
+      "outlet": "Techmeme",
+      "first_party": false,
+      "url": "https://www.techmeme.com/261108/p12#a261108p12",
+      "company": "DeepSeek",
+      "company_en": "DeepSeek",
+      "ticker": null,
+      "section": "AI前沿",
+      "tags": [
+        "AI 模型",
+        "新品发布"
+      ]
+    },
+    {
+      "id": "tech-20261109-003",
+      "title": "Anthropic斥资34亿美元采购1.7GW燃气发电机",
+      "summary": "知情人士称，Anthropic向设备供应商OnePWR采购1.7GW燃气发电机，耗资34亿美元，为已知AI实验室同类最大采购；算力扩张正倒逼实验室自建发电能力。",
+      "time": "23:05",
+      "date": "2026-11-08",
+      "outlet": "Techmeme",
+      "first_party": false,
+      "url": "https://www.techmeme.com/261108/p8#a261108p8",
+      "company": "Anthropic",
+      "company_en": "Anthropic",
+      "ticker": null,
+      "section": "AI前沿",
+      "tags": [
+        "战略合作"
+      ]
+    },
+    {
+      "id": "tech-20261109-004",
+      "title": "AI公司今年已售超3000亿美元股票，市场质疑吸纳能力",
+      "summary": "除Anthropic的IPO外，AI公司2026年已出售或定价超3000亿美元股票，另有约1000亿美元在排队；市场开始质疑，在估值高企之际还能吸纳多少新供给。",
+      "time": "01:45",
+      "date": "2026-11-09",
+      "outlet": "Techmeme",
+      "first_party": false,
+      "url": "https://www.techmeme.com/261108/p10#a261108p10",
+      "company": "Anthropic",
+      "company_en": "Anthropic",
+      "ticker": null,
+      "section": "AI前沿",
+      "tags": [
+        "融资"
+      ]
+    },
+    {
+      "id": "tech-20261109-005",
+      "title": "软银与ABB探讨剥离中国业务以挽救机器人交易",
+      "summary": "软银54亿美元收购ABB机器人业务被中国监管部门叫停后，双方正探讨剥离中国业务以挽救交易；此前监管以AI技术管控为由否决了整体收购，交易能否以拆分形式落地仍存变数。",
+      "time": "16:39",
+      "date": "2026-11-07",
+      "outlet": "Bloomberg",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTWhOZ29fWXk2aERCZC1HVmhTY0k3VjFfV1pGZGpuengxTEdRNndXX2NHNWtXdXozbzFuRmE5QWtpT3lqZVEtQ21NZHdpS2NiOHB4d05SUUI3MVcyMkhJS0QtQlhRM3JTU0dITkhobG1fQ2NxaUE5QjZYeVA5Q2xfUXRvdHdYX2NiVWZMMkV4WDdGSjd1QXc5czFLNDFNc0NSdFJBcjducXc1ZERUR1pv?oc=5",
+      "company": "ABB",
+      "company_en": "ABB Ltd",
+      "ticker": "ABB",
+      "section": "机器人",
+      "tags": [
+        "并购",
+        "监管政策"
+      ]
+    },
+    {
+      "id": "tech-20261109-006",
+      "title": "Agility Robotics登陆纳斯达克，成美股首家纯人形机器人公司",
+      "summary": "人形机器人公司Agility Robotics通过SPAC合并登陆纳斯达克，成为美国首家纯人形机器人上市公司；公司获英伟达支持，Digit机器人已进入商业部署阶段。",
+      "time": "05:27",
+      "date": "2026-11-06",
+      "outlet": "SiliconANGLE",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQmFiQTZVR24zaU52MkUwME5WaWxQTVZiR2VTMExweVZaUUVvdmtoUmt6d19HSGJJenRGNEVPa0FKeVZaNGR5NE5qYnVrelNweXhxdXo5WUdaN3U5YjJ6a0M3dVlIOWhoeU11Qm44WU1WZldSWWUtanRFMGItX3NnYWk1MWdlS2dfbnI4TmJZSGl4QkFtTGUyQUtFZGtmM1VhZEJXSmZIZEg3LUhiRi1leDdGWQ?oc=5",
+      "company": "Agility Robotics",
+      "company_en": "Agility Robotics",
+      "ticker": null,
+      "section": "机器人",
+      "tags": [
+        "融资"
+      ]
+    },
+    {
+      "id": "tech-20261109-007",
+      "title": "苹果AI提速：特努斯敦促费代里吉超越Siri小修小补",
+      "summary": "知情人士称，苹果高管约翰·特努斯要求AI工作提速，推动克雷格·费代里吉超越Siri的渐进式改进，转向智能体等更先进能力；苹果内部对AI落后的焦虑正在上升，组织调整或随之而来。",
+      "time": "00:20",
+      "date": "2026-11-09",
+      "outlet": "Techmeme",
+      "first_party": false,
+      "url": "https://www.techmeme.com/261108/p9#a261108p9",
+      "company": "苹果",
+      "company_en": "Apple",
+      "ticker": "AAPL",
+      "section": "权重科技",
+      "tags": [
+        "AI 模型"
+      ]
+    },
+    {
+      "id": "tech-20261109-008",
+      "title": "甲骨文放弃70亿美元腾讯AI交易",
+      "summary": "甲骨文在特朗普政府施压下放弃与腾讯价值70亿美元的AI合作；交易告吹折射出中美科技合作正受到政治因素的直接干预，云厂商的跨境布局面临新变数，甲骨文的AI叙事也受牵连。",
+      "time": "13:21",
+      "date": "2026-11-04",
+      "outlet": "Reuters",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZWJQOGRuTGwyaDdhNm9pUkwxSTdndmhaLTI1MTAzYUdpd0EyNE1YT2xGeFNVbGNKRXhOa1Fob3QyOS05RnJReHJ6N3BhWlNBNXJXaU5XN3hzcllGUzRHbGVfTU9sUlNZNlNwd3FvMHA5VE9CcDRoQXJFNGQ3X29ZeDJEbXliRHB5a2FGVVBpUklwLTBfaG05UC1iR1VLd3kxNDFlVnlvV05LZDVvaVN5VUFaNm1PVDBmZVN6V2h3?oc=5",
+      "company": "甲骨文",
+      "company_en": "Oracle Corporation",
+      "ticker": "ORCL",
+      "section": "软件云AI",
+      "tags": [
+        "监管政策",
+        "战略合作"
+      ]
+    },
+    {
+      "id": "tech-20261109-009",
+      "title": "微软缩减向甲骨文租用AI云容量",
+      "summary": "微软正逐步缩减向甲骨文租用AI云算力的规模；此前双方的云合作曾是甲骨文AI基础设施叙事的重要支撑，调整或反映微软自有算力供给正在改善，甲骨文的算力外租收入面临压力。",
+      "time": "02:16",
+      "date": "2026-11-07",
+      "outlet": "Bloomberg",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeXFhaDRlRjBvZktGaFM2eExYdGpJakRNazYxc2Y2UWoyMDJzS1VFb2Z5ZTNkSVhMRHBTbUdtb25kZHJUdkpRVXRQU1hQVGtIbS1maVNoeGhSZ2pHOGF1aDY3R1AwSTU4TmlmSEdEc19RYlowVXAzc0NlSzdVZ2xBZXduc2FzT3ViQ0xDS3RYdklKMzFnVzRtUkZKQnVBWlBDTWtGcGZUU01ZSktQTG5aOE9lbXE?oc=5",
+      "company": "甲骨文",
+      "company_en": "Oracle Corporation",
+      "ticker": "ORCL",
+      "section": "软件云AI",
+      "tags": [
+        "战略合作"
+      ]
+    },
+    {
+      "id": "tech-20261109-010",
+      "title": "苹果今年通过新加坡节税27亿美元",
+      "summary": "文件显示，苹果今年通过新加坡转移至多500亿美元利润，节税27亿美元，超过此前经爱尔兰实现的26亿美元；跨国科技公司的税务架构再度受到关注，监管收紧压力正在上升。",
+      "time": "13:55",
+      "date": "2026-11-08",
+      "outlet": "Techmeme",
+      "first_party": false,
+      "url": "https://www.techmeme.com/261108/p1#a261108p1",
+      "company": "苹果",
+      "company_en": "Apple",
+      "ticker": "AAPL",
+      "section": "权重科技",
+      "tags": [
+        "监管政策"
+      ]
+    }
+  ],
+  "company_news": [
+    {
+      "id": "tech-20261109-011",
+      "title": "AMD股价上涨，AI数据中心强劲表现提振前景",
+      "summary": "AMD股价上涨，AI驱动的数据中心业务强劲表现提振增长前景；市场正重新评估AMD在AI加速器市场的份额前景，机构关注其能否持续缩小与英伟达的差距，订单兑现是关键。",
+      "time": "22:49",
+      "date": "2026-11-04",
+      "outlet": "Reuters",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT1otSGFrSy03TGU4SkFJWHJ0SlJER0pMU0FvV3RIZm1udEtsLTlqazJwbzFEX1lNR3NGYWdNRnRBMDc1ZEk0elNtb2xHcXFFOEFqSnVsWkVRSTBpeHBPUEwtNDZtSUxuZUpKSnM1aXFlX2VUczJlNWRFSXM3MGxmRXAyYkt0dUloMlhaYVJZUVhqNmU2cGVpNkJaMXY3Sm5Qck04ZjNtbHdBSC02Q3hxd3BR?oc=5",
+      "company": "超威半导体",
+      "company_en": "Advanced Micro Devices",
+      "ticker": "AMD",
+      "section": "权重科技",
+      "tags": [
+        "股价异动"
+      ]
+    },
+    {
+      "id": "tech-20261109-012",
+      "title": "AWS增长39%，亚马逊预计未来两年增速超40%",
+      "summary": "亚马逊AWS实现39%的增长，管理层预计2027年和2028年增速将超过40%；云业务重新加速成为亚马逊估值修复的核心支撑，也抬高了市场对AI算力需求的预期，云厂商竞争正在加剧。",
+      "time": "01:37",
+      "date": "2026-11-09",
+      "outlet": "Yahoo Finance",
+      "first_party": false,
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-amzn-aws-grew-39-173722876.html?.tsrc=rss",
+      "company": "亚马逊",
+      "company_en": "Amazon",
+      "ticker": "AMZN",
+      "section": "权重科技",
+      "tags": [
+        "财报"
+      ]
+    },
+    {
+      "id": "tech-20261109-013",
+      "title": "美光台湾工厂停产，产能规划受关注",
+      "summary": "美光台湾工厂停产引发市场对其产能规划的关注；存储芯片供应紧张背景下，任何产能扰动都可能放大价格波动，投资者正等待公司给出明确的复产时间表与影响评估。，后续产能恢复情况值得持续跟踪。",
+      "time": "03:06",
+      "date": "2026-11-09",
+      "outlet": "Yahoo Finance",
+      "first_party": false,
+      "url": "https://finance.yahoo.com/technology/articles/does-micron-technology-mu-taiwan-190626047.html?.tsrc=rss",
+      "company": "美光",
+      "company_en": "Micron Technology",
+      "ticker": "MU",
+      "section": "权重科技",
+      "tags": [
+        "突发"
+      ]
+    },
+    {
+      "id": "tech-20261109-014",
+      "title": "Meta推出Spaces，让用户与Muse智能体协作定制应用",
+      "summary": "Meta推出Spaces功能，让用户可与Muse智能体协作定制应用版本；这是Meta将AI助手从聊天工具推向生产力场景的新尝试，也与其智能体战略形成呼应，应用生态或随之扩展。",
+      "time": "02:44",
+      "date": "2026-11-07",
+      "outlet": "TechCrunch",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWThXdnB2TE9RM3M4SUQ2NTZhc1Y0SVBveGpsQm9ySU54VFFRTWJmVjdodEJYLWlmemwzeWlfdnlUcUdfU2JmUm1EdGFXRzdVZzNPcUpEV0dmVDhPRDVidzRZVzVkM1NnWi02NTMwekRRN01YLXZ4RmNYekpvSW54cUlPR2VIX2hJTW1kOGd5ZV9pUldRMExwTjE1dE5Ea0hYT0FhdnFR?oc=5",
+      "company": "Meta Platforms",
+      "company_en": "Meta Platforms",
+      "ticker": "META",
+      "section": "权重科技",
+      "tags": [
+        "新品发布"
+      ]
+    },
+    {
+      "id": "tech-20261109-015",
+      "title": "Meta暂停条款更新，维持现有规则不变",
+      "summary": "Meta暂停原定的条款更新，维持现有规则不变；此前拟议的调整曾引发用户与监管层面的关注，暂停决定显示公司在平台规则变动上趋于谨慎，后续动向仍需观察。，此次暂停也被视为平台治理趋于稳健的信号。",
+      "time": "20:15",
+      "date": "2026-11-06",
+      "outlet": "Reuters",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRDZFbmo0bmw0TmRIZWhWSXlWX2g0bWNUMF9zeWJ1MWp2dnVrb01ZUXJiZVJqMkFfbnl3UmdnS0dLT2k3azNnTzRob1NKemJQRndYeXhfV3NwQlBFMkFHREtVSGtJLVBEM3J1RmJlN0E0RnR3eGw4X3NobWZvVmJXb1lycUJ6UEVBU041Z3EtUEk4dzAtdjVEZTBmV3FIeWdrbTBiVE54Umg?oc=5",
+      "company": "Meta Platforms",
+      "company_en": "Meta Platforms",
+      "ticker": "META",
+      "section": "权重科技",
+      "tags": [
+        "监管政策"
+      ]
+    },
+    {
+      "id": "tech-20261109-016",
+      "title": "罗克韦尔利润增长并发布财年展望",
+      "summary": "罗克韦尔自动化利润增长，并发布新财年展望；工业自动化需求回暖为公司业绩提供支撑，管理层对订单与供应链的判断将是下一阶段的看点，自动化景气度备受关注。，北美与欧洲市场的订单变化值得留意。",
+      "time": "22:02",
+      "date": "2026-11-05",
+      "outlet": "WSJ",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNREplRnQySmdEWDJsRjFpT3FTY0dJeUI0VzVqbGJBQjJydWQ4VS1GWkkxYzhrS2ZIMmtZd0lvcmhpUFBJQUFxSmFyeFRVamFrWWxSRlg1SVFSMDFFVm4wVUEwSnoyYXA4S2NuSlNoeFpiT1NiVkhXdE9heWU1Vnh4STZHY0lKX1BqeEtvaDNaUHk1d2RoVDQ4cEN4RDhGYm9PakNWRzJpQmRPUQ?oc=5",
+      "company": "罗克韦尔",
+      "company_en": "Rockwell Automation",
+      "ticker": "ROK",
+      "section": "机器人",
+      "tags": [
+        "财报"
+      ]
+    },
+    {
+      "id": "tech-20261109-017",
+      "title": "阿斯麦10月下跌，订单节奏与估值受质疑",
+      "summary": "阿斯麦10月股价下跌，分析认为市场对其订单节奏与估值的担忧是主因；光刻机龙头的短期波动仍牵动整个半导体板块情绪，财报季的指引将是关键变量，投资者正等待管理层表态。",
+      "time": "05:30",
+      "date": "2026-11-09",
+      "outlet": "Yahoo Finance",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZXlUOGlTU0NidTJteW95YnhwS1dwODlaR3VSVkNUVm5hU3NHcFJhWDFIN3ZtWGpMNWIta3V3OU9zQmNkcjY0dmtnamNFeUIzWlhOSHdEeldRV0U0dHdfdHdCYW9zN0JuYzJjT1BvaTRoYmY2enJoLWdHMXR1YXB6bkJySmlrZU9QZGUzMFB5T19hUTZEUnQwSk9SWQ?oc=5",
+      "company": "阿斯麦",
+      "company_en": "ASML Holding",
+      "ticker": "ASML",
+      "section": "权重科技",
+      "tags": [
+        "股价异动"
+      ]
+    },
+    {
+      "id": "tech-20261109-018",
+      "title": "亚马逊Alexa新增100多项购物功能",
+      "summary": "亚马逊为Alexa新增100多项购物功能，强化语音助手在电商场景的变现能力；Alexa正从智能家居入口向购物助手延伸，语音购物的转化效果仍待观察，电商竞争正在加剧。",
+      "time": "05:10",
+      "date": "2026-11-09",
+      "outlet": "Yahoo Finance",
+      "first_party": false,
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-com-amzn-added-over-211017852.html?.tsrc=rss",
+      "company": "亚马逊",
+      "company_en": "Amazon",
+      "ticker": "AMZN",
+      "section": "权重科技",
+      "tags": [
+        "新品发布"
+      ]
+    },
+    {
+      "id": "tech-20261109-019",
+      "title": "特斯拉将于2027年停产Cybertruck，产能转向Cybercab",
+      "summary": "特斯拉计划2027年停产Cybertruck，将产能优先转向Cybercab；这一调整标志着公司重心从电动皮卡进一步转向自动驾驶出租车，皮卡业务的收缩幅度值得关注。",
+      "time": "20:09",
+      "date": "2026-11-08",
+      "outlet": "Yahoo Finance",
+      "first_party": false,
+      "url": "https://finance.yahoo.com/technology/ai/articles/tesla-tsla-end-cybertruck-production-120904526.html?.tsrc=rss",
+      "company": "特斯拉",
+      "company_en": "Tesla",
+      "ticker": "TSLA",
+      "section": "权重科技",
+      "tags": [
+        "突发"
+      ]
+    }
+  ],
+  "breaking": []
+}
