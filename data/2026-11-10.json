@@ -1,0 +1,481 @@
+{
+ "date": "2026-11-10",
+ "top10": [
+  {
+   "id": "tech-20261110-001",
+   "title": "英伟达股价因间谍风波与CEO调查下跌",
+   "summary": "英伟达股价在针对CEO黄仁勋的间谍风波与董事会调查消息下走低，市场担忧事件冲击管理层公信力。投资者正等待董事会调查的结论与公司进一步说明，短期波动或持续。事件仍在发酵，后续进展值得持续跟踪。",
+   "time": "05:44",
+   "date": "2026-11-10",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://finance.yahoo.com/m/2c1c8bc5-818d-357d-a3f9-2b7a4a511e1f/nvidia-stock-drops-on-spy.html?.tsrc=rss",
+   "company": "英伟达",
+   "company_en": "NVIDIA",
+   "ticker": "NVDA",
+   "section": "权重科技",
+   "tags": [
+    "高管变动",
+    "突发"
+   ]
+  },
+  {
+   "id": "tech-20261110-002",
+   "title": "Anthropic发布Mythos 5.2与Fable 5.2，速度提升三成",
+   "summary": "Anthropic发布新一代模型Mythos 5.2与Fable 5.2，称其最适合雄心勃勃的开放式技术工作，输出速度较5.1提升最高30%。定价同步下调两成，输入每百万token为8美元，输出为40美元。",
+   "time": "03:02",
+   "date": "2026-11-10",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261109/p38#a261109p38",
+   "company": "Anthropic",
+   "company_en": "Anthropic",
+   "ticker": null,
+   "section": "AI前沿",
+   "tags": [
+    "AI 模型",
+    "新品发布"
+   ]
+  },
+  {
+   "id": "tech-20261110-003",
+   "title": "AMD大涨约13%，谷歌云合作点燃AI芯片行情",
+   "summary": "AMD股价大涨约13%，谷歌云合作叠加华尔街上调评级，共同点燃AI芯片交易热情。市场重新评估AMD在AI加速器市场的份额前景，订单兑现与产能爬坡成为后续关键。AI芯片板块轮动加速，龙头格局或生变。",
+   "time": "05:39",
+   "date": "2026-11-10",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://finance.yahoo.com/m/544d9f43-0b7f-3c42-b942-64d1474d8198/amd-stock-rises-on-google.html?.tsrc=rss",
+   "company": "超威半导体",
+   "company_en": "Advanced Micro Devices",
+   "ticker": "AMD",
+   "section": "权重科技",
+   "tags": [
+    "股价异动",
+    "战略合作"
+   ]
+  },
+  {
+   "id": "tech-20261110-004",
+   "title": "Meta发布最轻量模型Muse Ember，主打智能体执行",
+   "summary": "Meta发布迄今最小、最具成本效益的AI模型Muse Ember，定位智能体执行场景，称其单位成本智能高于同类轻量模型。轻量模型竞赛升温，推理成本成为各家争夺企业客户的新战场。",
+   "time": "02:15",
+   "date": "2026-11-10",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261109/p35#a261109p35",
+   "company": "Meta Platforms",
+   "company_en": "Meta Platforms",
+   "ticker": "META",
+   "section": "权重科技",
+   "tags": [
+    "AI 模型",
+    "新品发布"
+   ]
+  },
+  {
+   "id": "tech-20261110-005",
+   "title": "特斯拉与SpaceX合并传闻发酵，知名投资者警告溢价风险",
+   "summary": "特斯拉与SpaceX合并的传闻持续发酵，投资者Gary Black警告全股票交易约24%的溢价可能迅速转负。马斯克或借合并扩大控制权，市场关注交易结构、估值与股东利益如何平衡。",
+   "time": "06:30",
+   "date": "2026-11-09",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-bulls-could-burned-gary-223005762.html?.tsrc=rss",
+   "company": "特斯拉",
+   "company_en": "Tesla",
+   "ticker": "TSLA",
+   "section": "权重科技",
+   "tags": [
+    "并购",
+    "股价异动"
+   ]
+  },
+  {
+   "id": "tech-20261110-006",
+   "title": "迪士尼与Adobe签多年协议，共建艺术家主导的生成式AI",
+   "summary": "迪士尼与Adobe签署多年协议，将基于Adobe Firefly Foundry共建艺术家主导的专有生成式AI模型，服务迪士尼制作流程。好莱坞与AI工具商的深度绑定再进一步，版权与创作主导权仍是焦点。",
+   "time": "23:50",
+   "date": "2026-11-09",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261109/p29#a261109p29",
+   "company": "奥多比",
+   "company_en": "Adobe",
+   "ticker": "ADBE",
+   "section": "软件云AI",
+   "tags": [
+    "战略合作",
+    "AI 模型"
+   ]
+  },
+  {
+   "id": "tech-20261110-007",
+   "title": "Alphabet向高通投资5.48亿美元，加码数据中心",
+   "summary": "Alphabet向合作伙伴高通投资5.48亿美元，押注数据中心业务。双方在芯片领域的合作深化，高通借此加速数据中心市场布局，谷歌则为AI算力供应链再添一环。交易细节与后续合作值得持续关注。",
+   "time": "00:44",
+   "date": "2026-11-07",
+   "outlet": "Reuters",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZXlYcFdWcV9JU25ST013NGFEdWszTUFKS0xKNG5vYVhnVm1fbHFoa2lUWk16RGhqMmVXdzFkQ0NwRGcwaTdSdl82VjdUZWREdnhJZ1VIYXJUQzdWbVJCUTlySUJHVFFzc0M1QlNieFRSTU81bkF2MWpfbUlWQUxnUEhsUzdnUlBwRGo1a0hPcWh3VkFmYnJOX3E2UnE?oc=5",
+   "company": "高通",
+   "company_en": "Qualcomm",
+   "ticker": "QCOM",
+   "section": "芯片半导体",
+   "tags": [
+    "战略合作"
+   ]
+  },
+  {
+   "id": "tech-20261110-008",
+   "title": "特斯拉中国整体销量涨10%，本土销量却跌至四年低点",
+   "summary": "特斯拉中国整体销量同比增长10%，但中国本土销量跌至四年低点，Robotaxi同时拓展至新市场。海外与本土表现分化，投资者关注需求走势与价格策略能否稳住基本盘。",
+   "time": "05:12",
+   "date": "2026-11-10",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://finance.yahoo.com/m/2ae36c92-8967-3edc-b819-36aaec68c362/overall-tesla-china-sales.html?.tsrc=rss",
+   "company": "特斯拉",
+   "company_en": "Tesla",
+   "ticker": "TSLA",
+   "section": "权重科技",
+   "tags": [
+    "新品发布"
+   ]
+  },
+  {
+   "id": "tech-20261110-009",
+   "title": "Meta扩大Instagram青少年AI年龄核查，诉讼压力下加码合规",
+   "summary": "Meta扩大Instagram青少年账号的AI年龄核查范围，在多起诉讼压力下加码合规。平台如何平衡未成年人保护与隐私争议，将成为监管机构与法院持续审视的焦点。青少年保护已成为平台监管的核心议题之一。",
+   "time": "23:20",
+   "date": "2026-11-09",
+   "outlet": "Reuters",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcEh1SWhQYVpodTlET20tR1AyNUVzQmdZTzNpclljYmdIT21OTXpiNHVOQUE1RFdaUkdydnpkOWp6Z0xONUluTkpzR0ZXbk9ld24zZlpQekhFakdPYy1DU2NJVUhpdnBRRTlRY1FOeUdOdElRMFo5dmxzQW8tMnY0MFpwN080NjFRbXgzODBudmU0MldDU1g0OGhqVFV4SWMyR1JNRFREUGd2MWJjR09R?oc=5",
+   "company": "Meta Platforms",
+   "company_en": "Meta Platforms",
+   "ticker": "META",
+   "section": "权重科技",
+   "tags": [
+    "监管政策"
+   ]
+  },
+  {
+   "id": "tech-20261110-010",
+   "title": "苹果在AI定价上做出重大调整，打开新收入空间",
+   "summary": "苹果在AI定价上做出重大调整，被视为新的收入增长机会。市场关注其AI服务的变现路径，定价策略或影响后续产品组合与毛利率，订阅与服务收入比重有望继续提升。AI变现竞赛进入新阶段，各家打法分化明显。",
+   "time": "02:57",
+   "date": "2026-11-10",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://finance.yahoo.com/technology/ai/articles/apple-makes-major-ai-pricing-185711619.html?.tsrc=rss",
+   "company": "苹果",
+   "company_en": "Apple",
+   "ticker": "AAPL",
+   "section": "权重科技",
+   "tags": [
+    "新品发布",
+    "AI 模型"
+   ]
+  }
+ ],
+ "company_news": [
+  {
+   "id": "tech-20261110-011",
+   "title": "美商务部对疑似走私英伟达芯片案调查移交司法部",
+   "summary": "消息称美国商务部对Megaspeed涉嫌向中国走私英伟达芯片的调查，在英伟达介入后已移交司法部。芯片出口管制执法升级，相关供应链合规风险再度受到市场关注。出口管制与技术封锁的博弈仍在升级。",
+   "time": "00:20",
+   "date": "2026-11-10",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261109/p32#a261109p32",
+   "company": "英伟达",
+   "company_en": "NVIDIA",
+   "ticker": "NVDA",
+   "section": "权重科技",
+   "tags": [
+    "监管政策",
+    "突发"
+   ]
+  },
+  {
+   "id": "tech-20261110-012",
+   "title": "伦理学家呼吁黄仁勋暂时停职，英伟达董事会压力加大",
+   "summary": "公司治理伦理学家呼吁英伟达让黄仁勋暂时停职，等待董事会调查结果。事件已从个人问题演变为治理议题，董事会如何处理将直接影响投资者对公司治理的信心。董事会表态将成为市场情绪的下一个风向标。",
+   "time": "05:31",
+   "date": "2026-11-10",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://www.axios.com/2026/11/09/jensen-huang-nvidia-ceo-chinese-spy#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI?.tsrc=rss",
+   "company": "英伟达",
+   "company_en": "NVIDIA",
+   "ticker": "NVDA",
+   "section": "权重科技",
+   "tags": [
+    "高管变动",
+    "突发"
+   ]
+  },
+  {
+   "id": "tech-20261110-013",
+   "title": "英伟达Q3财报前抛售被指过度，分析师看好反弹",
+   "summary": "英伟达在Q3财报前遭遇抛售，分析师认为卖压过度，基本面并未恶化。财报将成为验证AI需求成色的关键节点，市场等待管理层对数据中心订单的最新表态。财报季的波动或为长期投资者提供窗口。",
+   "time": "05:17",
+   "date": "2026-11-10",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeWN5Z2x5X2JDbzByamwwRjJCM0pLMmJ3bTdLaVRCVTFPTEg2bWhSelJZRW5qcVk0eVY1QnB4RlFFbTJFNXZMOVB4cUhuelY4UlNDOHJlUjdSUlh1UWxHanZFSzFhTG9lTXZVNHZjVjVKR0k2eGVHcGNNdTNoOGJmcjY5UlI5R1VqdzhfSHlwbVVrZ18tQ3c?oc=5",
+   "company": "英伟达",
+   "company_en": "NVIDIA",
+   "ticker": "NVDA",
+   "section": "权重科技",
+   "tags": [
+    "股价异动",
+    "财报"
+   ]
+  },
+  {
+   "id": "tech-20261110-014",
+   "title": "AMD被视为英伟达风波的短期受益者",
+   "summary": "分析认为AMD有望成为英伟达领导层不确定性的短期受益者，资金正重新评估两家在AI加速器市场的相对位置。能否把情绪转化为订单，仍取决于AMD的交付能力。板块内的资金轮动值得继续观察。",
+   "time": "05:09",
+   "date": "2026-11-10",
+   "outlet": "Yahoo Finance Singapore",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZVE0eVJ3bGd6eFliYVo4N3A5RWdscmptTWozWWp3aVNSM2FZS3V3OUlIWE1wUE8yQzlRaHhLVURoWFk2dzNRV1JMT3R3WklsbE4xV1JKTXM4LW81dzZseFFaelo2MVFhSjR6blBBOXd3bTlGdU1kOE5pMXZybmVwcnJnUjgxbWxJVmhaMA?oc=5",
+   "company": "超威半导体",
+   "company_en": "Advanced Micro Devices",
+   "ticker": "AMD",
+   "section": "权重科技",
+   "tags": [
+    "股价异动"
+   ]
+  },
+  {
+   "id": "tech-20261110-015",
+   "title": "亚德诺完成收购Alif半导体，加码边缘AI",
+   "summary": "亚德诺宣布完成对Alif半导体的收购，强化边缘AI布局。交易将补强其低功耗AI芯片能力，服务工业与物联网终端的智能化需求，整合进展值得跟踪。边缘AI正成为模拟芯片厂商的新增长点。",
+   "time": "15:47",
+   "date": "2026-11-06",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://finance.yahoo.com/technology/articles/analog-devices-completes-acquisition-alif-074700816.html?.tsrc=rss",
+   "company": "亚德诺",
+   "company_en": "Analog Devices",
+   "ticker": "ADI",
+   "section": "芯片半导体",
+   "tags": [
+    "并购"
+   ]
+  },
+  {
+   "id": "tech-20261110-016",
+   "title": "思科Q1财报前瞻：AI贸易担忧下的预期",
+   "summary": "思科即将公布Q1财报，分析师关注其在AI贸易担忧下的订单与指引。网络设备需求与AI基础设施支出的关联度，成为判断思科能否延续增长的关键。财报后的指引将决定股价的下一步方向。",
+   "time": "04:47",
+   "date": "2026-11-10",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-q1-earnings-analysts-expect-204703273.html?.tsrc=rss",
+   "company": "思科",
+   "company_en": "Cisco Systems",
+   "ticker": "CSCO",
+   "section": "权重科技",
+   "tags": [
+    "财报"
+   ]
+  },
+  {
+   "id": "tech-20261110-017",
+   "title": "思科推出前沿AI红队与智能体可观测工具",
+   "summary": "思科推出前沿AI红队测试与智能体可观测性方案，瞄准智能体时代的企业安全需求。随着AI智能体进入核心业务，安全与可观测工具正成为新的采购重点。企业AI安全预算有望随智能体普及而上升。",
+   "time": "04:00",
+   "date": "2026-11-10",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://finance.yahoo.com/technology/ai/articles/cisco-unveils-frontier-ai-red-200000973.html?.tsrc=rss",
+   "company": "思科",
+   "company_en": "Cisco Systems",
+   "ticker": "CSCO",
+   "section": "权重科技",
+   "tags": [
+    "新品发布",
+    "AI 模型"
+   ]
+  },
+  {
+   "id": "tech-20261110-018",
+   "title": "帕兰提尔涨约6%，前参议员出任顾问",
+   "summary": "帕兰提尔股价上涨约6%，前参议员Jon Tester加入担任顾问。公司在政府业务上的布局继续深化，投资者关注其商业化订单能否延续高增长。政府订单与商业化进展仍是估值锚点。",
+   "time": "02:38",
+   "date": "2026-11-10",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-stocks-rise-5-96-183823596.html?.tsrc=rss",
+   "company": "帕兰提尔",
+   "company_en": "Palantir Technologies",
+   "ticker": "PLTR",
+   "section": "软件云AI",
+   "tags": [
+    "股价异动",
+    "高管变动"
+   ]
+  },
+  {
+   "id": "tech-20261110-019",
+   "title": "特斯拉确认Cybertruck德州工厂停产，为Cybercab让路",
+   "summary": "马斯克确认Cybertruck在德州工厂停产，为Cybercab生产腾出空间。特斯拉正把资源集中到无人驾驶出租车业务，Cybertruck的定位调整引发市场对产品策略的讨论。",
+   "time": "03:00",
+   "date": "2026-11-10",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-confirms-cybertruck-production-190005620.html?.tsrc=rss",
+   "company": "特斯拉",
+   "company_en": "Tesla",
+   "ticker": "TSLA",
+   "section": "权重科技",
+   "tags": [
+    "新品发布"
+   ]
+  },
+  {
+   "id": "tech-20261110-020",
+   "title": "Alphabet旗下Wing押注1.25亿美元扩产无人机配送",
+   "summary": "Alphabet旗下无人机配送业务Wing投入1.25亿美元扩大制造，押注无人机配送规模化。随着监管逐步放开与成本下降，低空配送正从试点走向商业化竞争。无人机配送的商业化拐点正在临近。",
+   "time": "04:05",
+   "date": "2026-11-10",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://www.axios.com/2026/11/09/alphabets-wing-makes-125-million-manufacturing-bet-on-drone-delivery#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI?.tsrc=rss",
+   "company": "Alphabet",
+   "company_en": "Alphabet",
+   "ticker": "GOOGL",
+   "section": "权重科技",
+   "tags": [
+    "战略合作",
+    "新品发布"
+   ]
+  },
+  {
+   "id": "tech-20261110-021",
+   "title": "谷歌推进新一代AI芯片，寻求打开市场缺口",
+   "summary": "谷歌正推进新一代AI芯片，寻求在英伟达主导的市场中打开缺口。自研芯片与云服务的协同成为谷歌AI战略的重要支点，合作伙伴格局也随之生变。自研芯片成败将影响谷歌的AI成本曲线。",
+   "time": "02:28",
+   "date": "2026-11-10",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://finance.yahoo.com/m/aa83a388-03db-3261-b9cb-d78a2ee4f35f/google-pushes-new-ai-chips..html?.tsrc=rss",
+   "company": "Alphabet",
+   "company_en": "Alphabet",
+   "ticker": "GOOGL",
+   "section": "权重科技",
+   "tags": [
+    "AI 模型",
+    "新品发布"
+   ]
+  },
+  {
+   "id": "tech-20261110-022",
+   "title": "Anthropic押注34亿美元电力布局，应对算力能耗",
+   "summary": "Anthropic押注34亿美元布局电力供应，应对AI算力增长带来的能耗压力。电力正成为AI竞赛的新瓶颈，模型厂商纷纷锁定长期能源与数据中心资源。能源供给已成AI基础设施竞争的新维度。",
+   "time": "02:40",
+   "date": "2026-11-10",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-makes-3-4-billion-184024502.html?.tsrc=rss",
+   "company": "Anthropic",
+   "company_en": "Anthropic",
+   "ticker": null,
+   "section": "AI前沿",
+   "tags": [
+    "战略合作"
+   ]
+  },
+  {
+   "id": "tech-20261110-023",
+   "title": "软银移动业务为美国AI回调做准备",
+   "summary": "软银移动业务正为美国可能出现的AI回调做准备，显示投资者对AI估值的分歧加大。市场在乐观与谨慎之间摇摆，龙头公司的资本开支节奏成为风向标。高估值下的回调担忧短期难以消散。",
+   "time": "17:12",
+   "date": "2026-11-09",
+   "outlet": "Bloomberg.com",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSXk4bVV6Q0Q0M3k0SFhNMlN6QThoMkc5OFlEYkE3NklVcVJqWUJLeVVtYkUwRnpUQjBZTFhxTVhqV2o3U1J5LWVWN3ZRZ01VdWpjWFozLXdlYllmV1ZpcnowWTV4ZklpV0IyMWhvOWIxOHhkaWptVTdpcnhRbTlOZUtHRG1UNThBM0R3TmxuS3U2RkdsRk5KN2lFb0M3elM3eXdoZmIxUEFDOFZvWmRFb1lR?oc=5",
+   "company": "安谋",
+   "company_en": "Arm Holdings",
+   "ticker": "ARM",
+   "section": "芯片半导体",
+   "tags": [
+    "股价异动"
+   ]
+  },
+  {
+   "id": "tech-20261110-024",
+   "title": "泰瑞达宣布季度现金分红",
+   "summary": "泰瑞达宣布季度现金分红，延续股东回报政策。半导体测试设备需求与AI芯片产能扩张挂钩，分红信号显示公司对现金流的信心。稳健分红反映出公司对经营现金流的底气。分红政策稳定，股东回报可期。",
+   "time": "05:07",
+   "date": "2026-11-10",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://finance.yahoo.com/markets/stocks/articles/teradyne-declares-quarterly-cash-dividend-210700711.html?.tsrc=rss",
+   "company": "泰瑞达",
+   "company_en": "Teradyne",
+   "ticker": "TER",
+   "section": "芯片半导体",
+   "tags": [
+    "财报"
+   ]
+  },
+  {
+   "id": "tech-20261110-025",
+   "title": "美满电子三年股价涨166%后仍被指低估",
+   "summary": "美满电子股价三年累计上涨166%，仍有分析认为其估值偏低。定制芯片与数据中心业务是看多主线，但前期涨幅已高，波动风险不容忽视。定制芯片赛道的竞争正在加剧。估值与增长的再平衡仍在进行中。",
+   "time": "03:16",
+   "date": "2026-11-10",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-mrvl-stock-looks-undervalued-191647901.html?.tsrc=rss",
+   "company": "美满电子",
+   "company_en": "Marvell Technology",
+   "ticker": "MRVL",
+   "section": "芯片半导体",
+   "tags": [
+    "股价异动"
+   ]
+  },
+  {
+   "id": "tech-20261110-026",
+   "title": "德州仪器推出工厂自动化与工业物联网新品",
+   "summary": "德州仪器推出面向工厂自动化与工业物联网的新品，强化模拟与嵌入式芯片组合。工业需求复苏节奏仍是关键变量，新品放量有待订单验证。工业芯片复苏仍需等待需求端确认。新品能否放量，取决于下游订单恢复力度。",
+   "time": "04:07",
+   "date": "2026-11-10",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://finance.yahoo.com/technology/ai/articles/texas-instruments-txn-launching-factory-200707208.html?.tsrc=rss",
+   "company": "德州仪器",
+   "company_en": "Texas Instruments",
+   "ticker": "TXN",
+   "section": "芯片半导体",
+   "tags": [
+    "新品发布"
+   ]
+  },
+  {
+   "id": "tech-20261110-027",
+   "title": "Meta发债折射科技债新现实",
+   "summary": "Meta的债券发行折射出科技债的新现实，大规模AI投入推高融资需求。市场关注科技巨头的杠杆水平与现金流能否支撑持续的资本开支。AI资本开支的可持续性成为新的市场焦点。",
+   "time": "04:00",
+   "date": "2026-11-08",
+   "outlet": "Bloomberg.com",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN0h6NGhPQzBpZTdwV29ra0U5UUhycGhPb3FHT3JvUksyYTZFZjVPbVpBdURxeVMxM2dxS0Z1Y21XbVctWVY5Q3ltR09IOG9tNUdSMXZ5eUFHYUpaaWpaVGZoQzFvVnZOdUhEclJKVENTbVpNeFMwbC1pV1ppa3JhWjZMQzEtWkQ4UGlVWXJENXNWRGNEVEotZjBnMnJ6WFJzQWFTcnI1Wi1WZzAwXzRUdy1YMA?oc=5",
+   "company": "Meta Platforms",
+   "company_en": "Meta Platforms",
+   "ticker": "META",
+   "section": "权重科技",
+   "tags": [
+    "融资"
+   ]
+  }
+ ],
+ "breaking": []
+}
