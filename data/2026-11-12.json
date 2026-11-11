@@ -1,0 +1,450 @@
+{
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T06:28:06+08:00",
+  "top10": [
+    {
+      "id": "tech-20261112-001",
+      "title": "特斯拉组建特别委员会评估可能的全股票合并",
+      "summary": "特斯拉已成立特别委员会，评估一桩可能的全股票合并交易。委员会的设立意味着相关交易进入正式审议阶段，但合并对象与具体条款尚未披露；若交易落地，将成为科技行业近年最大规模的整合之一，市场正等待公司进一步说明。",
+      "time": "02:11",
+      "date": "2026-11-12",
+      "outlet": "Yahoo Finance",
+      "first_party": false,
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-forms-special-committee-181131688.html?.tsrc=rss",
+      "company": "特斯拉",
+      "company_en": "Tesla",
+      "ticker": "TSLA",
+      "section": "权重科技",
+      "tags": [
+        "并购"
+      ],
+      "title_en": "",
+      "text_en": ""
+    },
+    {
+      "id": "tech-20261112-002",
+      "title": "Anthropic新主张冲击英伟达CUDA护城河",
+      "summary": "Anthropic提出的新主张引发市场讨论，认为英伟达长期依赖的CUDA生态护城河可能面临挑战。分析指出，模型层面的变化若持续发酵，或将改写AI算力竞争格局，英伟达的生态优势成为焦点。",
+      "time": "05:43",
+      "date": "2026-11-12",
+      "outlet": "Yahoo Finance",
+      "first_party": false,
+      "url": "https://finance.yahoo.com/video/anthropics-mythos-claim-may-put-nvidias-cuda-moat-in-a-vulnerable-spot-214346380.html?.tsrc=rss",
+      "company": "Anthropic",
+      "company_en": "Anthropic",
+      "ticker": null,
+      "section": "AI前沿",
+      "tags": [
+        "AI 模型"
+      ],
+      "title_en": "",
+      "text_en": ""
+    },
+    {
+      "id": "tech-20261112-003",
+      "title": "英伟达遭下调至持有评级，目标价腰斩至200美元",
+      "summary": "有顶级分析师将英伟达评级下调至持有，目标价直接腰斩至200美元。不过英伟达股价当日仍跟随AI板块反弹，显示市场对这份看空报告分歧明显，财报前的多空博弈正在加剧。",
+      "time": "05:17",
+      "date": "2026-11-12",
+      "outlet": "Yahoo Finance",
+      "first_party": false,
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-nvidia-stock-downgraded-hold-211754136.html?.tsrc=rss",
+      "company": "英伟达",
+      "company_en": "NVIDIA",
+      "ticker": "NVDA",
+      "section": "权重科技",
+      "tags": [
+        "股价异动"
+      ],
+      "title_en": "",
+      "text_en": ""
+    },
+    {
+      "id": "tech-20261112-004",
+      "title": "Meta基建负责人将于2027年初离职",
+      "summary": "Meta长期担任基建与工程负责人的桑托什·贾纳丹计划于2027年初离职，戴夫·布朗将接任基建负责人。在AI算力投入持续加码之际，核心基建掌舵者换人，Meta数据中心与算力布局的连续性受到关注。",
+      "time": "02:33",
+      "date": "2026-11-12",
+      "outlet": "Reuters",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORXJEeF82djRSOW5XTTdlVThvUVpDRGxwRUtOdHZfREI1LTZIc1J1VEFLVWYtejJST0tQcVJwTzN4OFN1Nkh0eEtnNExhXzNfR3NCU2hfS0pLRmRUdk5hczVRblRIQXlTUmdFTm9URlVkUUE5c3dzT1k2N1pib1lsU0NhT0J3a2ZpbV9XOEs2RDQxUE1DQjgwMzVxT29qeFJNbFFzeDBmb1JIUWF1NWc?oc=5",
+      "company": "Meta Platforms",
+      "company_en": "Meta Platforms",
+      "ticker": "META",
+      "section": "权重科技",
+      "tags": [
+        "高管变动"
+      ],
+      "title_en": "",
+      "text_en": ""
+    },
+    {
+      "id": "tech-20261112-005",
+      "title": "谷歌发布Gemini决策API与Decision 1模型",
+      "summary": "谷歌推出Gemini Decisions API，由新的Gemini Decision 1模型驱动，可返回预设答案并附置信度评分。输入定价为每百万token 0.10美元，面向需要确定性输出的企业场景，AI正从聊天助手走向结构化决策工具。",
+      "time": "03:05",
+      "date": "2026-11-12",
+      "outlet": "Techmeme",
+      "first_party": false,
+      "url": "https://www.techmeme.com/261111/p40#a261111p40",
+      "company": "Alphabet",
+      "company_en": "Alphabet",
+      "ticker": "GOOGL",
+      "section": "权重科技",
+      "tags": [
+        "AI 模型",
+        "新品发布"
+      ],
+      "title_en": "",
+      "text_en": ""
+    },
+    {
+      "id": "tech-20261112-006",
+      "title": "AWS发布免费本地仿真工具，200多项服务可离线模拟",
+      "summary": "AWS推出免费工具AWS Emulator，可在本地模拟200多项云服务。亚马逊称该工具由AI智能体编写，团队未曾编写或审查任何代码，这一说法本身也成为话题，折射出AI写代码正在进入生产环节。",
+      "time": "04:25",
+      "date": "2026-11-12",
+      "outlet": "Techmeme",
+      "first_party": false,
+      "url": "https://www.techmeme.com/261111/p41#a261111p41",
+      "company": "亚马逊",
+      "company_en": "Amazon",
+      "ticker": "AMZN",
+      "section": "权重科技",
+      "tags": [
+        "新品发布"
+      ],
+      "title_en": "",
+      "text_en": ""
+    },
+    {
+      "id": "tech-20261112-007",
+      "title": "DeepMind发布AlphaGenome 2，覆盖上亿细胞图谱",
+      "summary": "谷歌DeepMind发布AlphaGenome 2，该模型基于超过1亿份细胞图谱、覆盖68种组织训练，可预测基因变异的影响。模型面向非商业研究开放，为基因组学研究提供了新的AI工具。",
+      "time": "23:10",
+      "date": "2026-11-11",
+      "outlet": "Techmeme",
+      "first_party": false,
+      "url": "https://www.techmeme.com/261111/p32#a261111p32",
+      "company": "Alphabet",
+      "company_en": "Alphabet",
+      "ticker": "GOOGL",
+      "section": "权重科技",
+      "tags": [
+        "AI 模型",
+        "新品发布"
+      ],
+      "title_en": "",
+      "text_en": ""
+    },
+    {
+      "id": "tech-20261112-008",
+      "title": "OpenAI收购冲击旅游股，Airbnb领跌",
+      "summary": "OpenAI的一笔收购引发市场对AI冲击旅游行业的担忧，Airbnb等旅游股应声下跌。投资者担心AI助手直接介入行程规划与预订，将改写在线旅游的流量入口，传统平台的护城河面临考验。",
+      "time": "02:01",
+      "date": "2026-11-12",
+      "outlet": "Yahoo Finance",
+      "first_party": false,
+      "url": "https://finance.yahoo.com/m/c4858008-67d3-3265-bf27-e4a80959541c/airbnb-and-travel-stocks-fall.html?.tsrc=rss",
+      "company": "OpenAI",
+      "company_en": "OpenAI",
+      "ticker": null,
+      "section": "AI前沿",
+      "tags": [
+        "并购",
+        "突发"
+      ],
+      "title_en": "",
+      "text_en": ""
+    },
+    {
+      "id": "tech-20261112-009",
+      "title": "软银与ABB重启谈判，谋求剥离中国业务挽救机器人交易",
+      "summary": "在中国方面叫停收购后，软银与ABB重新展开谈判，探讨通过剥离中国业务来挽救机器人业务交易。双方正寻求各方都能接受的方案，这笔交易的走向也成为观察跨境并购监管风向的窗口。",
+      "time": "01:17",
+      "date": "2026-11-11",
+      "outlet": "Manufacturing Dive",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQWdDTWJSYldoWDlBSWpmd1EyczhLd0hTNzBlSlBLOS1DR3ZHdGNSRFREOW1ZZWo2cW8ydnRUS2haTVZFRnVBTWhSYUduUWxuTk1TN25IOVVFWjgzVTEwNGc3VWhVX2pQTTlLZ2xoRFMyblR0OEloWW13MkhQanhUTkhlRlZOVXBWdGhmelRNQ3dkTWhkSm9VMFpPMklLYXNvdWE2bHpIVlk5R19QaFAwUmRIdHRyd0JoYlBJOWtJcw?oc=5",
+      "company": "ABB",
+      "company_en": "ABB Ltd",
+      "ticker": "ABB",
+      "section": "机器人",
+      "tags": [
+        "并购"
+      ],
+      "title_en": "",
+      "text_en": ""
+    },
+    {
+      "id": "tech-20261112-010",
+      "title": "Anthropic招股书关键数字曝光，市场热议不断",
+      "summary": "Anthropic的IPO招股书披露了一系列关键数字，引发市场热议。作为最受关注的AI独角兽之一，其财务数据与增长成色将成为检验AI热潮的重要标尺，上市进程的一举一动都牵动投资者神经。",
+      "time": "04:32",
+      "date": "2026-11-12",
+      "outlet": "Yahoo Finance",
+      "first_party": false,
+      "url": "https://finance.yahoo.com/m/40e7f0a4-3aa4-386d-be14-5d08d2f6ba9f/anthropic%E2%80%99s-ipo-prospectus-by.html?.tsrc=rss",
+      "company": "Anthropic",
+      "company_en": "Anthropic",
+      "ticker": null,
+      "section": "AI前沿",
+      "tags": [
+        "融资"
+      ],
+      "title_en": "",
+      "text_en": ""
+    }
+  ],
+  "company_news": [
+    {
+      "id": "tech-20261112-011",
+      "title": "芬兰放行特斯拉辅助驾驶技术",
+      "summary": "芬兰监管部门在特斯拉作出调整后，放行了其辅助驾驶技术。这一决定为特斯拉辅助驾驶系统在欧洲市场的推广扫清障碍，也为其他国家监管机构的类似审批提供了参考，欧洲对辅助驾驶的监管态度正在逐步明朗。",
+      "time": "14:53",
+      "date": "2026-11-11",
+      "outlet": "Reuters",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTlM5bTZEWktQbU9STjk1NE9iMjNpUVJaNUJXcVI1bUV3ZmxPN2p2NjQ0c2ZaQXdITlJkeDNCYkV2MjgwVjlaMjFYTnN6U2VGMHBJNDV3T1VTZ3IwTnVRcGtxdGR5djY3VldGVnVhOEg4YTI0dEUzbWJJVUFNeHZoa1RuZVphZnU3SGk4b3FPeEcxSjR1aGVsMUh5SExpNlZINVE?oc=5",
+      "company": "特斯拉",
+      "company_en": "Tesla",
+      "ticker": "TSLA",
+      "section": "权重科技",
+      "tags": [
+        "监管政策"
+      ],
+      "title_en": "",
+      "text_en": ""
+    },
+    {
+      "id": "tech-20261112-012",
+      "title": "巴西选举法院处罚Meta，未认定故意操纵选举",
+      "summary": "巴西选举法院对Meta处以罚款，但未认定其存在故意的选举偏见。裁决在处罚与定性之间划出界线，Meta在拉美最大市场的合规压力有所缓解，但监管审查仍在持续，此次裁决也被视为对平台责任边界的一次界定。",
+      "time": "21:23",
+      "date": "2026-11-11",
+      "outlet": "Reuters",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLWlqWlVLM3AwUmhNN3gwV3FfNVlFTGZuelVaT0JWNVVGazJfRDFQeUZlOFlzMDRzQkVaTFB0T1h5d3VMX1czc1RlMmVSSzhVaHlZLWdBX3M4eUxjX0hVUThEVWNBdFRCd0N0QUhvd05wT21hVEotTTloY1RLd1Y4Tkh5Y2NXd0NPbTR5SmF1NzJwM1YwSkJNLVI1b2YyY0NVTU5IaUxZV242VUU5V3ZfRnJzZ2wxYUtmemE0?oc=5",
+      "company": "Meta Platforms",
+      "company_en": "Meta Platforms",
+      "ticker": "META",
+      "section": "权重科技",
+      "tags": [
+        "诉讼"
+      ],
+      "title_en": "",
+      "text_en": ""
+    },
+    {
+      "id": "tech-20261112-013",
+      "title": "Meta等联手反对印尼AI版权法修订",
+      "summary": "Meta、TikTok与谷歌联手反对印尼拟议的AI版权法修订，认为相关条款将影响平台运营与AI训练。科技巨头罕见在版权议题上统一战线，东南亚数字版权规则的制定正成为新的博弈场。",
+      "time": "20:18",
+      "date": "2026-11-11",
+      "outlet": "Reuters",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeDZLSGp0MHRPWUgzVTNmZEhMLWR6Z2lvdmZiQzRzblJobjdGdlRMUmhHV1dzM3lUUHdocXNoMnp4bFZHOEZtUU41T3BGT0d0blpyYnViSDZ3bklQNG50bnRyVmtYTE0xZTdWc0dDODhrd1hIRXVKTXVWMWVqWVY1aEFLN040QzJRMW40QzJzTHVYMjNEVTRuZ0NEdFI3eS1EV05WWDdjZ3g4TldaRnBrd01GY0lKckRvOTFCRUc5QVBXb0d2WHFaMXdPWno?oc=5",
+      "company": "Meta Platforms",
+      "company_en": "Meta Platforms",
+      "ticker": "META",
+      "section": "权重科技",
+      "tags": [
+        "监管政策"
+      ],
+      "title_en": "",
+      "text_en": ""
+    },
+    {
+      "id": "tech-20261112-014",
+      "title": "Gemini语音助手登陆苹果CarPlay",
+      "summary": "谷歌将Gemini AI语音助手引入苹果CarPlay车机界面，驾驶者可在车内直接使用Gemini。两大巨头在车载场景的合作，标志着AI助手争夺汽车入口的竞争进入新阶段。",
+      "time": "04:13",
+      "date": "2026-11-12",
+      "outlet": "Yahoo Finance",
+      "first_party": false,
+      "url": "https://finance.yahoo.com/technology/ai/articles/google-rolls-gemini-ai-voice-201340171.html?.tsrc=rss",
+      "company": "Alphabet",
+      "company_en": "Alphabet",
+      "ticker": "GOOGL",
+      "section": "权重科技",
+      "tags": [
+        "新品发布"
+      ],
+      "title_en": "",
+      "text_en": ""
+    },
+    {
+      "id": "tech-20261112-015",
+      "title": "甲骨文股价获提振，AI布局成关注焦点",
+      "summary": "甲骨文股价获得提振，市场正密切关注这家科技巨头下一步的AI布局。随着云与AI基础设施投入加码，甲骨文能否在AI竞赛中分得更大份额，成为投资者评估其估值的关键，云业务与AI基建的增长能否持续将直接影响估值修复空间。",
+      "time": "05:36",
+      "date": "2026-11-12",
+      "outlet": "Yahoo Finance",
+      "first_party": false,
+      "url": "https://finance.yahoo.com/m/ec909e78-6496-310c-841e-5824d2474349/oracle-stock-gets-a-boost..html?.tsrc=rss",
+      "company": "甲骨文",
+      "company_en": "Oracle Corporation",
+      "ticker": "ORCL",
+      "section": "软件云AI",
+      "tags": [
+        "股价异动"
+      ],
+      "title_en": "",
+      "text_en": ""
+    },
+    {
+      "id": "tech-20261112-016",
+      "title": "AI交易遇冷，机构如何看待后市",
+      "summary": "AI交易近期遭遇波动，机构投资者开始重新评估这一轮AI行情的持续性。存储芯片等前期热门板块波动加剧，多空观点分歧明显，市场正在等待新的催化剂来确认AI投资逻辑是否依然成立。",
+      "time": "04:59",
+      "date": "2026-11-12",
+      "outlet": "Yahoo Finance",
+      "first_party": false,
+      "url": "https://finance.yahoo.com/m/d4fd80a6-5f46-368b-b717-b8f92d94e5e9/the-ai-trade-hits-turbulence..html?.tsrc=rss",
+      "company": "美光",
+      "company_en": "Micron Technology",
+      "ticker": "MU",
+      "section": "权重科技",
+      "tags": [
+        "股价异动"
+      ],
+      "title_en": "",
+      "text_en": ""
+    },
+    {
+      "id": "tech-20261112-017",
+      "title": "苹果股价被指进入2027年前估值偏高",
+      "summary": "有分析认为，苹果股价在进入2027年前已显得偏贵。尽管公司基本面稳健，但高估值意味着市场对未来增长的预期已相当充分，苹果能否拿出新的增长故事将决定股价走向，在缺乏新的增长引擎之前，高估值可能继续压制股价上行空间。",
+      "time": "05:15",
+      "date": "2026-11-12",
+      "outlet": "Yahoo Finance",
+      "first_party": false,
+      "url": "https://finance.yahoo.com/markets/stocks/articles/apple-shares-aapl-look-expensive-211500629.html?.tsrc=rss",
+      "company": "苹果",
+      "company_en": "Apple",
+      "ticker": "AAPL",
+      "section": "权重科技",
+      "tags": [
+        "股价异动"
+      ],
+      "title_en": "",
+      "text_en": ""
+    },
+    {
+      "id": "tech-20261112-018",
+      "title": "芯片股止跌反弹，英伟达与AMD领涨",
+      "summary": "芯片股在经历一轮下跌后集体反弹，英伟达、AMD与美光等领涨。AI需求的长期逻辑未变，但短期波动加剧，资金正在重新评估芯片板块的估值与增长前景，不过分析师提醒，波动过后仍需观察AI硬件订单的实际兑现情况。",
+      "time": "05:36",
+      "date": "2026-11-12",
+      "outlet": "Yahoo Finance",
+      "first_party": false,
+      "url": "https://finance.yahoo.com/m/84883771-24d1-36d3-b83b-c42cc62afe67/chip-stocks-rally-after.html?.tsrc=rss",
+      "company": "英伟达",
+      "company_en": "NVIDIA",
+      "ticker": "NVDA",
+      "section": "权重科技",
+      "tags": [
+        "股价异动"
+      ],
+      "title_en": "",
+      "text_en": ""
+    },
+    {
+      "id": "tech-20261112-019",
+      "title": "思科加码AI防御，布局智能安全新赛道",
+      "summary": "思科正在推进新的AI防御布局，试图将AI能力融入网络安全产品。随着AI攻击手段升级，企业安全需求快速增长，思科希望借AI防御在安全市场抢占更大份额，网络安全与AI的结合正在成为传统网络设备商转型的重要方向。",
+      "time": "04:08",
+      "date": "2026-11-12",
+      "outlet": "Yahoo Finance",
+      "first_party": false,
+      "url": "https://finance.yahoo.com/technology/ai/articles/cisco-systems-csco-building-ai-200812215.html?.tsrc=rss",
+      "company": "思科",
+      "company_en": "Cisco Systems",
+      "ticker": "CSCO",
+      "section": "权重科技",
+      "tags": [
+        "AI 模型",
+        "战略合作"
+      ],
+      "title_en": "",
+      "text_en": ""
+    },
+    {
+      "id": "tech-20261112-020",
+      "title": "亚马逊跌1.64%，Anthropic文件披露AWS票据转换",
+      "summary": "亚马逊股价下跌1.64%，起因是Anthropic提交的文件披露了AWS相关票据的转换细节。AI独角兽的融资文件牵动云巨头股价，显示出AI产业链上下游之间日益紧密的资本关联。",
+      "time": "03:10",
+      "date": "2026-11-12",
+      "outlet": "Yahoo Finance",
+      "first_party": false,
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-stocks-move-lower-1-191029536.html?.tsrc=rss",
+      "company": "亚马逊",
+      "company_en": "Amazon",
+      "ticker": "AMZN",
+      "section": "权重科技",
+      "tags": [
+        "股价异动"
+      ],
+      "title_en": "",
+      "text_en": ""
+    },
+    {
+      "id": "tech-20261112-021",
+      "title": "黄仁勋言论转向引关注，芯片出口管制成背景",
+      "summary": "一项梳理了黄仁勋自2022年以来42次采访的分析指出，在美国芯片出口管制之后，他的公开言论更推崇中国市场，也更批评出口规则。CEO的表态变化折射出芯片巨头在地缘夹缝中的处境。",
+      "time": "22:01",
+      "date": "2026-11-11",
+      "outlet": "Techmeme",
+      "first_party": false,
+      "url": "https://www.techmeme.com/261111/p28#a261111p28",
+      "company": "英伟达",
+      "company_en": "NVIDIA",
+      "ticker": "NVDA",
+      "section": "权重科技",
+      "tags": [
+        "监管政策"
+      ],
+      "title_en": "",
+      "text_en": ""
+    },
+    {
+      "id": "tech-20261112-022",
+      "title": "Meta Quest版Disney+上线3D电影",
+      "summary": "Meta Quest平台上的Disney+应用新增3D电影内容，VR观影体验进一步升级。流媒体与VR硬件的结合仍在探索之中，优质内容被视为推动头显普及的关键一环。",
+      "time": "06:00",
+      "date": "2026-11-11",
+      "outlet": "The Verge",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBhUkwteDJSanFzTWRNa1p3bHZPaUVIbkI1NWxnS2c4YkU3TmQyMXVyWV9qR2w2ZlJtblhNelhhWWVSc1lXZzQzMEJMMVoxQlBUemVHSF95RElDRk9JVG1PMjVTZzhDSEhBSzFNeFVKYnJnT0ZDUjJVWVRVRC1odw?oc=5",
+      "company": "Meta Platforms",
+      "company_en": "Meta Platforms",
+      "ticker": "META",
+      "section": "权重科技",
+      "tags": [
+        "新品发布"
+      ],
+      "title_en": "",
+      "text_en": ""
+    },
+    {
+      "id": "tech-20261112-023",
+      "title": "泰瑞达获买入评级大涨，被视为AI受益股",
+      "summary": "泰瑞达在获得新的买入评级后股价大幅上涨，被市场视为AI投资热潮的受益股。随着AI算力需求持续拉动芯片测试设备订单，半导体测试厂商正分享这一轮AI基建红利，测试设备作为AI算力链条的一环，订单景气度与芯片出货量直接挂钩。",
+      "time": "05:25",
+      "date": "2026-11-12",
+      "outlet": "Yahoo Finance",
+      "first_party": false,
+      "url": "https://finance.yahoo.com/m/6b377220-7cdf-3f3b-9aca-7e1dc8268833/teradyne-stock-surges-on.html?.tsrc=rss",
+      "company": "泰瑞达",
+      "company_en": "Teradyne",
+      "ticker": "TER",
+      "section": "芯片半导体",
+      "tags": [
+        "股价异动"
+      ],
+      "title_en": "",
+      "text_en": ""
+    }
+  ],
+  "breaking": []
+}
