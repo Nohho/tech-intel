@@ -1,0 +1,527 @@
+{
+ "date": "2026-11-13",
+ "generated_at": "2026-11-13T06:35:00+08:00",
+ "top10": [
+  {
+   "id": "tech-20261113-001",
+   "title": "黄仁勋因婚外情丑闻辞去英伟达CEO",
+   "summary": "据路透社消息，黄仁勋与一名员工存在亲密关系，另有两段婚外情被曝光，最终导致他辞去英伟达首席执行官职务。消息公布后英伟达股价应声下跌，公司董事会尚未公布继任人选，市场正等待进一步说明。",
+   "time": "03:46",
+   "date": "2026-11-13",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261112/p52#a261112p52",
+   "company": "英伟达",
+   "company_en": "NVIDIA",
+   "ticker": "NVDA",
+   "section": "权重科技",
+   "tags": [
+    "高管变动",
+    "突发"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261113-002",
+   "title": "特斯拉与SpaceX合并谈判取得进展，最早12月宣布",
+   "summary": "知情人士透露，特斯拉与SpaceX的合并谈判正在推进，双方最早可能在12月或2027年初宣布交易。若交易达成，将缔造史上规模最大的合并之一，马斯克旗下的电动车与航天业务将合为一体，市场正关注交易结构与监管审查前景。",
+   "time": "04:28",
+   "date": "2026-11-13",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261112/p53#a261112p53",
+   "company": "特斯拉",
+   "company_en": "Tesla",
+   "ticker": "TSLA",
+   "section": "权重科技",
+   "tags": [
+    "并购"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261113-003",
+   "title": "谷歌发布Gemini 4 Hydrogen，定价每百万输入token 1.5美元",
+   "summary": "谷歌发布新一代模型Gemini 4 Hydrogen，称其较Gemini 3.8 Flash有重大升级，上下文窗口达100万token，输入与输出定价分别为每百万token 1.5美元和7.5美元。现已面向AI Studio及付费用户开放。",
+   "time": "02:40",
+   "date": "2026-11-13",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261112/p46#a261112p46",
+   "company": "Alphabet",
+   "company_en": "Alphabet",
+   "ticker": "GOOGL",
+   "section": "权重科技",
+   "tags": [
+    "AI 模型",
+    "新品发布"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261113-004",
+   "title": "Anthropic IPO获约6倍超额认购，老股东优先配售",
+   "summary": "知情人士称，Anthropic的首次公开募股已获得约6倍超额认购，承销商已告知潜在投资者，现有股东将获得优先配售。市场对这家AI独角兽的热情持续升温，亚马逊与谷歌等早期投资者有望从中获益。",
+   "time": "05:20",
+   "date": "2026-11-13",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261112/p55#a261112p55",
+   "company": "Anthropic",
+   "company_en": "Anthropic",
+   "ticker": null,
+   "section": "AI前沿",
+   "tags": [
+    "融资"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261113-005",
+   "title": "思科上调全年营收预期，AI网络需求强劲",
+   "summary": "思科上调全年营收预期，因AI数据中心对网络设备的需求持续强劲。公司第一财季营收与利润均超出预期，AI网络业务增速创下逾15年新高，管理层对全年前景表示乐观，股价盘后上涨约4%。",
+   "time": "05:28",
+   "date": "2026-11-13",
+   "outlet": "Reuters",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcDgteG5IeXZjU1k1UDdhbFkyZlVCaHI1d0pPdGp2elFReVRRclN6dWhTM2NuSUk3cGdUSnRRU2c4aWpCcS14blFsN3hLTTNCSktQbXpTUVgxRjVJV1R1YldHdEVYMXJvVHg3TzJiOXhEM0owM08ySlI1bmNkMG5GQXhnQl9iVExNWlN1Z0ZweFk3YldGWDltNFpnekdDZWpVcTJ3QTFlUUxNWXlLX0NjLUhvTjRtNzlrYnlXdXJiTmc?oc=5",
+   "company": "思科",
+   "company_en": "Cisco Systems",
+   "ticker": "CSCO",
+   "section": "权重科技",
+   "tags": [
+    "财报"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261113-006",
+   "title": "微软365服务全球宕机，Outlook与Teams无法访问",
+   "summary": "微软365服务出现大面积故障，用户无法访问Outlook、Teams及Copilot等多项服务。微软表示，大量服务器意外不可用是故障原因，故障波及“任何地区”的用户，目前尚未公布恢复时间。",
+   "time": "03:45",
+   "date": "2026-11-13",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261112/p51#a261112p51",
+   "company": "微软",
+   "company_en": "Microsoft",
+   "ticker": "MSFT",
+   "section": "权重科技",
+   "tags": [
+    "突发"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261113-007",
+   "title": "美司法部称FBI正调查黄仁勋绯闻对象是否间谍",
+   "summary": "美国司法部长表示，司法部尚未就Alice Huang是否为中国间谍作出结论，联邦调查局“当然”正在调查此事。该调查与围绕英伟达CEO离职的间谍风波直接相关，事件已引发白宫层面的关注。",
+   "time": "05:25",
+   "date": "2026-11-13",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261112/p56#a261112p56",
+   "company": "英伟达",
+   "company_en": "NVIDIA",
+   "ticker": "NVDA",
+   "section": "权重科技",
+   "tags": [
+    "突发",
+    "监管政策"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261113-008",
+   "title": "AMD投资PsiQuantum，推进量子计算基础设施",
+   "summary": "AMD将投资量子计算公司PsiQuantum，推进量子计算基础设施建设。这笔投资显示AMD正把触角伸向下一代计算领域，在AI芯片竞争之外开辟新战场，合作细节有待进一步公布。",
+   "time": "21:04",
+   "date": "2026-11-12",
+   "outlet": "Reuters",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLXJUcldpZTFtcWRVLXIyb2hhMFNveERkU2N6TWl5STJ3S05yWUFxRkdTOXhqZlRVNm4wSXFaa0x2bGY1eUFxckctSVNfODd2MV9GeDNIZGN3aFQtT0RDQ3V0ZWZUaGZudHdyVHVHVE44QWZyMy16dW5FNk43U2FEeWFKVUN5M2d0Zzl6ZHJXRGNZQUhGcm1ncm9ESWtzcWdqTHVhQVFvbDNRWFE?oc=5",
+   "company": "超威半导体",
+   "company_en": "Advanced Micro Devices",
+   "ticker": "AMD",
+   "section": "权重科技",
+   "tags": [
+    "战略合作"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261113-009",
+   "title": "Cerebras三季度营收同比增70%，与微软达成合作",
+   "summary": "AI芯片公司Cerebras第三季度核心营收同比增长70%至2.309亿美元，高于分析师预期的2.147亿美元，并发布强劲业绩指引，同时宣布与微软达成合作。财报公布后公司股价盘后上涨逾15%。",
+   "time": "05:35",
+   "date": "2026-11-13",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261112/p57#a261112p57",
+   "company": "微软",
+   "company_en": "Microsoft",
+   "ticker": "MSFT",
+   "section": "权重科技",
+   "tags": [
+    "财报",
+    "战略合作"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261113-010",
+   "title": "黄仁勋辞职冲击市场，英伟达股价下跌约5%",
+   "summary": "英伟达股价在CEO黄仁勋辞职消息公布后下跌约5%，纳指同步走低。投资者担忧公司领导层突然更迭短期内将影响AI芯片业务的执行节奏，华尔街正重新评估这家AI龙头的前景。",
+   "time": "05:11",
+   "date": "2026-11-13",
+   "outlet": "WSJ",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQXzdoajdJLXc3MUJTYU9DWVVGZHlwamh3MUxkRWxRTEt4eXVaMnBzdXZpYXc4SWFoTmVQUF9sNEhhaHlzaFhFQ1dnMk1zblo5V1hqbDJ4M1d3ZmxZaTluZjhrUVNaT3k4OVZaMWtmX1FBWVIyOVlVM3BlRE9lM0RvYVZGVVFMYkE?oc=5",
+   "company": "英伟达",
+   "company_en": "NVIDIA",
+   "ticker": "NVDA",
+   "section": "权重科技",
+   "tags": [
+    "股价异动"
+   ],
+   "title_en": "",
+   "text_en": ""
+  }
+ ],
+ "company_news": [
+  {
+   "id": "tech-20261113-011",
+   "title": "白宫讨论是否撤换商务部长卢特尼克",
+   "summary": "知情人士称，白宫高级官员正在讨论是否在英伟达间谍丑闻发酵之际撤换商务部长卢特尼克。作为对华科技政策的关键执行者，卢特尼克的去留已成为风波的最新焦点，白宫尚未作出最终决定。",
+   "time": "03:20",
+   "date": "2026-11-13",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261112/p48#a261112p48",
+   "company": "英伟达",
+   "company_en": "NVIDIA",
+   "ticker": "NVDA",
+   "section": "权重科技",
+   "tags": [
+    "监管政策"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261113-012",
+   "title": "分析师称黄仁勋辞职是英伟达股价的“一次性出清事件”",
+   "summary": "有分析师认为，黄仁勋辞职对英伟达股价而言是一次“一次性出清事件”，利空已在短期内集中释放。尽管领导层更迭带来不确定性，分析师认为公司在AI芯片领域的基本面并未改变，市场正关注董事会接下来的继任安排。",
+   "time": "04:48",
+   "date": "2026-11-13",
+   "outlet": "Stocktwits",
+   "first_party": false,
+   "url": "https://stocktwits.com/news-articles/markets/equity/this-analyst-sees-huang-s-resignation-as-nvidia-ceo-as-a-one-time-clearing-event-for-stock-market/cNGCI1UR9O2?.tsrc=rss",
+   "company": "英伟达",
+   "company_en": "NVIDIA",
+   "ticker": "NVDA",
+   "section": "权重科技",
+   "tags": [
+    "股价异动"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261113-013",
+   "title": "黄仁勋绯闻对象被曝涉超微电脑走私调查",
+   "summary": "报道称，处于英伟达CEO婚外情风波中心的Alice Huang，正因涉嫌参与超微电脑芯片走私活动而接受调查。该指控将这场人事风波与芯片走私案联系起来，事件的调查范围正在扩大。",
+   "time": "05:47",
+   "date": "2026-11-13",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://finance.yahoo.com/technology/article/alleged-spy-at-center-of-nvidia-ceo-affair-reportedly-being-probed-over-super-micro-smuggling-effort-214712179.html?.tsrc=rss",
+   "company": "英伟达",
+   "company_en": "NVIDIA",
+   "ticker": "NVDA",
+   "section": "权重科技",
+   "tags": [
+    "突发"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261113-014",
+   "title": "失去黄仁勋的英伟达，股价将走向何方",
+   "summary": "英伟达一直是黄仁勋的公司，失去这位创始人后股价将走向何方成为华尔街的疑问。分析师指出，黄仁勋的个人愿景与执行力是公司崛起的关键，继任者能否延续AI战略，将决定英伟达能否守住行业龙头地位。",
+   "time": "04:39",
+   "date": "2026-11-13",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-always-jensen-huang-203922062.html?.tsrc=rss",
+   "company": "英伟达",
+   "company_en": "NVIDIA",
+   "ticker": "NVDA",
+   "section": "权重科技",
+   "tags": [
+    "股价异动"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261113-015",
+   "title": "散户逢低大举买入英伟达，历史经验提醒保持耐心",
+   "summary": "散户投资者正以前所未有的力度逢低买入暴跌的英伟达股票。尽管股价因CEO离职大幅下挫，散户仍视其为抄底机会，但历史经验提醒投资者，追逐暴跌股票需要耐心，短期波动可能持续。",
+   "time": "03:48",
+   "date": "2026-11-13",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdlRYZU5hQlFBOFpaU25UaEN4NGg5aGVNcXE2SkdhN0JZajBfd25paFhOcGExckxEYzR5MmkxMmVhWjdqLTVHQTd5bnZqb20ybzhoNE1KWFUteXJIQnRPd2d1X2Vpc1pWLWFOMmJEcVFuTnIxTGtOQ1Y3X1ZXTkZiempmbHpwSDdORzl2TjVuTGFQZWdSZ2NjZVRJQVR6cDJhUjVYMUtLQjd2ZjBXZ0c2ckFXRWlrS2ZTRmUtRWk1WUhZbkZhUVlNTHBJcWNya1hUVXRpNmJFNHBvbjM5Wkl3?oc=5",
+   "company": "英伟达",
+   "company_en": "NVIDIA",
+   "ticker": "NVDA",
+   "section": "权重科技",
+   "tags": [
+    "股价异动"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261113-016",
+   "title": "应用材料三季度业绩超预期，芯片设备销售强劲",
+   "summary": "应用材料第三季度业绩超出预期，得益于芯片制造设备销售强劲。公司第四财季及全年业绩同步公布，股价盘后走高，半导体设备需求回暖为行业复苏再添佐证，行业景气度正在回升。",
+   "time": "05:15",
+   "date": "2026-11-13",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://finance.yahoo.com/m/0fd62a3d-f96c-3465-b52d-aedb3d5f2a09/applied-materials-beats-q3.html?.tsrc=rss",
+   "company": "应用材料",
+   "company_en": "Applied Materials",
+   "ticker": "AMAT",
+   "section": "芯片半导体",
+   "tags": [
+    "财报"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261113-017",
+   "title": "Marvell调整董事会，为1150亿美元收购Lumentum铺路",
+   "summary": "Marvell在推进收购Lumentum之前增补三名独立董事，为这笔价值1150亿美元的AI交易铺路。董事会调整被视为交易落地的关键前置步骤，市场正关注收购的监管审批进展。",
+   "time": "03:44",
+   "date": "2026-11-13",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://finance.yahoo.com/technology/ai/articles/marvell-makes-major-board-move-194450481.html?.tsrc=rss",
+   "company": "美满电子",
+   "company_en": "Marvell Technology",
+   "ticker": "MRVL",
+   "section": "芯片半导体",
+   "tags": [
+    "并购"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261113-018",
+   "title": "英特尔CEO陈立武自掏970万美元增持",
+   "summary": "英特尔股价创下有记录以来最差单日表现后，CEO陈立武自掏970万美元买入公司股票。管理层的增持被视为对公司前景的信心表态，但英特尔仍面临AI转型与市场份额的双重压力。",
+   "time": "04:16",
+   "date": "2026-11-13",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://finance.yahoo.com/m/ddaab534-469d-3e83-bb20-51620bcd5f6f/after-intel%E2%80%99s-worst-day-on.html?.tsrc=rss",
+   "company": "英特尔",
+   "company_en": "Intel",
+   "ticker": "INTC",
+   "section": "芯片半导体",
+   "tags": [
+    "股价异动"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261113-019",
+   "title": "AMD股价跳涨，市场关注度升温",
+   "summary": "AMD股价盘中跳涨，成为市场关注的焦点。在英伟达CEO突然离职的背景下，投资者正重新评估AI芯片竞争格局，AMD作为主要替代选择受到资金青睐，华尔街对其AI芯片业务前景的看法正在转暖。",
+   "time": "04:16",
+   "date": "2026-11-13",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-amd-stock-201601837.html?.tsrc=rss",
+   "company": "超威半导体",
+   "company_en": "Advanced Micro Devices",
+   "ticker": "AMD",
+   "section": "权重科技",
+   "tags": [
+    "股价异动"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261113-020",
+   "title": "Arm股价年内涨77%，利润下滑难挡资金追捧",
+   "summary": "Arm股价年内累计上涨77%，尽管公司利润出现下滑。投资者更看重其在AI芯片架构领域的长期地位，授权业务与版税收入的增长前景盖过了短期盈利压力，资金追捧未见降温。",
+   "time": "05:11",
+   "date": "2026-11-13",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeFhJMjNPeEZ6b1lKZzVQYndScVB5d0NxRG5kTG5Kby1DQk44b25oSmZjU1N5cFFUYVlucUFmNjlpSmdSQ1RmbURIRGExZUJiS2dHZVk5aDI1UXMwS1RfOXlRNmJjUWE3MC1Zd1I0SjV1bmJ3Z3VRTVRRYkp0WXAzdDNHMUxNMHgwU3QxTlZjQWVoUQ?oc=5",
+   "company": "安谋",
+   "company_en": "Arm Holdings",
+   "ticker": "ARM",
+   "section": "芯片半导体",
+   "tags": [
+    "股价异动"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261113-021",
+   "title": "谷歌Antigravity新增Orchestrator，可在会话内切换模型",
+   "summary": "谷歌为Antigravity开发平台新增Orchestrator功能，可在同一会话内动态切换Carbon与Hydrogen等不同模型。该功能面向AI Ultra订阅用户开放，旨在让开发者根据任务复杂度自动匹配最合适的模型。",
+   "time": "03:30",
+   "date": "2026-11-13",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261112/p49#a261112p49",
+   "company": "Alphabet",
+   "company_en": "Alphabet",
+   "ticker": "GOOGL",
+   "section": "权重科技",
+   "tags": [
+    "新品发布",
+    "AI 模型"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261113-022",
+   "title": "Meta与TikTok被曝向成瘾青少年秘密付费",
+   "summary": "彭博社调查显示，Meta与TikTok曾向存在成瘾问题的青少年用户支付保密费用。这一披露使两家平台在青少年保护问题上面临新的监管与诉讼压力，相关支付的规模与具体安排尚未完全公开。",
+   "time": "19:30",
+   "date": "2026-11-12",
+   "outlet": "Bloomberg.com",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRUJGUUJiQk1aVXpfQ2w3eEhtNV9uWDdSUTJnYlR0bE1aX3d3eF9Ec2JrbU9PdERTU0NKMVRxc3BJTGxtVDAtQ0xsVXlVNHJ2Q3VZUmVienhtczdhZUdENkUyNGdONHhRUmt4YWZrTW1iWXFYY1lkckNPTDh3aGVJSXZBOHpzTkJjNTRfSTZRVTFhU0FyRWVtUDJjajh5R3NlVnBKaHQzNnkwX3dQbGtZeGowRnNNbWtubFlZMGtR?oc=5",
+   "company": "Meta Platforms",
+   "company_en": "Meta Platforms",
+   "ticker": "META",
+   "section": "权重科技",
+   "tags": [
+    "监管政策"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261113-023",
+   "title": "亚马逊与谷歌有望从Anthropic IPO中大赚",
+   "summary": "随着Anthropic IPO获得约6倍超额认购，早期投资者亚马逊与谷歌有望获得丰厚回报。两家科技巨头此前均向Anthropic投入巨资并建立云计算合作，这笔投资正成为其AI布局中最具价值的资产之一。",
+   "time": "01:28",
+   "date": "2026-11-11",
+   "outlet": "Reuters",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcjFwZHRWdU1KX1lVQzlmS2tLcE1EemFWd2trLV9Td2NtemNvRGdjbHVEUjJySldqUjRqaEtpZGpfck9QWkpCcmhoby1ERHFwSk4ySkNMQ2pQbkZsbmJXUm5NOTM3Y09XZnl1cEMxcjhZVFpEYTZDX0ZHRHNhVXdkZFdIOExqa2tHZC1qM0xuazYzRENHZzNDYUo4aVBSck5IRHc?oc=5",
+   "company": "亚马逊",
+   "company_en": "Amazon",
+   "ticker": "AMZN",
+   "section": "权重科技",
+   "tags": [
+    "融资"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261113-024",
+   "title": "特斯拉重心从Cybertruck转向AI，令车迷困惑",
+   "summary": "特斯拉正把战略重心从Cybertruck转向人工智能，这一转向令部分车迷感到困惑。随着与SpaceX合并谈判的推进，马斯克旗下的业务整合加速，汽车业务在集团内的定位正在发生变化。",
+   "time": "04:29",
+   "date": "2026-11-13",
+   "outlet": "Bloomberg.com",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZXRDRDVYUjFfdUhVbmVFUW5FZGkxRllObGhENG81SXBBSS1CZWwzMmtnMzFzV0NzaEpUWFNVWXQwLVJCSlMwQU5sYV9VWElJWC1icDV3R0xsSHk3RDBGYjFjLWIyRk5Tb2FlbUQycXpSdy10THRsVU4tR2ZMVUNQYlNsVXJIYzhzYnFGMC04SFhPT3ZhVTU3SXNoTnRMN0VCNGZfNEs2TkNmNzVabUk3bDVqd3lWRFdFeW56bzVpQzRXUEE?oc=5",
+   "company": "特斯拉",
+   "company_en": "Tesla",
+   "ticker": "TSLA",
+   "section": "权重科技",
+   "tags": [
+    "战略合作"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261113-025",
+   "title": "谷歌AI眼镜获好评，Meta迎来真正对手",
+   "summary": "The Verge实测谷歌AI眼镜后认为，Meta终于迎来了真正的竞争对手。这款眼镜在实时翻译等Gemini功能上表现亮眼，AI眼镜赛道的竞争正从概念走向产品体验的正面交锋。",
+   "time": "22:00",
+   "date": "2026-11-12",
+   "outlet": "The Verge",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaWY2bS1iWjBpaThyc1hBeHc1UWdETUk0UDlDRnQyMTh4cXVwSVpMRUhhMWE2bFpOLV9mRFNlMUtmWTdNUlZYNnIxdngtczh2N19CNzkxLWwyVFBMcm81WU1wdzRwM2RVcU41U1plWXdSNTVxUkFEQmRqSDd2YmFlc3FmbjNfcVBpOEE1VFRtdFBqeUxoMEM4?oc=5",
+   "company": "Meta Platforms",
+   "company_en": "Meta Platforms",
+   "ticker": "META",
+   "section": "权重科技",
+   "tags": [
+    "新品发布"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261113-026",
+   "title": "分析师建议英伟达为黄仁勋回归“留门”",
+   "summary": "有分析师建议，英伟达应为黄仁勋的回归“留一扇门”。尽管董事会尚未公布继任安排，市场已开始讨论这位创始人未来以某种形式回归的可能性，公司治理层面的不确定性仍在发酵。",
+   "time": "05:29",
+   "date": "2026-11-13",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://finance.yahoo.com/video/nvidia-leave-door-open-jensen-212921609.html?.tsrc=rss",
+   "company": "英伟达",
+   "company_en": "NVIDIA",
+   "ticker": "NVDA",
+   "section": "权重科技",
+   "tags": [
+    "高管变动"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261113-027",
+   "title": "富国银行警告：AI举债狂潮撞上债市天花板",
+   "summary": "富国银行警告，全球债券市场正趋于饱和，科技巨头的AI举债狂潮已撞上天花板。随着AI基础设施投资持续加码，云巨头的发债规模引发市场对债务可持续性的担忧，融资成本上升可能制约后续扩张。",
+   "time": "05:35",
+   "date": "2026-11-13",
+   "outlet": "Stocktwits",
+   "first_party": false,
+   "url": "https://stocktwits.com/news-articles/markets/equity/ai-debt-binge-hits-a-wall-as-global-bond-markets-reach-saturation-point-wells-fargo-warns/cNGC7rER9OP?.tsrc=rss",
+   "company": "英伟达",
+   "company_en": "NVIDIA",
+   "ticker": "NVDA",
+   "section": "权重科技",
+   "tags": [
+    "融资"
+   ],
+   "title_en": "",
+   "text_en": ""
+  }
+ ],
+ "breaking": []
+}
