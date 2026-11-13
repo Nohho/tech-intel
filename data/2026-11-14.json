@@ -1,0 +1,645 @@
+{
+ "date": "2026-11-14",
+ "generated_at": "2026-11-14T06:32:00+08:00",
+ "top10": [
+  {
+   "id": "tech-20261114-001",
+   "title": "特斯拉与 SpaceX 合并传闻升温，最快 12 月宣布",
+   "summary": "特斯拉已成立特别委员会评估与 SpaceX 的全股票合并，消息称双方最快 12 月宣布交易。分析认为合并将把马斯克置于革命性技术的前沿，但也有投资者质疑对特斯拉股东的实际收益，德州候任总检察长已表态将严格审查这笔交易。",
+   "time": "05:43",
+   "date": "2026-11-14",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://finance.yahoo.com/m/00d73871-4c74-3adb-95a4-1a0ac2ea77d1/spacex%2C-tesla-merger-puts.html?.tsrc=rss",
+   "company": "特斯拉",
+   "company_en": "Tesla",
+   "ticker": "TSLA",
+   "section": "权重科技",
+   "tags": [
+    "并购"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261114-002",
+   "title": "英伟达董事会启动 CEO 继任者遴选，称尚未正式接触候选人",
+   "summary": "英伟达董事会表示正在挑选猎头公司负责 CEO 继任者遴选，尚未正式接触任何潜在候选人。另有消息称董事会已接触 Arm 首席执行官 Rene Haas；临时 CEO 由首席财务官 Colette Kress 担任，11 月 17 日发布财报。",
+   "time": "04:35",
+   "date": "2026-11-14",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261113/p27#a261113p27",
+   "company": "英伟达",
+   "company_en": "NVIDIA",
+   "ticker": "NVDA",
+   "section": "权重科技",
+   "tags": [
+    "高管变动"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261114-003",
+   "title": "英伟达不确定性拖累美股，标普与纳指收低",
+   "summary": "标普 500 与纳斯达克指数周五收低，英伟达继任者悬而未决令科技股承压。尽管主要股指本周仍录得周涨幅，市场对英伟达财报与 Anthropic IPO 的考验保持警惕，波动预计将延续至下周。",
+   "time": "05:01",
+   "date": "2026-11-14",
+   "outlet": "Reuters",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa0xIRkJ1T2xEOU9abUNDYi1vTlpmRWJzd0MyQkFqa2NSb1BkMEdUNDROMmVmaXo3bDVRdThuRDFRaWZySXAyRjN5d1NDNjhCclFJUDVxdG9CQ1dyWWpDbUEwVHVRaHpNWUg5SjdreUtMeHNHXy1feGNBVkFLN3Z4cGNTcGtyYXg2bXFHdlpZQWtneFJDSWVreFROZ09oamc?oc=5",
+   "company": "英伟达",
+   "company_en": "NVIDIA",
+   "ticker": "NVDA",
+   "section": "权重科技",
+   "tags": [
+    "股价异动"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261114-004",
+   "title": "微软 365 宕机进入第二天，微软致歉称系网络容量升级所致",
+   "summary": "微软 365 服务中断进入第二天，全球政府、医院与企业受到影响，微软称服务可用性正在恢复。微软就此致歉，称故障源于一次网络容量升级的技术问题，与网络攻击或 AI 智能体无关。",
+   "time": "04:40",
+   "date": "2026-11-14",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261113/p28#a261113p28",
+   "company": "微软",
+   "company_en": "Microsoft",
+   "ticker": "MSFT",
+   "section": "权重科技",
+   "tags": [
+    "突发"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261114-005",
+   "title": "OpenAI 推出 ChatGPT Wallet，让 AI 智能体代为购物结账",
+   "summary": "OpenAI 推出 ChatGPT Wallet，允许其 AI 智能体代表用户完成购物与结账，并与卡组织合作推出新的支付方式。这是 OpenAI 将聊天机器人推向交易入口的关键一步，也让 AI 智能体直接经手消费场景。",
+   "time": "23:45",
+   "date": "2026-11-13",
+   "outlet": "Reuters",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdjVJaENIMTQ3V1hXQ3pSLUh4SmRkcTdoVEx5el9kTU1fTFBsVVFpaVF5WkpKNTBtX3NYMEE2UEF4V3hkbWhRNzdFREtLZFJtSGtMRTF6RWlfNVowTUktR25NWnRjUEVIUm5TSm9EbE50UWt6cnFIem5XcFBfQWMyUV8xR0w4RWJGalB1TW80OXNsOWJ6RlNGOElzbThzMmt2aDBSTnVaWVliMVNNYXc?oc=5",
+   "company": "OpenAI",
+   "company_en": "OpenAI",
+   "ticker": null,
+   "section": "AI前沿",
+   "tags": [
+    "新品发布"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261114-006",
+   "title": "Anthropic IPO 据悉不对中国内地与香港机构投资者开放",
+   "summary": "知情人士称 Anthropic 的 IPO 不对中国内地与香港机构投资者开放，部分原因与美国武器出口管制有关，与 SpaceX 的上市安排类似。此举正值 Anthropic 上市路演推进之际，华尔街正关注其估值与 AI 交易的热度。",
+   "time": "01:10",
+   "date": "2026-11-14",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261113/p18#a261113p18",
+   "company": "Anthropic",
+   "company_en": "Anthropic",
+   "ticker": null,
+   "section": "AI前沿",
+   "tags": [
+    "融资"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261114-007",
+   "title": "英伟达持有 229 家未上市公司 480 亿美元股权，云计算担保达 1650 亿美元",
+   "summary": "英伟达截至 7 月持有 229 家未上市公司共计 480 亿美元股权，并提供 1650 亿美元云计算担保。黄仁勋离任后，一些投资者与创始人表示失去了一位盟友，华尔街担心这将拖慢英伟达的 AI 交易布局。",
+   "time": "03:10",
+   "date": "2026-11-14",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261113/p24#a261113p24",
+   "company": "英伟达",
+   "company_en": "NVIDIA",
+   "ticker": "NVDA",
+   "section": "权重科技",
+   "tags": [
+    "股价异动"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261114-008",
+   "title": "字节跳动计划 60 亿美元回购，估值 4000 亿美元",
+   "summary": "字节跳动计划以 4000 亿美元估值进行 60 亿美元股份回购，回购消息由知情人士披露。回购正值公司加速 AI 布局之际，字节跳动正在研发类 Muse 的 AI 智能体以缩小与领先者的差距。",
+   "time": "13:11",
+   "date": "2026-11-13",
+   "outlet": "Bloomberg.com",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT0JmdmlZWmRzRXEtb1dEd1JpMm5paEE2N1hVNndld3lGR2RMa3huTW9pTER0anJSMGI5eVg0WWlpVTVhaVNoc2ZxUVVlTFlsSnkzaGl5ejRNakNNUm5ZMWRJa1loUzVNOTFRS0FnaE5qdUVsZk9VUG5yM2pnaV9IcTV2ZW5HaDBhTUVrOEl2YW9BY2M2eFpRbGZ1M2VYWFFjampWeWhkM1pZY2QzcjZTUjN3SQ?oc=5",
+   "company": "字节跳动",
+   "company_en": "ByteDance",
+   "ticker": null,
+   "section": "AI前沿",
+   "tags": [
+    "融资"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261114-009",
+   "title": "台积电批准向 Anthropic 与 OpenAI 投资至多 10 亿美元",
+   "summary": "台积电批准向 Anthropic 与 OpenAI 投资至多 10 亿美元的计划，押注 AI 前沿公司的算力需求。这笔投资将台积电与两家 AI 实验室更紧密地绑定在一起，芯片代工龙头正从单纯的供应商走向 AI 生态的资本参与者。",
+   "time": "13:29",
+   "date": "2026-11-11",
+   "outlet": "WSJ",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT3ZlYXlWNllKZkZETDl2YUpGcXdKYnBpc01rZ2pMenZYcXJrcmVhbFdlUW5oQnFWeTZ1dlN2S2RwVFFUaVJIUWk0UVJsOHk4R25nSGt4NnlfYTZVNXZvTzlrcXU4V2ZGNUNQQTY1amMwcHZ3bC00aTFBMTRKcFExdThaQlY2Nmp4ek1qSXRDdVVuLUlOSWVPQWMtSHlqT0g3RmlCbQ?oc=5",
+   "company": "台积电",
+   "company_en": "TSMC",
+   "ticker": "TSM",
+   "section": "芯片半导体",
+   "tags": [
+    "战略合作"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261114-010",
+   "title": "英伟达 CEO 风波外溢，美中科技外交承压",
+   "summary": "英伟达 CEO 黄仁勋的离任风波正波及美中外交层面。特朗普定于下周在深圳会见中国领导人，黄仁勋事件的时机在中国引发疑问，芯片出口管制与 AI 合作议题可能成为会谈背景。",
+   "time": "04:29",
+   "date": "2026-11-14",
+   "outlet": "Bloomberg.com",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORmdMckpDRlFGRWtkNG9KUk1YX3FHVHc0UUFWc09HTGd6dHIzaV8tV0ZUUVgtUEZmd2ZsR29MNXQ0YzU2N3JBeXdMZGItUURzakdWQzhsNFEtdHd0UC1nMlNSalBGRGNsbTl2cUd6ZnFNYjVJNEFCT0kwNzRhcEU0ZGlaYlJsWUFYNFNpeW5wZlRtSVNRZXpOVjNvR2p4cURuNUIyWHpmVTlvQmNKZmFUSkQ3YkNwcWhHU0t5cWE2Wl9YM3ZzNjE4?oc=5",
+   "company": "英伟达",
+   "company_en": "NVIDIA",
+   "ticker": "NVDA",
+   "section": "权重科技",
+   "tags": [
+    "监管政策"
+   ],
+   "title_en": "",
+   "text_en": ""
+  }
+ ],
+ "company_news": [
+  {
+   "id": "tech-20261114-011",
+   "title": "特斯拉中国业务被视为与 SpaceX 合并的关键障碍",
+   "summary": "特斯拉在中国的业务被视为与 SpaceX 潜在合并交易的关键障碍。合并若推进，须同时应对美国监管审查与中国业务的复杂性，特斯拉在华的制造与销售布局将成为谈判桌上的重要变量。",
+   "time": "05:17",
+   "date": "2026-11-14",
+   "outlet": "Foreign Policy Journal",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMlJFT3h5eXFfXzBMRThTcEpmR0lDWnp1RS03MlFSVzdWNUZyLXFKcmc4Nm9mUGlxV2dPZGhRMEpCU2Jway1UU1BDQTdqUWdrcDg4V1BWSUhlMFRhVjlXZzUwaDE3N1RRWk94aHRGazVhYmp2THVFeFE4SV84WGk5bC10MER1TDVVOXB6RnNKTmJQZ1VscHRHTXJHeVYwcEJGalVwaDFBb1Y2QzhfRmJjRkliQkZTNFNNNFRIa3hLWmo0cjdOQ05UTUQyOURva2ZEQnlQRWl3?oc=5",
+   "company": "特斯拉",
+   "company_en": "Tesla",
+   "ticker": "TSLA",
+   "section": "权重科技",
+   "tags": [
+    "并购"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261114-012",
+   "title": "Meta 员工内测预测市场应用 Takes，以虚拟积分下注",
+   "summary": "Meta 员工正在内测一款名为 Takes 的预测市场应用，用户可用虚拟积分就问题或事件的结果下注，而非真金白银。Meta 试水预测市场之际，这一赛道正吸引越来越多科技公司的关注。",
+   "time": "03:49",
+   "date": "2026-11-14",
+   "outlet": "WSJ",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUmU1MnY0TnI4RG9jaVN4eXVDb2IwOFYtTWp3Q0tIUGtqRUMwcGM2UTh5cVdNSjNnYTZWZS1Tc001dzdpMklNRFVjYnVXckplODIxN092NnFnLVdtbG8tenZJM3dwM3p3M3Jhd2NVX0RyU19CcXJsRHZRaDRnN0ZfX09YTFQzamRvTlk1MFQ1ZFY?oc=5",
+   "company": "Meta Platforms",
+   "company_en": "Meta Platforms",
+   "ticker": "META",
+   "section": "权重科技",
+   "tags": [
+    "新品发布"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261114-013",
+   "title": "Anthropic CEO：未来一两年算力需求是公司最深层的经营难题",
+   "summary": "Anthropic 首席执行官 Dario Amodei 表示，由于收入前景难以预测，测算未来一两年的算力需求是公司最深层的经营难题。他希望 IPO 能够低承诺、高兑现，投资者正密切关注 Anthropic 的上市定价。",
+   "time": "03:20",
+   "date": "2026-11-14",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261113/p25#a261113p25",
+   "company": "Anthropic",
+   "company_en": "Anthropic",
+   "ticker": null,
+   "section": "AI前沿",
+   "tags": [
+    "AI 模型"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261114-014",
+   "title": "OpenAI 解散独立机器人团队，人员并入研究与应用部门",
+   "summary": "OpenAI 解散独立机器人团队，人员转入研究与应用部门。公司表示 GPT-6 Astra 等模型可直接应用于机器人领域，机器人能力将作为模型能力的一部分推进，而非独立业务线。",
+   "time": "01:25",
+   "date": "2026-11-14",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261113/p19#a261113p19",
+   "company": "OpenAI",
+   "company_en": "OpenAI",
+   "ticker": null,
+   "section": "AI前沿",
+   "tags": [
+    "战略合作"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261114-015",
+   "title": "OpenAI、谷歌与 Anthropic 被诉，诉讼要求叫停前沿 AI 开发",
+   "summary": "OpenAI、谷歌与 Anthropic 被起诉，诉讼要求叫停前沿 AI 模型的开发。这是 AI 安全争议走向法庭的最新案例，起诉方认为前沿模型的推进速度已超出可控范围。",
+   "time": "04:35",
+   "date": "2026-11-13",
+   "outlet": "Reuters",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWTR4ak5BdnRmV3hzYTZOcVhBYklWU01YRmtLak03b2hmeC1PMTd5blRQWUkxR2Q1ZXZWRC0xNkNxVDVoN2VOdTVlX1hFMXgwS1Y5TW1fUGt4NThQaEhRVFdna1YxUDhLTnBYUFJ6WTlFajlLM1BZTTRwNk5sWFMydkZtMlJNUnU4MWlDcUN6QmNtVHdUT1pLNXd6QXc4QVk0WmMtM1JxWU5XVC1PUGRIMVJNY2wzN1Z1d2N6WWJkbw?oc=5",
+   "company": "OpenAI",
+   "company_en": "OpenAI",
+   "ticker": null,
+   "section": "AI前沿",
+   "tags": [
+    "诉讼"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261114-016",
+   "title": "Anthropic 因 Mythos 模型名称被诉商标侵权",
+   "summary": "Anthropic 因其 Mythos 模型名称被诉商标侵权，原告主张该名称侵犯其已有商标权益。诉讼正值 Anthropic 上市前夕，公司在业务扩张的同时面临的知识产权纠纷也在增多。",
+   "time": "02:22",
+   "date": "2026-11-14",
+   "outlet": "Reuters",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRWI3VWZ2VXZxZWhRY19fWW5PbUljYVVtYWphUWhqVXM0SmQxclVabTRldFdUTXNiVHVWZXVXVWctaUhhOEhzNVJUT1VRMFBlZmtZc3N0eGdaSnh4aDBDenpWcTIyRmNrOUI5cHVpb0w1TGRHblhlSUlyOU1zcDVydXdXQVExV2dtaXRsUmlacmd5cFB4THl1NjFJNmctSHM0bmVteEtUSWZCZG9aVzA2Tw?oc=5",
+   "company": "Anthropic",
+   "company_en": "Anthropic",
+   "ticker": null,
+   "section": "AI前沿",
+   "tags": [
+    "诉讼"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261114-017",
+   "title": "Anthropic 与 OpenAI 被诉侵犯发明人神经网络专利",
+   "summary": "Anthropic 与 OpenAI 被起诉，指控其侵犯发明人的神经网络相关专利。两家 AI 实验室同日面对多起诉讼，专利纠纷正成为 AI 行业竞争的另一条战线。",
+   "time": "04:26",
+   "date": "2026-11-13",
+   "outlet": "Reuters",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWTRubERMSXBGblFuaGZHYzh2SDBfRkZCR0F4bnZmUjlXazJhamZaSkhRRzJPT0xuUmZDdlY5RlJQVFE0Rm1VZl9UeVRTVldVRE01VWZORE9NNGxCbjNNTHBrZmdNTXZNbVo1UVdsZ0JLYTlfWkJqa2diNTdCWHUzQ0lYVHNfYWtVNlhlbWh0LUtDNHFsZW5zQ254eHRXdDlkMlJNUnBXY0pLRkx3M1ZRQ3ZKcmZ3RlNYdUxLcWF3?oc=5",
+   "company": "Anthropic",
+   "company_en": "Anthropic",
+   "ticker": null,
+   "section": "AI前沿",
+   "tags": [
+    "诉讼"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261114-018",
+   "title": "阿里巴巴跌 7%，英伟达风波引发芯片供应担忧",
+   "summary": "阿里巴巴股价下跌 7%，英伟达风波引发市场对芯片供应前景的担忧。投资者担心 AI 芯片获取受限将波及中国科技公司，芯片股与相关概念股普遍承压，资金正重新评估供应链风险。",
+   "time": "15:58",
+   "date": "2026-11-12",
+   "outlet": "Bloomberg.com",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUmhVSk5qT2NLYndEQXBfcjgzNGJUaTJXZ0NZTnBvYWhiZUlVOGFkanVoQi16S2g4YzNDVG1IZExsYl9CSlNnUjF4SWJJa0RoWEpiNkU4VC1BQlhFdzUtVnNDWklvMTRkVGVVaTQyVkkzQzU0NDNabjdzRHpTelVOZ2o0bE0zdnNjWXRmcVJIVkZlOTNHUHRUd1VVWXhIZEt4Qmw0ZWhfemhyY3Z6N3JxOFprS0E?oc=5",
+   "company": "阿里巴巴",
+   "company_en": "Alibaba",
+   "ticker": null,
+   "section": "AI前沿",
+   "tags": [
+    "股价异动"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261114-019",
+   "title": "阿里巴巴芯片部门 T-Head 申请香港上市",
+   "summary": "阿里巴巴芯片设计部门 T-Head 已申请香港上市。分拆上市将让这家芯片设计子公司获得独立融资渠道，也反映出阿里巴巴正把芯片业务推向资本市场前台，为后续扩张储备弹药。",
+   "time": "21:47",
+   "date": "2026-11-10",
+   "outlet": "Reuters",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQR19pRkVFTE5nSE5tQkhjZGpqT09XM2x2VE9rLTlWbTExRU9sVEVjTUlDQkZHU2MwNmdTTm5RY0dQNDEyQjBDVGNMeWY2VGxXUV9hTjROOWl2VF9abWYwRmZfVGNVeVlRX0VZS1d3cl84QmVJdElBMXJDc2Z6blE0dGswakhsclRRX3RCZ18zZjNicUVxSmlNVFloRHcyVG8xV3d2ZTRaSGJmR3hFNGJEMHJBR3pKT3J6MVljQlhZX1FIU3UwMUM0S1lB?oc=5",
+   "company": "阿里巴巴",
+   "company_en": "Alibaba",
+   "ticker": null,
+   "section": "AI前沿",
+   "tags": [
+    "融资"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261114-020",
+   "title": "腾讯创始人动员半数员工，全力推进 AI 原生转型",
+   "summary": "腾讯创始人正动员半数员工投身 AI 原生转型，推动公司全面转向 AI 优先。腾讯的组织动员显示出中国大厂在 AI 竞赛中的紧迫感，内部资源的倾斜力度正在加大，转型成效值得持续观察。",
+   "time": "13:04",
+   "date": "2026-11-12",
+   "outlet": "Bloomberg.com",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTGtZT21kUjF2VnkyeGExOXVpLWlMZkZ2VXhxVUZJQTRWdDFxSUEyeVNXVEtnWFhVR2FoeEM2akRxSjZaNzE4TzltbmJjcHZqb3dhNmg4MjdfNmw5aUtlenNyUmRocU8tYjVpVEVPQmZiVV9pMGRSQVhrVEJjLXczWDFjMEFLRWFmVUNFWld4SmxteXdScDZ1QVJnV2pxNFJFWlhsWmliNGNWVGxKd2hF?oc=5",
+   "company": "腾讯",
+   "company_en": "Tencent",
+   "ticker": null,
+   "section": "AI前沿",
+   "tags": [
+    "战略合作"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261114-021",
+   "title": "亚马逊重启与陷入困境的数据中心合资项目交易",
+   "summary": "亚马逊重启与一家陷入困境的数据中心合资项目的交易，该项目背后有 Rick Perry 的支持。亚马逊持续加码数据中心容量之际，这笔交易凸显其对算力基础设施的迫切需求。",
+   "time": "04:40",
+   "date": "2026-11-14",
+   "outlet": "Financial Times",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORUJReUY4aWVzV1dsSmNsdDlBQ29HTTBlZEFTaFRGSmlPX0FnOWZwZTdwTHRBNmY0bV9kYWRKU0hVaDdTOFdDcFF6Ty1SVEZUMFdDWUJqNjFQcnMyTk1vR2QyM3lvZXk3RXlqVzhpR2NFZXFkY1NYcnNnOVJyYlU1dlJnaVI?oc=5",
+   "company": "亚马逊",
+   "company_en": "Amazon",
+   "ticker": "AMZN",
+   "section": "权重科技",
+   "tags": [
+    "战略合作"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261114-022",
+   "title": "亚马逊谋划掌控全球商品数据，对抗 AI 购物智能体",
+   "summary": "亚马逊正谋划掌控全球商品数据，以对抗崛起的 AI 购物智能体。电商巨头担心 AI 智能体绕过传统购物入口，商品数据的控制权之争已成为新一轮平台竞争的焦点，亚马逊正提前布局。",
+   "time": "01:28",
+   "date": "2026-11-14",
+   "outlet": "Reuters",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQY2FJOXhDLWZqYzRxQ3BNVGRyeDNGWGZYU0VwNm5PV09tWGVwRklHdGFQaDRGWEQwM3pBZ1g2X0lYQVFGUU9RdHhyVk9kSnhrcWxob3o2ZUVNTE5SWW5OSWtkZEVlZm83ZUdrZHJ6X1N6bjhqT2F2WWxpWXVaUGhBZldsU0N5MEhjS19yR1pJcFlDN2N4ekpfWDZmR1FPT3k4eGY0bkdEQldjVnVZX21BYlVXX0h4d1JwbFVSaQ?oc=5",
+   "company": "亚马逊",
+   "company_en": "Amazon",
+   "ticker": "AMZN",
+   "section": "权重科技",
+   "tags": [
+    "战略合作"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261114-023",
+   "title": "字节跳动研发类 Muse 智能体，追赶 AI 差距",
+   "summary": "字节跳动正在研发类 Muse 的 AI 智能体，以缩小与领先者的 AI 差距。字节跳动在模型与智能体两线发力，显示其正把 AI 应用层作为追赶的主战场，智能体或成下一阶段竞争关键。",
+   "time": "18:10",
+   "date": "2026-11-11",
+   "outlet": "Bloomberg.com",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONm9oaHpHbGpJQnI5SHg2ckZyNzhOVTcwUC1kejJuQ09zMkd1Q0FXTkk2RUhhU2NrOXNIa3RVa0VCelk0NDBKeU9oS29YeVpleld0X0kyY21sQnp0RTR3bEN2NGFzT0xrTVdCZV9YU3llRzNaQ2RaUWMwa2Z1VXhZZHdxc0xBVGlodVU1NVl3S09CaURqeGpDcjZiSHJZcUg5cGJhOXdTLVg1ZHpYbUE?oc=5",
+   "company": "字节跳动",
+   "company_en": "ByteDance",
+   "ticker": null,
+   "section": "AI前沿",
+   "tags": [
+    "AI 模型"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261114-024",
+   "title": "DeepSeek AI 智能体平台日活达 154 万",
+   "summary": "DeepSeek 的 AI 智能体平台日活跃用户达 154 万。DeepSeek 正把智能体作为新的增长引擎，平台用户规模的快速爬升显示其产品已越过早期验证阶段。",
+   "time": "02:01",
+   "date": "2026-11-09",
+   "outlet": "Bloomberg.com",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUXBLN3Nwd181RFJQQzBkdGo0TUFhbGZpQ1Zxb0dPWXBORHdzeG5US1ZIOGtGUTFfc2ZSVktjMktVMmtSOUZ0SkVkZ2s4cEJWWWgyQVpSRDVGTUlqWnJ6bjdybkhHaTM5czBaZXpvelNlNTZ4WUd4Y0trdk1RQlpxZXd1MFRMb0dSckw3SXpPU2RFWG9JTFlhOVcyVzVJNjFHaUpsUFNZTC10blFqVWc?oc=5",
+   "company": "DeepSeek",
+   "company_en": "DeepSeek",
+   "ticker": null,
+   "section": "AI前沿",
+   "tags": [
+    "AI 模型"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261114-025",
+   "title": "生物科技迎来自己的 DeepSeek 时刻",
+   "summary": "生物科技领域正迎来自己的 DeepSeek 时刻，AI 模型开始重塑药物研发的成本与速度。DeepSeek 式的高效模型路线正在向生命科学扩散，行业格局可能因此改写。",
+   "time": "08:00",
+   "date": "2026-11-13",
+   "outlet": "Bloomberg.com",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZVlOSEkxNGstaTM2Q3VEanN0czdKVk5RSmFUVUVvcUR2ZFRYb1N5TjRMa0owOUxoVmQwRWZlYmtKd1V5Q0I5ZFNGOE54ZXIwaGF6R0JleEtrTVg2OG5jSXFiTXJKaUk5aDI2Vy16R0pINEt0eFVWX2ZyemJuV2Fla1ZzaWVCa0c5Q1AzR19tRWpJM2U2TlhCYi1pdjdUY3FpQXV1Y2FwSUduTEk?oc=5",
+   "company": "DeepSeek",
+   "company_en": "DeepSeek",
+   "ticker": null,
+   "section": "AI前沿",
+   "tags": [
+    "AI 模型"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261114-026",
+   "title": "OpenAI 季度收入升至 100 亿美元，亏损依然沉重",
+   "summary": "OpenAI 季度收入升至 100 亿美元，但亏损依然沉重。收入增长未能覆盖算力与运营成本，OpenAI 的财务模型仍在烧钱换规模的阶段，上市前的盈利路径备受关注。",
+   "time": "09:02",
+   "date": "2026-11-11",
+   "outlet": "WSJ",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ1Z2WGlSZFF1REswbldRM3lQRXJJNWdHVEFlNDNPNFhRRXRzSEdySWZFa281U1lzVFBiNVU0bE5GUlNTLU9YT1ZuV2VOa2VobmpRVmh4eGs2LTJVSzZKRWJwTWxKNzBRZGpZeHU2VV9GUTlfemk5all2aDM2RE9ENWowMGgtcnFXMEJSQ3dZTHVHMkpoT2tOTGpGOWRWdU8tUVdRT3JEVVcxTy1yUU5GYU9GcWtCZFdI?oc=5",
+   "company": "OpenAI",
+   "company_en": "OpenAI",
+   "ticker": null,
+   "section": "AI前沿",
+   "tags": [
+    "财报"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261114-027",
+   "title": "OpenAI 加入支持 AI 芯片管控措施的阵营",
+   "summary": "OpenAI 加入支持 AI 芯片管控措施的阵营，管控措施涉及先进 AI 芯片的流向与使用范围。英伟达风波之后，AI 实验室对芯片出口管制的立场正在收敛，行业与监管层面的博弈进入新阶段。",
+   "time": "05:35",
+   "date": "2026-11-13",
+   "outlet": "Bloomberg.com",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMmJ4OENGS1F1RWpJNzlmVHhSZjVvYlZVWnh0YmRKQ2oxSUlicjdzcmMwZ1pBZFJZaG1lX0FXUXl3S01CSTdROHhTdTZ0NjNvei1lLVVqaUpTcEstQlYxRE84alZ6azFYMkR4QU5XakE2VFphTjQzXzVBRjRIM19pWGtad2p6aFNzRFNpb1N4VFBTamxQRmxxMGV5bE5maFQ0Q0JHakJzNGI2bXNBN0dQRFhGcGRHZw?oc=5",
+   "company": "OpenAI",
+   "company_en": "OpenAI",
+   "ticker": null,
+   "section": "AI前沿",
+   "tags": [
+    "监管政策"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261114-028",
+   "title": "Cerebras 与微软达成协议，股价飙升",
+   "summary": "Cerebras 股价因与微软达成协议而飙升。AI 芯片新势力正通过与云巨头的合作打开市场，微软的订单被视为对 Cerebras 技术路线的重要背书，也加剧了 AI 芯片市场的竞争。",
+   "time": "05:31",
+   "date": "2026-11-14",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://finance.yahoo.com/m/59c1380c-6194-35f8-be3b-4a6a3148bfa4/stock-market-today%3A-indexes.html?.tsrc=rss",
+   "company": "微软",
+   "company_en": "Microsoft",
+   "ticker": "MSFT",
+   "section": "权重科技",
+   "tags": [
+    "战略合作"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261114-029",
+   "title": "Nebius 称客户将承担 2027 年资本开支的 75% 至 85%",
+   "summary": "Nebius 表示客户将承担其 2027 年资本开支的 75% 至 85%。客户预付模式缓解了 AI 算力扩张的资金压力，Nebius 的增长故事正从烧钱转向订单驱动。",
+   "time": "05:42",
+   "date": "2026-11-14",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://finance.yahoo.com/m/59c1380c-6194-35f8-be3b-4a6a3148bfa4/stock-market-today%3A-indexes.html?.tsrc=rss",
+   "company": "Nebius Group",
+   "company_en": "Nebius Group",
+   "ticker": "NBIS",
+   "section": "软件云AI",
+   "tags": [
+    "财报"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261114-030",
+   "title": "Grok Build 编程智能体泄露大量机密信息，部分属于 SpaceX",
+   "summary": "Grok Build 编程智能体泄露大量机密信息，其中部分属于 SpaceX。xAI 的编程工具在安全审查上出现疏漏，泄露事件为 AI 编程智能体的数据隔离敲响警钟。",
+   "time": "05:12",
+   "date": "2026-11-11",
+   "outlet": "Ars Technica",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZDMtc0M1cXdHZ0xnbXdyZ3lwNi1BOTE3UUl2emFhc21ITE5fQWRTNmhhY2FQd3ZKdjcyOTBTMmduTTVOaHBVdkpyY25ZdTY4TmMwM2EyYTQtOVdhZGRkWVQydEs3b1JUYms0Mk1FOWVoYVFpakpMOFNBZUNfOW96RlhoMnpwU2kwY3p0cURYci1VN3RYb2lzVEhSdFgyUjF0X2VMekRXWlFPQ1dVQzBzemlNZlZDRXRWQ0R0aWswMHBYd0Zt?oc=5",
+   "company": "xAI",
+   "company_en": "xAI",
+   "ticker": null,
+   "section": "AI前沿",
+   "tags": [
+    "突发"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261114-031",
+   "title": "青少年称 Grok 将其童年照片性化，引发担忧",
+   "summary": "一些青少年表示 Grok 将其童年照片性化，引发恐慌与担忧。事件再次把生成式 AI 的内容安全推上风口浪尖，xAI 面临的监管与舆论压力正在上升，内容审核机制受到质疑。",
+   "time": "21:30",
+   "date": "2026-11-11",
+   "outlet": "Bloomberg.com",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Za2ZpNURISW1Wa1hYVU0wMUR1QW9WaHh2N1BYQXQ1SnhLZ3JqSGlGTGY4T1FHUVB4LXN5eFEzWWZzVXBLSnBLUjM0VlFyUndyTjVRSlo4N1B3eDRoN2FBMFdzWl9CMkt2YUdBRUN6X25KSjFJckZvSzc5RGgwdw?oc=5",
+   "company": "xAI",
+   "company_en": "xAI",
+   "ticker": null,
+   "section": "AI前沿",
+   "tags": [
+    "监管政策"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261114-032",
+   "title": "华尔街展望下周：英伟达财报与 Anthropic IPO 考验 AI 交易",
+   "summary": "华尔街展望下周，英伟达财报与 Anthropic IPO 将成为动荡 AI 交易的试金石。英伟达将于 11 月 17 日发布财报，这是黄仁勋离任后的首份财报，市场将紧盯其业绩与指引。",
+   "time": "05:39",
+   "date": "2026-11-14",
+   "outlet": "Reuters",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVkhwN0xoWW41NzBTZjRFMi1RV0tnYW84ak1zMGU3UHpxTkZ2UHNqako1QWh6NDRkRG5Eb1kwY0RCS0hydXVzTkg2clUwTXNBRUthM1R0SUg0azdDZkhaZlpFNzMtSDdNa09jZW9yb3N4UzdWUHpiTUl0cXl3dTQwb2M2V2R0Q1lSUFppUVVVaWYzejdsZk9GeWc4dE5oNGM2LS0yVFhkX2lpODlBMFZnVlJlVGJMb21XNE02c3BMa1U?oc=5",
+   "company": "Anthropic",
+   "company_en": "Anthropic",
+   "ticker": null,
+   "section": "AI前沿",
+   "tags": [
+    "财报"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261114-033",
+   "title": "美银称 CoreWeave 融资需求可控",
+   "summary": "美国银行认为 CoreWeave 的融资需求可控。AI 算力租赁商的资金链一直是市场关注的焦点，美银的表态为 CoreWeave 的扩张计划提供了喘息空间，投资者情绪有所缓和。",
+   "time": "05:30",
+   "date": "2026-11-14",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://finance.yahoo.com/m/59c1380c-6194-35f8-be3b-4a6a3148bfa4/stock-market-today%3A-indexes.html?.tsrc=rss",
+   "company": "CoreWeave",
+   "company_en": "CoreWeave",
+   "ticker": "CRWV",
+   "section": "软件云AI",
+   "tags": [
+    "融资"
+   ],
+   "title_en": "",
+   "text_en": ""
+  }
+ ],
+ "breaking": [
+  {
+   "title": "FAA 因通信问题发布全美机场停飞令",
+   "summary": "美国联邦航空局因多个空中交通管制中心出现通信问题，发布全美机场停飞令。",
+   "url": "https://www.techmeme.com/261113/p30#a261113p30",
+   "outlet": "Techmeme",
+   "date": "2026-11-14",
+   "first_party": false
+  }
+ ]
+}
