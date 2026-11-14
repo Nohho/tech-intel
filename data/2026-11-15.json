@@ -1,0 +1,466 @@
+{
+ "date": "2026-11-15",
+ "generated_at": "2026-11-15T06:29:38+08:00",
+ "top10": [
+  {
+   "id": "tech-20261115-001",
+   "title": "特斯拉与 SpaceX 合并谈判推进，德州候任总检察长扬言严格审查",
+   "summary": "马斯克正推动特斯拉与 SpaceX 的合并，消息称双方谈判取得进展，可能缔造有史以来最大规模的交易之一。德州候任总检察长已公开表态将对合并进行严格审查，监管变数随之升温；受消息提振，特斯拉股价走出近一年来最佳表现。",
+   "time": "22:00",
+   "date": "2026-11-14",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-p-500-bid-gets-140000560.html?.tsrc=rss",
+   "company": "特斯拉",
+   "company_en": "Tesla",
+   "ticker": "TSLA",
+   "section": "权重科技",
+   "tags": [
+    "并购"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261115-002",
+   "title": "超 10 万人联署请愿，要求英伟达恢复黄仁勋 CEO 职位",
+   "summary": "一份要求英伟达恢复黄仁勋首席执行官职位的请愿已征集超过 10 万个签名，联署者包括马斯克、Epic 首席执行官斯威尼和风投家加里·谭。组织方称，已有 5000 多名自称英伟达员工的人签名，公司内部分歧正在公开化。",
+   "time": "03:01",
+   "date": "2026-11-15",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261114/p17#a261114p17",
+   "company": "英伟达",
+   "company_en": "NVIDIA",
+   "ticker": "NVDA",
+   "section": "权重科技",
+   "tags": [
+    "高管变动"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261115-003",
+   "title": "微软 365 全球宕机后全面恢复，曾波及政府、医院与交易商",
+   "summary": "微软表示所有 Microsoft 365 产品已恢复运行，结束了一场波及全球政府、交易商、医院和企业的服务中断。此次宕机正值微软股价承压之际，分析认为故障时机对公司极为不利，也再次凸显云端办公套件单点故障的系统性风险。",
+   "time": "16:03",
+   "date": "2026-11-14",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261114/p8#a261114p8",
+   "company": "微软",
+   "company_en": "Microsoft",
+   "ticker": "MSFT",
+   "section": "权重科技",
+   "tags": [
+    "突发"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261115-004",
+   "title": "意大利以违规访问照片为由，对 Meta 罚款 8.05 亿欧元",
+   "summary": "意大利数据保护机构以未经用户同意访问安卓用户照片和视频为由，对 Meta 处以 8.05 亿欧元罚款。Meta 方面尚未公布是否上诉，这笔罚单成为欧洲数据监管对大型科技平台开出的又一张重量级罚单。",
+   "time": "23:10",
+   "date": "2026-11-14",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261114/p11#a261114p11",
+   "company": "Meta Platforms",
+   "company_en": "Meta Platforms",
+   "ticker": "META",
+   "section": "权重科技",
+   "tags": [
+    "监管政策"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261115-005",
+   "title": "思科上调全年营收预期，AI 网络需求强劲",
+   "summary": "思科上调全年营收预期，称人工智能网络设备需求强劲推动业绩超预期。公司表示，超大规模数据中心客户对高速网络产品的订单持续增长，AI 基础设施支出仍是当前最确定的增长引擎之一。",
+   "time": "07:18",
+   "date": "2026-11-13",
+   "outlet": "Reuters",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcDgteG5IeXZjU1k1UDdhbFkyZlVCaHI1d0pPdGp2elFReVRRclN6dWhTM2NuSUk3cGdUSnRRU2c4aWpCcS14blFsN3hLTTNCSktQbXpTUVgxRjVJV1R1YldHdEVYMXJvVHg3TzJiOXhEM0owM08ySlI1bmNkMG5GQXhnQl9iVExNWlN1Z0ZweFk3YldGWDltNFpnekdDZWpVcTJ3QTFlUUxNWXlLX0NjLUhvTjRtNzlrYnlXdXJiTmc?oc=5",
+   "company": "思科",
+   "company_en": "Cisco Systems",
+   "ticker": "CSCO",
+   "section": "权重科技",
+   "tags": [
+    "财报"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261115-006",
+   "title": "AMD 投资 PsiQuantum，联手推进量子计算基础设施",
+   "summary": "AMD 宣布投资量子计算公司 PsiQuantum，双方将合作推进量子计算基础设施建设。这笔投资显示传统芯片巨头正加速布局量子赛道，试图在下一代计算架构竞争中提前卡位。",
+   "time": "21:04",
+   "date": "2026-11-12",
+   "outlet": "Reuters",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLXJUcldpZTFtcWRVLXIyb2hhMFNveERkU2N6TWl5STJ3S05yWUFxRkdTOXhqZlRVNm4wSXFaa0x2bGY1eUFxckctSVNfODd2MV9GeDNIZGN3aFQtT0RDQ3V0ZWZUaGZudHdyVHVHVE44QWZyMy16dW5FNk43U2FEeWFKVUN5M2d0Zzl6ZHJXRGNZQUhGcm1ncm9ESWtzcWdqTHVhQVFvbDNRWFE?oc=5",
+   "company": "超威半导体",
+   "company_en": "Advanced Micro Devices",
+   "ticker": "AMD",
+   "section": "权重科技",
+   "tags": [
+    "战略合作"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261115-007",
+   "title": "特斯拉 Cybercab 开启个人预订，月费 299 美元且仅限地理围栏",
+   "summary": "特斯拉正式开放 Cybercab 个人预订，月费 299 美元，但车辆仅能在特斯拉划定的地理围栏内运行，且公司可随时调整围栏范围。无方向盘设计与订阅制收费引发热议，马斯克本人也承认当前定价偏高，应向网约车成本看齐。",
+   "time": "04:04",
+   "date": "2026-11-15",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://finance.yahoo.com/technology/articles/tesla-opens-cybercab-pre-orders-200444578.html?.tsrc=rss",
+   "company": "特斯拉",
+   "company_en": "Tesla",
+   "ticker": "TSLA",
+   "section": "权重科技",
+   "tags": [
+    "新品发布"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261115-008",
+   "title": "Agility Robotics 完成合并并获 4.65 亿美元融资，筹备纳斯达克上市",
+   "summary": "人形机器人公司 Agility Robotics 宣布完成合并，并在上市前获得 4.65 亿美元资本。公司正筹备登陆纳斯达克，成为又一家冲刺公开市场的人形机器人企业，资本对具身智能赛道的热情持续升温。",
+   "time": "07:21",
+   "date": "2026-11-12",
+   "outlet": "Robotics & Automation News",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWFY5Z2pNTXBneGdERERGbUxuNnRIa2hOVEUwMWZHOXpyVkJlVF9HcWNQM1lteXZ3d1E3WTBpUWRqZEdueVlQSWd5eng2UGRpV0pOODZWN3kyTE9GN3ZQY0R3bVJTdzdrcjJJX2s3M0dzREFjR19FTklfWjEzRmVaNGFCM0NnMUdRMWtoaXNoMkY5YU5kNENuaDd3VEpoZnZNSFk5QTZGS1drZXFkYkFGR1M0UE85dzA0c1NjcFRuaUpiVU82X2hOT2RiU1VoNmFITkNjT2hoZkJZS1prMWtEVkpuYw?oc=5",
+   "company": "Agility Robotics",
+   "company_en": "Agility Robotics",
+   "ticker": null,
+   "section": "机器人",
+   "tags": [
+    "并购",
+    "融资"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261115-009",
+   "title": "Anthropic 上市在即，考验华尔街对 AI 的信心",
+   "summary": "Anthropic 即将上市，市场将其视为检验华尔街对人工智能信心的试金石。随着投资者对 AI 估值与变现能力的质疑升温，这家公司的首日表现将被视为整个 AI 板块情绪的重要风向标。",
+   "time": "02:00",
+   "date": "2026-11-15",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://finance.yahoo.com/markets/stocks/article/anthropic-ipo-to-test-wall-streets-faith-in-ai-as-skepticism-mounts-180007104.html?.tsrc=rss",
+   "company": "Anthropic",
+   "company_en": "Anthropic",
+   "ticker": null,
+   "section": "AI前沿",
+   "tags": [
+    "融资"
+   ],
+   "title_en": "",
+   "text_en": ""
+  }
+ ],
+ "company_news": [
+  {
+   "id": "tech-20261115-010",
+   "title": "两大投资人致信英伟达董事会，呼吁考虑请回黄仁勋",
+   "summary": "Altimeter 的格斯特纳与 Atreides 的贝克致信英伟达董事会，呼吁考虑让黄仁勋回归的可能性。两人合计持有价值 21.3 亿美元的英伟达股票，公开喊话令这场 CEO 继任风波再添重量级声音。",
+   "time": "03:55",
+   "date": "2026-11-15",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261114/p18#a261114p18",
+   "company": "英伟达",
+   "company_en": "NVIDIA",
+   "ticker": "NVDA",
+   "section": "权重科技",
+   "tags": [
+    "高管变动"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261115-011",
+   "title": "黄仁勋辞职被指冲击美国开源模型生态",
+   "summary": "分析指出，黄仁勋的辞职对美国开源模型是一次打击，他此前提供的资金曾为开源开发者争取到立足时间，而这笔支持很可能随之枯竭。事件折射出开源 AI 对少数关键资助者的依赖风险。",
+   "time": "02:05",
+   "date": "2026-11-15",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261114/p15#a261114p15",
+   "company": "英伟达",
+   "company_en": "NVIDIA",
+   "ticker": "NVDA",
+   "section": "权重科技",
+   "tags": [
+    "AI 模型"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261115-012",
+   "title": "英伟达股价跌破 165 美元，市场争论是否值得抄底",
+   "summary": "英伟达股价跌破 165 美元，CEO 辞职风波持续压制市场情绪。尽管部分投资者认为回调已创造买入机会，但领导层不确定性仍是悬在股价上方的最大变量，11 月 17 日的财报将成为关键考验。",
+   "time": "22:01",
+   "date": "2026-11-14",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNenJRUDJwOENPWU80dGxWN2JyOVhSZkVyVmVIT0tETGUxamdnUENsRGJMWFRFSWdxelZoY3FIS2oyWUtUTDh0SU9hbjN2ZzJSNWdfRTl3X1JoMWJZQS1KM2RvcGRDLWxRV2Nnak96SnpTSmtZb0pxSE5ib3JJU2pTNFkzMlFlQW9TQ1VzN2FWS3IxZUs4OVJSbA?oc=5",
+   "company": "英伟达",
+   "company_en": "NVIDIA",
+   "ticker": "NVDA",
+   "section": "权重科技",
+   "tags": [
+    "股价异动"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261115-013",
+   "title": "分析师称 AMD 有望成为英伟达动荡的最大受益者",
+   "summary": "随着英伟达陷入 CEO 辞职风波，分析师认为 AMD 有望成为最大受益者，客户可能加速评估第二供应商。本周 AMD 股价大幅跑赢英伟达，AI 芯片竞争格局出现罕见松动迹象。",
+   "time": "23:00",
+   "date": "2026-11-14",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTnRGNjA3cTEyb3JucXFvQTlWTWdkUEdaVk5TM1NUMVU4dFAtRFN1VGRIM3c0eXhHUVZxR1dJUWJlZnFvSWdpaks4MkVnZkxZOFBPT1NMcDR1WElmOG1PeUJzUkhEYWFmZFVpZUxNa085Umk4amljWW15VHBJTml1SlZkZ2lsZ2tVYXAwbG9MTWhqbmJjWWNvSg?oc=5",
+   "company": "超威半导体",
+   "company_en": "Advanced Micro Devices",
+   "ticker": "AMD",
+   "section": "权重科技",
+   "tags": [
+    "股价异动"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261115-014",
+   "title": "阿斯麦一周涨 10%，芯片股反弹",
+   "summary": "阿斯麦一周上涨 10%，领涨反弹的芯片股。马斯克的 Terafab 晶圆厂计划放眼百万片晶圆产能，也为板块带来提振；芯片股在英伟达风波拖累大盘之际展现韧性，资金正寻找新的轮动方向。",
+   "time": "17:26",
+   "date": "2026-11-14",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU2JCZTRVUzhRMHFYSnRmZGhianh1OXJ4TW8zaU9FVi1ILWpFZHBQMUVaUmZhSE1kcjJneno4eF93aTY2SGxCOUhnb2RqOU1WVUJnNDJmR1RtZGNXVGhjN05qYVRLTmRIMXIweExzd3IzM0ZaMHNuXzVUY29iZVBETFUzeGJiQ1I5WFozRWlhQzdGQQ?oc=5",
+   "company": "阿斯麦",
+   "company_en": "ASML Holding",
+   "ticker": "ASML",
+   "section": "权重科技",
+   "tags": [
+    "股价异动"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261115-015",
+   "title": "ServiceNow 推出自主 CRM 引擎，推动企业 CRM 现代化",
+   "summary": "ServiceNow 推出自主 CRM 引擎，以 AI 代理推动企业客户关系管理的现代化。公司称新引擎可自主处理大量常规客户交互，帮助企业把客服团队从重复劳动中解放出来。",
+   "time": "00:06",
+   "date": "2026-11-15",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMWxiZkdIeWgzdld1VEtoSHRKenFTYmRXMG13a2xtQVVzTTdTSTJjd18teDhjSHd0TUlzZ1VKcXhiU3lqc2tLMUU0UHAxTVRhbl95dEZ0d2pIVjhhWmtCM3ZWS0NSb0M2bmRfMldCMHV5Tzd4Zi0zclA5NGR6clRPb2lPQlEyTFg0VGgya0x0X21JcENDalhyOEdVazI0MlEzQUE?oc=5",
+   "company": "ServiceNow",
+   "company_en": "ServiceNow",
+   "ticker": "NOW",
+   "section": "软件云AI",
+   "tags": [
+    "新品发布"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261115-016",
+   "title": "Salesforce 参投量子软件公司 Q-Ctrl 2.9 亿美元融资",
+   "summary": "量子软件初创公司 Q-Ctrl 完成 2.9 亿美元融资，投资方包括库什纳旗下的 Affinity Partners 与 Salesforce。传统软件巨头与政商资本同时入场，显示量子软件正从实验室走向商业化叙事。",
+   "time": "20:00",
+   "date": "2026-11-12",
+   "outlet": "Bloomberg.com",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUkV2TktqcE9sT1hkSVFMZWFVT1M0UVlQVktvdlY1aFdNYmc1VWg5QkpJQ2ZhMFBRXzB6LWNyR1RZN1RaWU9oRHljTTRsc1hSa2NBR09TYkxJUFprTVM1MWpvVW9Db05GV3hOcmd0RWVvUWREeTBPU1RsWVlHNHdLR1ZaV2VlUEloUjFZTXpKSGJDWVRTSFRSSzAtLUMzMUkwMDlWVEtSTlhHNUFSbUhNSFVuOXAzeVI0VWR4ZENFdEN5VjktYnpxVQ?oc=5",
+   "company": "Salesforce",
+   "company_en": "Salesforce",
+   "ticker": "CRM",
+   "section": "软件云AI",
+   "tags": [
+    "融资"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261115-017",
+   "title": "谷歌 AI 眼镜获好评，Meta 终迎真正对手",
+   "summary": "媒体实测谷歌 AI 眼镜后给出积极评价，认为 Meta 终于迎来了真正的竞争对手。智能眼镜赛道在沉寂多年后重新升温，谷歌与 Meta 的正面较量将决定下一代穿戴设备的形态。",
+   "time": "22:00",
+   "date": "2026-11-12",
+   "outlet": "The Verge",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaWY2bS1iWjBpaThyc1hBeHc1UWdETUk0UDlDRnQyMTh4cXVwSVpMRUhhMWE2bFpOLV9mRFNlMUtmWTdNUlZYNnIxdngtczh2N19CNzkxLWwyVFBMcm81WU1wdzRwM2RVcU41U1plWXdSNTVxUkFEQmRqSDd2YmFlc3FmbjNfcVBpOEE1VFRtdFBqeUxoMEM4?oc=5",
+   "company": "Meta Platforms",
+   "company_en": "Meta Platforms",
+   "ticker": "META",
+   "section": "权重科技",
+   "tags": [
+    "新品发布"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261115-018",
+   "title": "Meta 失去长期基建负责人",
+   "summary": "Meta 长期负责基础设施的高管即将离职。基础设施团队支撑着公司庞大的数据中心与 AI 算力扩张，关键负责人的离开正值 Meta 投入巨资建设下一代 AI 基础设施之际。",
+   "time": "04:12",
+   "date": "2026-11-12",
+   "outlet": "TechCrunch",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZmtZZEMzNFRpZm9BUzNVYmtOeXRKNVNvT3lkakRVeWl3ZEVWZ1IzRnNsOUhRaUp4RVFVeUNDU2E3TUh4SnNSWEQ2b1c1TXVHcHNISDRyZlFDOUs3Mmx2QTUzVkRadWVWb1RXdmZydUNmb18xRTRKbkQ5ODV3THdFZ0xvNjBmNkQxRmxFd2h3?oc=5",
+   "company": "Meta Platforms",
+   "company_en": "Meta Platforms",
+   "ticker": "META",
+   "section": "权重科技",
+   "tags": [
+    "高管变动"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261115-019",
+   "title": "Meta 内部测试预测市场应用",
+   "summary": "Meta 正在员工内部测试一款预测市场应用，探索将预测市场引入主流社交场景的可能性。若测试顺利并推向公众，这可能成为 Meta 在社交与金融交叉领域的一次新尝试，也将让预测市场首次触及数十亿用户。",
+   "time": "22:22",
+   "date": "2026-11-14",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNGdQaHhwY2pRYlFhNXY0VUd5bGhGNFBzcE5ycWMzbkpsSENIX3cxTGY3eDVpR1VWdHVEUGhWbklLOUd0Q0MtSVgwWUhSa1JGSVgteVZtbDJlOXZkc0JyVTBydEpjYVJ0c0h2bUlhaTlhT2dJcXVnNFFBZHNrMHZIMjRtZE5sWjd6Um5haHlNTHNZNHNSTVEtMHhIMA?oc=5",
+   "company": "Meta Platforms",
+   "company_en": "Meta Platforms",
+   "ticker": "META",
+   "section": "权重科技",
+   "tags": [
+    "新品发布"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261115-020",
+   "title": "亚马逊 3.095 亿美元退款和解案，索赔截止 12 月 1 日",
+   "summary": "亚马逊 3.095 亿美元退款和解案进入索赔阶段，律师费可能高达 1 亿美元，索赔截止日期为 12 月 1 日。符合条件的消费者需在截止日前提交申请，逾期将失去获赔资格。",
+   "time": "23:00",
+   "date": "2026-11-14",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://finance.yahoo.com/markets/stocks/articles/lawyers-could-pocket-100m-amazons-150000256.html?.tsrc=rss",
+   "company": "亚马逊",
+   "company_en": "Amazon",
+   "ticker": "AMZN",
+   "section": "权重科技",
+   "tags": [
+    "诉讼"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261115-021",
+   "title": "软银与 ABB 重启谈判，此前收购遭中国否决",
+   "summary": "软银与 ABB 在收购交易遭中国否决后重启谈判。双方正重新商讨交易结构，试图绕开此前的监管障碍；这笔交易能否落地仍取决于监管层面的最新态度，也折射出跨国并购在地缘博弈下的不确定性。",
+   "time": "01:17",
+   "date": "2026-11-11",
+   "outlet": "Manufacturing Dive",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQWdDTWJSYldoWDlBSWpmd1EyczhLd0hTNzBlSlBLOS1DR3ZHdGNSRFREOW1ZZWo2cW8ydnRUS2haTVZFRnVBTWhSYUduUWxuTk1TN25IOVVFWjgzVTEwNGc3VWhVX2pQTTlLZ2xoRFMyblR0OEloWW13MkhQanhUTkhlRlZOVXBWdGhmelRNQ3dkTWhkSm9VMFpPMklLYXNvdWE2bHpIVlk5R19QaFAwUmRIdHRyd0JoYlBJOWtJcw?oc=5",
+   "company": "ABB",
+   "company_en": "ABB Ltd",
+   "ticker": "ABB",
+   "section": "机器人",
+   "tags": [
+    "并购"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261115-022",
+   "title": "英伟达在华经营 20 余年，黄仁勋难触及北京芯片决策层",
+   "summary": "尽管英伟达在中国经营 20 多年，消息人士称黄仁勋始终难以接触到推动北京芯片自立政策的决策者。地缘与产业政策的双重压力，正成为这家芯片巨头在华业务的长期变量，也令其在华战略的每一步都需权衡。",
+   "time": "15:30",
+   "date": "2026-11-14",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261114/p7#a261114p7",
+   "company": "英伟达",
+   "company_en": "NVIDIA",
+   "ticker": "NVDA",
+   "section": "权重科技",
+   "tags": [
+    "监管政策"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261115-023",
+   "title": "奈飞广告展望下调后仍被部分投资者看好",
+   "summary": "奈飞下调广告业务展望后，仍有部分投资者认为其股价被低估。市场对流媒体广告增速的分歧正在加大，广告业务能否接棒订阅增长，成为奈飞估值的关键争议点，投资者正密切关注下季广告收入能否兑现管理层的承诺。",
+   "time": "03:08",
+   "date": "2026-11-15",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://finance.yahoo.com/markets/stocks/articles/netflix-nflx-following-ad-outlook-190805204.html?.tsrc=rss",
+   "company": "奈飞",
+   "company_en": "Netflix",
+   "ticker": "NFLX",
+   "section": "权重科技",
+   "tags": [
+    "财报"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261115-024",
+   "title": "马斯克、特朗普与英伟达董事会谈黄仁勋离职",
+   "summary": "马斯克、特朗普、英伟达临时首席执行官克雷斯与董事会成员相继就黄仁勋离职表态，构成过去一周科技圈最受关注的舆论场。各方声音分歧明显，董事会下一步如何稳定军心仍是焦点。",
+   "time": "20:30",
+   "date": "2026-11-14",
+   "outlet": "Stocktwits",
+   "first_party": false,
+   "url": "https://stocktwits.com/news-articles/markets/equity/elon-musk-trump-kress-nvidia-board-on-jensen-huang-exit/cNbPJ1xR9Qk?.tsrc=rss",
+   "company": "英伟达",
+   "company_en": "NVIDIA",
+   "ticker": "NVDA",
+   "section": "权重科技",
+   "tags": [
+    "高管变动"
+   ],
+   "title_en": "",
+   "text_en": ""
+  }
+ ],
+ "breaking": []
+}
