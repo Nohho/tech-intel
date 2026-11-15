@@ -1,0 +1,560 @@
+{
+ "date": "2026-11-16",
+ "generated_at": "2026-11-16T06:30:27+08:00",
+ "top10": [
+  {
+   "id": "tech-20261116-001",
+   "title": "黄仁勋谋求重返英伟达 CEO，盟友组建“作战室”游说白宫",
+   "summary": "据英国《金融时报》报道，黄仁勋已与亲信讨论重返英伟达首席执行官的可能性，其盟友正组建“作战室”游说董事会并寻求白宫支持。这场 CEO 继任风波在黄仁勋离任仅数日后出现重大转折，董事会与美国政府的态度成为关键变量。",
+   "time": "03:20",
+   "date": "2026-11-16",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261115/p14#a261115p14",
+   "company": "英伟达",
+   "company_en": "NVIDIA",
+   "ticker": "NVDA",
+   "section": "权重科技",
+   "tags": [
+    "高管变动"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261116-002",
+   "title": "贝森特敦促英伟达聘请外部 CEO，限 10 天内解释疑似违规对华售芯",
+   "summary": "美国财长贝森特敦促英伟达聘请外部首席执行官，并要求公司在 10 天内说明是否曾为提振收入而推动“疑似非法”的对华芯片销售。白宫对英伟达的施压升级，继任人选与合规调查双线交织。",
+   "time": "23:50",
+   "date": "2026-11-15",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261115/p8#a261115p8",
+   "company": "英伟达",
+   "company_en": "NVIDIA",
+   "ticker": "NVDA",
+   "section": "权重科技",
+   "tags": [
+    "监管政策"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261116-003",
+   "title": "苹果智能眼镜定于 WWDC 发布，2027 年底上市，主打 Siri AI 应用",
+   "summary": "据彭博社记者古尔曼报道，苹果计划在 WWDC 上发布智能眼镜，并于 2027 年底前出货，核心卖点是第三方 iPhone 应用与 Siri AI 的深度整合。这是苹果押注 AI 眼镜赛道的迄今最明确信号。",
+   "time": "00:30",
+   "date": "2026-11-16",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261115/p10#a261115p10",
+   "company": "苹果",
+   "company_en": "Apple",
+   "ticker": "AAPL",
+   "section": "权重科技",
+   "tags": [
+    "新品发布"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261116-004",
+   "title": "意大利重罚 Meta 8.87 亿美元：安卓相册照片未获用户明确同意",
+   "summary": "意大利监管机构认定 Meta 未经用户明确同意即获取安卓相册中的照片与视频，对其处以 8.87 亿美元罚款。Meta 面临的欧洲数据合规压力再度加码，罚单金额与执法口径均值得关注。",
+   "time": "02:12",
+   "date": "2026-11-15",
+   "outlet": "Reuters",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSVFmcHRvNGEzVXRKbU5Kc0JhSDV4R2o0bnpXSUJMZnRMc1E2ckNCRzBaWDhzY2xObHVtNmtiWmdoX3g4NlVsYkc1bzFDbVB0T016LWczNHJ6bGx2ZXlQeDZPUGNjeXJPaWZ3Wm5DdU9za21PMXFlZVVDckh5Q1I0QnROcElOTnA2bGMzczBMbFJweW1ISkkwWUgzNXJpTU95N0NR?oc=5",
+   "company": "Meta Platforms",
+   "company_en": "Meta Platforms",
+   "ticker": "META",
+   "section": "权重科技",
+   "tags": [
+    "监管政策"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261116-005",
+   "title": "特斯拉与 SpaceX 合并谈判推进，或缔造全球最大公司",
+   "summary": "据报道，特斯拉与 SpaceX 的合并谈判正在推进，若达成交易，将缔造全球市值最大的公司，实现马斯克多年的构想。合并仍需跨越监管审查与股东批准两道门槛，德州候任总检察长已表态将严格审查。",
+   "time": "21:42",
+   "date": "2026-11-15",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSGpWRzYyZEt4cVlSR1htNzVkbkx2RkUyUWVENldONXFXeE55S3ZSRG16VW03MFluMFNQZU9xbllxQ0Yza3JoTWJyV1NhTUlneG5KY0NYUGRsZzFNMHR1N2dZa0Iwamo5MXQzX0R1bmhhdFNQZnBjT3dSTjYyWVVnMGlJb2VqTmw2T1hzRHFCRFo4bVdzbGhYb3dWc0Fndw?oc=5",
+   "company": "特斯拉",
+   "company_en": "Tesla",
+   "ticker": "TSLA",
+   "section": "权重科技",
+   "tags": [
+    "并购"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261116-006",
+   "title": "ULA 火神火箭飞行中途失败，亚马逊卫星损毁",
+   "summary": "联合发射联盟的火神火箭在飞行中途失败，搭载的亚马逊卫星随之损毁。这对亚马逊部署卫星互联网星座的进度构成打击，事故原因仍在调查中。",
+   "time": "03:26",
+   "date": "2026-11-16",
+   "outlet": "Bloomberg.com",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTW0yRGhpTTVJMHZVdlM4NUc2WDJGWkljT0VmREZ6NTNDcENHYzJ0ZUpab01nTFZxMnlsaFB3OVVzQ3h6TVZCVUdVejZRdWxJWlRrWU1jNmpMSzNuN0w2UXNEdlA5Wk4yVEVxOFR4aUFBczQwZkNMWUdhR2ltaXlZXzhjN0xlbGNjekE4eDNMSllEUlRFcXh3dGVodUNaT3VSVUlUQ0Z5d1Y2RVlYXzR5VQ?oc=5",
+   "company": "亚马逊",
+   "company_en": "Amazon",
+   "ticker": "AMZN",
+   "section": "权重科技",
+   "tags": [
+    "突发"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261116-007",
+   "title": "SpaceX 星舰首以“机械筷子”完成轨道回收，助推器坠入墨西哥湾",
+   "summary": "SpaceX 首次用发射塔机械臂从轨道回收星舰，实现“筷子夹火箭”的世界首创；不过助推器随后在墨西哥湾失联坠毁。回收技术的突破与助推器的损失同框，星舰完全可复用之路仍有变数。",
+   "time": "02:05",
+   "date": "2026-11-16",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-caught-starship-orbit-robot-180500736.html?.tsrc=rss",
+   "company": "特斯拉",
+   "company_en": "Tesla",
+   "ticker": "TSLA",
+   "section": "权重科技",
+   "tags": [
+    "突发"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261116-008",
+   "title": "美国携“Pax Silica”盟友拟建联合清单，保护 AI 技术与供应链",
+   "summary": "美国与包括日本、英国、印度在内的“Pax Silica”盟友达成一致，将共同制定一份需要防范对华流失的 AI 技术与供应链清单。AI 出口管制正从单边措施转向盟友协同，芯片产业链面临新的合规图景。",
+   "time": "02:55",
+   "date": "2026-11-16",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261115/p12#a261115p12",
+   "company": "英伟达",
+   "company_en": "NVIDIA",
+   "ticker": "NVDA",
+   "section": "权重科技",
+   "tags": [
+    "监管政策"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261116-009",
+   "title": "思科上调销售指引，AI 需求动能强劲",
+   "summary": "思科上调销售指引，称 AI 基础设施需求持续拉动订单，显示 AI 投入正在转化为实实在在的营收。财报季里，网络设备龙头的指引成为观察 AI 资本开支温度的一个窗口。",
+   "time": "06:44",
+   "date": "2026-11-13",
+   "outlet": "Bloomberg.com",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRTI3SjM0X2d3dFJKVGJ1bi1HWjhXSmZEcEw1TkUycUJiOTNwUnByMDJwT0EwbE5kNzBWWWlhVWpfaktPd0VIWW83b0hONWVvaGtSdU40cF9xeW4wb0FvdkZYdFNHUEcwOFRDRlVmajJyTzdCYTdxcE9NNDc2Zk5vXzNPcWEwbjFheE85MFRlWS1nNW1lcE1Md2duYXhIRlZocGpVdVN2eXVNbkhT?oc=5",
+   "company": "思科",
+   "company_en": "Cisco Systems",
+   "ticker": "CSCO",
+   "section": "权重科技",
+   "tags": [
+    "财报"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261116-010",
+   "title": "本周焦点：英伟达周二发布财报，Anthropic 同期 IPO",
+   "summary": "股指期货开启新一周交易，市场目光集中在周二英伟达的财报与 Anthropic 的上市上。英伟达正处 CEO 继任风波之中，这份财报的电话会势必被追问领导层与对华合规问题。",
+   "time": "04:13",
+   "date": "2026-11-16",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://finance.yahoo.com/m/8cef83a6-f4cb-350b-abaf-a876bb42c992/stock-futures-begin-new-week.html?.tsrc=rss",
+   "company": "英伟达",
+   "company_en": "NVIDIA",
+   "ticker": "NVDA",
+   "section": "权重科技",
+   "tags": [
+    "财报"
+   ],
+   "title_en": "",
+   "text_en": ""
+  }
+ ],
+ "company_news": [
+  {
+   "id": "tech-20261116-011",
+   "title": "华尔街日报揭秘：黄仁勋如何搭建数十亿美元对华芯片通道",
+   "summary": "《华尔街日报》调查称，黄仁勋曾搭建起一项数十亿美元规模的业务，让中国公司通过东南亚数据中心获得英伟达 AI 芯片，利用了美国制裁的灰色地带。报道为正在发酵的合规调查提供了关键背景。",
+   "time": "13:55",
+   "date": "2026-11-15",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261115/p1#a261115p1",
+   "company": "英伟达",
+   "company_en": "NVIDIA",
+   "ticker": "NVDA",
+   "section": "权重科技",
+   "tags": [
+    "监管政策"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261116-012",
+   "title": "英伟达经理涉芯片走私被起诉，公司求助台湾官员、台积电拒绝介入",
+   "summary": "彭博社报道，英伟达一名经理因涉嫌芯片走私被起诉后，公司向台湾官员求助，并寻求台积电的建议，台积电拒绝介入。走私案与高层人事风波叠加，英伟达的合规风险持续外溢。",
+   "time": "03:10",
+   "date": "2026-11-16",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261115/p13#a261115p13",
+   "company": "英伟达",
+   "company_en": "NVIDIA",
+   "ticker": "NVDA",
+   "section": "权重科技",
+   "tags": [
+    "监管政策"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261116-013",
+   "title": "英伟达接洽 Arm 首席执行官哈斯，员工盼黄仁勋回归",
+   "summary": "路透社报道，英伟达已接洽 Arm 首席执行官哈斯，商讨接任事宜；与此同时，公司内部不少员工希望黄仁勋回归。继任人选的拉锯，折射出董事会在外部空降与请回创始人之间的两难。",
+   "time": "07:11",
+   "date": "2026-11-14",
+   "outlet": "Reuters",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMW5kZ01Wbk9TVFVaV1BrRXYwZEs0RmNORjJySnlqTDR5V2E2dlcwcVFFdHBVbG9nQjBPaXFWUjFpX2ZpR0gwUWE0N1ZBODl0VjFWdVBYLUJUYkFWZThNRmJEenhjbnVKTzA4Tkt6T1lPN1NzcTJPTFVDRFV2VFNrWWJ3ei14Q2JPQmZKd19jSUo2MHlIdVZhR3plaWtnNERYdG0yTi1XZThxLTZoZ0xzZUJ0dmN3OHJERlRuN0ZXSQ?oc=5",
+   "company": "安谋",
+   "company_en": "Arm Holdings",
+   "ticker": "ARM",
+   "section": "芯片半导体",
+   "tags": [
+    "高管变动"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261116-014",
+   "title": "华尔街看空英伟达：继任风波后股价承压",
+   "summary": "黄仁勋离任后，华尔街对英伟达的看法转趋谨慎，多家机构下调评级或目标价。市场担忧领导层真空与对华合规调查双重冲击，英伟达股价在财报前持续承压。",
+   "time": "21:18",
+   "date": "2026-11-15",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSUhad2VoUnU5VjNDX3N6UW5WX1FFaFA1eUU2V1kxX3BTQlpVX2twdVVaUHEtTWozYWZBRzRwbHZ6NE1OdHpQWXV2cml5b2R5bGY0bVk1Y19qM0pFcjk1V1NWUFNuX2lHOUlVLXVpeVRJam9mSjdiMTI2OG1KS3FvcmVQVGV0Uzh0TldXa2NLUmhNeTQtZS1oS3dydFJHTWNDcHdDLUtpakNCcV85eDdKTG15M3hqNnZOUko5RVB3aHhvbEJuVVE?oc=5",
+   "company": "英伟达",
+   "company_en": "NVIDIA",
+   "ticker": "NVDA",
+   "section": "权重科技",
+   "tags": [
+    "股价异动"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261116-015",
+   "title": "黄仁勋离任时持有 1320 亿美元英伟达股票，何时可卖成焦点",
+   "summary": "黄仁勋离任时仍持有价值约 1320 亿美元的英伟达股票，其减持时间表与披露规则成为市场关注的焦点。巨额持股意味着他与公司的利益绑定并未因离任而切断。",
+   "time": "21:07",
+   "date": "2026-11-15",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNVjJKRThIRnJiTkxmT2NTMlJKbjhMWXhOSlhVcWRDUFNwYXRwUUlwRzJYZ1lJWFpqOVk0RUFqTFRtdmY3cVNscUxMRDVyVFFnLUxfdFoxX29KeW1iODB1d0cwVlVObjlIU3RvaUdDMFpJUzd5OXhfZUZCWkhKZkFRMEl6M3o2S2tIbkVVdngzVE5wcDR2d0Q4eWFqVXZScGlPQmFTTTNsdExXNWNDZXlXdF9UQ3ZfX3lweU1aMU9FOWthV1pYNEJabUNvb0Fna2dnM000dUdJbEFTOWU4UHhtZTExU1VqSi00V2EzUWwyemk3R3FlN3pEeWo1Uy1nU0V5ODhSMlh0SG1pMXpZS2FYLUJ1V1FtLTZDSnFOS3RB?oc=5",
+   "company": "英伟达",
+   "company_en": "NVIDIA",
+   "ticker": "NVDA",
+   "section": "权重科技",
+   "tags": [
+    "高管变动"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261116-016",
+   "title": "台积电拟设 5 亿美元基金，扶持芯片初创与上游伙伴",
+   "summary": "日经报道，台积电计划设立一支 5 亿美元基金，投资芯片初创企业、供应商及其他上游伙伴，并称“也想扶持未来的英伟达”。在 AI 芯片需求高涨之际，台积电正把触角伸向上游生态。",
+   "time": "14:45",
+   "date": "2026-11-15",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261115/p4#a261115p4",
+   "company": "台积电",
+   "company_en": "TSMC",
+   "ticker": "TSM",
+   "section": "芯片半导体",
+   "tags": [
+    "战略合作"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261116-017",
+   "title": "Anthropic 新动向利好 AMD、利空英伟达",
+   "summary": "Anthropic 的最新动向被解读为对 AMD 投资者的好消息、对英伟达的坏消息。AI 大模型厂商的芯片采购正在多元化，AMD 有望从英伟达的动荡中分得更多订单。",
+   "time": "18:40",
+   "date": "2026-11-15",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbTBKTWc2Y1k4cXU1MGwwTUk3NnBndW9FQ2xTS0lkR21nVnpRRlRSNVZWZE95dUFKTzBBdkx4VVZyOWU2TDB3ejNZYVpzX3NQQno3OVJxNnpFWG8tUjdiNGpVZ1ZNRVVUVkhXTVRzU3FoZVZkcGMxZzQ5QlpLM3BFc2ZwMjI4YWlmNGluY01Hc3RIZEx2RzlVLW5ydzhiR1gy?oc=5",
+   "company": "超威半导体",
+   "company_en": "Advanced Micro Devices",
+   "ticker": "AMD",
+   "section": "权重科技",
+   "tags": [
+    "AI 模型"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261116-018",
+   "title": "AMD 明年手握两大催化剂，机构看好其借英伟达动荡上位",
+   "summary": "机构认为 AMD 明年手握两大催化剂，随着英伟达陷入继任风波，AMD 有望承接更多 AI 芯片需求。分析师指出，AMD 的机会窗口正在打开，但兑现仍取决于产能与执行。",
+   "time": "13:53",
+   "date": "2026-11-15",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://stocktwits.com/news-articles/markets/equity/amd-two-big-catalysts-2027-nvidia-watching/cNbEERhR9Q8?.tsrc=rss",
+   "company": "超威半导体",
+   "company_en": "Advanced Micro Devices",
+   "ticker": "AMD",
+   "section": "权重科技",
+   "tags": [
+    "股价异动"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261116-019",
+   "title": "DRAM 价格已贵过 AI 内存，美光 2027 年或迎大涨",
+   "summary": "随着存储价格持续走高，DRAM 的价格已经超过 AI 内存，分析认为美光有望在 2027 年大幅受益。存储涨价潮从 AI 内存向通用 DRAM 蔓延，存储厂商的议价权明显提升。",
+   "time": "01:02",
+   "date": "2026-11-16",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQWFVdTN3S2tEZzRVbHFTckQwdU1CSkg4VmtkcV9GM2F6UWE5RENEYVlFTmh0M1BscUV1emV0eVNZbmhQdjYyV0JGUGF6OXAydldtakpxdUd1dFdFTndvMkVZY0pTcVNMVjZWVkRHN2R2VXZEVWl1OGdQOFFmandKOXBNeXc5emthSDFITnZ2RU9EN2N1T1Jzeg?oc=5",
+   "company": "美光",
+   "company_en": "Micron Technology",
+   "ticker": "MU",
+   "section": "权重科技",
+   "tags": [
+    "股价异动"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261116-020",
+   "title": "美光称 2027 年逾 75% 产能已被客户预订",
+   "summary": "美光表示，2027 年超过 75% 的产能已被客户提前预订，显示存储需求的可见度大幅提升。产能锁定一方面保障收入，另一方面也意味着后续涨价的空间。",
+   "time": "07:09",
+   "date": "2026-11-15",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://finance.yahoo.com/technology/articles/micron-technology-mu-more-75-230900121.html?.tsrc=rss",
+   "company": "美光",
+   "company_en": "Micron Technology",
+   "ticker": "MU",
+   "section": "权重科技",
+   "tags": [
+    "战略合作"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261116-021",
+   "title": "美满电子收购 Lumentum 的交易进入关键阶段",
+   "summary": "Lumentum 正卷入一笔全股票收购交易，收购方为美满电子。这笔交易若落地，将重塑光通信与数据中心互连格局，也考验美满电子的整合能力。",
+   "time": "17:08",
+   "date": "2026-11-15",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://finance.yahoo.com/markets/stocks/articles/lumentum-holdings-lite-heads-82-090812192.html?.tsrc=rss",
+   "company": "美满电子",
+   "company_en": "Marvell Technology",
+   "ticker": "MRVL",
+   "section": "芯片半导体",
+   "tags": [
+    "并购"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261116-022",
+   "title": "特斯拉 Cybercab 售价 2.999 万美元，正式开售",
+   "summary": "特斯拉无人驾驶出租车 Cybercab 正式开售，售价 2.999 万美元。这是特斯拉 Robotaxi 战略落地的关键一步，低价定位意在快速铺量，但量产节奏与监管审批仍是变量。",
+   "time": "16:00",
+   "date": "2026-11-15",
+   "outlet": "TradingView",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZlZNMUZoTUszUmkwQkNtcC1XVkVndklQbHhKR01hMm12cy05Wmo5TUx1V0NYSThwMVZzNmJfNkJuUFJwZjh6X1RqLVZEc3JYcXlUaFRVX0V2aGsyd0s1eVRMNlRaUWt5QjBCclR0WVhzRUk5alVhbHo3ek1fS3F1RlY4Z2hJU2tPYURXYjhPZGVoTnFDY3d2Q2lNdnVnNi14aFFGTzJUOWVKaWJWRlEyVzhad0dUUFVIQVJsSzJkb0w3MFVEbnc?oc=5",
+   "company": "特斯拉",
+   "company_en": "Tesla",
+   "ticker": "TSLA",
+   "section": "权重科技",
+   "tags": [
+    "新品发布"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261116-023",
+   "title": "亚马逊拟掌控全球商品数据，对抗 AI 购物助手",
+   "summary": "路透社独家报道，亚马逊正计划掌握全球商品数据，以对抗正在崛起的 AI 购物助手。电商巨头与 AI 助手之间的入口之争升级，商品数据的控制权成为新的战场。",
+   "time": "01:28",
+   "date": "2026-11-14",
+   "outlet": "Reuters",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQY2FJOXhDLWZqYzRxQ3BNVGRyeDNGWGZYU0VwNm5PV09tWGVwRklHdGFQaDRGWEQwM3pBZ1g2X0lYQVFGUU9RdHhyVk9kSnhrcWxob3o2ZUVNTE5SWW5OSWtkZEVlZm83ZUdrZHJ6X1N6bjhqT2F2WWxpWXVaUGhBZldsU0N5MEhjS19yR1pJcFlDN2N4ekpfWDZmR1FPT3k4eGY0bkdEQldjVnVZX21BYlVXX0h4d1JwbFVSaQ?oc=5",
+   "company": "亚马逊",
+   "company_en": "Amazon",
+   "ticker": "AMZN",
+   "section": "权重科技",
+   "tags": [
+    "战略合作"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261116-024",
+   "title": "Meta 内部测试预测市场应用",
+   "summary": "《华尔街日报》独家报道，Meta 正在员工中测试一款预测市场应用。继社交与 AI 之后，Meta 把目光投向预测市场这一新兴赛道，产品形态与合规边界仍待观察。",
+   "time": "03:49",
+   "date": "2026-11-14",
+   "outlet": "WSJ",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUmU1MnY0TnI4RG9jaVN4eXVDb2IwOFYtTWp3Q0tIUGtqRUMwcGM2UTh5cVdNSjNnYTZWZS1Tc001dzdpMklNRFVjYnVXckplODIxN092NnFnLVdtbG8tenZJM3dwM3p3M3Jhd2NVX0RyU19CcXJsRHZRaDRnN0ZfX09YTFQzamRvTlk1MFQ1ZFY?oc=5",
+   "company": "Meta Platforms",
+   "company_en": "Meta Platforms",
+   "ticker": "META",
+   "section": "权重科技",
+   "tags": [
+    "新品发布"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261116-025",
+   "title": "谷歌将在英国推出无人机配送",
+   "summary": "谷歌计划在英国推出无人机配送服务，将无人机物流从试点推向新的市场。低空配送的商业化进程提速，监管与空域管理仍是绕不开的课题。",
+   "time": "00:00",
+   "date": "2026-11-16",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://uk.finance.yahoo.com/news/google-launch-drone-deliveries-uk-160000950.html?.tsrc=rss",
+   "company": "Alphabet",
+   "company_en": "Alphabet",
+   "ticker": "GOOGL",
+   "section": "权重科技",
+   "tags": [
+    "新品发布"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261116-026",
+   "title": "英特尔发布指引后公允价值下调，运营问题拖累信心",
+   "summary": "英特尔发布业绩指引后，公允价值预期下调，运营层面的问题拖累市场信心。在 AI 芯片竞赛中掉队的英特尔，正面临业绩与估值的双重压力。",
+   "time": "11:13",
+   "date": "2026-11-15",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-stock-sees-fair-031334674.html?.tsrc=rss",
+   "company": "英特尔",
+   "company_en": "Intel",
+   "ticker": "INTC",
+   "section": "芯片半导体",
+   "tags": [
+    "股价异动"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261116-027",
+   "title": "金融时报：后黄仁勋时代的英伟达须重组领导层、重建对华盛顿关系",
+   "summary": "《金融时报》专栏指出，后黄仁勋时代的英伟达必须重组领导层、重置与华盛顿的关系，并认识到即便贵为美国市值最高的公司，也无法左右美国的外交政策。继任风波背后，是英伟达与美国政府关系的深刻重构。",
+   "time": "15:01",
+   "date": "2026-11-15",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261115/p6#a261115p6",
+   "company": "英伟达",
+   "company_en": "NVIDIA",
+   "ticker": "NVDA",
+   "section": "权重科技",
+   "tags": [
+    "高管变动"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261116-028",
+   "title": "纽约时报调查：卢特尼克曾推动放宽芯片管制，涉及其前公司客户",
+   "summary": "《纽约时报》调查发现，美国商务部长卢特尼克曾推动放宽芯片管制，相关调整涉及其前东家 Cantor Fitzgerald 的一位客户——该客户在马来西亚的数据中心可能服务于腾讯。管制政策的制定过程因此受到质疑。",
+   "time": "00:10",
+   "date": "2026-11-16",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261115/p9#a261115p9",
+   "company": "腾讯",
+   "company_en": "Tencent",
+   "ticker": null,
+   "section": "AI前沿",
+   "tags": [
+    "监管政策"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261116-029",
+   "title": "Evercore：苹果手握赢得个人智能体竞赛的正确资产",
+   "summary": "Evercore 认为，苹果拥有赢得个人智能体竞赛的正确资产组合，从硬件入口到系统级整合均占优势。随着智能体成为 AI 竞争的新前线，苹果的生态优势被重新定价。",
+   "time": "10:08",
+   "date": "2026-11-15",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://finance.yahoo.com/technology/ai/articles/evercore-explains-why-apple-assets-020804809.html?.tsrc=rss",
+   "company": "苹果",
+   "company_en": "Apple",
+   "ticker": "AAPL",
+   "section": "权重科技",
+   "tags": [
+    "AI 模型"
+   ],
+   "title_en": "",
+   "text_en": ""
+  }
+ ],
+ "breaking": []
+}
