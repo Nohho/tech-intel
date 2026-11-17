@@ -1,0 +1,507 @@
+{
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T06:20:00+08:00",
+  "top10": [
+    {
+      "id": "tech-20261118-001",
+      "title": "英伟达三季度营收翻倍至1158亿美元，大超预期",
+      "summary": "英伟达第三财季营收1158亿美元，同比增长103%，高于市场预期的1091亿美元；数据中心营收1076亿美元，同比增长110%，四季度指引亦高于预期。这是黄仁勋卸任后的首份财报，由临时首席执行官Colette Kress主持电话会。",
+      "time": "05:26",
+      "date": "2026-11-18",
+      "outlet": "Techmeme",
+      "first_party": false,
+      "url": "https://www.techmeme.com/261117/p56#a261117p56",
+      "company": "英伟达",
+      "company_en": "NVIDIA",
+      "ticker": "NVDA",
+      "section": "权重科技",
+      "tags": [
+        "财报"
+      ],
+      "title_en": "",
+      "text_en": ""
+    },
+    {
+      "id": "tech-20261118-002",
+      "title": "消息称美国证交会正调查英伟达信息披露问题",
+      "summary": "据《华尔街日报》援引消息人士报道，美国证券交易委员会正在调查英伟达，包括公司过往信息披露是否存在误导投资者的问题。消息传出之际，英伟达刚刚发布黄仁勋卸任后的首份财报。",
+      "time": "05:05",
+      "date": "2026-11-18",
+      "outlet": "Techmeme",
+      "first_party": false,
+      "url": "https://www.techmeme.com/261117/p54#a261117p54",
+      "company": "英伟达",
+      "company_en": "NVIDIA",
+      "ticker": "NVDA",
+      "section": "权重科技",
+      "tags": [
+        "监管政策"
+      ],
+      "title_en": "",
+      "text_en": ""
+    },
+    {
+      "id": "tech-20261118-003",
+      "title": "OpenAI发布GPT-6.2 Astra与Sol，成本大幅下降",
+      "summary": "OpenAI正式推出GPT-6.2 Astra与Sol，覆盖ChatGPT Work、Codex与API。Astra在工作与科学评测中创下新纪录，成本不到GPT-6 Astra的三分之一，定价每百万token输入8美元、输出40美元。",
+      "time": "02:00",
+      "date": "2026-11-18",
+      "outlet": "Techmeme",
+      "first_party": false,
+      "url": "https://www.techmeme.com/261117/p43#a261117p43",
+      "company": "OpenAI",
+      "company_en": "OpenAI",
+      "ticker": null,
+      "section": "AI前沿",
+      "tags": [
+        "AI 模型",
+        "新品发布"
+      ],
+      "title_en": "",
+      "text_en": ""
+    },
+    {
+      "id": "tech-20261118-004",
+      "title": "微软一口气发布六款AI模型，主打低价高性价比",
+      "summary": "微软发布六款覆盖编程、网络安全、图像与语音的AI模型。其中MAI Code 2的性能达到GPT-6.1 Sol的98%，价格仅为其40%。微软正以更低的推理成本争夺企业客户，与OpenAI新模型同日登场。",
+      "time": "02:25",
+      "date": "2026-11-18",
+      "outlet": "Techmeme",
+      "first_party": false,
+      "url": "https://www.techmeme.com/261117/p45#a261117p45",
+      "company": "微软",
+      "company_en": "Microsoft",
+      "ticker": "MSFT",
+      "section": "权重科技",
+      "tags": [
+        "AI 模型",
+        "新品发布"
+      ],
+      "title_en": "",
+      "text_en": ""
+    },
+    {
+      "id": "tech-20261118-005",
+      "title": "苹果多项服务大面积宕机，称内部更新引发故障",
+      "summary": "苹果iCloud、App Store、Apple Music等多项服务出现大面积中断，苹果称故障由一次内部更新引发，目前正在全力恢复。这是苹果服务一周内再次出现大规模中断，用户反馈iPhone出现使用异常。",
+      "time": "04:44",
+      "date": "2026-11-18",
+      "outlet": "Reuters",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYVJuYnNwMGtjY1NfY01rbXdSVTVnOFdaak1sd1ZkbXpPZzFuWjlOcTJNVUplNDJZLUVxeGZtaXlGZlg1UjFkY2Z5Um5Td19tS2pUZmZKNFlEb0QxVUwyekt2UnRPRlJUT3hRM3FhQWp2MDJRVGI4U1hfeWlpeGlBdFJyTG1rei1yNXJqbnF5LV9vQ3FwYVloZjVhZ1hfVWUzV0RlQVpRc3I3emJwU1lFZEduaUZSS1k5anRlN2lDQkQ0SFI0QkVz?oc=5",
+      "company": "苹果",
+      "company_en": "Apple",
+      "ticker": "AAPL",
+      "section": "权重科技",
+      "tags": [
+        "突发"
+      ],
+      "title_en": "",
+      "text_en": ""
+    },
+    {
+      "id": "tech-20261118-006",
+      "title": "Anthropic上市后亚马逊与谷歌合计持股约28%",
+      "summary": "彭博报道，Anthropic上市后，亚马逊与谷歌合计将持有公司约28%的股份。招股文件显示，谷歌对Anthropic的承诺出资达1213亿美元，亚马逊则承诺1100亿美元算力投入。两家云巨头借IPO进一步绑定这家AI独角兽。",
+      "time": "21:03",
+      "date": "2026-11-18",
+      "outlet": "Bloomberg.com",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV2pZZmdyc0t4VzZKQ21zUWRjVENMam14ZG1qQ2ludXhhSmxGbUF5NVNmX1h0a1B2SlBMNEVZWmRZRDZSbFQyTWZKMHZuZzJrNk13Z21iaV9nbGxBaVlwTmJ4cVVMdnVYSUZrRHJNcF9ObGVyZ19MbzEzeElOcmtNTmRfSGtEOUlkNGRWZENESVliWUtfd3lyQ1ZmY0FYWTNiRzduZW02QjhyOWx6UUFN?oc=5",
+      "company": "Anthropic",
+      "company_en": "Anthropic",
+      "ticker": null,
+      "section": "AI前沿",
+      "tags": [
+        "融资"
+      ],
+      "title_en": "",
+      "text_en": ""
+    },
+    {
+      "id": "tech-20261118-007",
+      "title": "特朗普对华数据中心限制推进，巨头游说未果",
+      "summary": "路透独家报道，特朗普政府针对中国数据中心的限制措施正在推进，尽管亚马逊、谷歌与Meta进行了游说。这一限制若落地，将影响美国科技巨头在华数据中心相关业务与供应链布局。",
+      "time": "04:24",
+      "date": "2026-11-18",
+      "outlet": "Reuters",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPamZVTFBIMlk1aHp5ZUZ3ME56bnZlV3NPODhQY3JKcnI2dUtIT0FqSHFveTRSem1Rby14eXY4dnhCci1WWmNJdEZnTnNnOUJldUROSXFWc1I5SmExVXZ2dWlhMWhQSkpqTFJIN1R2aTJsX2tJQ1l6cnhRY2JWdTNpVjNKZFhuelREd1A1S29BYUhDRHlTNWxncUJ3aHFobUU1NFZNTVlkbkxLUWExUFVjWHpOSHo3aE0?oc=5",
+      "company": "亚马逊",
+      "company_en": "Amazon",
+      "ticker": "AMZN",
+      "section": "权重科技",
+      "tags": [
+        "监管政策"
+      ],
+      "title_en": "",
+      "text_en": ""
+    },
+    {
+      "id": "tech-20261118-008",
+      "title": "意大利以数据违规为由对Meta罚款8.87亿美元",
+      "summary": "意大利监管部门对Meta处以8.87亿美元罚款，事由涉及安卓用户在Facebook上照片与视频的数据访问问题。Meta近期在多国面临数据合规压力，欧洲对平台数据做法的监管持续收紧。",
+      "time": "21:07",
+      "date": "2026-11-18",
+      "outlet": "Reuters",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSVFmcHRvNGEzVXRKbU5Kc0JhSDV4R2o0bnpXSUJMZnRMc1E2ckNCRzBaWDhzY2xObHVtNmtiWmdoX3g4NlVsYkc1bzFDbVB0T016LWczNHJ6bGx2ZXlQeDZPUGNjeXJPaWZ3Wm5DdU9za21PMXFlZVVDckh5Q1I0QnROcElOTnA2bGMzczBMbFJweW1ISkkwWUgzNXJpTU95N0NR?oc=5",
+      "company": "Meta Platforms",
+      "company_en": "Meta Platforms",
+      "ticker": "META",
+      "section": "权重科技",
+      "tags": [
+        "监管政策"
+      ],
+      "title_en": "",
+      "text_en": ""
+    },
+    {
+      "id": "tech-20261118-009",
+      "title": "Meta推出Instagram独立聊天应用Direct",
+      "summary": "Meta推出面向Instagram的独立聊天应用Direct，将私信功能从主应用中拆分出来。这是Meta围绕Instagram通讯功能的一次独立化尝试，意在以单独应用承载用户的即时通讯需求。",
+      "time": "23:01",
+      "date": "2026-11-18",
+      "outlet": "TechCrunch",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYU4zZEJiWVlxa1duWm9LekZvUFNqcGlkZlBGR1BVLVV0eVJFUDJ6a1BYTl9kdDBhc3B0SFVGTUV5MWZXNTdSeGs3TWhlQ1JWNmpIemVlVUJ5WE5CUkhhb09GbzloRkI2STdqTFBtWDBpaWd0dnFWLVJXZE8tUzA4UFVFSDYwZGNnc2ZGWUtFMEdXQjJwMFMwNzBLU3o?oc=5",
+      "company": "Meta Platforms",
+      "company_en": "Meta Platforms",
+      "ticker": "META",
+      "section": "权重科技",
+      "tags": [
+        "新品发布"
+      ],
+      "title_en": "",
+      "text_en": ""
+    },
+    {
+      "id": "tech-20261118-010",
+      "title": "特斯拉拟斥资33亿美元扩建柏林工厂生产Cybercab",
+      "summary": "特斯拉计划投资33亿美元扩建德国柏林工厂，用于生产无人驾驶出租车Cybercab。柏林工厂是特斯拉在欧洲的核心制造基地，此次扩建将大幅提升Cybercab的量产能力。",
+      "time": "02:57",
+      "date": "2026-11-18",
+      "outlet": "Yahoo Finance",
+      "first_party": false,
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-plans-3-3-billion-185703321.html?.tsrc=rss",
+      "company": "特斯拉",
+      "company_en": "Tesla",
+      "ticker": "TSLA",
+      "section": "权重科技",
+      "tags": [
+        "新品发布"
+      ],
+      "title_en": "",
+      "text_en": ""
+    }
+  ],
+  "company_news": [
+    {
+      "id": "tech-20261118-011",
+      "title": "评测显示GPT-6.2 Astra仅次于Claude Fable 5.2",
+      "summary": "Artificial Analysis的评测显示，GPT-6.2 Astra仅次于Claude Fable 5.2，编程能力与GPT-6 Astra持平；Epoch AI则认为两者打成平手。两家机构结论略有分歧，但均把新模型列入顶级梯队。",
+      "time": "05:45",
+      "date": "2026-11-18",
+      "outlet": "Techmeme",
+      "first_party": false,
+      "url": "https://www.techmeme.com/261117/p57#a261117p57",
+      "company": "OpenAI",
+      "company_en": "OpenAI",
+      "ticker": null,
+      "section": "AI前沿",
+      "tags": [
+        "AI 模型"
+      ],
+      "title_en": "",
+      "text_en": ""
+    },
+    {
+      "id": "tech-20261118-012",
+      "title": "初创公司用GPT-6 Cyber发现Java严重漏洞",
+      "summary": "网络安全初创公司Calif称，其利用GPT-6 Cyber发现了Java中一个远程代码执行漏洞，并命名为Java4Shell。甲骨文已发布补丁修复该漏洞。这是AI模型直接参与发现关键安全漏洞的最新案例。",
+      "time": "05:20",
+      "date": "2026-11-18",
+      "outlet": "Techmeme",
+      "first_party": false,
+      "url": "https://www.techmeme.com/261117/p55#a261117p55",
+      "company": "甲骨文",
+      "company_en": "Oracle Corporation",
+      "ticker": "ORCL",
+      "section": "软件云AI",
+      "tags": [
+        "突发"
+      ],
+      "title_en": "",
+      "text_en": ""
+    },
+    {
+      "id": "tech-20261118-013",
+      "title": "消息称AppLovin洽购广告科技公司Criteo",
+      "summary": "据路透援引消息人士报道，AppLovin正在洽购广告科技公司Criteo，后者市值约10亿美元，过去五年股价已下跌逾50%。AppLovin是参与洽购的公司之一，交易仍在谈判之中。",
+      "time": "04:45",
+      "date": "2026-11-18",
+      "outlet": "Techmeme",
+      "first_party": false,
+      "url": "https://www.techmeme.com/261117/p53#a261117p53",
+      "company": "AppLovin",
+      "company_en": "AppLovin",
+      "ticker": "APP",
+      "section": "软件云AI",
+      "tags": [
+        "并购"
+      ],
+      "title_en": "",
+      "text_en": ""
+    },
+    {
+      "id": "tech-20261118-014",
+      "title": "加州禁止Waymo无人车上高速，全国暂停高速服务",
+      "summary": "加州监管部门禁止Waymo无人驾驶出租车在高速公路上行驶，此前一段视频显示一辆Waymo未能给高速巡逻车让行。Waymo随即在全国范围内暂停了高速服务，机器人出租车的路权争议再度升温。",
+      "time": "04:10",
+      "date": "2026-11-18",
+      "outlet": "Techmeme",
+      "first_party": false,
+      "url": "https://www.techmeme.com/261117/p50#a261117p50",
+      "company": "Alphabet",
+      "company_en": "Alphabet",
+      "ticker": "GOOGL",
+      "section": "权重科技",
+      "tags": [
+        "监管政策"
+      ],
+      "title_en": "",
+      "text_en": ""
+    },
+    {
+      "id": "tech-20261118-015",
+      "title": "谷歌延长Gemini临时聊天记录保留期至约两月",
+      "summary": "谷歌更新Gemini隐私中心，将临时聊天与关闭历史记录的对话保留期从72小时延长至约两个月。这一调整涉及用户隐私数据的保存时长，引发外界对AI聊天记录政策的关注。",
+      "time": "03:00",
+      "date": "2026-11-18",
+      "outlet": "Techmeme",
+      "first_party": false,
+      "url": "https://www.techmeme.com/261117/p47#a261117p47",
+      "company": "Alphabet",
+      "company_en": "Alphabet",
+      "ticker": "GOOGL",
+      "section": "权重科技",
+      "tags": [
+        "监管政策"
+      ],
+      "title_en": "",
+      "text_en": ""
+    },
+    {
+      "id": "tech-20261118-016",
+      "title": "Meta称已调整Instagram以减少印度违规内容",
+      "summary": "Meta表示，已调整Instagram的推荐机制，以减少印度用户看到的露骨与暴力内容。此举是对印度监管审查的回应，平台内容治理在当地面临持续压力，Meta近期已多次收紧相关内容审核。",
+      "time": "13:23",
+      "date": "2026-11-18",
+      "outlet": "Reuters",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbG10R1FZNlE4T3JRLTdzVURBOXUxY3EycmJidHF1el9GV3c2QnFzYzZHVkg4ZjFfTF83UkNkS1JQYXBCS2FfVmRtcm12VnFYSnM5NXZuSUxPd3RSaWF1a3FsRFlOT19aT00yd3Nqakx0WnNDSk5NLUFxVG9jNkxhY29LbEdBeTBOV1c0NDk4OEhRN1dZVEo5c2d1TGFXSkRUcHFEWjFTSFpaMXk0aVF3bFFpQkE?oc=5",
+      "company": "Meta Platforms",
+      "company_en": "Meta Platforms",
+      "ticker": "META",
+      "section": "权重科技",
+      "tags": [
+        "监管政策"
+      ],
+      "title_en": "",
+      "text_en": ""
+    },
+    {
+      "id": "tech-20261118-017",
+      "title": "连Sam Altman也难逃Instagram上的AI换脸",
+      "summary": "The Verge报道，Instagram上出现了以OpenAI首席执行官Sam Altman为主角的AI换脸内容，显示平台上的深度伪造问题已波及科技圈高管本人。Meta正面临生成式内容滥用的治理难题。",
+      "time": "05:00",
+      "date": "2026-11-18",
+      "outlet": "The Verge",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTXVTV044VDhvSkx0SXBpY3dtSVNOYVRHYXN3U1NVTEgwTUU1dW9oc1BPRlJ2akx4bldKSmVyeFN2NVNhZzg2VEo3Y3d0RzFLMlUwWjdDbGEtcTRNMVJkY3F1X3FvWG5vc080eXFLNjVPZHNqendEc3BIQjRnS1EtOTU0Z3VsaDMxb1hnTnhhOFF3OTg?oc=5",
+      "company": "Meta Platforms",
+      "company_en": "Meta Platforms",
+      "ticker": "META",
+      "section": "权重科技",
+      "tags": [
+        "突发"
+      ],
+      "title_en": "",
+      "text_en": ""
+    },
+    {
+      "id": "tech-20261118-018",
+      "title": "微软AI负责人称算力暂不是瓶颈",
+      "summary": "微软AI负责人表示，就目前而言，算力并不是AI发展的瓶颈。这一表态出现在行业普遍担忧算力短缺的背景下，与市场上的主流焦虑形成对比，也引发对AI基础设施投入节奏的讨论。",
+      "time": "05:31",
+      "date": "2026-11-18",
+      "outlet": "Yahoo Finance",
+      "first_party": false,
+      "url": "https://finance.yahoo.com/video/microsoft-ai-chief-says-compute-isnt-a-bottleneck--for-now-213157737.html?.tsrc=rss",
+      "company": "微软",
+      "company_en": "Microsoft",
+      "ticker": "MSFT",
+      "section": "权重科技",
+      "tags": [
+        "AI 模型"
+      ],
+      "title_en": "",
+      "text_en": ""
+    },
+    {
+      "id": "tech-20261118-019",
+      "title": "微软Ignite主推低成本专用AI模型",
+      "summary": "微软在Ignite大会上主推面向具体任务的低成本AI模型，回应企业客户token支出快速攀升的痛点。微软的策略是用更便宜的专用模型承接常规任务，降低企业AI应用成本。",
+      "time": "04:34",
+      "date": "2026-11-18",
+      "outlet": "Yahoo Finance",
+      "first_party": false,
+      "url": "https://finance.yahoo.com/markets/article/microsoft-ignite-focuses-on-ai-models-for-specific-tasks-lowering-costs-for-enterprise-203433266.html?.tsrc=rss",
+      "company": "微软",
+      "company_en": "Microsoft",
+      "ticker": "MSFT",
+      "section": "权重科技",
+      "tags": [
+        "AI 模型"
+      ],
+      "title_en": "",
+      "text_en": ""
+    },
+    {
+      "id": "tech-20261118-020",
+      "title": "纽约梅隆与微软完成首笔AI代理谈判国债交易",
+      "summary": "纽约梅隆银行与微软完成首笔由AI代理谈判达成的国债交易。这是AI代理首次进入机构级金融交易谈判环节，标志着代理式AI开始触及核心金融市场业务，华尔街对AI代理的采用再进一步。",
+      "time": "04:19",
+      "date": "2026-11-18",
+      "outlet": "Yahoo Finance",
+      "first_party": false,
+      "url": "https://finance.yahoo.com/technology/ai/articles/bny-microsoft-complete-first-ai-201911277.html?.tsrc=rss",
+      "company": "微软",
+      "company_en": "Microsoft",
+      "ticker": "MSFT",
+      "section": "权重科技",
+      "tags": [
+        "战略合作"
+      ],
+      "title_en": "",
+      "text_en": ""
+    },
+    {
+      "id": "tech-20261118-021",
+      "title": "Adobe把Creative Cloud与Firefly变身AI工作室",
+      "summary": "Adobe宣布将Creative Cloud与Firefly转型为AI工作室，并与多家公司达成新的合作。此举是Adobe把生成式AI深度嵌入创意工具链的最新动作。",
+      "time": "03:10",
+      "date": "2026-11-18",
+      "outlet": "Yahoo Finance",
+      "first_party": false,
+      "url": "https://finance.yahoo.com/technology/ai/articles/adobe-adbe-turns-creative-cloud-191007810.html?.tsrc=rss",
+      "company": "奥多比",
+      "company_en": "Adobe",
+      "ticker": "ADBE",
+      "section": "软件云AI",
+      "tags": [
+        "AI 模型",
+        "新品发布"
+      ],
+      "title_en": "",
+      "text_en": ""
+    },
+    {
+      "id": "tech-20261118-022",
+      "title": "美国新规要求五大芯片中心申领许可，AMD跌1.62%",
+      "summary": "美国出台新规，要求五大芯片中心的业务申领许可，消息拖累AMD股价下跌1.62%。市场担忧出口管制收紧将增加芯片厂商的合规成本，芯片股短期承压，投资者等待细则进一步明确。",
+      "time": "03:02",
+      "date": "2026-11-18",
+      "outlet": "Yahoo Finance",
+      "first_party": false,
+      "url": "https://finance.yahoo.com/technology/articles/amd-stocks-decrease-1-62-190241595.html?.tsrc=rss",
+      "company": "超威半导体",
+      "company_en": "Advanced Micro Devices",
+      "ticker": "AMD",
+      "section": "权重科技",
+      "tags": [
+        "监管政策",
+        "股价异动"
+      ],
+      "title_en": "",
+      "text_en": ""
+    },
+    {
+      "id": "tech-20261118-023",
+      "title": "宁德时代、百度与宇树将出席深圳APEC工商领导人峰会",
+      "summary": "彭博报道，宁德时代、百度与宇树科技将出席在深圳举行的APEC工商领导人峰会。峰会汇聚中国科技与制造领域的龙头企业，机器人与人工智能议题料将成为现场焦点，值得关注。",
+      "time": "00:54",
+      "date": "2026-11-18",
+      "outlet": "Bloomberg.com",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeWZrNHRvb2NLYmlsckJpVUZJbzNHOE12RXpHUTBKaEhxbnR3aFQwRnIyNGg2OElBQ3RnUXlSb0I1eURjekxhdDQtUmVJSkZXanpJY1RTLWtpR2hVeFR3aWFxcEpuRGVvc3o5V2gwQjJITUttMmtvTmtINjJxNHcxWE9PNFFkTm94alo3dUhONHV2NWx2Szl5eF91X1Mtcnd2WXBVOUdkX25mN1E?oc=5",
+      "company": "宇树科技",
+      "company_en": "Unitree Robotics",
+      "ticker": null,
+      "section": "机器人",
+      "tags": [
+        "战略合作"
+      ],
+      "title_en": "",
+      "text_en": ""
+    },
+    {
+      "id": "tech-20261118-024",
+      "title": "罗克韦尔在自动化博览会发布创纪录创新阵容",
+      "summary": "罗克韦尔自动化在2026年自动化博览会上发布了创纪录的创新产品阵容，覆盖工业自动化与智能制造。年度展会是公司集中展示新品、面向工业客户的重要窗口，也是观察工厂数字化需求的风向标。",
+      "time": "10:43",
+      "date": "2026-11-18",
+      "outlet": "Putman Media",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPOF8xZlJmWHVrMm1tSGFCeExzZnQxeF9NZDJNUTIzZzYzWVEzMGsySUwwNE1FN2Q2N3Y3OGxwRGpnSmpmU3BMUDU4bjQ5TEZqeWJ0QnJqVWNqNUkyR0pVbGdkX1hnZnpXYS1Tb0tGby10dVpYWUkzUXB0emdqMFJRUm9ZMS1vTEJhQUNEaG00Y25ZYWFnTmFTVkZWSDhJd0hjR2s0ZElEQWRsUFJHRzRqMGw2QlpPT1BNeFoxc2hkTVk1U0Fkb1EzcW5lazFzLXROUzlnQ2lQUHJJY184QndfOTVkZmZoSjl0R240ZkpEVEVVVnAtZjYya0RfbFNXXzgyUERrZ25GeWV0aTJ1ak9xWTJsc2VzeG1Uemd2NFJZRnpMUXpkWHc?oc=5",
+      "company": "罗克韦尔",
+      "company_en": "Rockwell Automation",
+      "ticker": "ROK",
+      "section": "机器人",
+      "tags": [
+        "新品发布"
+      ],
+      "title_en": "",
+      "text_en": ""
+    },
+    {
+      "id": "tech-20261118-025",
+      "title": "前Freshworks团队融资5300万美元挑战Salesforce",
+      "summary": "Freshworks的前员工团队融资5300万美元，打造AI原生CRM，直接挑战Salesforce与HubSpot。AI正在重塑企业软件赛道，传统CRM巨头面临来自初创公司的新一轮冲击。",
+      "time": "20:30",
+      "date": "2026-11-18",
+      "outlet": "TechCrunch",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdHNUX1ItSjhuR0cxcTBlYnBHOENrTnI2dEhkX01HVGFYSDhYVHFfT0l6WVJmeTJjQXFyaXNUeFlmajFNekRuV2l4cllnWWJ3eG01LTZXWHdIdU5EMkQ5OXJ3Rzd6ZS1aenhYMDZsaHg4WXdYRWtNTy02MVlxQTRsb2VTM1c5ZmRhTXp1NVppWGJSSXUtaWp2SnlSX0t0c1YtZ0dvZTdSeERRdGNiLWNj?oc=5",
+      "company": "Salesforce",
+      "company_en": "Salesforce",
+      "ticker": "CRM",
+      "section": "软件云AI",
+      "tags": [
+        "融资"
+      ],
+      "title_en": "",
+      "text_en": ""
+    },
+    {
+      "id": "tech-20261118-026",
+      "title": "华硕在SC26展示搭载AMD与英特尔平台的全栈AI方案",
+      "summary": "华硕在超算大会SC26上展示全栈AI基础设施方案，覆盖采用AMD与英特尔平台的产品线。此次展示覆盖从芯片到整机的多层产品，凸显整机厂商在AI基础设施市场的卡位意图。",
+      "time": "04:43",
+      "date": "2026-11-18",
+      "outlet": "Yahoo Finance",
+      "first_party": false,
+      "url": "https://finance.yahoo.com/technology/ai/articles/asus-showcases-full-stack-ai-204300656.html?.tsrc=rss",
+      "company": "超威半导体",
+      "company_en": "Advanced Micro Devices",
+      "ticker": "AMD",
+      "section": "权重科技",
+      "tags": [
+        "新品发布"
+      ],
+      "title_en": "",
+      "text_en": ""
+    }
+  ],
+  "breaking": []
+}
