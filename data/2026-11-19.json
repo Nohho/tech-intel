@@ -1,0 +1,465 @@
+{
+ "date": "2026-11-19",
+ "generated_at": "2026-11-19T06:35:00+08:00",
+ "top10": [
+  {
+   "id": "tech-20261119-001",
+   "title": "谷歌发布 Gemini 4 Neon，主打端到端任务完成",
+   "summary": "谷歌推出 Gemini 4 Neon，主打编码、知识工作与科研场景的快速端到端任务完成能力，已上线 API、Antigravity 与 Gemini 应用。新模型在速度与任务完成度上的表现，成为谷歌 AI 布局的新看点。",
+   "time": "05:47",
+   "date": "2026-11-19",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261118/p44#a261118p44",
+   "company": "Alphabet",
+   "company_en": "Alphabet",
+   "ticker": "GOOGL",
+   "section": "权重科技",
+   "tags": [
+    "AI 模型"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261119-002",
+   "title": "英伟达财报超预期，华尔街仍忧 CEO 接班",
+   "summary": "英伟达三季度业绩超出市场预期，但投资者对 CEO 接班前景仍存疑虑，财报后市场反应分化。接班人选与管理层稳定性成为华尔街关注的焦点，临时 CEO 能否稳住客户与团队，将决定过渡期的长短。",
+   "time": "16:33",
+   "date": "2026-11-19",
+   "outlet": "Reuters",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbldlWEozckRZVFhNcGlyNVhJSkxoQ1E2UFduQ3ZaNHFBT0RKMW12eTNJV1BhNzZVMENXWFk0OWE1Z1RWRlUwMW82a2RhYm9kQjlIcmlUb1dzNVBUU25hVHQ5eEdVckRac3B5cUlFMjZkUUlJUFYyZFdjVW95R1ZiT0JZdnFSM0RvMG8tdkxOY21uNFRuOGRTdFJqMzBySXgtTDQ2T2ZzUDdzb1UxbGtfeA?oc=5",
+   "company": "英伟达",
+   "company_en": "NVIDIA",
+   "ticker": "NVDA",
+   "section": "权重科技",
+   "tags": [
+    "财报"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261119-003",
+   "title": "英伟达董事会猎头接触 Arm 首席执行官哈斯",
+   "summary": "知情人士称，英伟达董事会聘请的猎头公司已接触 Arm 首席执行官 Rene Haas，商讨其出任英伟达 CEO 的可能性。接班人搜寻出现具体目标，Arm 方面暂未置评。",
+   "time": "03:16",
+   "date": "2026-11-19",
+   "outlet": "Bloomberg.com",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSkdMM3B6VU5DaTBZaEZfWnQwQ2RIRjg0WkRUVkxLM2JmcUxxMHpCUHBjRzNmTHFFMXRzM1R4Z2kzZ0ZIOFdmeVFZdGMwSFpQMGQydWZHWVR2V3Ytczd2b3YtVkM5Y3lGRl9KN2VBWllFSXpKdDRmVGl6NGdJTzgyemZyeldNbE9fdGgwTEtfclhzTjZGT0YycW41S2NMVGYzOFJqX1dTcTAyVFZReVZQaXFqUnU?oc=5",
+   "company": "安谋",
+   "company_en": "Arm Holdings",
+   "ticker": "ARM",
+   "section": "芯片半导体",
+   "tags": [
+    "高管变动"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261119-004",
+   "title": "英伟达全员会承诺 12 月提前加薪发股",
+   "summary": "黄仁勋卸任后英伟达召开首次全员会，临时 CEO Colette Kress 向员工承诺 12 月提前加薪并增发股权，较原计划提前数月。管理层试图在过渡期稳住核心团队。",
+   "time": "03:25",
+   "date": "2026-11-19",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261118/p38#a261118p38",
+   "company": "英伟达",
+   "company_en": "NVIDIA",
+   "ticker": "NVDA",
+   "section": "权重科技",
+   "tags": [
+    "高管变动"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261119-005",
+   "title": "Palo Alto 以 45 亿美元收购 Applied Compute",
+   "summary": "Palo Alto Networks 同意以 45 亿美元股票收购 Applied Compute，后者帮助企业定制开源权重 AI 模型。该公司本月估值仅 32.5 亿美元，收购溢价明显，交易旨在补强 AI 安全布局。",
+   "time": "05:15",
+   "date": "2026-11-19",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261118/p41#a261118p41",
+   "company": "Palo Alto Networks",
+   "company_en": "Palo Alto Networks",
+   "ticker": "PANW",
+   "section": "网络安全",
+   "tags": [
+    "并购"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261119-006",
+   "title": "Meta 暂停发行 C 类股，投资者诉讼期间让步",
+   "summary": "Meta 同意在投资者诉讼期间暂停发行无投票权 C 类股。股东反对公司为筹资 AI 投入而稀释股权、同时不削弱扎克伯格控制权的计划，诉讼结果将影响其融资安排，也折射出投资者对科技巨头治理结构的持续关注。",
+   "time": "05:40",
+   "date": "2026-11-19",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261118/p42#a261118p42",
+   "company": "Meta Platforms",
+   "company_en": "Meta Platforms",
+   "ticker": "META",
+   "section": "权重科技",
+   "tags": [
+    "诉讼"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261119-007",
+   "title": "Anthropic 上市定价或远高于 80 美元",
+   "summary": "知情人士称，Anthropic 正考虑上调 IPO 定价，发行价可能远高于 80 美元，此前定价区间为 70 至 78 美元。投资者认购踊跃，反映市场对这家 AI 公司上市的强烈需求。",
+   "time": "01:15",
+   "date": "2026-11-19",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261118/p34#a261118p34",
+   "company": "Anthropic",
+   "company_en": "Anthropic",
+   "ticker": null,
+   "section": "AI前沿",
+   "tags": [
+    "融资"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261119-008",
+   "title": "AMD 完成 82 亿美元收购 World Labs",
+   "summary": "AMD 宣布完成 82 亿美元收购 World Labs，并任命“AI 教母”李飞飞为执行副总裁兼首席科学家。交易补强 AMD 在世界模型与空间智能方向的布局。",
+   "time": "01:14",
+   "date": "2026-11-19",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQcEFtWnZIUFh6bWd3Smx4RzAwc0pKcTlJTTRyNnR5MWY2dllWWFJrQlZxVG5GTEU3ZkY1TE1IREpJWXZyNS0zV3lhN3JCUGJHd3RnREs1WXMtQnRJdnFEZzNQUk1GV1hRcndrSlNCS3FUOHN4ZzR5dWJoQzBIdTdieEJQWUw4T1A5SUJxM0VJZjYwUXFqY29BbzhVMXZaejg1YnZkU0pBckFoaGZjQzJONm05aWR3THhPLVVrTmlraFZoRS1ZRThJRmhqMTJZOURCVHc5VWN3STN2NEhGaHNUVm5fX0czRXNnc2hF?oc=5",
+   "company": "超威半导体",
+   "company_en": "Advanced Micro Devices",
+   "ticker": "AMD",
+   "section": "权重科技",
+   "tags": [
+    "并购"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261119-009",
+   "title": "谷歌 Project Genie 升级，推出 Genie 4",
+   "summary": "谷歌向 AI Ultra 订阅用户推出 Project Genie 更新，包括新一代世界模型 Genie 4、Genie 3 新功能、自动搭建世界的智能体以及作品分享画廊。世界模型成为谷歌 AI 布局的新焦点。",
+   "time": "02:35",
+   "date": "2026-11-19",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261118/p37#a261118p37",
+   "company": "Alphabet",
+   "company_en": "Alphabet",
+   "ticker": "GOOGL",
+   "section": "权重科技",
+   "tags": [
+    "新品发布"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261119-010",
+   "title": "英伟达供应承诺增至 3900 亿美元，美光跟涨",
+   "summary": "随着英伟达供应承诺增至 3900 亿美元，美光股价上涨 1.7%。市场看好 AI 基础设施需求持续拉动存储芯片订单，存储芯片成为 AI 基建最直接的受益环节之一，订单能见度随供应承诺同步提升。",
+   "time": "03:44",
+   "date": "2026-11-19",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://finance.yahoo.com/markets/stocks/articles/micron-stocks-rise-1-7-194453345.html?.tsrc=rss",
+   "company": "美光",
+   "company_en": "Micron Technology",
+   "ticker": "MU",
+   "section": "权重科技",
+   "tags": [
+    "股价异动"
+   ],
+   "title_en": "",
+   "text_en": ""
+  }
+ ],
+ "company_news": [
+  {
+   "id": "tech-20261119-011",
+   "title": "谷歌 Gemini Spark 改名 Tasks，六国免费开放",
+   "summary": "谷歌将 AI 智能体 Gemini Spark 更名为 Tasks，并在六个国家免费开放；美国用户可用它致电商家并通过 Google Pay 下单。谷歌正把智能体从试验品推向日常消费场景。",
+   "time": "04:05",
+   "date": "2026-11-19",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261118/p39#a261118p39",
+   "company": "Alphabet",
+   "company_en": "Alphabet",
+   "ticker": "GOOGL",
+   "section": "权重科技",
+   "tags": [
+    "新品发布"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261119-012",
+   "title": "特斯拉赢得曼尼托巴电动汽车补贴官司",
+   "summary": "特斯拉在与加拿大曼尼托巴省的电动汽车补贴纠纷中赢得诉讼胜利。彭博报道了这一裁决结果，这起围绕电动车补贴资格的争议暂告一段落，法院的裁决为特斯拉在加拿大的补贴申请扫清了障碍。",
+   "time": "05:46",
+   "date": "2026-11-19",
+   "outlet": "Bloomberg.com",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcjlYQ3B5anNPanBLQkQzTXBacy1ObkFLY0xPTkRaUXV0dlhpS3E5N0JfVDNsMW9vN2Uycm9wcmMwemdlU3JmNWlZYm4zcnE5X0JQaWM1VlVYN2k3LVFhSFQ1cUZ1NkRidi1ra0JWMEszMUYyM0xPb3lsd0lVQkE3Wk5abkNvWG1PcU5oUEw2N2NNUVdzd3lTcmZFU1g5ZzRkb3h2My1tYnAzcUtkZGsyNEdyX0pCNkR4UmVDcFFfV0M?oc=5",
+   "company": "特斯拉",
+   "company_en": "Tesla",
+   "ticker": "TSLA",
+   "section": "权重科技",
+   "tags": [
+    "诉讼"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261119-013",
+   "title": "亚马逊将在印度投资 70 亿美元发展可再生能源",
+   "summary": "亚马逊计划在印度投资 70 亿美元发展可再生能源。投资将支持其在当地扩张的数据中心与云业务，清洁电力供应是其印度布局的关键一环；亚马逊在印度的数据中心规模持续扩大，绿电采购成为支撑其云业务增长的重要配套。",
+   "time": "19:57",
+   "date": "2026-11-19",
+   "outlet": "Reuters",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQX2VQM2lmenVrZWFWR0hYWjNMUWlkdTVBOGVpSERjX05QZldrcnZGWE0ybHJxeE5Id3VSblZwU1A0Vmx2VkkzN0RyanlrN2R6R2xOcGpwemVVZ0owMTdwNW9WUzFTRkdVNlQzRG5lYXNQclJ1eGNyT0ZlZDJrOFpDcGtPTmNTTmlpLTdxRHk0SFpCX0V5MzJyZVNpVkhuc0U?oc=5",
+   "company": "亚马逊",
+   "company_en": "Amazon",
+   "ticker": "AMZN",
+   "section": "权重科技",
+   "tags": [
+    "战略合作"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261119-014",
+   "title": "Meta 内部员工担忧 Muse AI 的隐私问题",
+   "summary": "内部聊天记录显示，Meta 员工对 Muse AI 智能体存在的隐私侵犯问题感到担忧。Meta 正大力押注 Muse 智能体，早期安全事故已引发内部警觉，这起风波也让外界重新审视 AI 智能体调用个人数据时的边界问题。",
+   "time": "03:19",
+   "date": "2026-11-19",
+   "outlet": "Ars Technica",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWGJmU050WEQzdDljRHE3Tk5EZjNjbklHRzF0bHRjcHJLWVpKYmFUNTcxUW5OWFVwSDJKZ194cE5zRk40Z19LczRRYWZKWnNhLU1oQ1F3blFtNzlSdmJPOVNPYnp5STlHdFBvYXFjWmstbXl0ZFpRd08xbkFtRjRMVUE3czFQZHRYRXJZUlhzYW5TUndlb2NqLUdCek54OHhGY1FXVlRZeGNBQl91bngtY3E1VzFNeHlIZVE?oc=5",
+   "company": "Meta Platforms",
+   "company_en": "Meta Platforms",
+   "ticker": "META",
+   "section": "权重科技",
+   "tags": [
+    "突发"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261119-015",
+   "title": "苹果多项服务宕机，iCloud 与 App Store 受影响",
+   "summary": "苹果多项服务出现宕机，包括 iCloud、App Store 与 Apple Music 等。故障发生之际，美国多家科技公司的服务近期接连中断，引发对基础设施稳定性的关注。",
+   "time": "02:55",
+   "date": "2026-11-19",
+   "outlet": "TechCrunch",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSk8wWVhKbFhaQ0ZxVGNYUmlERkotWEFkOFNkLWFCaDlJbmRSdDYxMnVaREVLSVh6WGJxMURwR25uM2E3ZWROU2VGUkFHRGlEcVBfR2pnWWtzNUQwWGwyVUtCVy0yNmRIQkdaWWZ1eXZsRDB1Sm1nZVllZ2VmSVQ2b1FoN21kTldteDJidE85YkZmMW9ZNGZ1VmNVMVd2NlZBdWFlTi1qdE1nQQ?oc=5",
+   "company": "苹果",
+   "company_en": "Apple",
+   "ticker": "AAPL",
+   "section": "权重科技",
+   "tags": [
+    "突发"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261119-016",
+   "title": "高通在圣迭戈裁员数百人",
+   "summary": "高通在圣迭戈启动新一轮裁员，涉及数百个岗位。公司未披露具体部门与受影响业务线，芯片行业正随需求变化调整人力配置；圣迭戈是高通总部所在地，此次裁员引发当地关注，也给当地科技就业市场带来压力。",
+   "time": "04:45",
+   "date": "2026-11-19",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://finance.yahoo.com/technology/articles/tech-layoffs-flare-san-diego-204523059.html?.tsrc=rss",
+   "company": "高通",
+   "company_en": "Qualcomm",
+   "ticker": "QCOM",
+   "section": "芯片半导体",
+   "tags": [
+    "突发"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261119-017",
+   "title": "微软 Copilot 成本优势说法有待验证",
+   "summary": "微软宣称 Copilot 具备成本优势，但分析认为这一说法看似合理、尚未得到证实。AI 助手能否真正降低企业成本，仍是市场检验其商业化前景的关键；Copilot 的定价与实际节省效果，一直是企业客户评估是否大规模部署的重要考量。",
+   "time": "04:11",
+   "date": "2026-11-19",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-copilot-cost-advantage-claim-201123346.html?.tsrc=rss",
+   "company": "微软",
+   "company_en": "Microsoft",
+   "ticker": "MSFT",
+   "section": "权重科技",
+   "tags": [
+    "AI 模型"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261119-018",
+   "title": "安全机构联名质疑 Anthropic 的安全形象",
+   "summary": "在 Anthropic 上市前夕，AI 安全中心等机构联名发表声明，质疑该公司“安全”品牌定位，批评其开发递归自我改进系统的做法“鲁莽”。上市热潮之外，安全争议成为焦点。",
+   "time": "00:01",
+   "date": "2026-11-19",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261118/p30#a261118p30",
+   "company": "Anthropic",
+   "company_en": "Anthropic",
+   "ticker": null,
+   "section": "AI前沿",
+   "tags": [
+    "突发"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261119-019",
+   "title": "帕尔默·拉奇呼吁恢复黄仁勋英伟达 CEO 职位",
+   "summary": "Anduril 创始人帕尔默·拉奇表示，中国对黄仁勋卸任“感到高兴”，呼吁恢复其英伟达 CEO 职位。拉奇是知名国防科技创业者，其表态让这场接班争议再度升温，也折射出硅谷对英伟达领导层变动的高度关注。",
+   "time": "05:31",
+   "date": "2026-11-19",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://finance.yahoo.com/technology/articles/palmer-luckey-thinks-china-thrilled-213121175.html?.tsrc=rss",
+   "company": "英伟达",
+   "company_en": "NVIDIA",
+   "ticker": "NVDA",
+   "section": "权重科技",
+   "tags": [
+    "高管变动"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261119-020",
+   "title": "奥多比现金流强劲，华尔街却唱衰",
+   "summary": "奥多比账面现金流持续强劲，但华尔街对其前景仍持怀疑态度。市场担忧 AI 工具冲击传统创意软件业务，奥多比需用业绩证明自身仍具增长动能；创意软件龙头能否在 AI 时代守住护城河，仍需更多季度的业绩来验证。",
+   "time": "05:20",
+   "date": "2026-11-19",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://finance.yahoo.com/markets/stocks/articles/adobe-adbe-printing-cash-while-212000862.html?.tsrc=rss",
+   "company": "奥多比",
+   "company_en": "Adobe",
+   "ticker": "ADBE",
+   "section": "软件云AI",
+   "tags": [
+    "财报"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261119-021",
+   "title": "台积电股价被指过于便宜",
+   "summary": "分析认为，台积电当前股价相对其增长前景显得过于便宜。AI 芯片需求旺盛之际，市场对其代工龙头的估值仍存分歧；作为全球最大芯片代工厂，台积电的订单与产能利用率被视为 AI 需求的晴雨表，估值修复需要业绩持续兑现。",
+   "time": "05:08",
+   "date": "2026-11-19",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-stock-tsm-looks-210800765.html?.tsrc=rss",
+   "company": "台积电",
+   "company_en": "TSMC",
+   "ticker": "TSM",
+   "section": "芯片半导体",
+   "tags": [
+    "股价异动"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261119-022",
+   "title": "Credo 与 Marvell 达成重大专利协议",
+   "summary": "Credo Technology 在与 Marvell 达成重大专利协议后股价跳涨。专利授权合作有望为双方带来新的收入来源，高速互连是 AI 数据中心的关键环节，相关专利的商业价值正在凸显。",
+   "time": "03:52",
+   "date": "2026-11-19",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://finance.yahoo.com/markets/stocks/articles/credo-technology-stock-jumps-reaching-195223167.html?.tsrc=rss",
+   "company": "美满电子",
+   "company_en": "Marvell Technology",
+   "ticker": "MRVL",
+   "section": "芯片半导体",
+   "tags": [
+    "战略合作"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261119-023",
+   "title": "数据中心反弹声浪冲击亚马逊，俄亥俄首当其冲",
+   "summary": "美国部分地区对数据中心的反对声浪升温，亚马逊在俄亥俄州受到的冲击最为明显。社区对耗电与土地使用的担忧，正成为云厂商扩张的新变量；随着 AI 算力需求激增，数据中心的选址与环评正受到越来越多地方社区的审视。",
+   "time": "03:51",
+   "date": "2026-11-19",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://finance.yahoo.com/technology/ai/articles/data-center-backlash-hits-amazon-195116574.html?.tsrc=rss",
+   "company": "亚马逊",
+   "company_en": "Amazon",
+   "ticker": "AMZN",
+   "section": "权重科技",
+   "tags": [
+    "监管政策"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261119-024",
+   "title": "瑞穗维持微软乐观看法，看好收入增长",
+   "summary": "瑞穗维持对微软的乐观看法，认为其收入增长前景强劲。Azure 与 AI 业务的增长势头，是华尔街继续看多微软的重要理由，云与 AI 仍是微软增长的核心引擎，机构对其盈利预期仍有支撑。",
+   "time": "05:00",
+   "date": "2026-11-19",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbkpCQ3NWcTBELXRDand5VERMRC1yU1lKS0txQmlDWHEwTFljTU5SeVR6elRCZ1FzdkNCSEV2QU96TWRqTlpvcWNBamJQXzV4TV9TNFBKb1l6clVrTERjcVZPM09YRlFpcEp3cTNNSkJhV3p4OGk1X2ZiMzg2SlhuWkZNbUptcVhCa0w4bFIwN0RRNnAzbFQ4WGg1SUNlUlVFQXJV?oc=5",
+   "company": "微软",
+   "company_en": "Microsoft",
+   "ticker": "MSFT",
+   "section": "权重科技",
+   "tags": [
+    "股价异动"
+   ],
+   "title_en": "",
+   "text_en": ""
+  }
+ ],
+ "breaking": []
+}
