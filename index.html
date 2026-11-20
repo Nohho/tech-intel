@@ -3,6 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#0284c7">
 <title>科技情报站 Tech Intel</title>
 <meta name="description" content="科技情报站 Tech Intel：81 家科技公司每日科技头条（领袖头条 + 公司动态，含 AI 前沿）。每天 07:30 前更新。">
 <link rel="canonical" href="https://nohho.github.io/tech-intel/">
@@ -64,6 +65,19 @@ a.sout:hover{text-decoration:underline;text-underline-offset:2px}
 .loading,.errmsg{text-align:center;color:var(--mut);padding:40px 16px;font-size:14px}
 footer.site{font-size:12px;color:var(--mut);text-align:center;padding:18px 16px 34px;line-height:1.9}
 mark.hl{background:#fff3b0;border-radius:3px;padding:0 1px}
+/* ---- 现代化（2026-11-20 · 借鉴 HVAC 站同日实现，modern-web-guidance 对照） ---- */
+:focus-visible{outline:2px solid var(--acc);outline-offset:2px}
+.cv{content-visibility:auto;contain-intrinsic-size:auto 700px}
+::view-transition-old(root),::view-transition-new(root){animation-duration:.22s;animation-timing-function:cubic-bezier(.25,1,.5,1)}
+@media (prefers-reduced-motion: reduce){
+  *,*::before,*::after{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important;scroll-behavior:auto!important}
+}
+/* ---- 时间锚点条 ---- */
+.anchors{display:flex;gap:8px;overflow-x:auto;padding:10px 2px 0;scrollbar-width:none}
+.anchors::-webkit-scrollbar{display:none}
+.anchor{flex:none;display:flex;gap:6px;align-items:baseline;background:#fff;border:1px solid #dbe7f3;border-radius:10px;padding:5px 10px;font-size:12.5px;color:var(--ink);white-space:nowrap}
+.anchor b{color:var(--accD);font-variant-numeric:tabular-nums}
+.anchor .aw{color:var(--mut)}
 </style>
 </head>
 <body>
@@ -77,6 +91,7 @@ mark.hl{background:#fff3b0;border-radius:3px;padding:0 1px}
   <div class="rsmeta" id="rsmeta"></div>
 </header>
 <main id="main">
+  <div id="anchors" class="anchors" style="display:none" aria-label="接下来值得盯的日期"></div>
   <div id="stream"><div class="loading">加载中…</div></div>
   <div id="loadmore" style="text-align:center;padding:18px 0 8px"></div>
 </main>
@@ -95,6 +110,37 @@ const esc=s=>String(s==null?"":s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;"
 const SECTIONS=["权重科技","芯片半导体","软件云AI","硬件存储","网络安全","AI前沿","机器人"];
 const TOTAL_COS=81;
 let _Q="",_SEC="all";
+let _BATCH=false;
+let ANCHORS=[];
+function withVT(fn){
+  const rm=window.matchMedia&&window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+  if(document.startViewTransition&&!rm){
+    try{document.startViewTransition(()=>fn());return;}catch(e){}
+  }
+  fn();
+}
+async function loadAnchors(){
+  try{
+    const r=await fetch("data/anchors.json");
+    if(!r.ok)return;
+    const j=await r.json();
+    ANCHORS=Array.isArray(j)?j:(Array.isArray(j.anchors)?j.anchors:[]);
+    renderAnchors();
+  }catch(e){}
+}
+function renderAnchors(){
+  const box=document.getElementById("anchors");
+  if(!box)return;
+  const today=localToday();
+  const wk={"0":"日","1":"一","2":"二","3":"三","4":"四","5":"五","6":"六"};
+  const list=ANCHORS.filter(a=>a&&a.date&&a.date>=today).slice().sort((x,y)=>String(x.date).localeCompare(String(y.date))).slice(0,10);
+  if(!list.length){box.style.display="none";box.innerHTML="";return;}
+  box.style.display="flex";
+  box.innerHTML=list.map(a=>{
+    let wd="";try{wd=wk[String(new Date(a.date+"T12:00:00").getDay())]||"";}catch(e){}
+    return `<span class="anchor"><b>${esc(a.date.slice(5))}</b><span class="aw">周${wd}${a.date===today?" · 今天":""}</span>${esc(a.label||"")}</span>`;
+  }).join("");
+}
 function sortRows(a){return a.slice().sort((x,y)=>String(y.date+" "+(y.time||"")).localeCompare(String(x.date+" "+(x.time||""))));}
 function fpBadge(it){return it.first_party?'<span class="fh">一手</span>':'<span class="fr">转载</span>';}
 function topBadge(it){return it.isTop?'<span class="stop">头条</span>':'';}
@@ -133,9 +179,9 @@ function render(){
     const dates=Object.keys(byDate).sort().reverse();
     const wk={"0":"星期日","1":"星期一","2":"星期二","3":"星期三","4":"星期四","5":"星期五","6":"星期六"};
     const wOf=d=>{try{return wk[String(new Date(d+"T12:00:00").getDay())]||"";}catch(e){return "";}};
-    stream.innerHTML=dates.map(d=>{
+    stream.innerHTML=dates.map((d,di)=>{
       const items=byDate[d];
-      return `<div class="dayhead"><h2>${d.slice(5)} ${wOf(d)}</h2><span class="cnt">${items.length} 条</span></div><div class="stream">${items.map(it=>hl(q,rowHTML(it))).join("")}</div>`;
+      return `<div class="dayhead"><h2>${d.slice(5)} ${wOf(d)}</h2><span class="cnt">${items.length} 条</span></div><div class="${di>0?"stream cv":"stream"}">${items.map(it=>hl(q,rowHTML(it))).join("")}</div>`;
     }).join("");
   }
   const m=document.getElementById("rsmeta");
@@ -173,7 +219,7 @@ function renderChips(){
     .map(([v,lb])=>`<button class="fchip${_SEC===v?" on":""}" data-v="${esc(v)}" onclick="__setSEC('${esc(v)}')">${esc(lb)}</button>`).join("");
 }
 function __setQ(v){_Q=v;render();}
-function __setSEC(v){_SEC=v;renderChips();render();}
+function __setSEC(v){_SEC=v;withVT(()=>{renderChips();render();});}
 function paintHead(){
   const cov=new Set(DATA.map(d=>d.company).filter(Boolean)).size;
   document.getElementById("subline").innerHTML=
@@ -191,8 +237,7 @@ async function loadDay(date,append){
     const flat=Array.isArray(j)?j.map(x=>Object.assign({},x,{date:date})):(j.top10||[]).map(x=>Object.assign({},x,{isTop:true,date:date})).concat((j.company_news||[]).map(x=>Object.assign({},x,{isTop:false,date:date})));
     if(append){ DATA=DATA.concat(flat); LOADED.push(date); }
     else { DATA=flat; LOADED=[date]; CURDATE=date; }
-    paintHead();
-    render();
+    if(!_BATCH){ paintHead(); render(); }
   }catch(e){
     const m=document.getElementById("main");
     if(m)m.insertAdjacentHTML("afterbegin",
@@ -210,8 +255,13 @@ async function boot(){
     const start=(hm&&days.indexOf(hm[1])>=0)?hm[1]
       :(days.indexOf(today)>=0?today:(idx.latest||days[days.length-1]||today));
     const si=days.indexOf(start);
-    // 首屏加载起始日 + 更早 2 天（瀑布流）
+    // 首屏加载起始日 + 更早 2 天（瀑布流）；批量期间抑制逐次渲染，加载完统一渲染一次
+    _BATCH=true;
     for(let i=si;i>=Math.max(0,si-2);i--) await loadDay(days[i],true);
+    _BATCH=false;
+    paintHead();
+    render();
+    loadAnchors();
     CURDATE=start;
     try{history.replaceState(null,"","#date="+start);}catch(e){}
     window.scrollTo({top:0});
@@ -219,10 +269,13 @@ async function boot(){
       const m2=(location.hash||"").match(/date=(\d{4}-\d{2}-\d{2})/);
       if(!m2||days.indexOf(m2[1])<0)return;
       if(LOADED.indexOf(m2[1])<0){
-        // 跳到未加载的旧日期：重置为该日 + 更早 2 天
+        // 跳到未加载的旧日期：重置为该日 + 更早 2 天（批量加载，最后走一次视图过渡）
         DATA=[]; LOADED=[];
         const j=days.indexOf(m2[1]);
+        _BATCH=true;
         for(let i=j;i>=Math.max(0,j-2);i--) await loadDay(days[i],true);
+        _BATCH=false;
+        withVT(()=>{paintHead();render();});
         CURDATE=m2[1];
         window.scrollTo({top:0});
       }else{
