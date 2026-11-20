@@ -1,0 +1,428 @@
+{
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T06:32:00+08:00",
+  "top10": [
+    {
+      "id": "tech-20261121-001",
+      "title": "英伟达股价单日暴跌 14%，SEC 被曝调查其会计操作",
+      "summary": "英伟达股价周五收跌 14%，连续第七个交易日下滑，七周累计跌幅达 44%，市值蒸发约 2.5 万亿美元。路透社报道称，美国证券交易委员会正在调查英伟达的会计操作，消息令本已承压的股价加速下挫。",
+      "time": "04:10",
+      "date": "2026-11-21",
+      "outlet": "Techmeme",
+      "first_party": false,
+      "url": "https://www.techmeme.com/261120/p29#a261120p29",
+      "company": "英伟达",
+      "company_en": "NVIDIA",
+      "ticker": "NVDA",
+      "section": "权重科技",
+      "tags": [
+        "股价异动",
+        "监管政策"
+      ],
+      "title_en": "",
+      "text_en": ""
+    },
+    {
+      "id": "tech-20261121-002",
+      "title": "特斯拉与 SpaceX 合并谈判升温，马斯克持股或达 60%",
+      "summary": "分析师称，特斯拉与 SpaceX 的合并谈判正在推进，交易完成后马斯克对合并后公司的持股比例可能达到 60%，特斯拉股东有望获得约 33% 的溢价。汇丰认为，马斯克强化控制权的诉求是推动合并的关键动因之一。",
+      "time": "02:44",
+      "date": "2026-11-21",
+      "outlet": "Benzinga",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNdHIwUUFrQUVVYnFzeEpUTlluTVVsOHptdUtmYWVJLU9LMXFQNGdhbW4xOWRSYmZUaWhhb21TQzQ2Y0J2ajUxZDQ4RUV4TVFNU0pCTnpYdEp0ZmhDb3A1QzhodllvTjF1V2ZDRjlfVTBlZmY2ZUt3QmZCQS13OWpHTlUxZktwU2Rqb1ZySzZrUURXcF9nQzNhWUh2S2ptZ2gyNl91cDVuWmFuTk9Ba2ZyYk5vZWFxZjVyLU8tUFBMclNrZFVwcGwtTG1KeWtsbjZfakFUdVRPS2htZnp2U3VGMVZ1MmdqWENVTGdoNzVlaElCUHdLRjUyc1pSWHEyc0U?oc=5",
+      "company": "特斯拉",
+      "company_en": "Tesla",
+      "ticker": "TSLA",
+      "section": "权重科技",
+      "tags": [
+        "并购"
+      ],
+      "title_en": "",
+      "text_en": ""
+    },
+    {
+      "id": "tech-20261121-003",
+      "title": "标普 500 与道指跌入回调区间，科技股领跌",
+      "summary": "标普 500 指数与道琼斯指数双双跌入回调区间，投资者纷纷涌向美债避险。芯片股的阴云与美联储偏鹰的立场盖过了 Anthropic 上市首周的热度，科技股成为本轮抛售的重灾区。",
+      "time": "05:42",
+      "date": "2026-11-21",
+      "outlet": "Yahoo Finance",
+      "first_party": false,
+      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-dow-sink-correction-214248905.html?.tsrc=rss",
+      "company": "英伟达",
+      "company_en": "NVIDIA",
+      "ticker": "NVDA",
+      "section": "权重科技",
+      "tags": [
+        "股价异动"
+      ],
+      "title_en": "",
+      "text_en": ""
+    },
+    {
+      "id": "tech-20261121-004",
+      "title": "CrowdStrike 洽购 Zscaler，或缔造 2650 亿美元网络安全巨头",
+      "summary": "知情人士透露，CrowdStrike 正在洽谈收购 Zscaler，合并后公司的市值合计约 2650 亿美元。消息传出后，Zscaler 盘后股价大涨逾 15%，市场看好两家安全厂商的整合前景。",
+      "time": "05:20",
+      "date": "2026-11-21",
+      "outlet": "Techmeme",
+      "first_party": false,
+      "url": "https://www.techmeme.com/261120/p34#a261120p34",
+      "company": "CrowdStrike",
+      "company_en": "CrowdStrike",
+      "ticker": "CRWD",
+      "section": "网络安全",
+      "tags": [
+        "并购"
+      ],
+      "title_en": "",
+      "text_en": ""
+    },
+    {
+      "id": "tech-20261121-005",
+      "title": "Anthropic 上市引发科技股抛售，纳指转跌",
+      "summary": "Anthropic 上市首周的表现正在引发科技股抛售，纳斯达克指数由涨转跌。投资者开始重新审视 AI 相关股票的高估值，上市带来的热度未能阻止大盘走弱，市场对 AI 叙事的耐心正在经受考验。",
+      "time": "05:46",
+      "date": "2026-11-21",
+      "outlet": "Yahoo Finance",
+      "first_party": false,
+      "url": "https://finance.yahoo.com/m/54889cad-03e6-3a63-8ae5-965b8aa2e1fa/anthropic%E2%80%99s-ipo-is-triggering.html?.tsrc=rss",
+      "company": "Anthropic",
+      "company_en": "Anthropic",
+      "ticker": null,
+      "section": "AI前沿",
+      "tags": [
+        "股价异动"
+      ],
+      "title_en": "",
+      "text_en": ""
+    },
+    {
+      "id": "tech-20261121-006",
+      "title": "YouTube 原则上同意以约 30 亿美元和解成瘾诉讼",
+      "summary": "知情人士称，YouTube 已原则上同意向美国学区支付约 30 亿美元，以和解有关平台助长成瘾的索赔，最终协议可能还需数月才能达成。这一和解规模在同类诉讼中较为罕见。",
+      "time": "02:50",
+      "date": "2026-11-21",
+      "outlet": "Techmeme",
+      "first_party": false,
+      "url": "https://www.techmeme.com/261120/p24#a261120p24",
+      "company": "Alphabet",
+      "company_en": "Alphabet",
+      "ticker": "GOOGL",
+      "section": "权重科技",
+      "tags": [
+        "诉讼"
+      ],
+      "title_en": "",
+      "text_en": ""
+    },
+    {
+      "id": "tech-20261121-007",
+      "title": "特朗普称将阻止美企海外建数据中心，否则征重税",
+      "summary": "特朗普表示，将阻止美国公司在海外建设数据中心，否则将对其征收重税。这一表态直接指向正在全球扩张算力版图的科技巨头，数据中心出海布局面临新的政策不确定性，相关企业的海外投资计划可能重新评估。",
+      "time": "02:35",
+      "date": "2026-11-21",
+      "outlet": "Techmeme",
+      "first_party": false,
+      "url": "https://www.techmeme.com/261120/p23#a261120p23",
+      "company": "Alphabet",
+      "company_en": "Alphabet",
+      "ticker": "GOOGL",
+      "section": "权重科技",
+      "tags": [
+        "监管政策"
+      ],
+      "title_en": "",
+      "text_en": ""
+    },
+    {
+      "id": "tech-20261121-008",
+      "title": "国会公布 AMD 对华出口许可数据，AMD 股价大跌近 8%",
+      "summary": "国会公布的文件披露了 AMD 向中国出口 AI 芯片的许可申请细节，相关审查引发市场对 AMD 对华业务的担忧。受消息拖累，AMD 股价大跌近 8%，成为芯片板块领跌股之一。",
+      "time": "12:24",
+      "date": "2026-11-20",
+      "outlet": "Hunterbrook",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE96VHRTdWllRUg1azhTWktMNmpHYUVoVC02MmJlLUNOanBSOHIzb0pGVnk2WmVlc24tSklEbDl5T3Z4b2hQRy0wSDFFWU5EbFlVMGZwMWV0a1RZbUFoS3JRb2Z3?oc=5",
+      "company": "超威半导体",
+      "company_en": "Advanced Micro Devices",
+      "ticker": "AMD",
+      "section": "权重科技",
+      "tags": [
+        "监管政策",
+        "股价异动"
+      ],
+      "title_en": "",
+      "text_en": ""
+    },
+    {
+      "id": "tech-20261121-009",
+      "title": "Meta 重新考虑 2030 年净零目标，AI 扩建推高排放",
+      "summary": "Meta 正在重新考虑 2030 年实现净零排放的目标，原因是 AI 数据中心的大规模扩建导致排放量创下新高。AI 基建的能源代价正成为科技巨头可持续发展承诺的新考验。",
+      "time": "05:47",
+      "date": "2026-11-21",
+      "outlet": "Ars Technica",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcTZaRXhLWkhydFJoRDZoU1hRQVhMOVI5MVpJdmJSS1RXQm1iOHFZTHYxRVZVczM3a1U0Ukd4b2pYMlY3QkhGOVlkYTB6cWhDSDBIUlBiVWlwcExWU1MwQjlJZU9KVW1iTC1HY3Zla05DVUZiSER3S09BT0tvOEduNjlsZHFTQlVDdXZEdnduNmthRTRteWFpcWE5R09WYnFobUZFU3NfOWVWVkMyNnFwUXUwU3Y?oc=5",
+      "company": "Meta Platforms",
+      "company_en": "Meta Platforms",
+      "ticker": "META",
+      "section": "权重科技",
+      "tags": [
+        "突发"
+      ],
+      "title_en": "",
+      "text_en": ""
+    },
+    {
+      "id": "tech-20261121-010",
+      "title": "Alphabet 发债 41.9 亿美元，自由现金流转负",
+      "summary": "Alphabet 通过发债融资 41.9 亿美元，公司自由现金流已转为负值。AI 基建的巨额开支正在消耗科技巨头的现金储备，融资成为支撑扩建的重要手段，市场也在关注其 AI 投入的回报周期。",
+      "time": "05:41",
+      "date": "2026-11-21",
+      "outlet": "Yahoo Finance",
+      "first_party": false,
+      "url": "https://finance.yahoo.com/technology/articles/alphabet-raises-4-19-billion-214109252.html?.tsrc=rss",
+      "company": "Alphabet",
+      "company_en": "Alphabet",
+      "ticker": "GOOGL",
+      "section": "权重科技",
+      "tags": [
+        "融资"
+      ],
+      "title_en": "",
+      "text_en": ""
+    }
+  ],
+  "company_news": [
+    {
+      "id": "tech-20261121-011",
+      "title": "特朗普称希望黄仁勋重返英伟达 CEO",
+      "summary": "特朗普表示，非常希望看到黄仁勋重返英伟达首席执行官一职，称如果董事会明智，就应接受道歉并让他回去工作。这一表态为英伟达持续数周的管理层风波再添变数，也让接班人选问题重回舆论中心。",
+      "time": "03:35",
+      "date": "2026-11-21",
+      "outlet": "Techmeme",
+      "first_party": false,
+      "url": "https://www.techmeme.com/261120/p26#a261120p26",
+      "company": "英伟达",
+      "company_en": "NVIDIA",
+      "ticker": "NVDA",
+      "section": "权重科技",
+      "tags": [
+        "高管变动"
+      ],
+      "title_en": "",
+      "text_en": ""
+    },
+    {
+      "id": "tech-20261121-012",
+      "title": "知情人士披露董事会罢免黄仁勋的核心理由",
+      "summary": "知情人士透露，英伟达董事会罢免黄仁勋的主要原因是其自 2025 年 10 月至今年秋季期间的撒谎与缺乏坦诚，涉及相关个人事件的披露问题。董事会的立场已趋于明确，不打算请他回归。",
+      "time": "04:20",
+      "date": "2026-11-21",
+      "outlet": "Techmeme",
+      "first_party": false,
+      "url": "https://www.techmeme.com/261120/p30#a261120p30",
+      "company": "英伟达",
+      "company_en": "NVIDIA",
+      "ticker": "NVDA",
+      "section": "权重科技",
+      "tags": [
+        "高管变动"
+      ],
+      "title_en": "",
+      "text_en": ""
+    },
+    {
+      "id": "tech-20261121-013",
+      "title": "Meta 在投资者诉讼期间暂停扎克伯格持股计划",
+      "summary": "Meta 在投资者法律纠纷期间暂停了扎克伯格的持股计划。这一让步发生在相关诉讼推进之际，持股计划的暂停与公司治理争议直接相关，市场关注诉讼的后续进展以及公司治理层面的连锁反应。",
+      "time": "04:45",
+      "date": "2026-11-19",
+      "outlet": "Bloomberg.com",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWk05MjFHYTBIbXVFbHNyT2E3SDNaU0dDX0FYT3E3Z2dnU3diQXd2eG40UFI4SFpSaTZyUElOZ2pFaDZ2aGJGUGw3bU5HdjNLbFFUd1NSamIzdURmRkNjSWN1b1puYnJEZFpTcmxCdHRia3RES1Q3SktVR0NKOGhVSXhWYktiaWJ6SEZuYVlUdFl4SmNwNm9QdXFUallybFV5SVZ2RFN0MHJNYzVISnU1SHRB?oc=5",
+      "company": "Meta Platforms",
+      "company_en": "Meta Platforms",
+      "ticker": "META",
+      "section": "权重科技",
+      "tags": [
+        "诉讼"
+      ],
+      "title_en": "",
+      "text_en": ""
+    },
+    {
+      "id": "tech-20261121-014",
+      "title": "Meta 大举押注 Muse AI 助手，早期安全问题浮现",
+      "summary": "Meta 正大举押注 AI 助手 Muse，但早期安全问题已经浮现。路透社的报道指出，快速推进的 AI 助手部署在安全层面面临考验，Meta 需要在扩张速度与风险控制之间取得平衡。",
+      "time": "19:23",
+      "date": "2026-11-18",
+      "outlet": "Reuters",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYzFCWVhTaXRGa0xoLTRJUUVKTjNaYXZzU2FhbHYxR2tyallCbFJsUFM1U21lbXN0UVN2U3FfZnlsWWdGWERVTWRBdmhHVmZaS0Z3X0REWFhvaXhQYXpoNHRlTG0wbHp0WHd5b3N3dnpOYnJONWE4bWVXdEJObHFqZTFYd2szQ3p1SU5LV1JxODNpSVpoWnZTdXVWRDJTSUl0MTRvQnotcjJrUUE?oc=5",
+      "company": "Meta Platforms",
+      "company_en": "Meta Platforms",
+      "ticker": "META",
+      "section": "权重科技",
+      "tags": [
+        "突发"
+      ],
+      "title_en": "",
+      "text_en": ""
+    },
+    {
+      "id": "tech-20261121-015",
+      "title": "苹果计划推出 AI 助手，对标 Meta 的 Muse",
+      "summary": "苹果计划推出自家的 AI 助手，以对标 Meta 的 Muse。这一动向显示苹果正在加速追赶 AI 助手赛道，此前市场对其 AI 布局进展的质疑声不断，苹果的 AI 助手能否缩小与对手的差距将成为焦点。",
+      "time": "02:13",
+      "date": "2026-11-21",
+      "outlet": "Yahoo Finance",
+      "first_party": false,
+      "url": "https://finance.yahoo.com/technology/ai/articles/apple-plans-ai-agent-rival-181309227.html?.tsrc=rss",
+      "company": "苹果",
+      "company_en": "Apple",
+      "ticker": "AAPL",
+      "section": "权重科技",
+      "tags": [
+        "AI 模型"
+      ],
+      "title_en": "",
+      "text_en": ""
+    },
+    {
+      "id": "tech-20261121-016",
+      "title": "美光股价暴跌，AI 内存需求强劲也未能托底",
+      "summary": "尽管 AI 内存需求依然强劲，美光股价仍大幅下挫，投资者开始质疑当前估值是否已经透支了增长预期。存储板块的回调显示，市场对 AI 硬件链的热情正在降温，资金正在重新定价存储股的增长前景。",
+      "time": "05:38",
+      "date": "2026-11-21",
+      "outlet": "Yahoo Finance",
+      "first_party": false,
+      "url": "https://finance.yahoo.com/technology/ai/articles/micron-shares-crash-despite-strong-213845047.html?.tsrc=rss",
+      "company": "美光",
+      "company_en": "Micron Technology",
+      "ticker": "MU",
+      "section": "权重科技",
+      "tags": [
+        "股价异动"
+      ],
+      "title_en": "",
+      "text_en": ""
+    },
+    {
+      "id": "tech-20261121-017",
+      "title": "甲骨文获 170 亿美元退伍军人事务部合同追加",
+      "summary": "甲骨文与美国退伍军人事务部价值 170 亿美元的合同追加部分经过快速谈判得以确认。这笔政府大单进一步巩固了甲骨文在公共部门云服务市场的地位，也反映出联邦机构对云基础设施升级的迫切需求。",
+      "time": "05:49",
+      "date": "2026-11-20",
+      "outlet": "Bloomberg Government News",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQU3Y1UWI5R3ZPTVFGTXg4LTZkY1B4X2lra2c1eHQtQmM5em41dW8zNmRoUDV6cWpBc1hJeVdIS0E3bDFqQnNTQ0J4NHF4ckQ3elo4ZF9wdUp6c2YteGhSS0F3MXlscHhWMk5MVmtBUnRlb3R5WS03Q3dvaGFyRVhncEpyOTNTMWQyOWlNcE1KV1l0NHpGLXYzMUFYc0YyaXNnN2IwVnBTNkNKcmFSSWRHbA?oc=5",
+      "company": "甲骨文",
+      "company_en": "Oracle Corporation",
+      "ticker": "ORCL",
+      "section": "软件云AI",
+      "tags": [
+        "战略合作"
+      ],
+      "title_en": "",
+      "text_en": ""
+    },
+    {
+      "id": "tech-20261121-018",
+      "title": "ABB 考虑机器人业务上市，软银收购若失败即启动备选",
+      "summary": "知情人士透露，如果将机器人业务出售给软银的交易失败，ABB 正考虑推动该业务独立上市。这一备选方案显示 ABB 剥离机器人业务的决心已定，只是路径尚未最终确定。",
+      "time": "02:13",
+      "date": "2026-11-21",
+      "outlet": "Reuters",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQmFTbW95TklxQWFndG5mcGRTNEd2U3d1cnJIUWU2VGpUZjVLRTlrb2V0T3FUeTdwQ3VYbXRVQmtlRXY0bUpHeEJLTE5BanpCUV9sS3p2VkVXenVvejVzczROSXJiVjVnVjBQb0dEYUFVbXBOcUc0Vks2aGZvTTBuakc2LVdyZTNSMktUalhHbFFNWXFmT1UzTy03c195M0VlUWwzV1RUUXF4RmhJSmozYjRnaUtCTm1LWWlYVFRyQnJXZw?oc=5",
+      "company": "ABB",
+      "company_en": "ABB Ltd",
+      "ticker": "ABB",
+      "section": "机器人",
+      "tags": [
+        "并购"
+      ],
+      "title_en": "",
+      "text_en": ""
+    },
+    {
+      "id": "tech-20261121-019",
+      "title": "罗克韦尔收购 AGILOX，扩充自主移动机器人阵容",
+      "summary": "罗克韦尔自动化通过收购 AGILOX 扩充其自主移动机器人产品线，进一步完善工厂自动化布局。此次收购正值公司在投资者日上调利润率目标、押注机器人与 AI 之际，机器人业务成为新的增长支点。",
+      "time": "19:50",
+      "date": "2026-11-20",
+      "outlet": "EME Outlook Magazine",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUUZjOHFwb0JoZlRWVVlXMTFmWnlPS2ZzR3R4STZ6Yk9KU1BHX0lnUncxb2lXOWpyQnRiakhvRF9pYTRxRlNzNUlXeVBGbW9HSTRCZThWZ2xCWmh2TWJqSV84NDF0VFRzZ2NsUmo5S0JYMjVDVzNaSzVBRlhER21Nakd0TFlPZlJTOWdkRXdibmFJdllyWFRqNFYxMFNTX1pVdkM5dkMyU1prY2ZMU3llR3AzREowRzJX?oc=5",
+      "company": "罗克韦尔",
+      "company_en": "Rockwell Automation",
+      "ticker": "ROK",
+      "section": "机器人",
+      "tags": [
+        "并购"
+      ],
+      "title_en": "",
+      "text_en": ""
+    },
+    {
+      "id": "tech-20261121-020",
+      "title": "思科财报超预期，投资者权衡后续走势",
+      "summary": "思科最新财报超出市场预期，投资者正在评估这份成绩单对股价的后续影响。财报表现显示，思科在网络设备与 AI 基建需求方面仍保持韧性，市场关注其 AI 相关订单能否持续转化为收入增长。",
+      "time": "03:12",
+      "date": "2026-11-21",
+      "outlet": "Yahoo Finance",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMHZiWHc0TlV6cUxOTTNTbDQzdkczcWFEZ2RELUhIaG1vbDhjcFJreXZleXRmc0Q3UHNqbm84SW9pZlIwdmY2Z0xLcUt5RXd2c2RQT3NCREI2RmdmRGthaUJhU3pTd09NZUg0RllpZ3hVNmFGZlRBbVAwZ2ltajRiQ1lYQmFwMmFBSHNqSDl1WmtXbmtmRWZtOUVFNkFiYXM?oc=5",
+      "company": "思科",
+      "company_en": "Cisco Systems",
+      "ticker": "CSCO",
+      "section": "权重科技",
+      "tags": [
+        "财报"
+      ],
+      "title_en": "",
+      "text_en": ""
+    },
+    {
+      "id": "tech-20261121-021",
+      "title": "亚马逊呼吁纽约顾客反对配送法案",
+      "summary": "亚马逊正呼吁纽约市顾客反对一项由市长支持的配送法案，认为该法案将推高配送成本并影响平台运营。监管压力正在成为电商巨头在地方市场面临的新变量，配送模式的合规成本可能进一步上升。",
+      "time": "04:32",
+      "date": "2026-11-21",
+      "outlet": "WSJ",
+      "first_party": false,
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUlhuRl9IVHpKbEE1aE5EQ3RBb1lScFkyaktKUHpueW1KSi1EWGFYMEx4TU9oRm5RbzVkSkZ2aWhtZ0hxSkFlcjNFNjJjNHhHME9FNkp2ckNuS1FMMkNBYUZSemt1UTFpYmd6MEtLOTdXdDJwellWMGxFd0lnLXVsMHdiU2tvOWw1Qk9FV1d3c21IejNyT3ZRX1NPdmFyekV0enlHNkszSWVIQVM0dGFRUnh2dw?oc=5",
+      "company": "亚马逊",
+      "company_en": "Amazon",
+      "ticker": "AMZN",
+      "section": "权重科技",
+      "tags": [
+        "监管政策"
+      ],
+      "title_en": "",
+      "text_en": ""
+    },
+    {
+      "id": "tech-20261121-022",
+      "title": "CoreWeave 在商业市场之外找到 AI 需求",
+      "summary": "CoreWeave 正在商业市场之外找到新的 AI 算力需求，业务版图进一步拓宽。这一动向显示，AI 算力的需求来源正在多元化，不再局限于传统商业客户，对算力租赁商平滑收入波动是一大利好。",
+      "time": "05:39",
+      "date": "2026-11-21",
+      "outlet": "Yahoo Finance",
+      "first_party": false,
+      "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-finds-ai-demand-outside-213902215.html?.tsrc=rss",
+      "company": "CoreWeave",
+      "company_en": "CoreWeave",
+      "ticker": "CRWV",
+      "section": "软件云AI",
+      "tags": [
+        "战略合作"
+      ],
+      "title_en": "",
+      "text_en": ""
+    }
+  ]
+}
