@@ -1,0 +1,506 @@
+{
+ "date": "2026-11-22",
+ "generated_at": "2026-11-22T06:24:47+08:00",
+ "top10": [
+  {
+   "id": "tech-20261122-001",
+   "title": "纳指100周跌10.4%，创六年多最差单周",
+   "summary": "纳指100周五跌5.6%，全周跌10.4%，创六年多最差单周。市场担忧AI投资热潮放缓，抛售从英伟达蔓延至整个科技板块，投资者开始重新评估高估值与巨额资本开支的可持续性。",
+   "time": "07:50",
+   "date": "2026-11-22",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261120/p42#a261120p42",
+   "company": "英伟达",
+   "company_en": "NVIDIA",
+   "ticker": "NVDA",
+   "section": "权重科技",
+   "tags": [
+    "股价异动"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261122-002",
+   "title": "路透独家：美国证交会调查英伟达会计操作",
+   "summary": "路透独家报道，美国证交会正在调查英伟达的会计操作。消息传出之际，英伟达股价近期持续承压，调查令市场对其财报质量的质疑升温，也让接班悬念之外的不确定性再度增加，短期波动可能加剧。",
+   "time": "03:13",
+   "date": "2026-11-22",
+   "outlet": "Reuters",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMzlPdFVTT2cyVkhmMFVKNWZ1MnpNT0NLcURnblg4THMwUWNuYTRBLWUxU0ZSSUR5bk1zNnBmVlhIUjByNkN6TzVBNC1uaXQxM0dwY2FkMzZQdm00a0xyMXo3NFNpSUNPdERZWU82aGZLa0lNZHpMOXVnVDBVQW9lMmNrWEVRczVYS1Racm1NNlNERDBJeTFJRG1pZVRfTC1LTy1pNjhpVzRaeGRrY25kSzQ1aDNUUQ?oc=5",
+   "company": "英伟达",
+   "company_en": "NVIDIA",
+   "ticker": "NVDA",
+   "section": "权重科技",
+   "tags": [
+    "监管政策",
+    "股价异动"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261122-003",
+   "title": "亚马逊接近75亿美元收购AI初创Decart",
+   "summary": "知情人士称，亚马逊接近以75亿美元收购AI初创公司Decart，谈判已进入后期，最快下周达成协议。Decart专注AI视频生成，若交易落地，将成为亚马逊在生成式AI领域迄今最大手笔之一。",
+   "time": "01:55",
+   "date": "2026-11-22",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261121/p8#a261121p8",
+   "company": "亚马逊",
+   "company_en": "Amazon",
+   "ticker": "AMZN",
+   "section": "权重科技",
+   "tags": [
+    "并购"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261122-004",
+   "title": "美国批准向中国企业出售英伟达与AMD芯片",
+   "summary": "英国《金融时报》报道，美国已批准向中国企业出售英伟达与AMD芯片。这一决定标志着对华芯片出口政策出现松动，但具体获批型号与数量尚未披露，市场仍在等待官方细节，后续执行细节值得持续跟踪。",
+   "time": "09:40",
+   "date": "2026-11-22",
+   "outlet": "Financial Times",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLTZTNmxkcXpZN2hrOFVhQlFhR1dfVVQ3ZkRCdVFVVi1mWGZfTTBjdDJ2S1JtV19ISjBOdll0YlduVEtMODFHUDhlY1FDRzZVaWVjdWd5RnlpTlh5cXk1VjBENmJWNjRFMG5VX1B4NkVNYlFyY3p2cmZka3RHYjRlakRvYkk?oc=5",
+   "company": "英伟达",
+   "company_en": "NVIDIA",
+   "ticker": "NVDA",
+   "section": "权重科技",
+   "tags": [
+    "监管政策"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261122-005",
+   "title": "美国出口新规扩大至消费级系统芯片",
+   "summary": "业内人士称，美国新的出口管制范围扩大，不仅限于先进AI芯片，还覆盖消费电子产品使用的系统级芯片。规则收紧可能波及更广泛的芯片供应链，相关厂商正评估合规影响，产业链影响有待进一步观察。",
+   "time": "14:00",
+   "date": "2026-11-22",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261121/p2#a261121p2",
+   "company": null,
+   "company_en": null,
+   "ticker": null,
+   "section": "芯片半导体",
+   "tags": [
+    "监管政策"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261122-006",
+   "title": "FBI调查国家犯罪数据库疑似遭入侵",
+   "summary": "知情人士透露，美国联邦调查局正在调查其国家犯罪信息中心数据库疑似遭入侵事件。该数据库供执法部门共享通缉令与背景调查信息，一旦泄露后果严重，调查仍在进行中，事件细节仍有待官方披露。",
+   "time": "10:35",
+   "date": "2026-11-22",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261120/p44#a261120p44",
+   "company": null,
+   "company_en": null,
+   "ticker": null,
+   "section": "网络安全",
+   "tags": [
+    "突发"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261122-007",
+   "title": "孙正义曾探讨1万亿美元收购SK海力士",
+   "summary": "知情人士称，软银创始人孙正义近期曾探讨以约1万亿美元收购SK海力士，软银回应称该交易“已不再积极考虑”。消息一度刺激存储芯片板块波动，也折射出AI算力需求下存储资产的战略价值。",
+   "time": "10:45",
+   "date": "2026-11-22",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261120/p45#a261120p45",
+   "company": null,
+   "company_en": null,
+   "ticker": null,
+   "section": "芯片半导体",
+   "tags": [
+    "并购"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261122-008",
+   "title": "Wonder拟出售Grubhub，2024年6.5亿美元买入",
+   "summary": "知情人士透露，Wonder正在探讨出售外卖平台Grubhub，并已与沃尔玛、塔吉特、克罗格等零售商的银行家接触。Wonder于2024年以6.5亿美元收购Grubhub，出售意向显示其正在收缩外卖业务版图。",
+   "time": "07:20",
+   "date": "2026-11-22",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261120/p41#a261120p41",
+   "company": null,
+   "company_en": null,
+   "ticker": null,
+   "section": "软件云AI",
+   "tags": [
+    "并购"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261122-009",
+   "title": "金丝雀测试：AI路由器隐私承诺常被打破",
+   "summary": "研究人员在向OpenRouter、Vercel等AI路由器发送的请求中植入“金丝雀”凭证测试发现，即便在“零数据保留”政策下，隐私承诺也经常被打破，密钥存在被盗风险。测试结果给依赖第三方AI网关的企业敲响警钟。",
+   "time": "04:10",
+   "date": "2026-11-22",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261121/p10#a261121p10",
+   "company": null,
+   "company_en": null,
+   "ticker": null,
+   "section": "网络安全",
+   "tags": [
+    "突发"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261122-010",
+   "title": "英伟达芯片疑经壳公司网络流向中国",
+   "summary": "英国《金融时报》调查发现，Alice Huang与游戏公司、被指与Prince Group有关的人物以及数百家壳公司组成的网络存在关联，该网络涉嫌将英伟达芯片转运至中国。调查把芯片走私链条的聚光灯再次打向英伟达供应链。",
+   "time": "02:55",
+   "date": "2026-11-22",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261121/p9#a261121p9",
+   "company": "英伟达",
+   "company_en": "NVIDIA",
+   "ticker": "NVDA",
+   "section": "权重科技",
+   "tags": [
+    "监管政策"
+   ],
+   "title_en": "",
+   "text_en": ""
+  }
+ ],
+ "company_news": [
+  {
+   "id": "tech-20261122-011",
+   "title": "AMD数据中心销售额同比跃升97%",
+   "summary": "AMD数据中心业务销售额同比跃升97%，成为财报季中少有的亮点。在英伟达深陷管理层与监管风波之际，AMD正借AI芯片需求承接更多市场份额，投资者开始重新评估其估值。",
+   "time": "22:20",
+   "date": "2026-11-22",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeGVYdV9Ga0hQQzdiZ0NxZ1l4Nk1aZ2stV0N3M0RvLVY0U2FKM1M4b1BfVnMzSWk0Wm5LRkJIN3ItSkJoVV9Ia2UyM2t6QUloOFctcXJ4ajViTWpNUUl4V2V4YTZzUGdfLUkyN2NIQ1paeFVlcThHcEFveEduaDlueFdjSDd1RGcyYkpCVWMxM2N1UXZtWVlBaw?oc=5",
+   "company": "超威半导体",
+   "company_en": "Advanced Micro Devices",
+   "ticker": "AMD",
+   "section": "权重科技",
+   "tags": [
+    "财报"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261122-012",
+   "title": "做空者质疑中国业务，AMD股价下滑",
+   "summary": "彭博报道，在做空者对AMD中国业务提出质疑后，AMD股价出现下滑。市场担忧对华销售前景之际，AMD刚刚获批恢复部分对华芯片出货，消息面多空交织令股价承压，投资者情绪趋于谨慎。",
+   "time": "05:13",
+   "date": "2026-11-22",
+   "outlet": "Bloomberg.com",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbkp6di1ZYkMzQlhjTmkxbHFwNzIzLWMyc3NKXzBqSV9hZ05wODRRYUhjYl9pSmIyNENPaHpXWmlScUpaYXhfT3AyQ1hKYVhWZnhHRVp1a0g2dkVGWmpYa2lXdmdjaE1TUTQwbFlyNjJVNjVkRmlIbWt3WHhWYjNJWXNGSG9RcFkwYUFRZzdYMVNpQXVnZllfU0ZlZEc0QnFsQ1RnWk9tUmc5d2luUVVSaWRKMA?oc=5",
+   "company": "超威半导体",
+   "company_en": "Advanced Micro Devices",
+   "ticker": "AMD",
+   "section": "权重科技",
+   "tags": [
+    "股价异动"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261122-013",
+   "title": "特斯拉FSD V15开始推送，下月大范围铺开",
+   "summary": "特斯拉FSD V15版本已开始向用户推送，马斯克称下月将大范围铺开，并形容新版本“很特别”。此次升级被视为特斯拉自动驾驶技术路线的关键一步，市场关注其实际表现能否兑现预期。",
+   "time": "04:46",
+   "date": "2026-11-22",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://finance.yahoo.com/m/b31af40e-5144-3249-9033-82521507fe84/tesla-fsd-v15-rolling-out%2C.html?.tsrc=rss",
+   "company": "特斯拉",
+   "company_en": "Tesla",
+   "ticker": "TSLA",
+   "section": "权重科技",
+   "tags": [
+    "新品发布"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261122-014",
+   "title": "特斯拉赢得曼尼托巴电动汽车补贴诉讼",
+   "summary": "特斯拉在与加拿大曼尼托巴省的电动汽车补贴纠纷中赢得法律胜利。法院裁决支持特斯拉的主张，为其在当地市场的销售政策扫清障碍，也为同类补贴争议提供了判例参考，案件结果受到市场关注。",
+   "time": "05:46",
+   "date": "2026-11-22",
+   "outlet": "Bloomberg.com",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcjlYQ3B5anNPanBLQkQzTXBacy1ObkFLY0xPTkRaUXV0dlhpS3E5N0JfVDNsMW9vN2Uycm9wcmMwemdlU3JmNWlZYm4zcnE5X0JQaWM1VlVYN2k3LVFhSFQ1cUZ1NkRidi1ra0JWMEszMUYyM0xPb3lsd0lVQkE3Wk5abkNvWG1PcU5oUEw2N2NNUVdzd3lTcmZFU1g5ZzRkb3h2My1tYnAzcUtkZGsyNEdyX0pCNkR4UmVDcFFfV0M?oc=5",
+   "company": "特斯拉",
+   "company_en": "Tesla",
+   "ticker": "TSLA",
+   "section": "权重科技",
+   "tags": [
+    "诉讼"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261122-015",
+   "title": "特斯拉三年涨47%后估值显高",
+   "summary": "特斯拉股价过去三年累计上涨47%，分析认为当前估值已显偏高。尽管Robotaxi与FSD故事仍在推进，投资者开始权衡高估值背后能否有相应的业绩兑现，估值与业绩的匹配度成为焦点。",
+   "time": "05:08",
+   "date": "2026-11-22",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTWt3eEtra0lSYWhpVW9JSlNKWmFnUUdJc2J1dXZOQUZHU25vRHJtdUNIVkNOaGtPVEIydC0tcUJBeWdHRzR2Z0lOVzFkYVNlc09TaTZaTFI3a0w0eEFGV2N3T01IRGZScHFIbG42R202QlRWMUEzY0VZOXpBcGp5b3JxRFFGR0JUVlo3YWRrUzJDY0VzaHZZMXFn?oc=5",
+   "company": "特斯拉",
+   "company_en": "Tesla",
+   "ticker": "TSLA",
+   "section": "权重科技",
+   "tags": [
+    "股价异动"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261122-016",
+   "title": "华尔街热议黄仁勋下一步：英特尔与SpaceX",
+   "summary": "黄仁勋辞职后去向成华尔街热议话题，英特尔与SpaceX被频繁提及，投注市场则押注会有出人意料的“第二幕”。接班悬念未解，英伟达股价仍在震荡中寻找方向，华尔街仍在等待更明确的信号。",
+   "time": "20:30",
+   "date": "2026-11-22",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOVUtCZC0zLUNQYkUwUVAxSlkxU05NWEt1WC1LZDUweWdKYUlhZnJnVmxOV0dzTXltUHlfbkdyOTB6ZGNaSW1lZlNjTnB0c1UxR1BDcW9yaEMwV0FmVEk1emFGSzN6ZXJJYXhpcjFuZ2luOHJ0TXN0LUNtUGJsNkNZMGJFcWNad0UzTHQ4Mm9FWVZQUXQtUS1EbXRhc25pU0VGeDAxYWtIaDZTUlZ2RlpPSk5QaXR4dGw0VThfb1BrdTVtck5xQTlxMDBKOG0zVmh2blRYV3Q1dlF0ZlkzTGh4WTRZRXl2WkJlamNDazBFUUtOeVozTWNieQ?oc=5",
+   "company": "英伟达",
+   "company_en": "NVIDIA",
+   "ticker": "NVDA",
+   "section": "权重科技",
+   "tags": [
+    "高管变动"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261122-017",
+   "title": "Meta智能眼镜伴侣设备Muse Charm定价300美元",
+   "summary": "The Information报道，Meta新款智能眼镜伴侣设备Muse Charm定价300美元。Meta正把AI眼镜作为下一代计算平台押注，定价策略将直接影响其能否复制Ray-Ban Meta的成功。",
+   "time": "04:27",
+   "date": "2026-11-22",
+   "outlet": "Reuters",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdjFzUjFCeHZYcEpLU1B4X0MzcWw1MTRZUjJYZHdYTmUzOGxEdEFYdHZMQ0ZDUk9Uc0JnV2JPVWZVMWZMekxGTmlQT3I5ODkzSjdtQXNFemUyaTZ5Q09mUEZZQ1h1c0FtcW53WEJ2eFYzS2Y1VlhnYmxuekhDVHJsa2dyZkRicWJrYW41ZmhjdjJiNnFfaE5mbWxjeWRtLWEwc0xfaUNlT21XMlFINGVKQw?oc=5",
+   "company": "Meta Platforms",
+   "company_en": "Meta Platforms",
+   "ticker": "META",
+   "section": "权重科技",
+   "tags": [
+    "新品发布"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261122-018",
+   "title": "Meta AI助手Muse被曝混淆对话或泄露隐私",
+   "summary": "报道称，Meta的AI助手Muse会在对话中混淆上下文，存在泄露私人信息的风险。Meta正加速把AI助手推向十亿级用户，隐私与安全短板可能成为其推广路上的绊脚石。",
+   "time": "01:38",
+   "date": "2026-11-22",
+   "outlet": "TechCrunch",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcEZqS3ljbVVnME1UWVJsLWxidDBoSDZfZ3drbFRoVXVoX2w0V0RnWUM4UTV6SW5PNEFLUG82S3VRLUFST3h4OW82NmVWVVJrYXptcE9PU2RPbjAxZjdnTFVLVDhYVTlndGx6RzlLSHh5MUE5emVjM2Q2amxNNFA0cTRpTnAwUmF2SDRwV094eE02WW5MRkx1YnRoNk5WdlJKUnVQRzhXUXhvTXZNMDdCTW5LbXgzU1BvQkhF?oc=5",
+   "company": "Meta Platforms",
+   "company_en": "Meta Platforms",
+   "ticker": "META",
+   "section": "权重科技",
+   "tags": [
+    "突发"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261122-019",
+   "title": "Meta重新评估2030气候目标，AI排放跃升45%",
+   "summary": "Meta表示正在重新评估2030年气候目标，原因是AI业务扩张导致排放量跃升45%。AI算力狂潮的碳代价正浮出水面，大型科技公司的减排承诺普遍面临考验，科技行业减排路径面临重新评估。",
+   "time": "23:09",
+   "date": "2026-11-22",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://finance.yahoo.com/technology/ai/articles/meta-platforms-meta-rethinks-2030-150951042.html?.tsrc=rss",
+   "company": "Meta Platforms",
+   "company_en": "Meta Platforms",
+   "ticker": "META",
+   "section": "权重科技",
+   "tags": [
+    "监管政策"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261122-020",
+   "title": "Alphabet接近848亿美元融资，权衡30亿美元和解",
+   "summary": "Alphabet正接近完成848亿美元融资，同时权衡一笔30亿美元的和解方案。巨额融资将为其AI基建投入提供弹药，也显示即便现金流雄厚的巨头也在为AI竞赛储备资金。",
+   "time": "22:10",
+   "date": "2026-11-22",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-googl-nears-84-8-141006047.html?.tsrc=rss",
+   "company": "Alphabet",
+   "company_en": "Alphabet",
+   "ticker": "GOOGL",
+   "section": "权重科技",
+   "tags": [
+    "融资",
+    "诉讼"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261122-021",
+   "title": "AI辅助证明纳维-斯托克斯方程爆破问题",
+   "summary": "纽约大学数学家与Anthropic研究人员发表AI辅助证明，称解决了纳维-斯托克斯方程爆破问题，并表示堵上了OpenAI此前解法的一个漏洞。AI正从聊天工具变为数学研究助手，引发学界热议。",
+   "time": "14:30",
+   "date": "2026-11-22",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261121/p4#a261121p4",
+   "company": "Anthropic",
+   "company_en": "Anthropic",
+   "ticker": null,
+   "section": "AI前沿",
+   "tags": [
+    "AI 模型"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261122-022",
+   "title": "甲骨文称已为OpenAI基建合同落实融资",
+   "summary": "甲骨文表示，已为与OpenAI的基础设施合同落实融资，并称与供应商的进一步私下讨论“只是额外选项”。表态旨在平息市场对其巨额AI基建承诺资金来源的疑虑，合作规模与资金安排仍受关注。",
+   "time": "08:25",
+   "date": "2026-11-22",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261120/p43#a261120p43",
+   "company": "OpenAI",
+   "company_en": "OpenAI",
+   "ticker": null,
+   "section": "AI前沿",
+   "tags": [
+    "融资",
+    "战略合作"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261122-023",
+   "title": "谷歌2027年1月起全球推行安卓应用验证",
+   "summary": "谷歌将从2027年1月起在全球推行安卓应用验证要求，未经验证的应用将无法安装。此举旨在打击恶意软件，但也引发开发者对应用分发自由度的担忧，应用商店生态或将随之调整。",
+   "time": "02:00",
+   "date": "2026-11-22",
+   "outlet": "Ars Technica",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX1FsWEZxOEVLQ3JlRjZCcHhXRzlCN0Z0aFNpNW11ZlYzN0Q0ejFUTFJ4dFV3bFBkVUhvQ1ROZGh4RG9fNjBUb1dXTWsyT3E5SWRWSFRPbG1ndV9IM3BxSjZoQi1WaE9rdUxuWWs2bmRZTThzNjJtNVdLaTYtVnBKbkdJV1d3TDl2WnhYa21mR2tqX2FRUThfSTQ0eFlqUVNRRG9USk9BSTJMVmlxSlRTcEFTSjhZQURHQ2lPLUdR?oc=5",
+   "company": "Alphabet",
+   "company_en": "Alphabet",
+   "ticker": "GOOGL",
+   "section": "权重科技",
+   "tags": [
+    "监管政策"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261122-024",
+   "title": "亚马逊：纽约配送法案或让每户年增664美元",
+   "summary": "亚马逊告知纽约消费者，由市长支持的配送法案可能让每户家庭每年多花664美元。亚马逊同时警告可能退出纽约市配送，双方围绕法案的博弈正在升级，法案最终走向仍不明朗，各方博弈还在继续。",
+   "time": "03:30",
+   "date": "2026-11-22",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://finance.yahoo.com/economy/policy/articles/amazon-tells-nyc-shoppers-mamdani-193000343.html?.tsrc=rss",
+   "company": "亚马逊",
+   "company_en": "Amazon",
+   "ticker": "AMZN",
+   "section": "权重科技",
+   "tags": [
+    "监管政策"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261122-025",
+   "title": "印度国大党警告就Meta发起更多抗议",
+   "summary": "印度国大党警告，在与警方发生冲突后，将就Meta相关问题发起更多抗议。Meta在印度的内容审核与平台责任争议持续发酵，政治压力正在上升，事件可能影响其当地业务运营。",
+   "time": "13:55",
+   "date": "2026-11-22",
+   "outlet": "Reuters",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTmdhX3h3bjctYVFyRXFLZHQ5Zm9aTmQ3cS15R01pWHFxdnRySDBDa1JJbFBHVEZmMm9scHV0VW1xOVlHT19FWlpWaWcxN25aZ3NUQjR6SkFRU2RwQ3Y0YVg5X3A3bTZDT0FXV0JBeEF0SHRjUUM5UWg0cm80YVNyT2JlWHVYR0Iwc2pDZGZKcFNyaG1EWmEtenViMnBDajltODNOUUg2QWo4Yk5sdTllelNGUEdiNGxPWjNKYkthdkg?oc=5",
+   "company": "Meta Platforms",
+   "company_en": "Meta Platforms",
+   "ticker": "META",
+   "section": "权重科技",
+   "tags": [
+    "监管政策"
+   ],
+   "title_en": "",
+   "text_en": ""
+  },
+  {
+   "id": "tech-20261122-026",
+   "title": "Cathie Wood逆势加仓英伟达、特斯拉与AMD",
+   "summary": "方舟投资的Cathie Wood表示，正在逆势加仓英伟达、特斯拉与AMD等“最高信念”持仓，称周期性科技股正遭“屠杀”式抛售。明星基金经理的抄底表态，与市场恐慌情绪形成鲜明对比。",
+   "time": "03:30",
+   "date": "2026-11-22",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-doubles-down-highest-193008245.html?.tsrc=rss",
+   "company": "英伟达",
+   "company_en": "NVIDIA",
+   "ticker": "NVDA",
+   "section": "权重科技",
+   "tags": [
+    "股价异动"
+   ],
+   "title_en": "",
+   "text_en": ""
+  }
+ ],
+ "breaking": []
+}
