@@ -1,0 +1,600 @@
+{
+ "date": "2026-11-23",
+ "generated_at": "2026-11-23T06:26:16+08:00",
+ "top10": [
+  {
+   "title": "CrowdStrike 与 Zscaler 被曝并购谈判",
+   "summary": "知情人士称，CrowdStrike 正与 Zscaler 洽谈合并，交易一旦达成将缔造网络安全巨头。杰富瑞分析认为，合并后的公司将成为 Palo Alto Networks 更强劲的对手，或重塑行业竞争格局。",
+   "time": "07:56",
+   "date": "2026-11-23",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://finance.yahoo.com/m/6ad57889-68e7-393a-836e-1d70098a15da/crowdstrike%2C-zscaler-merger.html?.tsrc=rss",
+   "company": "CrowdStrike",
+   "company_en": "CrowdStrike",
+   "ticker": "CRWD",
+   "section": "网络安全",
+   "tags": [
+    "并购"
+   ],
+   "title_en": "",
+   "text_en": "",
+   "id": "tech-20261123-001"
+  },
+  {
+   "title": "特斯拉与 SpaceX 合并传闻再起",
+   "summary": "分析师称，特斯拉与 SpaceX 的合并方案可能让马斯克持股达到约 60%，特斯拉股东则有望获得约 33% 的溢价。市场对这笔横跨电动车与航天的交易仍存分歧，换股比例与股东表决机制是关键变量。",
+   "time": "02:44",
+   "date": "2026-11-23",
+   "outlet": "Benzinga",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNdHIwUUFrQUVVYnFzeEpUTlluTVVsOHptdUtmYWVJLU9LMXFQNGdhbW4xOWRSYmZUaWhhb21TQzQ2Y0J2ajUxZDQ4RUV4TVFNU0pCTnpYdEp0ZmhDb3A1QzhodllvTjF1V2ZDRjlfVTBlZmY2ZUt3QmZCQS13OWpHTlUxZktwU2Rqb1ZySzZrUURXcF9nQzNhWUh2S2ptZ2gyNl91cDVuWmFuTk9Ba2ZyYk5vZWFxZjVyLU8tUFBMclNrZFVwcGwtTG1KeWtsbjZfakFUdVRPS2htZnp2U3VGMVZ1MmdqWENVTGdoNzVlaElCUHdLRjUyc1pSWHEyc0U?oc=5",
+   "company": "特斯拉",
+   "company_en": "Tesla",
+   "ticker": "TSLA",
+   "section": "权重科技",
+   "tags": [
+    "并购"
+   ],
+   "title_en": "",
+   "text_en": "",
+   "id": "tech-20261123-002"
+  },
+  {
+   "title": "AI 股遭抛售，Anthropic 上市难安抚市场",
+   "summary": "Anthropic 上市未能缓解市场对 AI 交易的担忧，科技股遭遇大幅抛售。投资者开始重新评估 AI 板块的高估值与巨额资本开支，抛售从龙头蔓延至整个产业链，短期情绪依然脆弱。",
+   "time": "03:00",
+   "date": "2026-11-23",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZjc4cHQ0TnRGd25uNTM5MUw5Zk5WUUdIV09nY3ltNDNBR2pvemJNRl9TOTZnR2lNay1CdTl1RHhPZEhtVmdTWE1qdS1SZVVmWURldUhJTTgxTktCX0xsMTdPNGpKS0JkYV9fUXpaY0NqLWlBa0tlVElTSmpnV1NzVGZ3Z0RSWW9XTFkwVm9YdW5WOWNRQU92MzUyekxmNjZWUnkyZ1VNdl9FMy13eTN5SFhIVG14TG5DZHZyYVR2VUxwOHkzeWRz?oc=5",
+   "company": "Anthropic",
+   "company_en": "Anthropic",
+   "ticker": null,
+   "section": "AI前沿",
+   "tags": [
+    "股价异动"
+   ],
+   "title_en": "",
+   "text_en": "",
+   "id": "tech-20261123-003"
+  },
+  {
+   "title": "贝森特：黄仁勋回归取决于对华芯片销售调查",
+   "summary": "美国财长贝森特表示，黄仁勋能否重返英伟达 CEO 一职，应取决于针对其对华芯片销售的调查结果。一周前他曾公开呼吁英伟达进行管理层调整，相关调查进展将成为董事会决策的重要参考。",
+   "time": "03:50",
+   "date": "2026-11-23",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261122/p10#a261122p10",
+   "company": "英伟达",
+   "company_en": "NVIDIA",
+   "ticker": "NVDA",
+   "section": "权重科技",
+   "tags": [
+    "高管变动",
+    "监管政策"
+   ],
+   "title_en": "",
+   "text_en": "",
+   "id": "tech-20261123-004"
+  },
+  {
+   "title": "OpenAI 首席科学家呼吁为 AI 开发设限",
+   "summary": "OpenAI 首席科学家公开呼吁业界为 AI 开发设定限制，认为当前发展速度需要刹车机制。这一表态来自全球领先 AI 实验室的核心人物，折射出行业内部对安全与治理的分歧正在加深。",
+   "time": "03:40",
+   "date": "2026-11-23",
+   "outlet": "Bloomberg.com",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMjVTYVIwT3huVU8teHdXRHdnWGxOUTI5d1J6elZhWktVMVpSZDhhRmk5eV82c0JuRDBSUWNHdl84Z253WDJDbmd6SXhiNlFsdkxhM2gxWTVoTnY2ZkdrZ0dVam1OVXNSZWIwUnBQaTU4bEhJNTZValFSQ1Naam1xb1FkTklSZXI2Ums4d19sUjVheGtLNGhUWjFPcEVyd0ZIRmJlX0FqNXF5cHpCR2pjczF5WQ?oc=5",
+   "company": "OpenAI",
+   "company_en": "OpenAI",
+   "ticker": null,
+   "section": "AI前沿",
+   "tags": [
+    "AI 模型"
+   ],
+   "title_en": "",
+   "text_en": "",
+   "id": "tech-20261123-005"
+  },
+  {
+   "title": "特斯拉推送 FSD v15，主打实时 AI 视频渲染",
+   "summary": "特斯拉开始推送 FSD v15，新版本以逼真渲染呈现车辆周围环境。马斯克称其为实时 AI 视频生成，无需借助游戏引擎，标志着自动驾驶可视化向生成式 AI 路线演进。",
+   "time": "14:40",
+   "date": "2026-11-23",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261122/p4#a261122p4",
+   "company": "特斯拉",
+   "company_en": "Tesla",
+   "ticker": "TSLA",
+   "section": "权重科技",
+   "tags": [
+    "新品发布"
+   ],
+   "title_en": "",
+   "text_en": "",
+   "id": "tech-20261123-006"
+  },
+  {
+   "title": "百度因直播业务收购被罚 7.5 万美元",
+   "summary": "中国监管部门认定百度收购欢聚时代旗下部分直播业务违规，对其处以 7.5 万美元罚款。此事源于早年一笔未按规定申报的交易，显示反垄断执法对互联网巨头的历史交易仍在追溯。",
+   "time": "02:40",
+   "date": "2026-11-23",
+   "outlet": "Reuters",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd3BjYmNDbHppdWZkdFNXM2dCNUVKRDZENmp2dGZMVXVvX2xDVV9BSEZ5WUdHZVJjRVRnRkpZU01Qa1ZoSFkzM2F1bjNkZzk5YTdqMFFuT1BWSXY0QXFXVE1XNTdPXy1ld0wwSmZ4a0ZxZkVUNzZ0c3pNdTE3VkgxV1Rud2lTRk8zVTZNQ2tZdlcwalZRMEU0NHNWLXpabjlJeFdaRG1rR0dpdHRqY3RfMWYwNzJsZG9YVjMtbFpFbUJaVTVfVHRsNg?oc=5",
+   "company": "百度",
+   "company_en": "Baidu",
+   "ticker": null,
+   "section": "AI前沿",
+   "tags": [
+    "监管政策"
+   ],
+   "title_en": "",
+   "text_en": "",
+   "id": "tech-20261123-007"
+  },
+  {
+   "title": "甲骨文称 OpenAI 基建协议融资已完成",
+   "summary": "甲骨文表示，在完成最后一轮融资后，与 OpenAI 的基础设施合作协议已获得全部资金支持。这笔交易是 AI 算力基建扩张的标志性项目，融资落地消除了市场对资金缺口的疑虑。",
+   "time": "06:11",
+   "date": "2026-11-23",
+   "outlet": "Reuters",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSmpQQVdqRTFyNlZSVVFsZG8yNGJ5WWRaOU1ZRXJXQkJJM05GaXY5ZUpQTndMVVljNXNpYUJDUmF1T3hQcWkzNi1udWc4c3pMV3F6RFk1dUctcG5jOFlRcUJDMV9IM2hBdV9KbUJqSmJVa1lXS19LTUVJcUg3alFNWl9RREgwRUVrRU9LSkFoRGZJUWpxLVB1bzlldWE4VDRHRmczZVBMbXFiYlRVSHQ2S293M1JnZUNMSTdZdEVKTVpMXzA?oc=5",
+   "company": "甲骨文",
+   "company_en": "Oracle Corporation",
+   "ticker": "ORCL",
+   "section": "软件云AI",
+   "tags": [
+    "战略合作"
+   ],
+   "title_en": "",
+   "text_en": "",
+   "id": "tech-20261123-008"
+  },
+  {
+   "title": "美国会公布 AMD 对华出口许可数据",
+   "summary": "美国国会公布了 AMD 对华出口许可的相关数据，涉及 AI 芯片对华销售的审批情况。数据披露之际，美国正收紧对华芯片出口管制，许可细节成为评估管制实际影响的重要窗口。",
+   "time": "12:24",
+   "date": "2026-11-23",
+   "outlet": "Hunterbrook",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE96VHRTdWllRUg1azhTWktMNmpHYUVoVC02MmJlLUNOanBSOHIzb0pGVnk2WmVlc24tSklEbDl5T3Z4b2hQRy0wSDFFWU5EbFlVMGZwMWV0a1RZbUFoS3JRb2Z3?oc=5",
+   "company": "超威半导体",
+   "company_en": "Advanced Micro Devices",
+   "ticker": "AMD",
+   "section": "权重科技",
+   "tags": [
+    "监管政策"
+   ],
+   "title_en": "",
+   "text_en": "",
+   "id": "tech-20261123-009"
+  },
+  {
+   "title": "Anthropic 上市流程引争议，银行家颇有微词",
+   "summary": "路透独家报道称，Anthropic 像 SpaceX 一样采用了非常规的 IPO 流程，令部分银行家不满。上市首周股价大幅波动后，承销流程的得失成为华尔街争论焦点，也折射出热门 AI 公司对传统上市规则的挑战。",
+   "time": "21:29",
+   "date": "2026-11-23",
+   "outlet": "Reuters",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT1RsTFBlMWZGejNqWjVvdVlYX2lRTGpZZXhoYXFXN2RuV3lHZ09ra0ctdnZqc3hiVENXSlc2ZTBIbDRyTmpTS1Nhdk1kdU5HLW5FNGdNRTNoeXVBeEc5cDl5VGx3c3dUSzNDYkVVTHVfenVQbHFUQ0hQS2NfalhuNDczWFdUS0FWQS1iZ1ZhVnNYMy1FOHVSUmlBMmI3NTdVTGY1X0JxTFRmYnptV3huQQ?oc=5",
+   "company": "Anthropic",
+   "company_en": "Anthropic",
+   "ticker": null,
+   "section": "AI前沿",
+   "tags": [
+    "融资"
+   ],
+   "title_en": "",
+   "text_en": "",
+   "id": "tech-20261123-010"
+  }
+ ],
+ "company_news": [
+  {
+   "title": "Palo Alto Networks 涨 6.42%，营收增 39%",
+   "summary": "Palo Alto Networks 股价上涨 6.42%，公司营收同比增长 39%，并披露一笔 AI 相关收购。在网络安全板块并购传闻升温之际，强劲业绩为公司股价提供了支撑，也凸显 AI 安全需求的增长。",
+   "time": "02:05",
+   "date": "2026-11-23",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://finance.yahoo.com/markets/stocks/articles/palo-alto-networks-stocks-jump-180558979.html?.tsrc=rss",
+   "company": "Palo Alto Networks",
+   "company_en": "Palo Alto Networks",
+   "ticker": "PANW",
+   "section": "网络安全",
+   "tags": [
+    "财报",
+    "股价异动"
+   ],
+   "title_en": "",
+   "text_en": "",
+   "id": "tech-20261123-011"
+  },
+  {
+   "title": "阿里巴巴财报超预期，AI 云业务增长",
+   "summary": "阿里巴巴营收超出市场预期，利润因投资收益增长，AI 驱动的云业务成为主要亮点。在美国芯片管制收紧的背景下，公司称自研芯片有助于缓解外部限制，云业务复苏态势受到关注。",
+   "time": "02:34",
+   "date": "2026-11-23",
+   "outlet": "Reuters",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNFBCQUxKTlhNeXBLMWVCbUU2enl4bG1PTVFoLVpRVjRySlVEMjJhZ0I0c3Mzd3VJb1hQOHFnYW9wOUlQZnp3ZXgyYWZjRTVueVdIMlozaklSWXZUdFBsS25EdUdZRHVZQVRuVUNSYk1wc3lvbGROSzgtM0tacUVWY1JRRUVsWFR4a0Z0NlIxNDV0UnZMenZJd2xGSVY4cHNNQVQwWVlVWGpLM3NaMlE?oc=5",
+   "company": "阿里巴巴",
+   "company_en": "Alibaba",
+   "ticker": null,
+   "section": "AI前沿",
+   "tags": [
+    "财报"
+   ],
+   "title_en": "",
+   "text_en": "",
+   "id": "tech-20261123-012"
+  },
+  {
+   "title": "腾讯营收不及预期，AI 投入拖累利润",
+   "summary": "腾讯营收不及市场预期，利润增长乏力，创始人推动的 AI 战略正处于高投入阶段。AI 投入持续加码之际，投资者关注云与广告业务能否尽快兑现回报，短期业绩承压。，估值修复仍需业绩支撑。",
+   "time": "21:40",
+   "date": "2026-11-23",
+   "outlet": "Bloomberg.com",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZlRKLVZyN3R3RW4xYzhNVFM4Z1J0NmRXVGRIX0ZudDQ4Q0lhQm83R0trXzI2YnAyaTJRRXhVVmIza0dNdE4yMDVGbHJrRS1aZENtVERpVFpxRTFoTE90VUlkY0h1X3UwMU44TVFpYk5XMjZxTVg5RGZEeVlmVlo3V2djTVdkUl9jRFFFM2xJNl9ZdERoNE1od0dBR1ZWejd2VkpyU2ppVnVQVnliVGpRdUZhQWM?oc=5",
+   "company": "腾讯",
+   "company_en": "Tencent",
+   "ticker": null,
+   "section": "AI前沿",
+   "tags": [
+    "财报"
+   ],
+   "title_en": "",
+   "text_en": "",
+   "id": "tech-20261123-013"
+  },
+  {
+   "title": "台积电收紧对华 AI 芯片代工限制",
+   "summary": "知情人士称，台积电正收紧对华 AI 芯片代工限制，因美国新规堵住了制造环节的漏洞。管制范围扩大至更多客户与制程，代工龙头的合规收紧将直接影响中国 AI 芯片的供给渠道。",
+   "time": "20:48",
+   "date": "2026-11-23",
+   "outlet": "Reuters",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNc1pDUGRULVJNeGdkT21ERVNzMEl6RHJKTEtLRWFFQjFpYjdxWU5NMmM3Zl8zUzlHQUd3UzJlNE1UV2tlZnZFTEZrNnRKSWU1Y1lkSU1ISmF6U1JGNWNEeUJETVpHNDI5QTEwMWJTTmRraUgyaDR2RUJ1UlRadVJZMW9MUTZCeXdpZHRZRWl1X1VIZ0xBbllSWEUxMGxmdmllVFgxbmxuTmljOFFBTUkyUGR2NDRfTmM0Rm5xcXFxaHk?oc=5",
+   "company": "台积电",
+   "company_en": "TSMC",
+   "ticker": "TSM",
+   "section": "芯片半导体",
+   "tags": [
+    "监管政策"
+   ],
+   "title_en": "",
+   "text_en": "",
+   "id": "tech-20261123-014"
+  },
+  {
+   "title": "美国批准向腾讯、阿里出售 AI 芯片",
+   "summary": "数据显示，美国已批准向腾讯、阿里巴巴等中国科技公司出售 AI 芯片。许可披露之际，美国正同步收紧新的出口管制，获批与受限并存的局面显示管制执行仍留有弹性空间。，后续审批节奏值得持续跟踪。",
+   "time": "06:21",
+   "date": "2026-11-23",
+   "outlet": "Bloomberg.com",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObHBwaTNEcUhVcC1PcUJxbFdYVVgwMl8ybHJCWExQOC1iSVBQQUt4dzRwVWRJQUFCQ3BheTFwVzlVS1VXWTF2RUFZd2JqbXlVcnh6VHEwX2l2NVpzdFBOLVdISDBwbm1LdzNMalQ1NkdYZWowYVhjQmQzcW4xcnBTRl9mUUJEUHFVTV92dEtielJjWW9fQnltZElRaEtKM1ZVcG0ySC1iWU9sVHc5ekhmdlF5TQ?oc=5",
+   "company": "阿里巴巴",
+   "company_en": "Alibaba",
+   "ticker": null,
+   "section": "AI前沿",
+   "tags": [
+    "监管政策"
+   ],
+   "title_en": "",
+   "text_en": "",
+   "id": "tech-20261123-015"
+  },
+  {
+   "title": "美国议员要求微软说明与字节跳动 AI 交易谈判",
+   "summary": "美国议员要求微软就与字节跳动洽谈 AI 交易一事作出说明，关注相关合作是否涉及先进芯片与技术转移。字节跳动的芯片采购与算力布局已多次引发华盛顿审查，此次问询令相关谈判增添变数。",
+   "time": "05:17",
+   "date": "2026-11-23",
+   "outlet": "Reuters",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdEpRTFc4Q3Nsa085U2xoZldyY1BXSmlhSy0yT00tRzF4eU5QekdiUENlSTQyajA0eU5PVWl0MUpoejlXdXJMVVFPbHRVaGFlZmxoWFA5SHN5VXBpWHJvLUFLMjZISk96bVRuWWs0V3NSblpmWTM3VVZNQ3VHQVNpQTNUOFM5VzdwZ0ZOcHlFX3hmcEJ5ZDhRVXlCS0dCZEwxbXZ3Z09zVjB4N1FGMHo4Qkc4WWEwTG5LdHNWbk14NA?oc=5",
+   "company": "字节跳动",
+   "company_en": "ByteDance",
+   "ticker": null,
+   "section": "AI前沿",
+   "tags": [
+    "监管政策"
+   ],
+   "title_en": "",
+   "text_en": "",
+   "id": "tech-20261123-016"
+  },
+  {
+   "title": "美国 AI 芯片管制冲击中国科技股",
+   "summary": "美国新一轮 AI 芯片管制冲击中国科技股，阿里巴巴、腾讯等公司股价承压。管制倒逼中国科技企业加速自主研发，自给自足成为行业共识，但短期内供应链调整仍面临压力。，自主化进程仍需时间验证。",
+   "time": "16:23",
+   "date": "2026-11-23",
+   "outlet": "Reuters",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNM3JhZ1hpWlJqYlVISU9pcFFUS0N1Sk9MeEx5aU9jWmt5OVBxY2RkeWNCWDBITU5nYmdNdzFNQm4xTkZVbTM3T214cjhzSDBPWHFsaGt0Uk56c2F0TUFOOWl2ZlZHRGhjdXN5WDNPM3BiS3E1QW9lbHZ0NjZDUVNtaVZBbGUzNmxMR1o4c3REOGE3c3R4ZFk3d1VpR3diM0FmTnphSVdtR0M5MWpHRm9OeFJtaTQ5U1p6bnVRc3VnTW54cVVW?oc=5",
+   "company": "阿里巴巴",
+   "company_en": "Alibaba",
+   "ticker": null,
+   "section": "AI前沿",
+   "tags": [
+    "监管政策"
+   ],
+   "title_en": "",
+   "text_en": "",
+   "id": "tech-20261123-017"
+  },
+  {
+   "title": "银行暂停 4.8 亿美元与字节跳动相关的芯片贷款",
+   "summary": "银行已暂停一笔 4.8 亿美元与字节跳动相关的芯片贷款，原因是美国芯片管制收紧带来合规风险。贷款原用于采购算力设备，暂停显示金融机构正重新评估涉华芯片融资的风险敞口。",
+   "time": "08:49",
+   "date": "2026-11-23",
+   "outlet": "Bloomberg.com",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaUczSzdwaXdfYWhqSVcteGNJLUJoTk1CVUo4OHFOVU03MjVtM3Y1dC1CZF9MRlpwc2djYjV5ZDByWUExcnRVeUl6eDktaUszTTBoX25hSG44bzBZUzdUdHdKbVJUMkJWblJBX085V0dwR25UQS1sVks3WXdQSDBiSjliQnVOdnlwWU1pWms3WUN2dzlHek8wRnhwMF9MVEEyMDJHMWtvT2gxU08wZGFZ?oc=5",
+   "company": "字节跳动",
+   "company_en": "ByteDance",
+   "ticker": null,
+   "section": "AI前沿",
+   "tags": [
+    "融资"
+   ],
+   "title_en": "",
+   "text_en": "",
+   "id": "tech-20261123-018"
+  },
+  {
+   "title": "亚利桑那州调查 OpenAI 等公司“失控智能体”",
+   "summary": "亚利桑那州表示正调查 OpenAI 等公司，关注其 AI 智能体是否存在失控风险。州级监管机构介入 AI 安全调查，显示美国对前沿模型治理的审查正从联邦向地方扩散。",
+   "time": "09:45",
+   "date": "2026-11-23",
+   "outlet": "Reuters",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeWlhZGtUbEFjczdrQzZ5YnM2MEJiSkdwYUx3YTB2SkhQUVV0WnBBNU51aHM4ZFFvaXBEMzRWY1hGVmZtbGVYVmV0ZGtLbWFHaWt4Yk1kWWx4blBVTjVNUC1Ld1JpVXdHcWlfek1ickphT3M5Q1FYRE1LV2NkZDRXYWRBcmlnOVQ0QjVtTm5CS3FYUFVSMXotdkdzX0JkVGNJQTYtenA3eHdqTE9PYjNPR1RuZk52dTR5anp0RkdTYm5rMHNpVk8zVTNFMGtWcG8?oc=5",
+   "company": "OpenAI",
+   "company_en": "OpenAI",
+   "ticker": null,
+   "section": "AI前沿",
+   "tags": [
+    "监管政策"
+   ],
+   "title_en": "",
+   "text_en": "",
+   "id": "tech-20261123-019"
+  },
+  {
+   "title": "xAI 要求上诉法院阻止加州 AI 披露法",
+   "summary": "马斯克旗下 xAI 要求美国上诉法院阻止加州一项 AI 披露法实施，认为该法对模型开发构成不当负担。这场诉讼将检验州政府对 AI 透明度的监管边界，结果可能影响全美同类立法。",
+   "time": "07:42",
+   "date": "2026-11-23",
+   "outlet": "Reuters",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeUstaGZQdnFxOEI0S3NCcUZzYmRMZG95aE9ROU9RMGI4VVV6LTZPNUVWem02OVNCVDhVZUtoRTA4OXg4ZktXenhjVW5RY3UxUmZjNmZkdEpDWGtTR0ZlNm15bmZEMDdsS3RzX3cyOEZHNVFLM2JIWVJaVGUxSzVLcHNnWkVKbnpMa1pLa18zM00wNU1STm05SUdFWGNaTE1wVVUxbzZacjdzTl94TTlQQjlWb0JvNjVvQkxrbA?oc=5",
+   "company": "xAI",
+   "company_en": "xAI",
+   "ticker": null,
+   "section": "AI前沿",
+   "tags": [
+    "诉讼"
+   ],
+   "title_en": "",
+   "text_en": "",
+   "id": "tech-20261123-020"
+  },
+  {
+   "title": "作家起诉 xAI：Grok 被用于脱去头巾图像",
+   "summary": "一名穆斯林女作家起诉 xAI，称他人利用 Grok 将其照片中的头巾以 AI 方式去除。诉讼指控平台未能有效阻止图像滥用，事件再次将生成式 AI 的内容安全与平台责任推上风口浪尖。",
+   "time": "01:30",
+   "date": "2026-11-23",
+   "outlet": "WIRED",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRVdWTzgtOGR1TVBFMkJVeEMzRFNKem5NUERwb2htaWVyZXZLeWY0WGJBV0l6dWRGaHREMFA3VkZ2RW9XUHpXamhmVDFlX21OM2Y1WkhZOVRlRWxUdFJORnJvU1QzdDNDaVRSUXhGb2JpMkZScTR5RkRBSElSMGFIdHd5UHNIM0l2WGF4Sjk5U0ZGLVcweGFnZktfR1VtWFRn?oc=5",
+   "company": "xAI",
+   "company_en": "xAI",
+   "ticker": null,
+   "section": "AI前沿",
+   "tags": [
+    "诉讼"
+   ],
+   "title_en": "",
+   "text_en": "",
+   "id": "tech-20261123-021"
+  },
+  {
+   "title": "OpenAI 公布模型困惑度指标，呼吁设定开发节奏上限",
+   "summary": "OpenAI 公布其模型的困惑度数据，并呼吁依据此类指标为 AI 发展设定节奏上限。公司提示 2027 年前后 AI 能力可能出现跃升，主张提前建立与能力增长相匹配的治理机制。",
+   "time": "02:25",
+   "date": "2026-11-23",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261122/p9#a261122p9",
+   "company": "OpenAI",
+   "company_en": "OpenAI",
+   "ticker": null,
+   "section": "AI前沿",
+   "tags": [
+    "AI 模型"
+   ],
+   "title_en": "",
+   "text_en": "",
+   "id": "tech-20261123-022"
+  },
+  {
+   "title": "博通面临大客户 AI 芯片订单削减报道",
+   "summary": "报道称博通面临一家大客户削减 AI 芯片订单，市场担忧其定制芯片业务增速放缓。消息拖累股价表现，投资者关注这是否只是单个客户调整，还是 AI 芯片需求降温的早期信号。",
+   "time": "23:08",
+   "date": "2026-11-23",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-avgo-faces-reported-ai-150805371.html?.tsrc=rss",
+   "company": "博通",
+   "company_en": "Broadcom",
+   "ticker": "AVGO",
+   "section": "权重科技",
+   "tags": [
+    "股价异动"
+   ],
+   "title_en": "",
+   "text_en": "",
+   "id": "tech-20261123-023"
+  },
+  {
+   "title": "谷歌支持 50 兆瓦超热地热发电项目",
+   "summary": "谷歌支持在俄勒冈州建设 50 兆瓦超热地热发电项目，为其数据中心采购清洁电力。随着 AI 算力扩张推高能耗，科技巨头正加速布局地热等新型清洁能源以满足用电需求。",
+   "time": "02:00",
+   "date": "2026-11-23",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://finance.yahoo.com/energy/articles/google-backs-superhot-geothermal-50-180000366.html?.tsrc=rss",
+   "company": "Alphabet",
+   "company_en": "Alphabet",
+   "ticker": "GOOGL",
+   "section": "权重科技",
+   "tags": [
+    "战略合作"
+   ],
+   "title_en": "",
+   "text_en": "",
+   "id": "tech-20261123-024"
+  },
+  {
+   "title": "苹果筹划自主 AI 智能体",
+   "summary": "苹果正在筹划一款自主 AI 智能体，标志着其在 AI 应用层的布局进一步深入。市场关注这款产品将如何与现有生态结合，以及苹果能否在智能体赛道追上先行者。，产品细节与发布时间尚未公布。",
+   "time": "04:06",
+   "date": "2026-11-23",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://finance.yahoo.com/technology/ai/articles/apple-aapl-planning-autonomous-ai-200614575.html?.tsrc=rss",
+   "company": "苹果",
+   "company_en": "Apple",
+   "ticker": "AAPL",
+   "section": "权重科技",
+   "tags": [
+    "AI 模型"
+   ],
+   "title_en": "",
+   "text_en": "",
+   "id": "tech-20261123-025"
+  },
+  {
+   "title": "AMD 面临固件指控与集体诉讼审查",
+   "summary": "AMD 面临固件相关指控与集体诉讼审查，市场关注事件对其声誉与业务的影响。公司近期已因涉华关联受到审查，法律纠纷叠加或令其股价短期承压。，具体指控细节与索赔规模有待进一步披露。",
+   "time": "21:06",
+   "date": "2026-11-23",
+   "outlet": "Yahoo Finance",
+   "first_party": false,
+   "url": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-amd-faces-130605212.html?.tsrc=rss",
+   "company": "超威半导体",
+   "company_en": "Advanced Micro Devices",
+   "ticker": "AMD",
+   "section": "权重科技",
+   "tags": [
+    "诉讼"
+   ],
+   "title_en": "",
+   "text_en": "",
+   "id": "tech-20261123-026"
+  },
+  {
+   "title": "抗议者冲击 Meta 印度办公室",
+   "summary": "抗议者冲击了 Meta 位于印度的办公室，事件引发对公司在当地运营环境的关注。Meta 在印度拥有庞大用户群，线下抗议凸显其内容治理与本地关系面临的持续压力。，公司暂未就事件作出详细说明。",
+   "time": "23:15",
+   "date": "2026-11-23",
+   "outlet": "The Verge",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNS25MSVByVTc3Rk5sU1VfcjJENk1fMjJ0VVVKa211NURJeWtCZkZjcHFlbVlFRlNYQkhYWEY1T3cyVGY3c05Xdl9VTjhKRVBLVXZ0SlMzMHJ6ejVnVVNfXzdOeV95UmIwNkloUFhIeWZlVktuTVRCRmxvSjFsbEtobUxB?oc=5",
+   "company": "Meta Platforms",
+   "company_en": "Meta Platforms",
+   "ticker": "META",
+   "section": "权重科技",
+   "tags": [
+    "突发"
+   ],
+   "title_en": "",
+   "text_en": "",
+   "id": "tech-20261123-027"
+  },
+  {
+   "title": "AI 服务器供应商大幅提价",
+   "summary": "知情人士称，戴尔、惠普企业、联想、超微等 AI 服务器供应商正大幅提高售价，且在合同签署数月后仍要求涨价。算力需求旺盛叠加供应紧张，服务器涨价潮可能推高 AI 基建成本。",
+   "time": "13:50",
+   "date": "2026-11-23",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261122/p2#a261122p2",
+   "company": null,
+   "company_en": null,
+   "ticker": null,
+   "section": "硬件存储",
+   "tags": [
+    "突发"
+   ],
+   "title_en": "",
+   "text_en": "",
+   "id": "tech-20261123-028"
+  },
+  {
+   "title": "AI 让工业设备网络攻击策划加速",
+   "summary": "专家表示，AI 正帮助攻击者更快阅读设备手册、研究历史事故，从而加速针对工业设备的网络攻击策划。工业控制系统成为 AI 时代的新风险点，关键基础设施的防护压力正在上升。",
+   "time": "19:01",
+   "date": "2026-11-23",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261122/p6#a261122p6",
+   "company": null,
+   "company_en": null,
+   "ticker": null,
+   "section": "网络安全",
+   "tags": [
+    "突发"
+   ],
+   "title_en": "",
+   "text_en": "",
+   "id": "tech-20261123-029"
+  },
+  {
+   "title": "芯片走私案关键人物李明被曝牵涉其中",
+   "summary": "《华尔街日报》报道称，与 Alice Huang 有关联的李明是向中国走私受限 AI 芯片的关键人物，新加坡已于 2025 年以欺诈罪对其起诉。案件揭示东南亚转运渠道在芯片走私网络中的作用。",
+   "time": "13:45",
+   "date": "2026-11-23",
+   "outlet": "Techmeme",
+   "first_party": false,
+   "url": "https://www.techmeme.com/261122/p1#a261122p1",
+   "company": null,
+   "company_en": null,
+   "ticker": null,
+   "section": "芯片半导体",
+   "tags": [
+    "监管政策"
+   ],
+   "title_en": "",
+   "text_en": "",
+   "id": "tech-20261123-030"
+  },
+  {
+   "title": "印度初创转售 DeepSeek 接入，谋求主权 AI",
+   "summary": "一家印度初创公司在转售 DeepSeek 模型接入服务的同时推进主权 AI 计划，试图在引进外部模型与自主可控之间寻找平衡。此举折射出新兴市场对中国开源模型的兴趣与本土化诉求。",
+   "time": "12:09",
+   "date": "2026-11-23",
+   "outlet": "Bloomberg.com",
+   "first_party": false,
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaXctc0ZCcnJ4X3Nqcm1qTGEzM0dHY29CX0dkYXNOcnBSdHdFR211RXh6SFR1LXhVMGNZbVJJZUVnX0Nyc0c4UjREa0I0SmZxOG5zc20yWFdJMy1FMTVma0VDakdtZkUwMVhUT1VjS0k4dmJGV0tWbFFkTnB0MHNFdEQtYzhnczQzczBFMld3Q1NRM0dVbmJKQUVWRTVmWEU0bnR6NWhEMFktOVBvSHFXbXBDRjI?oc=5",
+   "company": "DeepSeek",
+   "company_en": "DeepSeek",
+   "ticker": null,
+   "section": "AI前沿",
+   "tags": [
+    "战略合作"
+   ],
+   "title_en": "",
+   "text_en": "",
+   "id": "tech-20261123-031"
+  }
+ ],
+ "breaking": []
+}
